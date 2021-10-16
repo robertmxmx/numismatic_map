@@ -15,8 +15,8 @@
   var metal_currency_pricelist = [0.007462, 0.016373, 0.726600, 56.62, 0.80357, 1.1538, 1.359, 1.07493, 0.008803, 0.7359, 0.048204, 0.25196, 0.045423, 0.737292]
   var product_amount = [10,10,10] 
   
-  //var c = document.getElementById("myCanvas");
-  //var ctx = c.getContext("2d");
+  var c = document.getElementById("myCanvas");
+  var ctx = c.getContext("2d");
 
   const metal_currency_pricelistnames = ["COP", "NIC", "SIL","GOL", "CAD", "EUR", "GBP", "CHF", "JPY", "AUD",  "MXN", "PLN", "CZK", "SGD"]
   const product_pricelistnames = ["5WorldCoins","1PoundWorldCoins","10PoundWorldCoins"]
@@ -31,6 +31,16 @@
     }
   }
 
+
+  function disableCoinView(){
+    if(document.getElementById("myCanvas").style.visibility == "hidden"){
+      document.getElementById("myCanvas").style.visibility = "visible"
+    }
+    else{
+      document.getElementById("myCanvas").style.visibility = "hidden"
+    }
+
+  }
   function updateButtonsAndCoins() {
     
     document.getElementById("WalletOutput").innerHTML = "Wallet $" + wallet.toFixed(2) + "<br>" + "Day " + day   
@@ -82,12 +92,13 @@
     document.getElementById("returnbulkbutton").innerHTML = "Return Bulk<br>$" + bulklist.map(bulkreturnValue).reduce((a, b) => a + b, 0).toFixed(2)
     document.getElementById("sellscrapbutton").innerHTML = "Sell Scrap<br>$" + scrapmetallist.map(scrapValue).reduce((a, b) => a + b, 0).toFixed(2)
     
-    //ctx.clearRect(0, 0, c.width, c.height);
-    //showCoin()
+
+
+    showCoin(0)
     
   }
 
-/*
+
   var seed = 1
   function random() {
     var x = Math.sin(seed++) * 10000;
@@ -95,47 +106,48 @@
 }
 
   function showCoin(i){
-    for(i = coinlist.length-1; i>= 0;i--){
-      seed = coinlist[i].id + coinlist[i].salevalue
-      diamm = coinlist[i].diameter * 3
-      x = random()*(c.width - diamm)
-      y = random()*(c.height - diamm)
+    if(i < coinlist.length){
+        seed = coinlist[i].id + coinlist[i].salevalue
+        diamm = coinlist[i].diameter * 3
+        x = random()*(c.width - diamm)
+        y = random()*(c.height - diamm)
 
-      img = document.createElement('img');
-          
-      if (coinlist[i].sidetoshow == 0) {
-        img.src="https://en.numista.com/catalogue/photos/" + coinlist[i].obsimage
-      }
-      else{
-        img.src="https://en.numista.com/catalogue/photos/" + coinlist[i].revsimage;
+        img = document.createElement('img');
+            
+        if (coinlist[i].sidetoshow == 0) {
+          img.src="https://en.numista.com/catalogue/photos/" + coinlist[i].obsimage
+        }
+        else{
+          img.src="https://en.numista.com/catalogue/photos/" + coinlist[i].revsimage;
+        }
+
+        img.onload = function(){
+          ctx.save();
+          roundedImage(x, y, diamm, diamm, diamm/1.7);
+          ctx.clip();
+          ctx.drawImage(img, x, y, diamm, diamm);
+          ctx.restore();
+          showCoin(i+1)
+        }
+
+        function roundedImage(x,y,width,height,radius){
+          ctx.beginPath();
+          ctx.moveTo(x + radius, y);
+          ctx.lineTo(x + width - radius, y);
+          ctx.quadraticCurveTo(x + width, y, x + width, y + radius);
+          ctx.lineTo(x + width, y + height - radius);
+          ctx.quadraticCurveTo(x + width, y + height, x + width - radius, y + height);
+          ctx.lineTo(x + radius, y + height);
+          ctx.quadraticCurveTo(x, y + height, x, y + height - radius);
+          ctx.lineTo(x, y + radius);
+          ctx.quadraticCurveTo(x, y, x + radius, y);
+          ctx.closePath();
+        }
       }
 
-      img.onload = function(){
-        ctx.save();
-        roundedImage(x, y, diamm, diamm, diamm/1.7);
-        ctx.clip();
-        ctx.drawImage(img, x, y, diamm, diamm);
-        ctx.restore();
-      }
-
-    
-    function roundedImage(x,y,width,height,radius){
-      ctx.beginPath();
-      ctx.moveTo(x + radius, y);
-      ctx.lineTo(x + width - radius, y);
-      ctx.quadraticCurveTo(x + width, y, x + width, y + radius);
-      ctx.lineTo(x + width, y + height - radius);
-      ctx.quadraticCurveTo(x + width, y + height, x + width - radius, y + height);
-      ctx.lineTo(x + radius, y + height);
-      ctx.quadraticCurveTo(x, y + height, x, y + height - radius);
-      ctx.lineTo(x, y + radius);
-      ctx.quadraticCurveTo(x, y, x + radius, y);
-      ctx.closePath();
-    
     }
-  }
-  }
- */
+
+ 
  
 
   function updateMetalCurrency(inputamount, code, rate1, rate2) {
@@ -315,6 +327,7 @@
       document.getElementById("list" + String(number) + "img").src = "https://en.numista.com/catalogue/photos/" + coinlist[((current_page - 1) * 10) + number].obsimage
       coinlist[((current_page - 1) * 10) + number].sidetoshow = 0
     }
+    updateButtonsAndCoins()
 
   }
 
@@ -703,6 +716,3 @@
 
     updateButtonsAndCoins()
   }
-
-
-
