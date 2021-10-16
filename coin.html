@@ -64,101 +64,8 @@
 <body onload="startupFunction()">
 
   <grid-container>
-    <grid_item>
-      
-      <p>The World Coin dataset contains just under 90,000 non US coin/dates combinations. </br></br> Approximately 1 in 200 coins generated will contain silver and 1 in 30 will be minted before 1900.</br></br> The ROI not including "Online Selling" for a pound of coins is 1:1.05 but can vary greatly. </br></br> You can click on a coin to flip it. </br></br> For best results run on a 1920x1080 monitor on a PC in Chrome</p>    <!--<table>
-        <canvas id="myCanvas" width="450" height="350" style="border:1px solid #000000 ; background-color:lightcyan "  ></canvas>
-        
-        
-        <input type="file" id="file-input"/>
-        <button id="read-button" onclick="loadSave()">Read File</button>
-        <pre id="file-contents"></pre>
-        <pre id="file-contents"></pre>
-
-        <tr>
-          <th>Bank Product</th>
-          <th>Price</th>
-          <th>Quantity</th>
-          <th>Buy</th>
-        </tr>
-        <tr>
-          <td>Roll of 50 Pennies</td>
-          <td id = "50PenniesCost">$0.50</td>
-          <td id = "50PenniesQuantity">5
-          <td>
-            <button id = "50PenniesBuyButton" onclick="buySetAmountCoins(pennies_info,pennies_probability,50,0)">Buy</button>
-        </tr>
-        <tr>
-          <td>Box of 2500 Pennies</td>
-          <td id = "2500PenniesCost">$25.00</td>
-          <td id = "2500PenniesQuantity">5
-            <td>
-              <button id = "2500PenniesBuyButton" onclick="buySetAmountCoins(pennies_info,pennies_probability,2500,1)" >Buy</button>
-          </tr>
-        <tr>
-          <td>Roll of 40 Nickels</td>
-          <td id = "40NickelsCost">$2.00</td>
-          <td id = "40NickelsQuantity">5
-            <td>
-              <button id = "40NickelsBuyButton" onclick="buySetAmountCoins(nickels_info,nickels_probability,40,2)">Buy</button>
-          </tr>
-        <tr>
-          <td>Box of 2000 Nickels</td>
-          <td id = "2000NickelsCost">$100.00</td>
-          <td id = "2000NickelsQuantity">5
-            <td>
-              <button id = "2000NickelsBuyButton" onclick="buySetAmountCoins(nickels_info,nickels_probability,2000,3)" >Buy</button>
-          </tr>
-        <tr>
-          <td>Roll of 50 Dimes</td>
-          <td id = "50DimesCost">$5.00</td>
-          <td id = "50DimesQuantity">5
-            <td>
-              <button id = "50DimesBuyButton" onclick="buySetAmountCoins(dimes_info,dimes_probability,500,4)" >Buy</button>
-          </tr>
-        <tr>
-          <td>Box of 2500 Dimes</td>
-          <td id = "2500DimesCost">$250.00</td>
-          <td id = "2500DimesQuantity">5
-            <td>
-              <button id = "2500DimesBuyButton" onclick="buySetAmountCoins(dimes_info,dimes_probability,2500,5)" >Buy</button>
-          </tr>
-        <tr>
-          <td>Roll of 40 Quarters</td>
-          <td id = "40QuartersCost">$10.00</td>
-          <td id = "40QuartersQuantity">5
-            <td>
-              <button id = "40QuartersBuyButton"  onclick="buySetAmountCoins(quarters_info,quarters_probability,1,6)" >Buy</button>
-          </tr>
-        <tr>
-          <td>Box of 2000 Quarters</td>
-          <td id = "2000QuartersCost">$500.00</td>
-          <td id = "2000QuartersQuantity">5
-            <td>
-              <button id = "2000QuartersBuyButton"  onclick="buySetAmountCoins(quarters_info,quarters_probability,2000,7)" >Buy</button>
-          </tr>
-        <tr>
-          <td>Roll of 20 Halves</td>
-          <td id = "20HalvesCost">$10.00</td>
-          <td id = "20HalvesQuantity">5
-            <td>
-              <button id = "20HalvesBuyButton" onclick="buySetAmountCoins(halves_info,halves_probability,20,8)" >Buy</button>
-          </tr>
-        <tr>
-          <td>Box of 1000 Halves</td>
-          <td id = "1000HalvesCost">$500.00</td>
-          <td id = "1000HalvesQuantity">5
-            <td>
-              <button id = "1000HalvesBuyButton" onclick="buySetAmountCoins(halves_info,halves_probability,1000,9)" >Buy</button>
-          </tr>
-        <td>1 Dollar</td>
-        <td id = "1DollarsCost">$1.00</td>
-        <td id = "1DollarsQuantity">1
-          <td>
-            <button id = "1DollarsBuyButton" onclick="buySetAmountCoins(dollars_info,dollars_probability,1,10)" >Buy</button>
-        </tr></table>
-        --->
-      
+    <grid_item>    
+        <canvas disabled id="myCanvas" width="450" height="350" style="border:1px solid #000000 ; background-color:lightcyan; visibility:visible "></canvas>
     </grid_item>
 
     <grid_item>
@@ -169,14 +76,7 @@
           <th>Qty</th>
           <th>Buy</th>
         </tr>
-        <!--
-        <tr>
-          <td>Roll of 50 CAD Dimes</td>
-          <td id = 50CADDimesCost>$5.00</td>
-          <td id = "50CADDimesQuantity">5
-          <td>
-            <button id = "50CADDimesBuyButton" onclick="buySetAmountCoins(dimes_cad_info,dimes_cad_probability,50,11)" >Buy</button>
-        </tr> --->
+
         <tr>
           <td>5 World Coins</td>
           <td id = 5WorldCoinsCost></td>
@@ -198,8 +98,6 @@
               <td>
                 <button id = "10PoundWorldCoinsBuyButton" onclick="buyWeightAmountCoins(world_bulk,4540,2)">Buy</button>
             </tr>
-            
-  
 
       </table>
     </grid_item>
@@ -241,7 +139,8 @@
     </grid_item>
 	
 	<grid_item>
-    <p>What to put here ....</p>
+    <p>The World Coin dataset contains just under 90,000 non US coin/dates combinations. </br></br> Approximately 1 in 200 coins generated will contain silver and 1 in 30 will be minted before 1900.</br></br> The ROI not including "Online Selling" for a pound of coins is 1:1.05 but can vary greatly. </br></br> You can click on a coin to flip it. </br></br> For best results run on a 1920x1080 monitor on a PC in Chrome</p>
+ 
 	</grid_item>
 
 
@@ -346,6 +245,7 @@
   <grid_item>
     <p id = "WalletOutput" >Wallet $15.00</p>
     <button onclick="callNextDay()">Go to Next Day</button>
+    <button onclick="disableCoinView()">Turn Off/On Coin View</button>
     <button onclick = "makeSave()" >Save Game </button>
     <button onclick = "loadSave()" > Load Game </button>
   </grid_item>
