@@ -93,7 +93,7 @@
     document.getElementById("sellscrapbutton").innerHTML = "Sell Scrap<br>$" + scrapmetallist.map(scrapValue).reduce((a, b) => a + b, 0).toFixed(2)
     
 
-
+    ctx.clearRect(0, 0, c.width, c.height);
     showCoin(0)
     
   }
