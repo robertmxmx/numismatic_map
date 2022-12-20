@@ -40,7 +40,7 @@ Algeria,Algerian notgeld,"Constantine, Department of","Philippeville, Commune of
 Algeria,Algerian notgeld,"Oran, Department de","Mostaganem, Commune of",ORA,No
 Algeria,Algerian notgeld,"Oran, Department de","Oran, Commune of",ORA,No
 Algeria,Algerian notgeld,"Oran, Department de","Oran, Department de",ORA,No
-Andorra,Andorra,Andorra,Andorra,AND,No
+Andorra,Andorra,Andorra,Andorra,AND,YES
 Angola,Angola,Angola,Angola,ANG,No
 Anguilla,Anguilla,Anguilla,Anguilla,AGU,No
 Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,ANT,No
@@ -4176,9 +4176,9 @@ Greece,Greece,Greece,Greece,GRE,No
 Greece,Greece,Greece,Ionian Islands,GRE,No
 Grenada,Grenada,Grenada,Grenada,GRN,No
 Guatemala,Guatemala,Guatemala,Guatemala,GUA,No
-Guernsey,Guernsey,Guernsey,Alderney,GUE,No
-Guernsey,Guernsey,Guernsey,Guernsey,GUE,No
-Guinea,Guernsey,Guernsey,Guernsey,GUE,No
+Guernsey,Guernsey,Guernsey,Alderney,GUE,YES
+Guernsey,Guernsey,Guernsey,Guernsey,GUE,YES
+Guinea,Guernsey,Guernsey,Guernsey,GUE,YES
 Guinea,Guinea,Guinea,Guinea,GUI,No
 Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,GUB,No
 Guyana,Guyana,Guyana,Demerara and Essequibo,GUY,No
@@ -4628,7 +4628,7 @@ Japan,Japan,Japanese feudal domains,Sendai Domain,JFD,No
 Japan,Japan,Japanese feudal domains,Tajima Province,JFD,No
 Japan,Japan,Japanese feudal domains,Tosa Domain,JFD,No
 Japan,Japan,Japanese feudal domains,Yonezawa Domain,JFD,No
-Jersey,Jersey,Jersey,Jersey,JER,No
+Jersey,Jersey,Jersey,Jersey,JER,YES
 Jordan,Jordan,Jordan,Jordan,JOR,No
 Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,KAZ,No
 Kenya,Kenya,Kenya,Kenya,KEN,No
@@ -4648,7 +4648,7 @@ Liberia,Liberia,Liberia,Liberia,LIB,No
 Libya,Libya,Libya,Fezzan,FEZ,No
 Libya,Libya,Libya,Libya,LYB,No
 Libya,Libya,Libya,Tripolitania,TPL,No
-Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,LIE,No
+Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,LIE,YES
 Lithuania,Lithuania,Lithuania,Lithuania,LIT,No
 Lithuania,Lithuania,Lithuania,"Lithuania, Grand Duchy of",LIT,No
 Lithuania,Lithuania,Lithuania,Memel Territory,LIT,No
@@ -4675,7 +4675,7 @@ Low countries feudal,Low countries feudal,Low countries feudal,"Dokkum, City of"
 Low countries feudal,Low countries feudal,Low countries feudal,"Flanders, County of",LOW,No
 Low countries feudal,Low countries feudal,Low countries feudal,Frisia,LOW,No
 Low countries feudal,Low countries feudal,Low countries feudal,"Gerdingen and Stein, Lordships of",LOW,No
-Low countries feudal,Low countries feudal,Low countries feudal,"Guelders, Duchy of",LOW,No
+Low countries feudal,Low countries feudal,Low countries feudal,,LOW,No
 Low countries feudal,Low countries feudal,Low countries feudal,"Hainaut, County of",LOW,No
 Low countries feudal,Low countries feudal,Low countries feudal,"Herstal, Lordship of",LOW,No
 Low countries feudal,Low countries feudal,Low countries feudal,"Holland, County of",LOW,No
@@ -4713,10 +4713,10 @@ Malaysia,Malaysia,Islamic states of Malaysia,"Pahang, Sultanate of",ISM,No
 Malaysia,Malaysia,Islamic states of Malaysia,"Trengganu, Sultanate of",ISM,No
 Malaysia,Malaysia,Malaysia,Malaya,MLS,No
 Malaysia,Malaysia,Malaysia,Malaysia,MLS,No
-Maldives,Maldives,Maldives,Maldives,MLD,No
+Maldives,Maldives,Maldives,Maldives,MLD,YES
 Mali,Mali,Mali,Mali,MAI,No
-Malta,Malta,Malta,Malta,MAL,No
-Malta,Malta,Malta,"Malta, Order of",MAL,No
+Malta,Malta,Malta,Malta,MAL,YES
+Malta,Malta,Malta,"Malta, Order of",MAL,YES
 Marshall Islands,Marshall Islands,Marshall Islands,Marshall Islands,MAR,No
 Mauritania,Mauritania,Mauritania,Mauritania,MAU,No
 Mauritius,Mauritius,Mauritius,Mauritius,MRT,No
@@ -4747,7 +4747,7 @@ Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia,MO
 Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,MOW,No
 Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,Wallachia,MOW,No
 Moldova,Moldova,Moldova,Moldova,MOL,No
-Monaco,Monaco,Monaco,Monaco,MCA,No
+Monaco,Monaco,Monaco,Monaco,MCA,YES
 Mongol States,Mongol States,Mongol States,"Chagatai, Khanate of",MGG,No
 Mongol States,Mongol States,Mongol States,Golden Horde,MGG,No
 Mongol States,Mongol States,Mongol States,Great Mongol,MGG,No
@@ -5020,7 +5020,7 @@ Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts an
 Saint Lucia,Saint Lucia,Saint Lucia,Saint Lucia,SLU,No
 Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,SVG,No
 Samoa,Samoa,Samoa,Samoa,SMO,No
-San Marino,San Marino,San Marino,San Marino,SAN,No
+San Marino,San Marino,San Marino,San Marino,SAN,YES
 São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,STP,No
 Saudi Arabia,Saudi Arabia,Saudi Arabia,Hejaz,SAU,No
 Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,SAU,No
@@ -5049,7 +5049,7 @@ South Africa,South Africa,South Africa (pre-Union),Griquatown,TRN,No
 South Africa,South Africa,South Africa (pre-Union),Orange Free State,TRN,No
 South Africa,South Africa,South Africa (pre-Union),South Africa (pre-Union),TRN,No
 South Africa,South Africa,South Africa (pre-Union),South African Republic,TRN,No
-South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,SGS,No
+South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,SGS,YES
 South Korea,South Korea,South Korea,South Korea,SKO,No
 South Ossetia,South Ossetia,South Ossetia,South Ossetia,OSS,No
 South Sudan,South Sudan,South Sudan,South Sudan,SSU,No
