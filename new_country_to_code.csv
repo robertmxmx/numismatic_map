@@ -1298,9 +1298,9 @@ Denmark,Denmark,Denmark,Faroe Islands,DEN,No
 Denmark,Denmark,Denmark,Greenland,DEN,No
 Denmark,Denmark,Denmark,"Roskilde, Bishopric of",DEN,No
 Denmark,Denmark,Denmark,"Schleswig and Holstein, Duchies of ",DEN,No
-Djibouti,Djibouti,Djibouti,Djibouti,DJI,No
-Djibouti,Djibouti,Djibouti,French Afars and Issas,DJI,No
-Djibouti,Djibouti,Djibouti,French Somaliland,DJI,No
+Djibouti,Djibouti,Djibouti,Djibouti,DJI,YES
+Djibouti,Djibouti,Djibouti,French Afars and Issas,DJI,YES
+Djibouti,Djibouti,Djibouti,French Somaliland,DJI,YES
 Dominica,Dominica,Dominica,Dominica,DOM,No
 Dominican Republic,Dominican Republic,Dominican Republic,Dominican Republic,DOR,No
 East Africa,East Africa,East Africa,East Africa,EAA,No
@@ -1310,8 +1310,8 @@ Egypt,Egypt,Egypt,Egypt,EGY,No
 El Salvador,El Salvador,El Salvador,El Salvador,EL ,No
 Equatorial African states,Equatorial African states,Equatorial African states,Equatorial African states,EAS,No
 Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,EQU,No
-Eritrea,Eritrea,Eritrea,Eritrea,ERI,No
-Eritrea,Eritrea,Eritrea,Italian Eritrea,ERI,No
+Eritrea,Eritrea,Eritrea,Eritrea,ERI,YES
+Eritrea,Eritrea,Eritrea,Italian Eritrea,ERI,YES
 Estonia,Estonia,Estonia,Estonia,EST,No
 Estonia,Estonia,"Estonia, Danish","Estonia, Danish",ESD,No
 Estonia,Estonia,"Estonia, Danish","Estonia, Danish",ESD,No
@@ -1320,8 +1320,8 @@ Estonia,Estonia,"Estonia, Swedish","Estonia, Swedish",ESW,No
 Estonia,Estonia,"Estonia, Swedish","Narva, City of",ESW,No
 Estonia,Estonia,"Estonia, Swedish","Reval, City of",ESW,No
 Eswatini,Eswatini,Eswatini,Eswatini,ESA,No
-Ethiopia,Ethiopia,Ethiopia,Ethiopia,ETH,No
-Ethiopia,Ethiopia,Ethiopia,"Harar, Emirate of",ETH,No
+Ethiopia,Ethiopia,Ethiopia,Ethiopia,ETH,YES
+Ethiopia,Ethiopia,Ethiopia,"Harar, Emirate of",HRR,YES
 Eurozone,Eurozone,Eurozone,Eurozone,EUR,No
 Falkland Islands,Falkland Islands,Falkland Islands,Falkland Islands,FAL,No
 Fiji,Fiji,Fiji,Fiji,FIJ,YES
@@ -4604,7 +4604,7 @@ Italy,Italy,Italian states,"Venice, Republic of",ITS,No
 Italy,Italy,Italian states,"Vercelli, City of",ITS,No
 Italy,Italy,Italian states,"Vergagni, Lordship of",ITS,No
 Italy,Italy,Italian states,"Villa di Chiesa, City of",ITS,No
-Italy,Italy,Italy,Italian East Africa,ITA,No
+Italy,Italy,Italy,Italian East Africa,IFA,YES
 Italy,Italy,Italy,Italian states,ITA,No
 Italy,Italy,Italy,Italy,ITA,No
 Ivory Coast,Ivory Coast,Ivory Coast,Ivory Coast,IVO,No
@@ -4959,8 +4959,8 @@ Polish–Lithuanian Commonwealth,Polish–Lithuanian Commonwealth,Polish–Lithuanian 
 Polish–Lithuanian Commonwealth,Polish–Lithuanian Commonwealth,Polish–Lithuanian Commonwealth,"Gda?sk, City of",PLC,No
 Polish–Lithuanian Commonwealth,Polish–Lithuanian Commonwealth,Polish–Lithuanian Commonwealth,Polish–Lithuanian Commonwealth,PLC,No
 Polish–Lithuanian Commonwealth,Polish–Lithuanian Commonwealth,Polish–Lithuanian Commonwealth,"Toru?, City of",PLC,No
-Portugal,Portugal,Portugal,Azores,POR,No
-Portugal,Portugal,Portugal,Madeira Islands,POR,No
+Portugal,Portugal,Portugal,Azores,AZO,No
+Portugal,Portugal,Portugal,Madeira Islands,MRI,No
 Portugal,Portugal,Portugal,Portugal,POR,No
 Portugal,Portugal,Portugal,Portuguese notgeld,POR,No
 Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,PUE,No
@@ -5038,10 +5038,10 @@ Sint Maarten,Sint Maarten,Sint Maarten,Sint Maarten,SIM,No
 Slovakia,Slovakia,Slovakia,Slovakia,SLO,No
 Slovenia,Slovenia,Slovenia,Slovenia,SLV,No
 Solomon Islands,Solomon Islands,Solomon Islands,Solomon Islands,SOL,No
-Somalia,Somalia,Somalia,Italian Somaliland,SOM,No
-Somalia,Somalia,Somalia,"Mogadishu, Sultanate of",SOM,No
-Somalia,Somalia,Somalia,Somalia,SOM,No
-Somaliland,Somaliland,Somaliland,Somaliland,SML,No
+Somalia,Somalia,Somalia,Italian Somaliland,SMI,YES
+Somalia,Somalia,Somalia,"Mogadishu, Sultanate of",MNN,No
+Somalia,Somalia,Somalia,Somalia,SOM,YES
+Somaliland,Somaliland,Somaliland,Somaliland,SML,YES
 South Africa,South Africa,South Africa,Bophuthatswana,SOU,No
 South Africa,South Africa,South Africa,South Africa,SOU,No
 South Africa,South Africa,South Africa,South Africa (pre-Union),SOU,No
