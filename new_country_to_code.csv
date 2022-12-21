@@ -1329,7 +1329,7 @@ Finland,Finland,Finland,Finland,FIN,No
 France,France,France,France,FRA,No
 France,France,France,French colonies,FRA,No
 France,France,France,French Equatorial Africa,FRA,No
-France,France,France,French Guiana,FRA,No
+France,France,France,French Guiana,FHG,No
 France,France,France,French Indochina,FRA,No
 France,France,France,French notgeld,FRA,No
 France,France,France,French Pacific Territories,FRA,No
@@ -1341,7 +1341,7 @@ France,France,France,French West Indies,FRA,No
 France,France,France,Guadeloupe,FRA,No
 France,France,France,Martinique,FRA,No
 France,France,France,Réunion,FRA,No
-France,France,France,Saint-Pierre and Miquelon,FRA,No
+France,France,France,Saint-Pierre and Miquelon,SPM,No
 France,France,France - Feudal,"Albi, Viscounty of",FRF,No
 France,France,France - Feudal,"Amiens, County of",FRF,No
 France,France,France - Feudal,"Anduze and Sauve, Lordship of",FRF,No
@@ -1497,28 +1497,28 @@ France,France,France - Feudal,"Vienne (Dauphiné), County of",FRF,No
 France,France,France - Feudal,"Vienne (France Feudal), Archbishopric of",FRF,No
 France,France,France - Feudal,"Vierzon, Lordship of",FRF,No
 France,France,France - Feudal,"Viviers, Bishopric of",FRF,No
-France,French notgeld,"Ain, Department of","Ain, Department of",AIN,No
-France,French notgeld,"Ain, Department of","Gex, Commune of",AIN,No
-France,French notgeld,"Ain, Department of","Oyonnax and Bellegarde, Communes of",AIN,No
-France,French notgeld,"Aisne, Department of","Aisne, Department of",AIS,No
-France,French notgeld,"Aisne, Department of","Guise, Commune of",AIS,No
-France,French notgeld,"Aisne, Department of","Hirson, Commune of",AIS,No
-France,French notgeld,"Aisne, Department of","La Capelle, Commune of",AIS,No
-France,French notgeld,"Aisne, Department of","Le Nouvion-en-Thiérache, Commune of",AIS,No
-France,French notgeld,"Aisne, Department of","Saint-Quentin and Guise, Communes of",AIS,No
-France,French notgeld,"Aisne, Department of","Saint-Quentin, Commune of",AIS,No
-France,French notgeld,"Aisne, Department of","Vervins, Commune of",AIS,No
-France,French notgeld,"Alpes Maritimes, Department of","Alpes Maritimes, Department of",ALP,No
-France,French notgeld,"Alpes Maritimes, Department of","Grasse, Commune of",ALP,No
-France,French notgeld,"Alpes Maritimes, Department of","Nice, Commune of",ALP,No
-France,French notgeld,"Ardeche, Department of","Annonay, Commune of",ARD,No
-France,French notgeld,"Ardeche, Department of","Ardeche, Department of",ARD,No
-France,French notgeld,"Ardennes, Department of","Ardennes, Department of",ANN,No
-France,French notgeld,"Ardennes, Department of","Charleville and Sedan, Communes of",ANN,No
-France,French notgeld,"Ardennes, Department of","Charleville-Mézières, Commune of",ANN,No
-France,French notgeld,"Ardennes, Department of","Monthermé, Commune of",ANN,No
-France,French notgeld,"Ariège, Department of","Ariège, Department of",ARI,No
-France,French notgeld,"Ariège, Department of","Laroque-d'Olmes, Commune of",ARI,No
+France,French notgeld,"Ain, Department of","Ain, Department of",AIN,YES
+France,French notgeld,"Ain, Department of","Gex, Commune of",AIN,YES
+France,French notgeld,"Ain, Department of","Oyonnax and Bellegarde, Communes of",AIN,YES
+France,French notgeld,"Aisne, Department of","Aisne, Department of",AIS,YES
+France,French notgeld,"Aisne, Department of","Guise, Commune of",AIS,YES
+France,French notgeld,"Aisne, Department of","Hirson, Commune of",AIS,YES
+France,French notgeld,"Aisne, Department of","La Capelle, Commune of",AIS,YES
+France,French notgeld,"Aisne, Department of","Le Nouvion-en-Thiérache, Commune of",AIS,YES
+France,French notgeld,"Aisne, Department of","Saint-Quentin and Guise, Communes of",AIS,YES
+France,French notgeld,"Aisne, Department of","Saint-Quentin, Commune of",AIS,YES
+France,French notgeld,"Aisne, Department of","Vervins, Commune of",AIS,YES
+France,French notgeld,"Alpes Maritimes, Department of","Alpes Maritimes, Department of",ALP,YES
+France,French notgeld,"Alpes Maritimes, Department of","Grasse, Commune of",ALP,YES
+France,French notgeld,"Alpes Maritimes, Department of","Nice, Commune of",ALP,YES
+France,French notgeld,"Ardeche, Department of","Annonay, Commune of",ARD,YES
+France,French notgeld,"Ardeche, Department of","Ardeche, Department of",ARD,YES
+France,French notgeld,"Ardennes, Department of","Ardennes, Department of",ANN,YES
+France,French notgeld,"Ardennes, Department of","Charleville and Sedan, Communes of",ANN,YES
+France,French notgeld,"Ardennes, Department of","Charleville-Mézières, Commune of",ANN,YES
+France,French notgeld,"Ardennes, Department of","Monthermé, Commune of",ANN,YES
+France,French notgeld,"Ariège, Department of","Ariège, Department of",ARI,YES
+France,French notgeld,"Ariège, Department of","Laroque-d'Olmes, Commune of",ARI,YES
 France,French notgeld,"Aude, Department of","Aude, Department of",AUD,No
 France,French notgeld,"Aude, Department of","Barbaira, Commune of",AUD,No
 France,French notgeld,"Aude, Department of","Carcassonne, Commune of",AUD,No
