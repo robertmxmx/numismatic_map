@@ -2,15 +2,14 @@ Country_Head_1,Country_Head_2,Country_Head_3,Country_Head_4,Code,Done
 Abhkazia,Abhkazia,Abhkazia,Abhkazia,ABH,No
 Afghanistan,Afghanistan,Afghanistan,Afghanistan,AFG,No
 Albania,Albania,Albania,Albania,ALB,No
-Albania,Albania,Albania,Albanian cities,ALB,No
-Albania,Albania,Albania,"Berat, City of",ALB,No
-Albania,Albania,Albania,"Drivast, City of",ALB,No
-Albania,Albania,Albania,"Elbasan, Municipality of",ALB,No
-Albania,Albania,Albania,"Korçë, Municiplaity of",ALB,No
-Albania,Albania,Albania,"Shkodër, City of",ALB,No
-Albania,Albania,Albania,"Vlorë, Municipality of",ALB,No
-Albania,Algeria,Algeria,Algeria,ALG,No
-Algeria,Algeria,Algeria,Algeria,ALG,No
+Albania,Albania,Albania,Albanian cities,ALB,OLD
+Albania,Albania,Albania,"Berat, City of",ALB,OLD
+Albania,Albania,Albania,"Drivast, City of",ALB,OLD
+Albania,Albania,Albania,"Elbasan, Municipality of",ALB,OLD
+Albania,Albania,Albania,"Korçë, Municiplaity of",ALB,OLD
+Albania,Albania,Albania,"Shkodër, City of",ALB,OLD
+Albania,Albania,Albania,"Vlorë, Municipality of",ALB,OLD
+Algeria,Algeria,Algeria,Algeria,ALG,YES
 Algeria,Algeria,Algeria,Algerian notgeld,ALG,No
 Algeria,Algerian notgeld,"Aïn-Sefra, Territory of","Aïn-Sefra, Territory of",ANS,No
 Algeria,Algerian notgeld,"Aïn-Sefra, Territory of","Kénadsa, Commune of",ANS,No
@@ -41,9 +40,9 @@ Algeria,Algerian notgeld,"Oran, Department de","Mostaganem, Commune of",ORA,No
 Algeria,Algerian notgeld,"Oran, Department de","Oran, Commune of",ORA,No
 Algeria,Algerian notgeld,"Oran, Department de","Oran, Department de",ORA,No
 Andorra,Andorra,Andorra,Andorra,AND,YES
-Angola,Angola,Angola,Angola,ANG,No
-Anguilla,Anguilla,Anguilla,Anguilla,AGU,No
-Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,ANT,No
+Angola,Angola,Angola,Angola,ANG,YES
+Anguilla,Anguilla,Anguilla,Anguilla,AGU,YES
+Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,ANT,YES
 Argentina,Argentina,Argentina,Argentina,ARG,No
 Argentina,Argentina,Argentina,Argentine Confederation,ARG,No
 Argentina,Argentina,Argentina,Argentine provinces,ARG,No
@@ -72,30 +71,30 @@ Australia,Australia,Australia,Cocos (Keeling) Islands,COC,No
 Austria,Austria,Austria,Austria,AUT,No
 Austria,Austria,Austria,Austrian Empire,AUT,No
 Austria,Austria,Austria,Austrian notgeld,AUT,No
-Austria,Austria,Austria,Austrian states,AUT,No
-Austria,Austria,Austrian states,"Auersperg, Counts of",AUH,No
-Austria,Austria,Austrian states,"Austria, Duchy of",AUH,No
-Austria,Austria,Austrian states,"Brixen, Bishopric of",AUH,No
-Austria,Austria,Austrian states,"Burgau, Margraviate of",AUH,No
-Austria,Austria,Austrian states,"Carinthia, Duchy of",AUH,No
-Austria,Austria,Austrian states,"Dietrichstein, Counts of",AUH,No
-Austria,Austria,Austrian states,Further Austria,AUH,No
-Austria,Austria,Austrian states,"Görz, County of",AUH,No
-Austria,Austria,Austrian states,"Gurk, Bishopric of",AUH,No
-Austria,Austria,Austrian states,"Khevenhüller-Metsch, Counts of",AUH,No
-Austria,Austria,Austrian states,"Merania, Duchy of",AUH,No
-Austria,Austria,Austrian states,"Orsini-Rosenberg, Counts of",AUH,No
-Austria,Austria,Austrian states,"Ortenburg, County of",AUH,No
-Austria,Austria,Austrian states,"Paar, Counts of",AUH,No
-Austria,Austria,Austrian states,"Salzburg, Bishopric of",AUH,No
-Austria,Austria,Austrian states,"Sinzendorf, County of",AUH,No
-Austria,Austria,Austrian states,"Sprinzenstein, Counts of",AUH,No
-Austria,Austria,Austrian states,"Styria, Duchy of",AUH,No
-Austria,Austria,Austrian states,"Trautson, Counts of",AUH,No
-Austria,Austria,Austrian states,"Tyrol, County of",AUH,No
-Austria,Austria,Austrian states,"Upper Alsace, Landgraviate of",AUH,No
-Austria,Austria,Austrian states,"Wien (Austria), Arcbishopric of",AUH,No
-Austria,Austria,Austrian states,"Windisch-Grätz, Counts of",AUH,No
+Austria,Austria,Austria,Austrian states,AUT,OLD
+Austria,Austria,Austrian states,"Auersperg, Counts of",AUH,OLD
+Austria,Austria,Austrian states,"Austria, Duchy of",AUH,OLD
+Austria,Austria,Austrian states,"Brixen, Bishopric of",AUH,OLD
+Austria,Austria,Austrian states,"Burgau, Margraviate of",AUH,OLD
+Austria,Austria,Austrian states,"Carinthia, Duchy of",AUH,OLD
+Austria,Austria,Austrian states,"Dietrichstein, Counts of",AUH,OLD
+Austria,Austria,Austrian states,Further Austria,AUH,OLD
+Austria,Austria,Austrian states,"Görz, County of",AUH,OLD
+Austria,Austria,Austrian states,"Gurk, Bishopric of",AUH,OLD
+Austria,Austria,Austrian states,"Khevenhüller-Metsch, Counts of",AUH,OLD
+Austria,Austria,Austrian states,"Merania, Duchy of",AUH,OLD
+Austria,Austria,Austrian states,"Orsini-Rosenberg, Counts of",AUH,OLD
+Austria,Austria,Austrian states,"Ortenburg, County of",AUH,OLD
+Austria,Austria,Austrian states,"Paar, Counts of",AUH,OLD
+Austria,Austria,Austrian states,"Salzburg, Bishopric of",AUH,OLD
+Austria,Austria,Austrian states,"Sinzendorf, County of",AUH,OLD
+Austria,Austria,Austrian states,"Sprinzenstein, Counts of",AUH,OLD
+Austria,Austria,Austrian states,"Styria, Duchy of",AUH,OLD
+Austria,Austria,Austrian states,"Trautson, Counts of",AUH,OLD
+Austria,Austria,Austrian states,"Tyrol, County of",AUH,OLD
+Austria,Austria,Austrian states,"Upper Alsace, Landgraviate of",AUH,OLD
+Austria,Austria,Austrian states,"Wien (Austria), Arcbishopric of",AUH,OLD
+Austria,Austria,Austrian states,"Windisch-Grätz, Counts of",AUH,OLD
 Austria,Austrian notgeld,"Carinthia, Federal State of","Abetzberg, Municipality of",CRN,No
 Austria,Austrian notgeld,"Carinthia, Federal State of","Abstetten, Municipality of",CRN,No
 Austria,Austrian notgeld,"Carinthia, Federal State of","Aggsbach Dorf, Municipality of",CRN,No
@@ -898,69 +897,69 @@ Bahrain,Bahrain,Bahrain,Bahrain,BHR,No
 Bangladesh,Bangladesh,Bangladesh,Bangladesh,BAN,No
 Barbados,Barbados,Barbados,Barbados,BAR,YES
 Belarus,Belarus,Belarus,Belarus,BLL,No
-Belgium,Belgium,Belgium,Austrian Netherlands,AUN,No
+Belgium,Belgium,Belgium,Austrian Netherlands,AUN,OLD
 Belgium,Belgium,Belgium,Belgium,BEL,No
 Belgium,Belgium,Belgium,"Gent, City of",BEL,No
 Belize,Belize,Belize,Belize,BLZ,No
-Benin,Benin,Benin,Benin,DAH,No
-Benin,Benin,Benin,Dahomey,DAH,No
+Benin,Benin,Benin,Benin,DAH,YES
+Benin,Benin,Benin,Dahomey,DAH,YES
 Bermuda,Bermuda,Bermuda,Bermuda,BER,No
 Bhutan,Bhutan,Bhutan,Bhutan,BHU,No
-Bohemia,Bohemia,Bohemia,Bohemia,BOH,No
-Bohemia,Bohemia,Bohemia,"Bohemia, Kingdom of",BOH,No
-Bohemia,Bohemia,Bohemia,Moravia,BOH,No
-Bohemia,Bohemia,Bohemia,Silesia,BOH,No
-Bohemia,Bohemia,"Bohemia, Kingdom of","Bohemia, Royal mint of",BOK,No
-Bohemia,Bohemia,"Bohemia, Kingdom of","Brno, City of",BOK,No
-Bohemia,Bohemia,"Bohemia, Kingdom of","Cheb, City of",BOK,No
-Bohemia,Bohemia,"Bohemia, Kingdom of","Friedland, Duchy of",BOK,No
-Bohemia,Bohemia,"Bohemia, Kingdom of","Görlitz, City of",BOK,No
-Bohemia,Bohemia,"Bohemia, Kingdom of","Jihlava, City of",BOK,No
-Bohemia,Bohemia,"Bohemia, Kingdom of","Kinsky, Counts of",BOK,No
-Bohemia,Bohemia,"Bohemia, Kingdom of","Koszalin, City of",BOK,No
-Bohemia,Bohemia,"Bohemia, Kingdom of","Krummau, Duchy of",BOK,No
-Bohemia,Bohemia,"Bohemia, Kingdom of","Lobkowicz, Counts of",BOK,No
-Bohemia,Bohemia,"Bohemia, Kingdom of","Nostitz-Rieneck, Counts of",BOK,No
-Bohemia,Bohemia,"Bohemia, Kingdom of","Olomouc, Bishopric of",BOK,No
-Bohemia,Bohemia,"Bohemia, Kingdom of",Rosenberg dominion,BOK,No
-Bohemia,Bohemia,"Bohemia, Kingdom of","Schlick, Counts of",BOK,No
-Bohemia,Bohemia,"Bohemia, Kingdom of","Stargard, City of",BOK,No
-Bohemia,Bohemia,"Bohemia, Kingdom of","Znojmo, City of",BOK,No
-Bohemia,Bohemia,Moravia,"Brno, Duchy of",MRV,No
-Bohemia,Bohemia,Moravia,"Olomouc, Duchy of",MRV,No
-Bohemia,Bohemia,Moravia,Unified Moravia and Margraviate,MRV,No
-Bohemia,Bohemia,Moravia,"Znojmo, Duchy of",MRV,No
-Bohemia,Bohemia,Silesia,"Bielsko, City of",SIL,No
-Bohemia,Bohemia,Silesia,"Breslau, Bishopric of",SIL,No
-Bohemia,Bohemia,Silesia,"Breslau, City of",SIL,No
-Bohemia,Bohemia,Silesia,"Bytom, City of",SIL,No
-Bohemia,Bohemia,Silesia,"Bytom-Kosel, Duchy of",SIL,No
-Bohemia,Bohemia,Silesia,"Glatz, County of",SIL,No
-Bohemia,Bohemia,Silesia,"Glogau, City of",SIL,No
-Bohemia,Bohemia,Silesia,"Glogau, Duchy of",SIL,No
-Bohemia,Bohemia,Silesia,"Jägerndorf, Duchy of",SIL,No
-Bohemia,Bohemia,Silesia,"Kosel, City of",SIL,No
-Bohemia,Bohemia,Silesia,"Krosno, City of",SIL,No
-Bohemia,Bohemia,Silesia,"Krosno, Duchy of",SIL,No
-Bohemia,Bohemia,Silesia,"Liegnitz, City of",SIL,No
-Bohemia,Bohemia,Silesia,"Liegnitz-Brieg, Duchy of",SIL,No
-Bohemia,Bohemia,Silesia,"Löwenberg, City of",SIL,No
-Bohemia,Bohemia,Silesia,"Münsterberg, City of",SIL,No
-Bohemia,Bohemia,Silesia,"Münsterberg-Oels, Duchy of",SIL,No
-Bohemia,Bohemia,Silesia,"Nysa, City of",SIL,No
-Bohemia,Bohemia,Silesia,"Oels, City of",SIL,No
-Bohemia,Bohemia,Silesia,"Oels, Duchy of",SIL,No
-Bohemia,Bohemia,Silesia,"Oppeln, City of",SIL,No
-Bohemia,Bohemia,Silesia,"Oppeln-Ratibor, Duchy of",SIL,No
-Bohemia,Bohemia,Silesia,"Sagan, Duchy of",SIL,No
-Bohemia,Bohemia,Silesia,"Schweidnitz, City of",SIL,No
-Bohemia,Bohemia,Silesia,"Silesia, Royal Mint of",SIL,No
-Bohemia,Bohemia,Silesia,"Striegau, City of",SIL,No
-Bohemia,Bohemia,Silesia,"Teschen, Duchy of",SIL,No
-Bohemia,Bohemia,Silesia,"Toszek, City of",SIL,No
-Bohemia,Bohemia,Silesia,"Troppau, City of",SIL,No
-Bohemia,Bohemia,Silesia,"Troppau, Duchy of",SIL,No
-Bohemia,Bohemia,Silesia,"Wohlau, City of",SIL,No
+Bohemia,Bohemia,Bohemia,Bohemia,BOH,OLD
+Bohemia,Bohemia,Bohemia,"Bohemia, Kingdom of",BOH,OLD
+Bohemia,Bohemia,Bohemia,Moravia,BOH,OLD
+Bohemia,Bohemia,Bohemia,Silesia,BOH,OLD
+Bohemia,Bohemia,"Bohemia, Kingdom of","Bohemia, Royal mint of",BOK,OLD
+Bohemia,Bohemia,"Bohemia, Kingdom of","Brno, City of",BOK,OLD
+Bohemia,Bohemia,"Bohemia, Kingdom of","Cheb, City of",BOK,OLD
+Bohemia,Bohemia,"Bohemia, Kingdom of","Friedland, Duchy of",BOK,OLD
+Bohemia,Bohemia,"Bohemia, Kingdom of","Görlitz, City of",BOK,OLD
+Bohemia,Bohemia,"Bohemia, Kingdom of","Jihlava, City of",BOK,OLD
+Bohemia,Bohemia,"Bohemia, Kingdom of","Kinsky, Counts of",BOK,OLD
+Bohemia,Bohemia,"Bohemia, Kingdom of","Koszalin, City of",BOK,OLD
+Bohemia,Bohemia,"Bohemia, Kingdom of","Krummau, Duchy of",BOK,OLD
+Bohemia,Bohemia,"Bohemia, Kingdom of","Lobkowicz, Counts of",BOK,OLD
+Bohemia,Bohemia,"Bohemia, Kingdom of","Nostitz-Rieneck, Counts of",BOK,OLD
+Bohemia,Bohemia,"Bohemia, Kingdom of","Olomouc, Bishopric of",BOK,OLD
+Bohemia,Bohemia,"Bohemia, Kingdom of",Rosenberg dominion,BOK,OLD
+Bohemia,Bohemia,"Bohemia, Kingdom of","Schlick, Counts of",BOK,OLD
+Bohemia,Bohemia,"Bohemia, Kingdom of","Stargard, City of",BOK,OLD
+Bohemia,Bohemia,"Bohemia, Kingdom of","Znojmo, City of",BOK,OLD
+Bohemia,Bohemia,Moravia,"Brno, Duchy of",MRV,OLD
+Bohemia,Bohemia,Moravia,"Olomouc, Duchy of",MRV,OLD
+Bohemia,Bohemia,Moravia,Unified Moravia and Margraviate,MRV,OLD
+Bohemia,Bohemia,Moravia,"Znojmo, Duchy of",MRV,OLD
+Bohemia,Bohemia,Silesia,"Bielsko, City of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Breslau, Bishopric of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Breslau, City of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Bytom, City of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Bytom-Kosel, Duchy of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Glatz, County of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Glogau, City of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Glogau, Duchy of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Jägerndorf, Duchy of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Kosel, City of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Krosno, City of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Krosno, Duchy of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Liegnitz, City of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Liegnitz-Brieg, Duchy of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Löwenberg, City of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Münsterberg, City of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Münsterberg-Oels, Duchy of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Nysa, City of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Oels, City of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Oels, Duchy of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Oppeln, City of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Oppeln-Ratibor, Duchy of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Sagan, Duchy of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Schweidnitz, City of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Silesia, Royal Mint of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Striegau, City of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Teschen, Duchy of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Toszek, City of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Troppau, City of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Troppau, Duchy of",SIL,OLD
+Bohemia,Bohemia,Silesia,"Wohlau, City of",SIL,OLD
 Bohemia,Bohemia,Silesia,"Württemberg-Oels, Duchy of",SIL,No
 Bolivia,Bolivia,Bolivia,Bolivia,BOL,No
 Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,BOS,No
@@ -978,20 +977,20 @@ British West Africa,British West Africa,British West Africa,British West Africa,
 British West Indies,British West Indies,British West Indies,British West Indies,BWI,OLD
 Brunei,Brunei,Brunei,Brunei,BRU,No
 Bulgaria,Bulgaria,Bulgaria,Bulgaria,BUL,No
-Bulgaria,Bulgaria,Bulgaria,"Dobruja, Despotate of",BUL,No
-Bulgaria,Bulgaria,Bulgaria,Second Bulgarian Empire,BUL,No
-Bulgaria,Bulgaria,Bulgaria,"Vidin, Tsardom of",BUL,No
-Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,BUK,No
+Bulgaria,Bulgaria,Bulgaria,"Dobruja, Despotate of",BUL,OLD
+Bulgaria,Bulgaria,Bulgaria,Second Bulgarian Empire,BUL,OLD
+Bulgaria,Bulgaria,Bulgaria,"Vidin, Tsardom of",BUL,OLD
+Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,BUK,YES
 Burundi,Burundi,Burundi,Burundi,BUR,YES
-Byzantine states,Byzantine states,Byzantine states,Byzantine Empire,BYZ,No
-Byzantine states,Byzantine states,Byzantine states,Byzantine states,BYZ,No
-Byzantine states,Byzantine states,Byzantine states,"Epirus, Despotate of",BYZ,No
-Byzantine states,Byzantine states,Byzantine states,"Nicaea, Empire of",BYZ,No
-Byzantine states,Byzantine states,Byzantine states,"Trebizond, Empire of",BYZ,No
+Byzantine states,Byzantine states,Byzantine states,Byzantine Empire,BYZ,OLD
+Byzantine states,Byzantine states,Byzantine states,Byzantine states,BYZ,OLD
+Byzantine states,Byzantine states,Byzantine states,"Epirus, Despotate of",BYZ,OLD
+Byzantine states,Byzantine states,Byzantine states,"Nicaea, Empire of",BYZ,OLD
+Byzantine states,Byzantine states,Byzantine states,"Trebizond, Empire of",BYZ,OLD
 Cambodia,Cambodia,Cambodia,Cambodia,CAM,No
 Cambodia,Cambodia,Cambodia,Khmer Empire,CAM,No
-Cameroon,Cameroon,Cameroon,Cameroon,CMB,No
-Cameroon,Cameroon,Cameroon,French Cameroon,CMB,No
+Cameroon,Cameroon,Cameroon,Cameroon,CMB,YES
+Cameroon,Cameroon,Cameroon,French Cameroon,CMB,YES
 Canada,Canada,Canada,Canada,CAN,No
 Canada,Canada,Canadian provinces,Alberta,ABR,No
 Canada,Canadian provinces,British Columbia,British Columbia,BCO,No
@@ -1005,20 +1004,20 @@ Canada,Canadian provinces,Nova Scotia,Nova Scotia,NOV,No
 Canada,Canadian provinces,Prince Edward Island,Prince Edward Island,PRI,No
 Canada,Canadian provinces,Upper Canada,Upper Canada,UPP,No
 Cape Verde,Cape Verde,Cape Verde,Cape Verde,CAV,No
-Carolingian Empire,Carolingian Empire,Carolingian Empire,"Aquitaine, Kingdom of",CAO,No
-Carolingian Empire,Carolingian Empire,Carolingian Empire,"Arles, Kingdom of",CAO,No
-Carolingian Empire,Carolingian Empire,Carolingian Empire,Carolingian Empire,CAO,No
-Carolingian Empire,Carolingian Empire,Carolingian Empire,"East Francia, Kingdom of",CAO,No
-Carolingian Empire,Carolingian Empire,Carolingian Empire,"Italy, Kingdom of",CAO,No
-Carolingian Empire,Carolingian Empire,Carolingian Empire,Lotharingia,CAO,No
-Carolingian Empire,Carolingian Empire,Carolingian Empire,"Lower Burgundy, Kingdom of",CAO,No
-Carolingian Empire,Carolingian Empire,Carolingian Empire,"Lower Lotharingia, Duchy of",CAO,No
-Carolingian Empire,Carolingian Empire,Carolingian Empire,"Middle Francia, Kingdom of",CAO,No
-Carolingian Empire,Carolingian Empire,Carolingian Empire,Unified Carolingian Empire,CAO,No
-Carolingian Empire,Carolingian Empire,Carolingian Empire,"Upper Lotharingia, Duchy of",CAO,No
-Carolingian Empire,Carolingian Empire,Carolingian Empire,"West Francia, Kingdom of",CAO,No
-Cayman Islands,Cayman Islands,Cayman Islands,Cayman Islands,CAY,No
-Central African Republic,Central African Republic,Central African Republic,Central African Republic,CAR,No
+Carolingian Empire,Carolingian Empire,Carolingian Empire,"Aquitaine, Kingdom of",CAO,OLD
+Carolingian Empire,Carolingian Empire,Carolingian Empire,"Arles, Kingdom of",CAO,OLD
+Carolingian Empire,Carolingian Empire,Carolingian Empire,Carolingian Empire,CAO,OLD
+Carolingian Empire,Carolingian Empire,Carolingian Empire,"East Francia, Kingdom of",CAO,OLD
+Carolingian Empire,Carolingian Empire,Carolingian Empire,"Italy, Kingdom of",CAO,OLD
+Carolingian Empire,Carolingian Empire,Carolingian Empire,Lotharingia,CAO,OLD
+Carolingian Empire,Carolingian Empire,Carolingian Empire,"Lower Burgundy, Kingdom of",CAO,OLD
+Carolingian Empire,Carolingian Empire,Carolingian Empire,"Lower Lotharingia, Duchy of",CAO,OLD
+Carolingian Empire,Carolingian Empire,Carolingian Empire,"Middle Francia, Kingdom of",CAO,OLD
+Carolingian Empire,Carolingian Empire,Carolingian Empire,Unified Carolingian Empire,CAO,OLD
+Carolingian Empire,Carolingian Empire,Carolingian Empire,"Upper Lotharingia, Duchy of",CAO,OLD
+Carolingian Empire,Carolingian Empire,Carolingian Empire,"West Francia, Kingdom of",CAO,OLD
+Cayman Islands,Cayman Islands,Cayman Islands,Cayman Islands,CAY,YES
+Central African Republic,Central African Republic,Central African Republic,Central African Republic,CAR,YES
 Central African States,Central African States,Central African States,Central African States,CAS,No
 Central American Republic,Central American Republic,Central American Republic,Central American Republic,CER,No
 Central Asia and Caucasia,Caucasia,Caspian region,Uncertain Christian bishopric,CPN,No
@@ -1106,7 +1105,7 @@ Central Asia and Caucasia,Tokharistan,Northern Tokharistan,"Chaghaniyan, Princip
 Central Asia and Caucasia,Tokharistan,Northern Tokharistan,Northern Tokharistan,NOT,No
 Central Asia and Caucasia,Tokharistan,Northern Tokharistan,"Termez, City of",NOT,No
 Central Asia and Caucasia,Tokharistan,Northern Tokharistan,Vakhsh Valley,NOT,No
-Chad,Chad,Chad,Chad,CHA,No
+Chad,Chad,Chad,Chad,CHA,YES
 Chile,Chile,Chile,Chile,CHI,No
 China,China,China,China,CHN,No
 China,China,China,"China, Empire of",CHN,No
@@ -1238,7 +1237,7 @@ Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,COM,YES
 "Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",Belgian Congo and Ruanda-Urundi,BCR,YES
 "Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",CDR,YES
 "Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",Katanga,KTG,YES
-"Congo, Republic of the","Congo, Republic of the","Congo, Republic of the","Congo, Republic of the",CON,No
+"Congo, Republic of the","Congo, Republic of the","Congo, Republic of the","Congo, Republic of the",CON,YES
 Cook Islands,Cook Islands,Cook Islands,Cook Islands,COO,No
 Costa Rica,Costa Rica,Costa Rica,Costa Rica,COS,No
 "Crimea, Khanate of","Crimea, Khanate of","Crimea, Khanate of","Crimea, Khanate of",CRI,OLD
@@ -1305,9 +1304,9 @@ Dominican Republic,Dominican Republic,Dominican Republic,Dominican Republic,DOR,
 East Africa,East Africa,East Africa,East Africa,EAA,No
 Eastern Caribbean States,Eastern Caribbean States,Eastern Caribbean States,Eastern Caribbean States,ECS,YES
 Ecuador,Ecuador,Ecuador,Ecuador,ECU,No
-Egypt,Egypt,Egypt,Egypt,EGY,No
+Egypt,Egypt,Egypt,Egypt,EGY,YES
 El Salvador,El Salvador,El Salvador,El Salvador,EL ,No
-Equatorial African states,Equatorial African states,Equatorial African states,Equatorial African states,EAS,No
+Equatorial African states,Equatorial African states,Equatorial African states,Equatorial African states,FHE,YES
 Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,EQU,YES
 Eritrea,Eritrea,Eritrea,Eritrea,ERI,YES
 Eritrea,Eritrea,Eritrea,Italian Eritrea,ERI,YES
@@ -1327,7 +1326,6 @@ Fiji,Fiji,Fiji,Fiji,FIJ,YES
 Finland,Finland,Finland,Finland,FIN,No
 France,France,France,France,FRA,YES
 France,France,France,French colonies,FHC,No
-France,France,France,French Equatorial Africa,FHE,No
 France,France,France,French Guiana,FHG,YES
 France,France,France,French Indochina,FHI,No
 France,France,France,French notgeld,FHN,No
@@ -1687,7 +1685,7 @@ France,French notgeld,"Yvelines, Department of","Poissy, Commune of",YVE,YES
 France,French notgeld,"Yvelines, Department of","Saint-Germain-en-Laye, Commune of",YVE,YES
 France,French notgeld,"Yvelines, Department of","Versailles, Commune of",YVE,YES
 France,French notgeld,"Yvelines, Department of","Yvelines, Department of",YVE,YES
-French Equatorial Africa,French Equatorial Africa,French Equatorial Africa,French Equatorial Africa,FEA,No
+French Equatorial Africa,French Equatorial Africa,French Equatorial Africa,French Equatorial Africa,FEA,YES
 French Indochina,French Indochina,French Indochina,French Indochina,FRI,No
 French Pacific Territories,French Pacific Territories,French Pacific Territories,French Pacific Territories,FPT,No
 French Polynesia,French Polynesia,French Polynesia,French Polynesia,FPL,No
@@ -4171,16 +4169,15 @@ Ghana,Ghana,Ghana,Ghana,GHA,No
 Ghana,Ghana,Ghana,Gold Coast,GDC,YES
 Gibraltar,Gibraltar,Gibraltar,Gibraltar,GIB,No
 Gilbert and Ellice Islands,Gilbert and Ellice Islands,Gilbert and Ellice Islands,Gilbert and Ellice Islands,GIL,No
-Greece,Greece,Greece,Crete,GRE,No
+Greece,Greece,Greece,Crete,CTT,No
 Greece,Greece,Greece,Greece,GRE,No
 Greece,Greece,Greece,Ionian Islands,GRE,No
 Grenada,Grenada,Grenada,Grenada,GRN,No
 Guatemala,Guatemala,Guatemala,Guatemala,GUA,No
 Guernsey,Guernsey,Guernsey,Alderney,GUE,YES
 Guernsey,Guernsey,Guernsey,Guernsey,GUE,YES
-Guinea,Guernsey,Guernsey,Guernsey,GUE,YES
-Guinea,Guinea,Guinea,Guinea,GUI,No
-Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,GUB,No
+Guinea,Guinea,Guinea,Guinea,GUI,YES
+Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,GUB,YES
 Guyana,Guyana,Guyana,Demerara and Essequibo,GUY,No
 Guyana,Guyana,Guyana,Guyana,GUY,No
 Haiti,Haiti,Haiti,Haiti,HAI,No
@@ -4374,135 +4371,135 @@ Iran,Iran,Iran,Azerbaijan People's Government,IRA,No
 Iran,Iran,Iran,Iran,IRA,No
 Iraq,Iraq,Iraq,Iraq,IRQ,No
 Ireland,Ireland,Ireland,Ireland,IRE,No
-Islamic states,Islamic states,Abbasid Caliphate,Abbasid Caliphate,ABB,No
-Islamic states,Islamic states,Abbasid Caliphate,"Aghlabid, Emirate of",ABB,No
-Islamic states,Islamic states,Abbasid Caliphate,Ikhshidid dynasty,ABB,No
-Islamic states,Islamic states,Almohad Caliphate,Almohad Caliphate,ALM,No
-Islamic states,Islamic states,Almoravid dynasty,Almoravid dynasty,AMO,No
-Islamic states,Islamic states,Anatolian Beyliks,Anatolian Beyliks,ANA,No
-Islamic states,Islamic states,Anatolian Beyliks,"Aydin, Beylik of",ANA,No
-Islamic states,Islamic states,Anatolian Beyliks,Danishmendid dynasty,ANA,No
-Islamic states,Islamic states,Anatolian Beyliks,"Eretna, Beylik of",ANA,No
-Islamic states,Islamic states,Anatolian Beyliks,"Germiyan, Beylik of",ANA,No
-Islamic states,Islamic states,Anatolian Beyliks,"Isfendiyar, Beylik of",ANA,No
-Islamic states,Islamic states,Anatolian Beyliks,"Karaman, Beylik of",ANA,No
-Islamic states,Islamic states,Anatolian Beyliks,"Karasi, Beylik of",ANA,No
-Islamic states,Islamic states,Anatolian Beyliks,"Menteshe, Beylik of",ANA,No
-Islamic states,Islamic states,Anatolian Beyliks,"Saruhan, Beylik of",ANA,No
-Islamic states,Islamic states,Anatolian Beyliks,"Teke, Beylik of",ANA,No
-Islamic states,Islamic states,Anatolian Beyliks,Uncertain Anatolian beylik,ANA,No
-Islamic states,Islamic states,Arabian Peninsula,Arabian Peninsula,ARA,No
-Islamic states,Islamic states,Arabian Peninsula,Mahdid dynasty,ARA,No
-Islamic states,Islamic states,Arabian Peninsula,Najahid dynasty,ARA,No
-Islamic states,Islamic states,Arabian Peninsula,Rassid dynasty,ARA,No
-Islamic states,Islamic states,Arabian Peninsula,Rasulid dynasty,ARA,No
-Islamic states,Islamic states,Arabian Peninsula,Sulayhid dynasty,ARA,No
-Islamic states,Islamic states,Arabian Peninsula,Wajihid dynasty,ARA,No
-Islamic states,Islamic states,Arabian Peninsula,Ziyadid dynasty,ARA,No
-Islamic states,Islamic states,Artuqid dynasty,Artuqid dynasty,ARQ,No
-Islamic states,Islamic states,Artuqid dynasty,"Hisn Kayfa and Amid, Artuqids of",ARQ,No
-Islamic states,Islamic states,Artuqid dynasty,"Khartabirt, Artuqids of",ARQ,No
-Islamic states,Islamic states,Artuqid dynasty,"Mardin, Artuqids of",ARQ,No
-Islamic states,Islamic states,Ayyubid Sultanate,Ayyubid Sultanate,AYY,No
-Islamic states,Islamic states,Begtimurid dynasty,Begtimurid dynasty,BEG,No
-Islamic states,Islamic states,"Caucasia, Islamic","Caucasia, Islamic",CAU,No
-Islamic states,Islamic states,"Caucasia, Islamic",Mazyadid dynasty,CAU,No
-Islamic states,Islamic states,"Caucasia, Islamic",Shaddadid dynasty,CAU,No
-Islamic states,Islamic states,"Caucasia, Islamic",Shirvanshah dynasty,CAU,No
-Islamic states,Islamic states,East Africa,East Africa,EAA,No
-Islamic states,Islamic states,East Africa,Kilwa Sultanate,EAA,No
-Islamic states,Islamic states,East Africa,"Madagascar, Islamic",EAA,No
-Islamic states,Islamic states,Fatimid Caliphate,Fatimid Caliphate,FAT,No
-Islamic states,Islamic states,Fatimid Caliphate,"Sicily, Emirate of",FAT,No
-Islamic states,Islamic states,Ghaznavid dynasty,Ghaznavid dynasty,GAZ,No
-Islamic states,Islamic states,Ghurid dynasty,Ghurid dynasty,GHU,No
-Islamic states,Islamic states,Greater Iran,Alamut State,GIR,No
-Islamic states,Islamic states,Greater Iran,Amirs of Astarabad,GIR,No
-Islamic states,Islamic states,Greater Iran,"Aq Qoyunlu, Tribal federation of",GIR,No
-Islamic states,Islamic states,Greater Iran,Begteg?nid dynasty,GIR,No
-Islamic states,Islamic states,Greater Iran,Buyid dynasty,GIR,No
-Islamic states,Islamic states,Greater Iran,Dabuyid dynasty,GIR,No
-Islamic states,Islamic states,Greater Iran,Greater Iran,GIR,No
-Islamic states,Islamic states,Greater Iran,Harthamid dynasty,GIR,No
-Islamic states,Islamic states,Greater Iran,Ildegizid dynasty,GIR,No
-Islamic states,Islamic states,Greater Iran,Injuid dynasty,GIR,No
-Islamic states,Islamic states,Greater Iran,"Kakwayhid, Emirate of",GIR,No
-Islamic states,Islamic states,Greater Iran,Khwarezmian Empire,GIR,No
-Islamic states,Islamic states,Greater Iran,Muzaffarid dynasty,GIR,No
-Islamic states,Islamic states,Greater Iran,Pishkinid dynasty,GIR,No
-Islamic states,Islamic states,Greater Iran,"Qunduz, Emirate of",GIR,No
-Islamic states,Islamic states,Greater Iran,Qutlugh-Khanid dynasty,GIR,No
-Islamic states,Islamic states,Greater Iran,Saffarid dynasty,GIR,No
-Islamic states,Islamic states,Greater Iran,Sajid dynasty,GIR,No
-Islamic states,Islamic states,Greater Iran,Sallarid dynasty,GIR,No
-Islamic states,Islamic states,Greater Iran,Sarbedaran dynasty,GIR,No
-Islamic states,Islamic states,Greater Iran,Tahirid dynasty,GIR,No
-Islamic states,Islamic states,Habbari dynasty,Habbari dynasty,HAB,No
-Islamic states,Islamic states,Hamdanid dynasty,Hamdanid dynasty,HDD,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Algarve, Taifa of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Almería, Taifa of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Badajoz, Taifa of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Córdoba, Caliphate of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Córdoba, Emirate of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Córdoba, Taifa of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Dénia, Taifa of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,Dhunnunid dynasty,IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Granada, Taifa of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,Hammudid dynasty,IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,Hudid dynasty,IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,Iberian Peninsula and the Balearic Islands,IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Lérida, Taifa of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Lorca, Taifa of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Majorca, Taifa of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Málaga, Taifa of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Murcia, Taifa of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,Nasrid dynasty,IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,Saqlabi dynasty,IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Seville, Taifa of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Toledo, Taifa of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Tortosa, Taifa of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Valencia, Taifa of",IBE,No
-Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Zaragoza, Taifa of",IBE,No
-Islamic states,Islamic states,Islamic states,Islamic states,ISS,No
-Islamic states,Islamic states,Luluid dynasty,Luluid dynasty,LUL,No
-Islamic states,Islamic states,Mamluk Sultanate,Mamluk Sultanate,MAM,No
-Islamic states,Islamic states,North Africa and Sicily,Banu Hilal dynasty,NAS,No
-Islamic states,Islamic states,North Africa and Sicily,Hafsid dynasty,NAS,No
-Islamic states,Islamic states,North Africa and Sicily,Idrisid dynasty,NAS,No
-Islamic states,Islamic states,North Africa and Sicily,"Ifriqiya, Emirate of",NAS,No
-Islamic states,Islamic states,North Africa and Sicily,Kharijite dynasty,NAS,No
-Islamic states,Islamic states,North Africa and Sicily,Marinid dynasty,NAS,No
-Islamic states,Islamic states,North Africa and Sicily,Midrarid dynasty,NAS,No
-Islamic states,Islamic states,North Africa and Sicily,North Africa and Sicily,NAS,No
-Islamic states,Islamic states,North Africa and Sicily,Saadi dynasty,NAS,No
-Islamic states,Islamic states,North Africa and Sicily,Sulaymanid dynasty,NAS,No
-Islamic states,Islamic states,North Africa and Sicily,Wattasid dynasty,NAS,No
-Islamic states,Islamic states,North Africa and Sicily,Zayyanid dynasty,NAS,No
-Islamic states,Islamic states,North Africa and Sicily,Zirid dynasty,NAS,No
-Islamic states,Islamic states,"Qara Qoyunlu, Tribal federation of","Qara Qoyunlu, Tribal federation of",QAQ,No
-Islamic states,Islamic states,Qarakhanid dynasty,Qarakhanid dynasty,QAR,No
-Islamic states,Islamic states,Qarmatid dynasty,Qarmatid dynasty,QAM,No
-Islamic states,Islamic states,Rashidun Caliphate,Rashidun Caliphate,RAS,No
-Islamic states,Islamic states,Samanid dynasty,Samanid dynasty,SMD,No
-Islamic states,Islamic states,Seljuq dynasty,Great Seljuq,SEL,No
-Islamic states,Islamic states,Seljuq dynasty,Hamadan Sultanate,SEL,No
-Islamic states,Islamic states,Seljuq dynasty,Kerman Sultanate,SEL,No
-Islamic states,Islamic states,Seljuq dynasty,Rûm Sultanate,SEL,No
-Islamic states,Islamic states,Seljuq dynasty,Seljuq dynasty,SEL,No
-Islamic states,Islamic states,Seljuq dynasty,"Syria, Seljuq emirate of",SEL,No
-Islamic states,Islamic states,Seljuq dynasty,"Western Iran, Seljuqs of",SEL,No
-Islamic states,Islamic states,Sufid dynasty,Sufid dynasty,SUF,No
-Islamic states,Islamic states,Tulunid dynasty,Tulunid dynasty,TUL,No
-Islamic states,Islamic states,Umayyad Caliphate,"Tanukh, Tribal federation of",UMA,No
-Islamic states,Islamic states,Umayyad Caliphate,Umayyad Caliphate,UMA,No
-Islamic states,Islamic states,Volga Bulgaria,Volga Bulgaria,VOL,No
-Islamic states,Islamic states,Zengid dynasty,"Aleppo, Emirate of",ZEN,No
-Islamic states,Islamic states,Zengid dynasty,"Jazira, Emirate of",ZEN,No
-Islamic states,Islamic states,Zengid dynasty,"Mosul, Zengids of",ZEN,No
-Islamic states,Islamic states,Zengid dynasty,"Sinjar, Emirate of",ZEN,No
-Islamic states,Islamic states,Zengid dynasty,"Syria, Zengid emirate of",ZEN,No
-Islamic states,Islamic states,Zengid dynasty,Zengid dynasty,ZEN,No
-Isle of Man,Isle of Man,Isle of Man,Isle of Man,IOM,No
+Islamic states,Islamic states,Abbasid Caliphate,Abbasid Caliphate,ABB,OLD
+Islamic states,Islamic states,Abbasid Caliphate,"Aghlabid, Emirate of",ABB,OLD
+Islamic states,Islamic states,Abbasid Caliphate,Ikhshidid dynasty,ABB,OLD
+Islamic states,Islamic states,Almohad Caliphate,Almohad Caliphate,ALM,OLD
+Islamic states,Islamic states,Almoravid dynasty,Almoravid dynasty,AMO,OLD
+Islamic states,Islamic states,Anatolian Beyliks,Anatolian Beyliks,ANA,OLD
+Islamic states,Islamic states,Anatolian Beyliks,"Aydin, Beylik of",ANA,OLD
+Islamic states,Islamic states,Anatolian Beyliks,Danishmendid dynasty,ANA,OLD
+Islamic states,Islamic states,Anatolian Beyliks,"Eretna, Beylik of",ANA,OLD
+Islamic states,Islamic states,Anatolian Beyliks,"Germiyan, Beylik of",ANA,OLD
+Islamic states,Islamic states,Anatolian Beyliks,"Isfendiyar, Beylik of",ANA,OLD
+Islamic states,Islamic states,Anatolian Beyliks,"Karaman, Beylik of",ANA,OLD
+Islamic states,Islamic states,Anatolian Beyliks,"Karasi, Beylik of",ANA,OLD
+Islamic states,Islamic states,Anatolian Beyliks,"Menteshe, Beylik of",ANA,OLD
+Islamic states,Islamic states,Anatolian Beyliks,"Saruhan, Beylik of",ANA,OLD
+Islamic states,Islamic states,Anatolian Beyliks,"Teke, Beylik of",ANA,OLD
+Islamic states,Islamic states,Anatolian Beyliks,Uncertain Anatolian beylik,ANA,OLD
+Islamic states,Islamic states,Arabian Peninsula,Arabian Peninsula,ARA,OLD
+Islamic states,Islamic states,Arabian Peninsula,Mahdid dynasty,ARA,OLD
+Islamic states,Islamic states,Arabian Peninsula,Najahid dynasty,ARA,OLD
+Islamic states,Islamic states,Arabian Peninsula,Rassid dynasty,ARA,OLD
+Islamic states,Islamic states,Arabian Peninsula,Rasulid dynasty,ARA,OLD
+Islamic states,Islamic states,Arabian Peninsula,Sulayhid dynasty,ARA,OLD
+Islamic states,Islamic states,Arabian Peninsula,Wajihid dynasty,ARA,OLD
+Islamic states,Islamic states,Arabian Peninsula,Ziyadid dynasty,ARA,OLD
+Islamic states,Islamic states,Artuqid dynasty,Artuqid dynasty,ARQ,OLD
+Islamic states,Islamic states,Artuqid dynasty,"Hisn Kayfa and Amid, Artuqids of",ARQ,OLD
+Islamic states,Islamic states,Artuqid dynasty,"Khartabirt, Artuqids of",ARQ,OLD
+Islamic states,Islamic states,Artuqid dynasty,"Mardin, Artuqids of",ARQ,OLD
+Islamic states,Islamic states,Ayyubid Sultanate,Ayyubid Sultanate,AYY,OLD
+Islamic states,Islamic states,Begtimurid dynasty,Begtimurid dynasty,BEG,OLD
+Islamic states,Islamic states,"Caucasia, Islamic","Caucasia, Islamic",CAU,OLD
+Islamic states,Islamic states,"Caucasia, Islamic",Mazyadid dynasty,CAU,OLD
+Islamic states,Islamic states,"Caucasia, Islamic",Shaddadid dynasty,CAU,OLD
+Islamic states,Islamic states,"Caucasia, Islamic",Shirvanshah dynasty,CAU,OLD
+Islamic states,Islamic states,East Africa,East Africa,EAA,OLD
+Islamic states,Islamic states,East Africa,Kilwa Sultanate,EAA,OLD
+Islamic states,Islamic states,East Africa,"Madagascar, Islamic",EAA,OLD
+Islamic states,Islamic states,Fatimid Caliphate,Fatimid Caliphate,FAT,OLD
+Islamic states,Islamic states,Fatimid Caliphate,"Sicily, Emirate of",FAT,OLD
+Islamic states,Islamic states,Ghaznavid dynasty,Ghaznavid dynasty,GAZ,OLD
+Islamic states,Islamic states,Ghurid dynasty,Ghurid dynasty,GHU,OLD
+Islamic states,Islamic states,Greater Iran,Alamut State,GIR,OLD
+Islamic states,Islamic states,Greater Iran,Amirs of Astarabad,GIR,OLD
+Islamic states,Islamic states,Greater Iran,"Aq Qoyunlu, Tribal federation of",GIR,OLD
+Islamic states,Islamic states,Greater Iran,Begteg?nid dynasty,GIR,OLD
+Islamic states,Islamic states,Greater Iran,Buyid dynasty,GIR,OLD
+Islamic states,Islamic states,Greater Iran,Dabuyid dynasty,GIR,OLD
+Islamic states,Islamic states,Greater Iran,Greater Iran,GIR,OLD
+Islamic states,Islamic states,Greater Iran,Harthamid dynasty,GIR,OLD
+Islamic states,Islamic states,Greater Iran,Ildegizid dynasty,GIR,OLD
+Islamic states,Islamic states,Greater Iran,Injuid dynasty,GIR,OLD
+Islamic states,Islamic states,Greater Iran,"Kakwayhid, Emirate of",GIR,OLD
+Islamic states,Islamic states,Greater Iran,Khwarezmian Empire,GIR,OLD
+Islamic states,Islamic states,Greater Iran,Muzaffarid dynasty,GIR,OLD
+Islamic states,Islamic states,Greater Iran,Pishkinid dynasty,GIR,OLD
+Islamic states,Islamic states,Greater Iran,"Qunduz, Emirate of",GIR,OLD
+Islamic states,Islamic states,Greater Iran,Qutlugh-Khanid dynasty,GIR,OLD
+Islamic states,Islamic states,Greater Iran,Saffarid dynasty,GIR,OLD
+Islamic states,Islamic states,Greater Iran,Sajid dynasty,GIR,OLD
+Islamic states,Islamic states,Greater Iran,Sallarid dynasty,GIR,OLD
+Islamic states,Islamic states,Greater Iran,Sarbedaran dynasty,GIR,OLD
+Islamic states,Islamic states,Greater Iran,Tahirid dynasty,GIR,OLD
+Islamic states,Islamic states,Habbari dynasty,Habbari dynasty,HAB,OLD
+Islamic states,Islamic states,Hamdanid dynasty,Hamdanid dynasty,HDD,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Algarve, Taifa of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Almería, Taifa of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Badajoz, Taifa of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Córdoba, Caliphate of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Córdoba, Emirate of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Córdoba, Taifa of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Dénia, Taifa of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,Dhunnunid dynasty,IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Granada, Taifa of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,Hammudid dynasty,IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,Hudid dynasty,IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,Iberian Peninsula and the Balearic Islands,IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Lérida, Taifa of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Lorca, Taifa of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Majorca, Taifa of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Málaga, Taifa of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Murcia, Taifa of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,Nasrid dynasty,IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,Saqlabi dynasty,IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Seville, Taifa of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Toledo, Taifa of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Tortosa, Taifa of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Valencia, Taifa of",IBE,OLD
+Islamic states,Islamic states,Iberian Peninsula and the Balearic Islands,"Zaragoza, Taifa of",IBE,OLD
+Islamic states,Islamic states,Islamic states,Islamic states,ISS,OLD
+Islamic states,Islamic states,Luluid dynasty,Luluid dynasty,LUL,OLD
+Islamic states,Islamic states,Mamluk Sultanate,Mamluk Sultanate,MAM,OLD
+Islamic states,Islamic states,North Africa and Sicily,Banu Hilal dynasty,NAS,OLD
+Islamic states,Islamic states,North Africa and Sicily,Hafsid dynasty,NAS,OLD
+Islamic states,Islamic states,North Africa and Sicily,Idrisid dynasty,NAS,OLD
+Islamic states,Islamic states,North Africa and Sicily,"Ifriqiya, Emirate of",NAS,OLD
+Islamic states,Islamic states,North Africa and Sicily,Kharijite dynasty,NAS,OLD
+Islamic states,Islamic states,North Africa and Sicily,Marinid dynasty,NAS,OLD
+Islamic states,Islamic states,North Africa and Sicily,Midrarid dynasty,NAS,OLD
+Islamic states,Islamic states,North Africa and Sicily,North Africa and Sicily,NAS,OLD
+Islamic states,Islamic states,North Africa and Sicily,Saadi dynasty,NAS,OLD
+Islamic states,Islamic states,North Africa and Sicily,Sulaymanid dynasty,NAS,OLD
+Islamic states,Islamic states,North Africa and Sicily,Wattasid dynasty,NAS,OLD
+Islamic states,Islamic states,North Africa and Sicily,Zayyanid dynasty,NAS,OLD
+Islamic states,Islamic states,North Africa and Sicily,Zirid dynasty,NAS,OLD
+Islamic states,Islamic states,"Qara Qoyunlu, Tribal federation of","Qara Qoyunlu, Tribal federation of",QAQ,OLD
+Islamic states,Islamic states,Qarakhanid dynasty,Qarakhanid dynasty,QAR,OLD
+Islamic states,Islamic states,Qarmatid dynasty,Qarmatid dynasty,QAM,OLD
+Islamic states,Islamic states,Rashidun Caliphate,Rashidun Caliphate,RAS,OLD
+Islamic states,Islamic states,Samanid dynasty,Samanid dynasty,SMD,OLD
+Islamic states,Islamic states,Seljuq dynasty,Great Seljuq,SEL,OLD
+Islamic states,Islamic states,Seljuq dynasty,Hamadan Sultanate,SEL,OLD
+Islamic states,Islamic states,Seljuq dynasty,Kerman Sultanate,SEL,OLD
+Islamic states,Islamic states,Seljuq dynasty,Rûm Sultanate,SEL,OLD
+Islamic states,Islamic states,Seljuq dynasty,Seljuq dynasty,SEL,OLD
+Islamic states,Islamic states,Seljuq dynasty,"Syria, Seljuq emirate of",SEL,OLD
+Islamic states,Islamic states,Seljuq dynasty,"Western Iran, Seljuqs of",SEL,OLD
+Islamic states,Islamic states,Sufid dynasty,Sufid dynasty,SUF,OLD
+Islamic states,Islamic states,Tulunid dynasty,Tulunid dynasty,TUL,OLD
+Islamic states,Islamic states,Umayyad Caliphate,"Tanukh, Tribal federation of",UMA,OLD
+Islamic states,Islamic states,Umayyad Caliphate,Umayyad Caliphate,UMA,OLD
+Islamic states,Islamic states,Volga Bulgaria,Volga Bulgaria,VOL,OLD
+Islamic states,Islamic states,Zengid dynasty,"Aleppo, Emirate of",ZEN,OLD
+Islamic states,Islamic states,Zengid dynasty,"Jazira, Emirate of",ZEN,OLD
+Islamic states,Islamic states,Zengid dynasty,"Mosul, Zengids of",ZEN,OLD
+Islamic states,Islamic states,Zengid dynasty,"Sinjar, Emirate of",ZEN,OLD
+Islamic states,Islamic states,Zengid dynasty,"Syria, Zengid emirate of",ZEN,OLD
+Islamic states,Islamic states,Zengid dynasty,Zengid dynasty,ZEN,OLD
+Isle of Man,Isle of Man,Isle of Man,Isle of Man,IOM,YES
 Isles de France and Bonaparte,Isles de France and Bonaparte,Isles de France and Bonaparte,Isles de France and Bonaparte,IFB,OLD
 Israel,Israel,Israel,British Palestine,ISR,No
 Israel,Israel,Israel,Israel,ISR,No
@@ -4606,7 +4603,7 @@ Italy,Italy,Italian states,"Villa di Chiesa, City of",ITS,No
 Italy,Italy,Italy,Italian East Africa,IFA,YES
 Italy,Italy,Italy,Italian states,ITA,No
 Italy,Italy,Italy,Italy,ITA,No
-Ivory Coast,Ivory Coast,Ivory Coast,Ivory Coast,IVO,No
+Ivory Coast,Ivory Coast,Ivory Coast,Ivory Coast,IVO,YES
 Jamaica,Jamaica,Jamaica,Jamaica,JAM,YES
 Japan,Japan,Japan,Japan,JAP,No
 Japan,Japan,Japan,Japanese feudal domains,JAP,No
@@ -4644,9 +4641,9 @@ Latvia,Latvia,Latvia,Latvia,LAT,No
 Lebanon,Lebanon,Lebanon,Lebanon,LEB,No
 Leeward Islands,Leeward Islands,Leeward Islands,Leeward Islands,LEE,No
 Lesotho,Lesotho,Lesotho,Lesotho,LES,YES
-Liberia,Liberia,Liberia,Liberia,LIB,No
-Libya,Libya,Libya,Fezzan,FEZ,No
-Libya,Libya,Libya,Libya,LYB,No
+Liberia,Liberia,Liberia,Liberia,LIB,YES
+Libya,Libya,Libya,Fezzan,FEZ,YES
+Libya,Libya,Libya,Libya,LYB,YES
 Libya,Libya,Libya,Tripolitania,TPL,No
 Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,LIE,YES
 Lithuania,Lithuania,Lithuania,Lithuania,LIT,No
@@ -4697,7 +4694,7 @@ Low countries feudal,Low countries feudal,Low countries feudal,"Valkenburg, Lord
 Low countries feudal,Low countries feudal,Low countries feudal,"Vianen, Lordship of",LOW,No
 Low countries feudal,Low countries feudal,Low countries feudal,"Vogelzang, Zolder and Zonhoven, Lordships of",LOW,No
 Luxembourg,Luxembourg,Luxembourg,Luxembourg,LUX,No
-Madagascar,Madagascar,Madagascar,Madagascar,MAD,No
+Madagascar,Madagascar,Madagascar,Madagascar,MAD,YES
 Malawi,Malawi,Malawi,Malawi,MLL,YES
 Malaysia,Malaysia,British Malaysia,British Malaysia,BRI,No
 Malaysia,Malaysia,British Malaysia,Malaya and British Borneo,BRI,No
@@ -4714,11 +4711,11 @@ Malaysia,Malaysia,Islamic states of Malaysia,"Trengganu, Sultanate of",ISM,No
 Malaysia,Malaysia,Malaysia,Malaya,MLS,No
 Malaysia,Malaysia,Malaysia,Malaysia,MLS,No
 Maldives,Maldives,Maldives,Maldives,MLD,YES
-Mali,Mali,Mali,Mali,MAI,No
+Mali,Mali,Mali,Mali,MAI,YES
 Malta,Malta,Malta,Malta,MAL,YES
 Malta,Malta,Malta,"Malta, Order of",MAL,YES
 Marshall Islands,Marshall Islands,Marshall Islands,Marshall Islands,MAR,No
-Mauritania,Mauritania,Mauritania,Mauritania,MAU,No
+Mauritania,Mauritania,Mauritania,Mauritania,MAU,YES
 Mauritius,Mauritius,Mauritius,Mauritius,MRT,YES
 Mexico,Mexico,Mexican states,"Aguascalientes, State of",MES,No
 Mexico,Mexico,Mexican states,"Chihuahua, State of",MES,No
@@ -4763,13 +4760,13 @@ Montenegro,Montenegro,Montenegro (medieval),"Cattaro, City of",MNM,No
 Montenegro,Montenegro,Montenegro (medieval),"Dulcigno, City of",MNM,No
 Montenegro,Montenegro,Montenegro (medieval),"Sva?, City of",MNM,No
 Montenegro,Montenegro,Montenegro (medieval),"Zeta, Principality of",MNM,No
-Montserrat,Montserrat,Montserrat,Montserrat,MSR,No
-Morocco,Morocco,Morocco,Morocco,MOR,No
-Morocco,Morocco,Morocco,"Tangier, City of",TGR,No
+Montserrat,Montserrat,Montserrat,Montserrat,MSR,YES
+Morocco,Morocco,Morocco,Morocco,MOR,YES
+Morocco,Morocco,Morocco,"Tangier, City of",TGR,YES
 Mozambique,Mozambique,Mozambique,Mozambique,MOZ,YES
 Myanmar,Myanmar,Myanmar,Myanmar,MYA,No
 Namibia,Namibia,Namibia,Namibia,NAM,YES
-Nauru,Nauru,Nauru,Nauru,NAU,No
+Nauru,Nauru,Nauru,Nauru,NAU,YES
 Nepal,Nepal,Licchavi Kingdom,Licchavi Kingdom,LIC,No
 Nepal,Nepal,Malla dynasty,Bhaktapur Kingdom,MLY,No
 Nepal,Nepal,Malla dynasty,Dolakha Kingdom,MLY,No
@@ -4809,9 +4806,9 @@ Netherlands Antilles,Netherlands Antilles,Netherlands Antilles,Saint Eustatius,N
 New Caledonia,New Caledonia,New Caledonia,New Caledonia,NCA,No
 New Zealand,New Zealand,New Zealand,New Zealand,NZD,Yes
 Nicaragua,Nicaragua,Nicaragua,Nicaragua,NIC,No
-Niger,Niger,Niger,Niger,NGR,No
-Nigeria,Nigeria,Nigeria,Biafra,BIA,No
-Nigeria,Nigeria,Nigeria,Nigeria,NIG,No
+Niger,Niger,Niger,Niger,NGR,YES
+Nigeria,Nigeria,Nigeria,Biafra,BIA,YES
+Nigeria,Nigeria,Nigeria,Nigeria,NIG,yes
 Niue,Niue,Niue,Niue,NIU,No
 North Korea,North Korea,North Korea,North Korea,DPR,No
 North Macedonia,North Macedonia,North Macedonia,North Macedonia,NMA,No
@@ -5040,17 +5037,17 @@ Somalia,Somalia,Somalia,Italian Somaliland,SMI,YES
 Somalia,Somalia,Somalia,"Mogadishu, Sultanate of",MNN,No
 Somalia,Somalia,Somalia,Somalia,SOM,YES
 Somaliland,Somaliland,Somaliland,Somaliland,SML,YES
-South Africa,South Africa,South Africa,Bophuthatswana,BTS,No
-South Africa,South Africa,South Africa,South Africa,SOU,No
-South Africa,South Africa,South Africa (pre-Union),Cape of Good Hope,CGH,No
-South Africa,South Africa,South Africa (pre-Union),Griquatown,GQT,No
-South Africa,South Africa,South Africa (pre-Union),Orange Free State,OFS,No
-South Africa,South Africa,South Africa (pre-Union),South Africa (pre-Union),TRN,No
-South Africa,South Africa,South Africa (pre-Union),South African Republic,ZAR,No
+South Africa,South Africa,South Africa,Bophuthatswana,BTS,YES
+South Africa,South Africa,South Africa,South Africa,SOU,YES
+South Africa,South Africa,South Africa (pre-Union),Cape of Good Hope,SOU,YES
+South Africa,South Africa,South Africa (pre-Union),Griquatown,GQT,YES
+South Africa,South Africa,South Africa (pre-Union),Orange Free State,OFS,YES
+South Africa,South Africa,South Africa (pre-Union),South Africa (pre-Union),TRN,YES
+South Africa,South Africa,South Africa (pre-Union),South African Republic,ZAR,YES
 South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,SGS,YES
 South Korea,South Korea,South Korea,South Korea,SKO,No
 South Ossetia,South Ossetia,South Ossetia,South Ossetia,OSS,No
-South Sudan,South Sudan,South Sudan,South Sudan,SSU,No
+South Sudan,South Sudan,South Sudan,South Sudan,SSU,YES
 Spain,Spain,Spain,Spain,SPA,No
 Spain,Spain,Spain,Spanish notgeld,SPA,No
 Spain,Spain,Spanish states,"Aragon, Kingdom of",SPS,No
@@ -5072,8 +5069,8 @@ Spain,Spain,Spanish states,"Urgell, County of",SPS,No
 Spain,Spain,Spanish states,"Valencia, Kingdom of",SPS,No
 Sri Lanka,Sri Lanka,Sri Lanka,"Kandy, Kingdom of",SRI,No
 Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,SRI,No
-Sudan,Sudan,Sudan,Darfur,SUD,No
-Sudan,Sudan,Sudan,Sudan,SUD,No
+Sudan,Sudan,Sudan,Darfur,DFF,YES
+Sudan,Sudan,Sudan,Sudan,SUD,YES
 "Sulu, Sultanate of","Sulu, Sultanate of","Sulu, Sultanate of","Sulu, Sultanate of",SLL,No
 Suriname,Suriname,Suriname,Suriname,SUR,No
 Sweden,Sweden,Sweden,Gotland,SWE,No
@@ -5189,8 +5186,8 @@ Switzerland,Switzerland,Switzerland,Switzerland,SWI,No
 Syria,Syria,Syria,Syria,SYR,No
 Taiwan,Taiwan,Taiwan,Taiwan,TAI,No
 Tajikistan,Tajikistan,Tajikistan,Tajikistan,TAJ,No
-Tanzania,Tanzania,Tanzania,Tanzania,TAN,No
-Tanzania,Tanzania,Tanzania,Zanzibar,TAN,No
+Tanzania,Tanzania,Tanzania,Tanzania,TAN,YES
+Tanzania,Tanzania,Tanzania,Zanzibar,ZZZ,YES
 "Tashir-Dzoraget, Kingdom of","Tashir-Dzoraget, Kingdom of","Tashir-Dzoraget, Kingdom of","Tashir-Dzoraget, Kingdom of",TAS,No
 Thailand,Thailand,Thailand,Thailand,THA,No
 Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,TIM,No
@@ -5201,12 +5198,12 @@ Transnistria,Transnistria,Transnistria,Transnistria,TRA,No
 Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Tobago,TGO,No
 Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad,TDD,No
 Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,TTT,No
-Tunisia,Tunisia,Tunisia,Tunisia,TUN,No
-Turkey,Turkey,Turkey,Turkey,TUR,No
+Tunisia,Tunisia,Tunisia,Tunisia,TUN,YES
+Turkey,Turkey,Turkey,Turkey,OTT,No
 Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,TKM,No
 Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,TCI,YES
 Tuvalu,Tuvalu,Tuvalu,Tuvalu,TUV,No
-Uganda,Uganda,Uganda,Uganda,UGA,No
+Uganda,Uganda,Uganda,Uganda,UGA,YES
 Ukraine,Ukraine,Ukraine,Transnistria Governorate,UKR,No
 Ukraine,Ukraine,Ukraine,Ukraine,UKR,No
 United Arab Emirates,United Arab Emirates,United Arab Emirates,Ajman,UAE,No
@@ -5267,12 +5264,12 @@ Vietnam,Vietnam,"Vietnam, Empire of",S? Thiên Thánh Rebellion,VTE,No
 Vietnam,Vietnam,"Vietnam, Empire of",Tr?n C?o Rebellion,VTE,No
 Vietnam,Vietnam,"Vietnam, Empire of",Tr?n Tuân Rebellion,VTE,No
 Vietnam,Vietnam,"Vietnam, Empire of","Vietnam, Empire of",VTE,No
-West Slavs,West Slavs,West Slavs,Hevelli tribe,WSV,No
-West Slavs,West Slavs,West Slavs,"Kopanica, Duchy of",WSV,No
-West Slavs,West Slavs,West Slavs,West Slavs,WSV,No
+West Slavs,West Slavs,West Slavs,Hevelli tribe,WSV,OLD
+West Slavs,West Slavs,West Slavs,"Kopanica, Duchy of",WSV,OLD
+West Slavs,West Slavs,West Slavs,West Slavs,WSV,OLD
 Western African States,Western African States,Western African States,Western African States,WES,No
-Western Sahara,Western Sahara,Western Sahara,Western Sahara,WTS,No
-Windward Islands,Windward Islands,Windward Islands,Windward Islands,WIN,No
+Western Sahara,Western Sahara,Western Sahara,Western Sahara,WTS,YES
+Windward Islands,Windward Islands,Windward Islands,Windward Islands,WIN,OLD
 Yemen,Yemen,Yemen,North Yemen,YEM,No
 Yemen,Yemen,Yemen,South Arabia,YEM,No
 Yemen,Yemen,Yemen,Yemen,YEM,No
