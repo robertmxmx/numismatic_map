@@ -982,7 +982,7 @@ Bulgaria,Bulgaria,Bulgaria,"Dobruja, Despotate of",BUL,No
 Bulgaria,Bulgaria,Bulgaria,Second Bulgarian Empire,BUL,No
 Bulgaria,Bulgaria,Bulgaria,"Vidin, Tsardom of",BUL,No
 Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,BUK,No
-Burundi,Burundi,Burundi,Burundi,BUR,No
+Burundi,Burundi,Burundi,Burundi,BUR,YES
 Byzantine states,Byzantine states,Byzantine states,Byzantine Empire,BYZ,No
 Byzantine states,Byzantine states,Byzantine states,Byzantine states,BYZ,No
 Byzantine states,Byzantine states,Byzantine states,"Epirus, Despotate of",BYZ,No
@@ -1235,9 +1235,9 @@ Colombia,Colombia,Colombian states,"Santa Marta, City of",CLS,No
 Colombia,Colombia,Colombian states,"Santander, State of",CLS,No
 Colombia,Colombia,Colombian states,"Tolima, State of",CLS,No
 Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,COM,No
-"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",Belgian Congo and Ruanda-Urundi,CDR,No
+"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",Belgian Congo and Ruanda-Urundi,BCR,No
 "Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",CDR,No
-"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",Katanga,CDR,No
+"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",Katanga,KTG,No
 "Congo, Republic of the","Congo, Republic of the","Congo, Republic of the","Congo, Republic of the",CON,No
 Cook Islands,Cook Islands,Cook Islands,Cook Islands,COO,No
 Costa Rica,Costa Rica,Costa Rica,Costa Rica,COS,No
@@ -4757,7 +4757,6 @@ Mongol States,Mongol States,Mongol States,Jalairid Sultanate,MGG,No
 Mongol States,Mongol States,Mongol States,Mongol States,MGG,No
 Mongol States,Mongol States,Mongol States,Timurid Empire,MGG,No
 Mongolia,Mongolia,Mongolia,Mongolia,MNG,No
-Mongolia,Mongolia,Mongolia,Mongolia,MON,No
 Montenegro,Montenegro,Montenegro,Montenegro,MNT,No
 Montenegro,Montenegro,Montenegro,Montenegro (medieval),MNT,No
 Montenegro,Montenegro,Montenegro (medieval),"Antivari, City of",MNM,No
@@ -4767,8 +4766,8 @@ Montenegro,Montenegro,Montenegro (medieval),"Sva?, City of",MNM,No
 Montenegro,Montenegro,Montenegro (medieval),"Zeta, Principality of",MNM,No
 Montserrat,Montserrat,Montserrat,Montserrat,MSR,No
 Morocco,Morocco,Morocco,Morocco,MOR,No
-Morocco,Morocco,Morocco,"Tangier, City of",MOR,No
-Mozambique,Mozambique,Mozambique,Mozambique,MOZ,No
+Morocco,Morocco,Morocco,"Tangier, City of",TGR,No
+Mozambique,Mozambique,Mozambique,Mozambique,MOZ,YES
 Myanmar,Myanmar,Myanmar,Myanmar,MYA,No
 Namibia,Namibia,Namibia,Namibia,NAM,No
 Nauru,Nauru,Nauru,Nauru,NAU,No
@@ -5007,8 +5006,8 @@ Russia,Russia,Russia,Soviet Union,RUS,No
 Russia,Russia,Russia,Tannu Tuva,RUS,No
 Russia,Russia,Russia,Tatarstan,RUS,No
 Russia,Russia,Russia,Taurida Governorate,RUS,No
-Rwanda,Rwanda,Rwanda,Rwanda,RWA,No
-Rwanda-Burundi,Rwanda-Burundi,Rwanda-Burundi,Rwanda-Burundi,RWB,No
+Rwanda,Rwanda,Rwanda,Rwanda,RWA,YES
+Rwanda-Burundi,Rwanda-Burundi,Rwanda-Burundi,Rwanda-Burundi,RWB,YES
 Saint Barthelemy,Saint Barthelemy,Saint Barthelemy,Saint Barthelemy,SBR,No
 "Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",Ascension Island,SAT,No
 "Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",Saint Helena,SAT,No
