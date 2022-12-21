@@ -65,7 +65,7 @@ Argentina,Argentina,Argentina,Tierra del Fuego,ARG,No
 Argentina,Argentina,Argentina,Tucuman,ARG,No
 Armenia,Armenia,Armenia,Armenia,ARM,No
 Artsakh,Artsakh,Artsakh,Artsakh,ART,No
-Aruba,Aruba,Aruba,Aruba,ARU,No
+Aruba,Aruba,Aruba,Aruba,ARU,YES
 Australia,Australia,Australia,Australia,AST,Yes
 Australia,Australia,Australia,Australia - Colonial,AST,Yes
 Australia,Australia,Australia,Cocos (Keeling) Islands,COC,No
@@ -893,10 +893,10 @@ Austria,Austrian notgeld,"Vienna, City of","Vienna, City of",VNA,No
 Austria,Austrian notgeld,"Vorarlberg, Federal State of","Bregenz, Municipality of",VOR,No
 Austria,Austrian notgeld,"Vorarlberg, Federal State of","Vorarlberg, Federal State of",VOR,No
 Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,AZE,No
-"Bahamas, The","Bahamas, The","Bahamas, The","Bahamas, The",BAH,No
+"Bahamas, The","Bahamas, The","Bahamas, The","Bahamas, The",BAH,YES
 Bahrain,Bahrain,Bahrain,Bahrain,BHR,No
 Bangladesh,Bangladesh,Bangladesh,Bangladesh,BAN,No
-Barbados,Barbados,Barbados,Barbados,BAR,No
+Barbados,Barbados,Barbados,Barbados,BAR,YES
 Belarus,Belarus,Belarus,Belarus,BLL,No
 Belgium,Belgium,Belgium,Austrian Netherlands,AUN,No
 Belgium,Belgium,Belgium,Belgium,BEL,No
@@ -966,16 +966,16 @@ Bolivia,Bolivia,Bolivia,Bolivia,BOL,No
 Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,BOS,No
 Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,"Bosnia, Kingdom of",BOS,No
 Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,"Srpska, Republic of",BOS,No
-Botswana,Botswana,Botswana,Botswana,BOT,No
+Botswana,Botswana,Botswana,Botswana,BOT,YES
 Brazil,Brazil,Brazil,Brazil,BRA,No
 Brazil,Brazil,Brazil,New Holland,BRA,No
-British Antarctic Territory,British Antarctic Territory,British Antarctic Territory,British Antarctic Territory,BAT,No
+British Antarctic Territory,British Antarctic Territory,British Antarctic Territory,British Antarctic Territory,BAT,NOWHERETOGO
 British East Indies,British East Indies,British East Indies,British East Indies,BEI,No
-British Indian Ocean Territory,British Indian Ocean Territory,British Indian Ocean Territory,British Indian Ocean Territory,BIO,No
-British Virgin Islands,British Virgin Islands,British Virgin Islands,British Virgin Islands,BVI,No
-British Virgin Islands,British Virgin Islands,British Virgin Islands,Tortola,TOR,No
-British West Africa,British West Africa,British West Africa,British West Africa,BWA,No
-British West Indies,British West Indies,British West Indies,British West Indies,BWI,No
+British Indian Ocean Territory,British Indian Ocean Territory,British Indian Ocean Territory,British Indian Ocean Territory,BIO,YES
+British Virgin Islands,British Virgin Islands,British Virgin Islands,British Virgin Islands,BVI,YES
+British Virgin Islands,British Virgin Islands,British Virgin Islands,Tortola,TOR,OLD
+British West Africa,British West Africa,British West Africa,British West Africa,BWA,YES
+British West Indies,British West Indies,British West Indies,British West Indies,BWI,OLD
 Brunei,Brunei,Brunei,Brunei,BRU,No
 Bulgaria,Bulgaria,Bulgaria,Bulgaria,BUL,No
 Bulgaria,Bulgaria,Bulgaria,"Dobruja, Despotate of",BUL,No
@@ -1234,65 +1234,64 @@ Colombia,Colombia,Colombian states,"Popayán, City of",CLS,No
 Colombia,Colombia,Colombian states,"Santa Marta, City of",CLS,No
 Colombia,Colombia,Colombian states,"Santander, State of",CLS,No
 Colombia,Colombia,Colombian states,"Tolima, State of",CLS,No
-Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,COM,No
-"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",Belgian Congo and Ruanda-Urundi,BCR,No
-"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",CDR,No
-"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",Katanga,KTG,No
+Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,COM,YES
+"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",Belgian Congo and Ruanda-Urundi,BCR,YES
+"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",CDR,YES
+"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",Katanga,KTG,YES
 "Congo, Republic of the","Congo, Republic of the","Congo, Republic of the","Congo, Republic of the",CON,No
 Cook Islands,Cook Islands,Cook Islands,Cook Islands,COO,No
 Costa Rica,Costa Rica,Costa Rica,Costa Rica,COS,No
-"Crimea, Khanate of","Crimea, Khanate of","Crimea, Khanate of","Crimea, Khanate of",CRI,No
+"Crimea, Khanate of","Crimea, Khanate of","Crimea, Khanate of","Crimea, Khanate of",CRI,OLD
 Croatia,Croatia,Croatia,Croatia,CRO,No
-Croatia,Croatia,Croatia,"Croatia, Kingdom of",CRO,No
-Croatia,Croatia,Croatia,Croatian cities,CRO,No
-Croatia,Croatia,Croatia,"Fiume, Free state of",CRO,No
-Croatia,Croatia,Croatia,"Krajina, Serb Republic of",CRO,No
-Croatia,Croatia,Croatia,"Zagreb, City of",CRO,No
-Croatia,Croatia,Croatian cities,"Hvar, City of",CRC,No
-Croatia,Croatia,Croatian cities,"Ragusa, Republic of",CRC,No
-Croatia,Croatia,Croatian cities,"Šibenik, City of",CRC,No
-Croatia,Croatia,Croatian cities,"Trogir, City of",CRC,No
-Croatia,Croatia,Croatian cities,"Zara, City of",CRC,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Catalan colonies,"Athens, Duchy of",CAT,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Catalan colonies,Catalan colonies,CAT,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Catalan colonies,"Neopatras, Duchy of",CAT,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Antioch, Principality of",CRU,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Cilician Armenia,CRU,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,CRU,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Cyprus, Kingdom of",CRU,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Edessa, County of",CRU,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Tripoli, County of",CRU,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,"Achaea, Principality of",FRG,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,"Carytaena, Barony of",FRG,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,"Damala, Lordship of",FRG,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,Frankish Greece,FRG,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,Latin Empire of Constantinople,FRG,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,"Negroponte, Triarchy of",FRG,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,"Rhodes, Order of the knights of",FRG,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,"Salona, County of",FRG,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,"Thessalonica, Kingdom of",FRG,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Genoese colonies,"Caffa, City of",GEC,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Genoese colonies,"Chios, Lordship of",GEC,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Genoese colonies,Genoese colonies,GEC,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Genoese colonies,"Lesbos, Lordship of",GEC,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Genoese colonies,"Moncastro, City of",GEC,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Genoese colonies,"Phocaea, Lordship of",GEC,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Jerusalem, Kingdom of","Beirut, Lordship of",JEU,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Jerusalem, Kingdom of","Damietta, City of",JEU,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Jerusalem, Kingdom of","Jaffa and Ascalon, County of",JEU,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Jerusalem, Kingdom of","Jerusalem, Kingdom of",JEU,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Jerusalem, Kingdom of","Sidon, Lordship of",JEU,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Jerusalem, Kingdom of","Tyre, Lordship of",JEU,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Venetian colonies,"Archipelago, Duchy of the",VEC,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Venetian colonies,"Tinos and Mykonos, Lordship of",VEC,No
-Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Venetian colonies,Venetian colonies,VEC,No
+Croatia,Croatia,Croatia,"Croatia, Kingdom of",CRO,OLD
+Croatia,Croatia,Croatia,Croatian cities,CRO,OLD
+Croatia,Croatia,Croatia,"Fiume, Free state of",CRO,OLD
+Croatia,Croatia,Croatia,"Krajina, Serb Republic of",CRO,OLD
+Croatia,Croatia,Croatia,"Zagreb, City of",CRO,OLD
+Croatia,Croatia,Croatian cities,"Hvar, City of",CRC,OLD
+Croatia,Croatia,Croatian cities,"Ragusa, Republic of",CRC,OLD
+Croatia,Croatia,Croatian cities,"Šibenik, City of",CRC,OLD
+Croatia,Croatia,Croatian cities,"Trogir, City of",CRC,OLD
+Croatia,Croatia,Croatian cities,"Zara, City of",CRC,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Catalan colonies,"Athens, Duchy of",CAT,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Catalan colonies,Catalan colonies,CAT,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Catalan colonies,"Neopatras, Duchy of",CAT,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Antioch, Principality of",CRU,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Cilician Armenia,CRU,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,CRU,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Cyprus, Kingdom of",CRU,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Edessa, County of",CRU,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Tripoli, County of",CRU,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,"Achaea, Principality of",FRG,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,"Carytaena, Barony of",FRG,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,"Damala, Lordship of",FRG,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,Frankish Greece,FRG,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,Latin Empire of Constantinople,FRG,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,"Negroponte, Triarchy of",FRG,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,"Rhodes, Order of the knights of",FRG,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,"Salona, County of",FRG,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Frankish Greece,"Thessalonica, Kingdom of",FRG,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Genoese colonies,"Caffa, City of",GEC,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Genoese colonies,"Chios, Lordship of",GEC,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Genoese colonies,Genoese colonies,GEC,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Genoese colonies,"Lesbos, Lordship of",GEC,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Genoese colonies,"Moncastro, City of",GEC,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Genoese colonies,"Phocaea, Lordship of",GEC,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Jerusalem, Kingdom of","Beirut, Lordship of",JEU,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Jerusalem, Kingdom of","Damietta, City of",JEU,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Jerusalem, Kingdom of","Jaffa and Ascalon, County of",JEU,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Jerusalem, Kingdom of","Jerusalem, Kingdom of",JEU,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Jerusalem, Kingdom of","Sidon, Lordship of",JEU,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,"Jerusalem, Kingdom of","Tyre, Lordship of",JEU,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Venetian colonies,"Archipelago, Duchy of the",VEC,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Venetian colonies,"Tinos and Mykonos, Lordship of",VEC,OLD
+Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Venetian colonies,Venetian colonies,VEC,OLD
 Cuba,Cuba,Cuba,Cuba,CUB,No
 Cyprus,Cyprus,Cyprus,Cyprus,CYP,No
 Czech Republic,Czech Republic,Czech Republic,Bohemia and Moravia,CZE,No
 Czech Republic,Czech Republic,Czech Republic,Czech Republic,CZE,No
 Czech Republic,Czech Republic,Czech Republic,Czechoslovakia,CZE,No
-Danish West Indies,Danish West Indies,Danish West Indies,Danish West Indies,DAN,No
-Denmark,Denmark,Denmark,Danish West Indies,DEN,No
+Denmark,Danish West Indies,Danish West Indies,Danish West Indies,DAN,YES
 Denmark,Denmark,Denmark,Denmark,DEN,No
 Denmark,Denmark,Denmark,Faroe Islands,DEN,No
 Denmark,Denmark,Denmark,Greenland,DEN,No
@@ -1304,32 +1303,32 @@ Djibouti,Djibouti,Djibouti,French Somaliland,DJI,YES
 Dominica,Dominica,Dominica,Dominica,DOM,No
 Dominican Republic,Dominican Republic,Dominican Republic,Dominican Republic,DOR,No
 East Africa,East Africa,East Africa,East Africa,EAA,No
-Eastern Caribbean States,Eastern Caribbean States,Eastern Caribbean States,Eastern Caribbean States,ECS,No
+Eastern Caribbean States,Eastern Caribbean States,Eastern Caribbean States,Eastern Caribbean States,ECS,YES
 Ecuador,Ecuador,Ecuador,Ecuador,ECU,No
 Egypt,Egypt,Egypt,Egypt,EGY,No
 El Salvador,El Salvador,El Salvador,El Salvador,EL ,No
 Equatorial African states,Equatorial African states,Equatorial African states,Equatorial African states,EAS,No
-Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,EQU,No
+Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,EQU,YES
 Eritrea,Eritrea,Eritrea,Eritrea,ERI,YES
 Eritrea,Eritrea,Eritrea,Italian Eritrea,ERI,YES
 Estonia,Estonia,Estonia,Estonia,EST,No
-Estonia,Estonia,"Estonia, Danish","Estonia, Danish",ESD,No
-Estonia,Estonia,"Estonia, Danish","Estonia, Danish",ESD,No
-Estonia,Estonia,"Estonia, Danish","Ösel-Wiek, Bishopric of",ESD,No
-Estonia,Estonia,"Estonia, Swedish","Estonia, Swedish",ESW,No
-Estonia,Estonia,"Estonia, Swedish","Narva, City of",ESW,No
-Estonia,Estonia,"Estonia, Swedish","Reval, City of",ESW,No
-Eswatini,Eswatini,Eswatini,Eswatini,ESA,No
+Estonia,Estonia,"Estonia, Danish","Estonia, Danish",ESD,OLD
+Estonia,Estonia,"Estonia, Danish","Estonia, Danish",ESD,OLD
+Estonia,Estonia,"Estonia, Danish","Ösel-Wiek, Bishopric of",ESD,OLD
+Estonia,Estonia,"Estonia, Swedish","Estonia, Swedish",ESW,OLD
+Estonia,Estonia,"Estonia, Swedish","Narva, City of",ESW,OLD
+Estonia,Estonia,"Estonia, Swedish","Reval, City of",ESW,OLD
+Eswatini,Eswatini,Eswatini,Eswatini,ESA,YES
 Ethiopia,Ethiopia,Ethiopia,Ethiopia,ETH,YES
 Ethiopia,Ethiopia,Ethiopia,"Harar, Emirate of",HRR,YES
 Eurozone,Eurozone,Eurozone,Eurozone,EUR,No
-Falkland Islands,Falkland Islands,Falkland Islands,Falkland Islands,FAL,No
+Falkland Islands,Falkland Islands,Falkland Islands,Falkland Islands,FAL,YES
 Fiji,Fiji,Fiji,Fiji,FIJ,YES
 Finland,Finland,Finland,Finland,FIN,No
-France,France,France,France,FRA,No
+France,France,France,France,FRA,YES
 France,France,France,French colonies,FHC,No
 France,France,France,French Equatorial Africa,FHE,No
-France,France,France,French Guiana,FHG,No
+France,France,France,French Guiana,FHG,YES
 France,France,France,French Indochina,FHI,No
 France,France,France,French notgeld,FHN,No
 France,France,France,French Pacific Territories,FHP,No
@@ -1337,11 +1336,11 @@ France,France,France,French Polynesia,FHO,No
 France,France,France,French Southern and Antarctic Lands,FHU,No
 France,France,France,French Treasure banknotes,FRA,No
 France,France,France,French West Africa,FRW,No
-France,France,France,French West Indies,FRD,No
-France,France,France,Guadeloupe,GDP,No
-France,France,France,Martinique,MTQ,No
-France,France,France,Réunion,RNO,No
-France,France,France,Saint-Pierre and Miquelon,SPM,No
+France,France,France,French West Indies,FRD,YES
+France,France,France,Guadeloupe,GGG,YES
+France,France,France,Martinique,MTQ,YES
+France,France,France,Réunion,RNO,YES
+France,France,France,Saint-Pierre and Miquelon,SPM,YES
 France,France,France - Feudal,"Albi, Viscounty of",FRF,No
 France,France,France - Feudal,"Amiens, County of",FRF,No
 France,France,France - Feudal,"Anduze and Sauve, Lordship of",FRF,No
@@ -1695,7 +1694,7 @@ French Polynesia,French Polynesia,French Polynesia,French Polynesia,FPL,No
 French Polynesia,French Polynesia,French Polynesia,Tahiti,TAH,No
 French West Africa,French West Africa,French West Africa,French West Africa,FWA,No
 Gabon,Gabon,Gabon,Gabon,GAB,No
-"Gambia, The","Gambia, The","Gambia, The","Gambia, The",GAM,No
+"Gambia, The","Gambia, The","Gambia, The","Gambia, The",GAM,YES
 Georgia,Georgia,Georgia,Georgia,GEO,No
 Georgia,Georgia,Georgia,"Georgia, Democratic Republic of",GEO,No
 Georgia,Georgia,Georgia,"Georgia, Kingdom of",GEO,No
@@ -4169,7 +4168,7 @@ Germany,Germany,Germany,Germany - 1871-1948,GER,No
 Germany,Germany,Germany,"Germany, Federal Republic of",GEW,No
 Germany,Germany,Germany,Saar,SRR,No
 Ghana,Ghana,Ghana,Ghana,GHA,No
-Ghana,Ghana,Ghana,Gold Coast,GHA,No
+Ghana,Ghana,Ghana,Gold Coast,GDC,YES
 Gibraltar,Gibraltar,Gibraltar,Gibraltar,GIB,No
 Gilbert and Ellice Islands,Gilbert and Ellice Islands,Gilbert and Ellice Islands,Gilbert and Ellice Islands,GIL,No
 Greece,Greece,Greece,Crete,GRE,No
@@ -4223,7 +4222,7 @@ India,India,India,India - Danish,IND,No
 India,India,India,India - Dutch,IND,No
 India,India,India,India - French,IND,No
 India,India,India,India - Islamic,IND,No
-India,India,India,India - Portuguese,IND,No
+India,India,India,India - Portuguese,IPP,YES
 India,India,India,India - Princely states,IND,No
 India,India,India,"India, British",IND,No
 India,India,India,Mughal Empire,IND,No
@@ -4504,7 +4503,7 @@ Islamic states,Islamic states,Zengid dynasty,"Sinjar, Emirate of",ZEN,No
 Islamic states,Islamic states,Zengid dynasty,"Syria, Zengid emirate of",ZEN,No
 Islamic states,Islamic states,Zengid dynasty,Zengid dynasty,ZEN,No
 Isle of Man,Isle of Man,Isle of Man,Isle of Man,IOM,No
-Isles de France and Bonaparte,Isles de France and Bonaparte,Isles de France and Bonaparte,Isles de France and Bonaparte,IFB,No
+Isles de France and Bonaparte,Isles de France and Bonaparte,Isles de France and Bonaparte,Isles de France and Bonaparte,IFB,OLD
 Israel,Israel,Israel,British Palestine,ISR,No
 Israel,Israel,Israel,Israel,ISR,No
 Italy,Italy,Italian states,"Acqui, Bishopric of",ITS,No
@@ -4608,7 +4607,7 @@ Italy,Italy,Italy,Italian East Africa,IFA,YES
 Italy,Italy,Italy,Italian states,ITA,No
 Italy,Italy,Italy,Italy,ITA,No
 Ivory Coast,Ivory Coast,Ivory Coast,Ivory Coast,IVO,No
-Jamaica,Jamaica,Jamaica,Jamaica,JAM,No
+Jamaica,Jamaica,Jamaica,Jamaica,JAM,YES
 Japan,Japan,Japan,Japan,JAP,No
 Japan,Japan,Japan,Japanese feudal domains,JAP,No
 Japan,Japan,Japan,"Oceania, Japanese occupation of",JAP,No
@@ -4644,7 +4643,7 @@ Laos,Laos,Laos,Laos,LAO,No
 Latvia,Latvia,Latvia,Latvia,LAT,No
 Lebanon,Lebanon,Lebanon,Lebanon,LEB,No
 Leeward Islands,Leeward Islands,Leeward Islands,Leeward Islands,LEE,No
-Lesotho,Lesotho,Lesotho,Lesotho,LES,No
+Lesotho,Lesotho,Lesotho,Lesotho,LES,YES
 Liberia,Liberia,Liberia,Liberia,LIB,No
 Libya,Libya,Libya,Fezzan,FEZ,No
 Libya,Libya,Libya,Libya,LYB,No
@@ -4699,7 +4698,7 @@ Low countries feudal,Low countries feudal,Low countries feudal,"Vianen, Lordship
 Low countries feudal,Low countries feudal,Low countries feudal,"Vogelzang, Zolder and Zonhoven, Lordships of",LOW,No
 Luxembourg,Luxembourg,Luxembourg,Luxembourg,LUX,No
 Madagascar,Madagascar,Madagascar,Madagascar,MAD,No
-Malawi,Malawi,Malawi,Malawi,MLL,No
+Malawi,Malawi,Malawi,Malawi,MLL,YES
 Malaysia,Malaysia,British Malaysia,British Malaysia,BRI,No
 Malaysia,Malaysia,British Malaysia,Malaya and British Borneo,BRI,No
 Malaysia,Malaysia,British Malaysia,North Borneo,BRI,No
@@ -4720,7 +4719,7 @@ Malta,Malta,Malta,Malta,MAL,YES
 Malta,Malta,Malta,"Malta, Order of",MAL,YES
 Marshall Islands,Marshall Islands,Marshall Islands,Marshall Islands,MAR,No
 Mauritania,Mauritania,Mauritania,Mauritania,MAU,No
-Mauritius,Mauritius,Mauritius,Mauritius,MRT,No
+Mauritius,Mauritius,Mauritius,Mauritius,MRT,YES
 Mexico,Mexico,Mexican states,"Aguascalientes, State of",MES,No
 Mexico,Mexico,Mexican states,"Chihuahua, State of",MES,No
 Mexico,Mexico,Mexican states,"Coahuila, State of",MES,No
@@ -4769,7 +4768,7 @@ Morocco,Morocco,Morocco,Morocco,MOR,No
 Morocco,Morocco,Morocco,"Tangier, City of",TGR,No
 Mozambique,Mozambique,Mozambique,Mozambique,MOZ,YES
 Myanmar,Myanmar,Myanmar,Myanmar,MYA,No
-Namibia,Namibia,Namibia,Namibia,NAM,No
+Namibia,Namibia,Namibia,Namibia,NAM,YES
 Nauru,Nauru,Nauru,Nauru,NAU,No
 Nepal,Nepal,Licchavi Kingdom,Licchavi Kingdom,LIC,No
 Nepal,Nepal,Malla dynasty,Bhaktapur Kingdom,MLY,No
@@ -4779,34 +4778,34 @@ Nepal,Nepal,Malla dynasty,Malla dynasty,MLY,No
 Nepal,Nepal,Malla dynasty,Patan Kingdom,MLY,No
 Nepal,Nepal,Nepal,Nepal,NEP,No
 Nepal,Nepal,Nepal,Nepal (medieval),NEP,No
-Netherlands,Netherlands,Dutch Republic,"Breda, City of",DUT,No
-Netherlands,Netherlands,Dutch Republic,"Deventer, City of",DUT,No
-Netherlands,Netherlands,Dutch Republic,"Elburg, City of",DUT,No
-Netherlands,Netherlands,Dutch Republic,"Friesland, Province of",DUT,No
-Netherlands,Netherlands,Dutch Republic,"Gelderland, Province of",DUT,No
-Netherlands,Netherlands,Dutch Republic,"Gorinchem, City of",DUT,No
-Netherlands,Netherlands,Dutch Republic,"Groningen and the Ommelanden, Province of",DUT,No
-Netherlands,Netherlands,Dutch Republic,"Groningen, City of",DUT,No
-Netherlands,Netherlands,Dutch Republic,"Holland, Province of",DUT,No
-Netherlands,Netherlands,Dutch Republic,"Huissen, City of",DUT,No
-Netherlands,Netherlands,Dutch Republic,"Nijmegen, City of",DUT,No
-Netherlands,Netherlands,Dutch Republic,"Overijssel, Province of",DUT,No
-Netherlands,Netherlands,Dutch Republic,"Utrecht, City of",DUT,No
-Netherlands,Netherlands,Dutch Republic,"Utrecht, Province of",DUT,No
-Netherlands,Netherlands,Dutch Republic,"Zeeland, Province of",DUT,No
-Netherlands,Netherlands,Dutch Republic,"Zutphen, City of",DUT,No
-Netherlands,Netherlands,Dutch Republic,"Zwolle, City of",DUT,No
-Netherlands,Netherlands,Netherlands,Batavian Republic,NET,No
-Netherlands,Netherlands,Netherlands,Burgundian Netherlands,NET,No
-Netherlands,Netherlands,Netherlands,Dutch Republic,NET,No
-Netherlands,Netherlands,Netherlands,"Holland, Kingdom of",NET,No
+Netherlands,Netherlands,Dutch Republic,"Breda, City of",DUT,OLD
+Netherlands,Netherlands,Dutch Republic,"Deventer, City of",DUT,OLD
+Netherlands,Netherlands,Dutch Republic,"Elburg, City of",DUT,OLD
+Netherlands,Netherlands,Dutch Republic,"Friesland, Province of",DUT,OLD
+Netherlands,Netherlands,Dutch Republic,"Gelderland, Province of",DUT,OLD
+Netherlands,Netherlands,Dutch Republic,"Gorinchem, City of",DUT,OLD
+Netherlands,Netherlands,Dutch Republic,"Groningen and the Ommelanden, Province of",DUT,OLD
+Netherlands,Netherlands,Dutch Republic,"Groningen, City of",DUT,OLD
+Netherlands,Netherlands,Dutch Republic,"Holland, Province of",DUT,OLD
+Netherlands,Netherlands,Dutch Republic,"Huissen, City of",DUT,OLD
+Netherlands,Netherlands,Dutch Republic,"Nijmegen, City of",DUT,OLD
+Netherlands,Netherlands,Dutch Republic,"Overijssel, Province of",DUT,OLD
+Netherlands,Netherlands,Dutch Republic,"Utrecht, City of",DUT,OLD
+Netherlands,Netherlands,Dutch Republic,"Utrecht, Province of",DUT,OLD
+Netherlands,Netherlands,Dutch Republic,"Zeeland, Province of",DUT,OLD
+Netherlands,Netherlands,Dutch Republic,"Zutphen, City of",DUT,OLD
+Netherlands,Netherlands,Dutch Republic,"Zwolle, City of",DUT,OLD
+Netherlands,Netherlands,Netherlands,Batavian Republic,NET,OLD
+Netherlands,Netherlands,Netherlands,Burgundian Netherlands,NET,OLD
+Netherlands,Netherlands,Netherlands,Dutch Republic,NET,OLD
+Netherlands,Netherlands,Netherlands,"Holland, Kingdom of",NET,OLD
 Netherlands,Netherlands,Netherlands,Netherlands,NET,No
-Netherlands,Netherlands,Netherlands,Spanish Netherlands,NET,No
-Netherlands Antilles,Netherlands Antilles,Netherlands Antilles,BES Islands,NEA,No
-Netherlands Antilles,Netherlands Antilles,Netherlands Antilles,Curaçao,NEA,No
-Netherlands Antilles,Netherlands Antilles,Netherlands Antilles,Netherlands Antilles,NEA,No
-Netherlands Antilles,Netherlands Antilles,Netherlands Antilles,Netherlands West Indies,NEA,No
-Netherlands Antilles,Netherlands Antilles,Netherlands Antilles,Saint Eustatius,NEA,No
+Netherlands,Netherlands,Netherlands,Spanish Netherlands,NET,OLD
+Netherlands Antilles,Netherlands Antilles,Netherlands Antilles,BES Islands,CCA,YES
+Netherlands Antilles,Netherlands Antilles,Netherlands Antilles,Curaçao,CCA,YES
+Netherlands Antilles,Netherlands Antilles,Netherlands Antilles,Netherlands Antilles,NAA,YES
+Netherlands Antilles,Netherlands Antilles,Netherlands Antilles,Netherlands West Indies,NEA,OLD
+Netherlands Antilles,Netherlands Antilles,Netherlands Antilles,Saint Eustatius,NEA,OLD
 New Caledonia,New Caledonia,New Caledonia,New Caledonia,NCA,No
 New Zealand,New Zealand,New Zealand,New Zealand,NZD,Yes
 Nicaragua,Nicaragua,Nicaragua,Nicaragua,NIC,No
@@ -4962,12 +4961,12 @@ Portugal,Portugal,Portugal,Azores,AZO,No
 Portugal,Portugal,Portugal,Madeira Islands,MRI,No
 Portugal,Portugal,Portugal,Portugal,POR,No
 Portugal,Portugal,Portugal,Portuguese notgeld,POR,No
-Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,PUE,No
-Puerto Rico,Puerto Rico,Puerto Rico,Vieques Island,PUE,No
+Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,PUE,YES
+Puerto Rico,Puerto Rico,Puerto Rico,Vieques Island,PUE,YES
 Qatar,Qatar,Qatar,Qatar,QAT,No
 Qatar,Qatar,Qatar,Qatar and Dubai,QAT,No
 Qatar and Dubai,Qatar and Dubai,Qatar and Dubai,Qatar and Dubai,QAD,No
-Rhodesia and Nyasaland,Rhodesia and Nyasaland,Rhodesia and Nyasaland,Rhodesia and Nyasaland,RHO,No
+Rhodesia and Nyasaland,Rhodesia and Nyasaland,Rhodesia and Nyasaland,Rhodesia and Nyasaland,RHO,YES
 Romania,Romania,Romania,Romania,ROM,No
 Romania,Romania,Romania,Romanian notgeld,ROM,No
 Romania,Romania,Romanian notgeld,"Arad, City of",RON,No
@@ -5021,7 +5020,7 @@ Saint Lucia,Saint Lucia,Saint Lucia,Saint Lucia,SLU,No
 Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,SVG,No
 Samoa,Samoa,Samoa,Samoa,SMO,No
 San Marino,San Marino,San Marino,San Marino,SAN,YES
-São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,STP,No
+São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,STP,YES
 Saudi Arabia,Saudi Arabia,Saudi Arabia,Hejaz,SAU,No
 Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,SAU,No
 Senegal,Senegal,Senegal,Senegal,SEN,No
@@ -5030,8 +5029,8 @@ Serbia,Serbia,Serbia,Serbian Empire,SER,No
 Serbia,Serbia,Serbia (medieval),"Brankovi?, District of",SEM,No
 Serbia,Serbia,Serbia (medieval),Dejanovi? Domain,SEM,No
 Serbia,Serbia,Serbia (medieval),Serbia (medieval),SEM,No
-Seychelles,Seychelles,Seychelles,Seychelles,SEY,No
-Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,SIE,No
+Seychelles,Seychelles,Seychelles,Seychelles,SEY,YES
+Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,SIE,YES
 Singapore,Singapore,Singapore,Singapore,SIN,No
 Sint Maarten,Sint Maarten,Sint Maarten,Sint Maarten,SIM,No
 Slovakia,Slovakia,Slovakia,Slovakia,SLO,No
@@ -5041,14 +5040,13 @@ Somalia,Somalia,Somalia,Italian Somaliland,SMI,YES
 Somalia,Somalia,Somalia,"Mogadishu, Sultanate of",MNN,No
 Somalia,Somalia,Somalia,Somalia,SOM,YES
 Somaliland,Somaliland,Somaliland,Somaliland,SML,YES
-South Africa,South Africa,South Africa,Bophuthatswana,SOU,No
+South Africa,South Africa,South Africa,Bophuthatswana,BTS,No
 South Africa,South Africa,South Africa,South Africa,SOU,No
-South Africa,South Africa,South Africa,South Africa (pre-Union),SOU,No
-South Africa,South Africa,South Africa (pre-Union),Cape of Good Hope,TRN,No
-South Africa,South Africa,South Africa (pre-Union),Griquatown,TRN,No
-South Africa,South Africa,South Africa (pre-Union),Orange Free State,TRN,No
+South Africa,South Africa,South Africa (pre-Union),Cape of Good Hope,CGH,No
+South Africa,South Africa,South Africa (pre-Union),Griquatown,GQT,No
+South Africa,South Africa,South Africa (pre-Union),Orange Free State,OFS,No
 South Africa,South Africa,South Africa (pre-Union),South Africa (pre-Union),TRN,No
-South Africa,South Africa,South Africa (pre-Union),South African Republic,TRN,No
+South Africa,South Africa,South Africa (pre-Union),South African Republic,ZAR,No
 South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,SGS,YES
 South Korea,South Korea,South Korea,South Korea,SKO,No
 South Ossetia,South Ossetia,South Ossetia,South Ossetia,OSS,No
@@ -5196,17 +5194,17 @@ Tanzania,Tanzania,Tanzania,Zanzibar,TAN,No
 "Tashir-Dzoraget, Kingdom of","Tashir-Dzoraget, Kingdom of","Tashir-Dzoraget, Kingdom of","Tashir-Dzoraget, Kingdom of",TAS,No
 Thailand,Thailand,Thailand,Thailand,THA,No
 Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,TIM,No
-Togo,Togo,Togo,Togo,TOG,No
+Togo,Togo,Togo,Togo,TOG,YES
 Tokelau,Tokelau,Tokelau,Tokelau,TKL,No
 Tonga,Tonga,Tonga,Tonga,TON,No
 Transnistria,Transnistria,Transnistria,Transnistria,TRA,No
-Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Tobago,TRI,No
-Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad,TRI,No
-Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,TRI,No
+Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Tobago,TGO,No
+Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad,TDD,No
+Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,TTT,No
 Tunisia,Tunisia,Tunisia,Tunisia,TUN,No
 Turkey,Turkey,Turkey,Turkey,TUR,No
 Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,TKM,No
-Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,TCI,No
+Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,TCI,YES
 Tuvalu,Tuvalu,Tuvalu,Tuvalu,TUV,No
 Uganda,Uganda,Uganda,Uganda,UGA,No
 Ukraine,Ukraine,Ukraine,Transnistria Governorate,UKR,No
@@ -5294,7 +5292,7 @@ Yemen,Yemen,Yemenite states,Tarim,YES,No
 Yemen,Yemen,Yemenite states,Yemenite states,YES,No
 Yemen,Yemen,Yemenite states,Zabid,YES,No
 Yugoslavia,Yugoslavia,Yugoslavia,Yugoslavia,YUG,No
-Zambia,Zambia,Zambia,Zambia,ZAM,No
-Zimbabwe,Zimbabwe,Zimbabwe,Rhodesia,ZIM,No
-Zimbabwe,Zimbabwe,Zimbabwe,Southern Rhodesia,ZIM,No
-Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,ZIM,No
+Zambia,Zambia,Zambia,Zambia,ZAM,YES
+Zimbabwe,Zimbabwe,Zimbabwe,Rhodesia,RDS,YES
+Zimbabwe,Zimbabwe,Zimbabwe,Southern Rhodesia,SNR,YES
+Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,ZIM,YES
