@@ -1327,20 +1327,20 @@ Falkland Islands,Falkland Islands,Falkland Islands,Falkland Islands,FAL,No
 Fiji,Fiji,Fiji,Fiji,FIJ,YES
 Finland,Finland,Finland,Finland,FIN,No
 France,France,France,France,FRA,No
-France,France,France,French colonies,FRA,No
-France,France,France,French Equatorial Africa,FRA,No
+France,France,France,French colonies,FHC,No
+France,France,France,French Equatorial Africa,FHE,No
 France,France,France,French Guiana,FHG,No
-France,France,France,French Indochina,FRA,No
-France,France,France,French notgeld,FRA,No
-France,France,France,French Pacific Territories,FRA,No
-France,France,France,French Polynesia,FRA,No
-France,France,France,French Southern and Antarctic Lands,FRA,No
+France,France,France,French Indochina,FHI,No
+France,France,France,French notgeld,FHN,No
+France,France,France,French Pacific Territories,FHP,No
+France,France,France,French Polynesia,FHO,No
+France,France,France,French Southern and Antarctic Lands,FHU,No
 France,France,France,French Treasure banknotes,FRA,No
-France,France,France,French West Africa,FRA,No
-France,France,France,French West Indies,FRA,No
-France,France,France,Guadeloupe,FRA,No
-France,France,France,Martinique,FRA,No
-France,France,France,Réunion,FRA,No
+France,France,France,French West Africa,FRW,No
+France,France,France,French West Indies,FRD,No
+France,France,France,Guadeloupe,GDP,No
+France,France,France,Martinique,MTQ,No
+France,France,France,Réunion,RNO,No
 France,France,France,Saint-Pierre and Miquelon,SPM,No
 France,France,France - Feudal,"Albi, Viscounty of",FRF,No
 France,France,France - Feudal,"Amiens, County of",FRF,No
@@ -1519,45 +1519,45 @@ France,French notgeld,"Ardennes, Department of","Charleville-Mézières, Commune o
 France,French notgeld,"Ardennes, Department of","Monthermé, Commune of",ANN,YES
 France,French notgeld,"Ariège, Department of","Ariège, Department of",ARI,YES
 France,French notgeld,"Ariège, Department of","Laroque-d'Olmes, Commune of",ARI,YES
-France,French notgeld,"Aude, Department of","Aude, Department of",AUD,No
-France,French notgeld,"Aude, Department of","Barbaira, Commune of",AUD,No
-France,French notgeld,"Aude, Department of","Carcassonne, Commune of",AUD,No
-France,French notgeld,"Aude, Department of","Castelnaudary, Commune of",AUD,No
-France,French notgeld,"Aude, Department of","Cuxac d'Aude, Commune of",AUD,No
-France,French notgeld,"Aude, Department of","Montréal, Commune of",AUD,No
-France,French notgeld,"Aude, Department of","Narbonne, Commune of",AUD,No
-France,French notgeld,"Aude, Department of","Ouveillan, Commune of",AUD,No
-France,French notgeld,"Aude, Department of","Peyriac-de-Mer, Commune of",AUD,No
-France,French notgeld,"Aude, Department of","Sigean, Commune of",AUD,No
-France,French notgeld,"Bas-Rhein, Department of","Bas-Rhein, Department of",BAS,No
-France,French notgeld,"Bas-Rhein, Department of","Strasbourg, Commune of",BAS,No
-France,French notgeld,"Basses-Pyrénées, Department of","Basses-Pyrénées, Department of",BAP,No
-France,French notgeld,"Basses-Pyrénées, Department of","Bayonne, Commune of",BAP,No
-France,French notgeld,"Bouches-du-Rhône, Department of","Bouches-du-Rhône, Department of",BOU,No
-France,French notgeld,"Bouches-du-Rhône, Department of","Marseille, Commune of",BOU,No
-France,French notgeld,"Calvados, Department of","Bayeux, Commune of",CAL,No
-France,French notgeld,"Calvados, Department of","Caen, Commune of",CAL,No
-France,French notgeld,"Calvados, Department of","Calvados, Department of",CAL,No
-France,French notgeld,"Calvados, Department of","Falaise, Commune of",CAL,No
-France,French notgeld,"Charente-Maritime, Department of","Charente-Maritime, Department of",CHM,No
-France,French notgeld,"Charente-Maritime, Department of","Jonzac, Commune of",CHM,No
-France,French notgeld,"Charente-Maritime, Department of","La Rochelle, Commune of",CHM,No
-France,French notgeld,"Charente-Maritime, Department of","Rochefort-sur-Mer, Commune of",CHM,No
-France,French notgeld,"Charente-Maritime, Department of","Royan-sur-Océan, Commune of",CHM,No
-France,French notgeld,"Corrèze, Department of","Brive-la-Gaillarde, Commune of",COR,No
-France,French notgeld,"Corrèze, Department of","Colmar, Commune of",COR,No
-France,French notgeld,"Corrèze, Department of","Corrèze, Department of",COR,No
-France,French notgeld,"Corrèze, Department of","Haut-Rhin, Department of",COR,No
-France,French notgeld,"Corrèze, Department of","Mulhouse, Commune of",COR,No
-France,French notgeld,"Côte-d'Or, Department of","Côte-d'Or, Department of",CÔT,No
-France,French notgeld,"Côte-d'Or, Department of","Dijon, Commune of",CÔT,No
-France,French notgeld,"Deux-Sévres, Department of","Deux-Sévres, Department of",DEU,No
-France,French notgeld,"Dordogne, Department of","Dordogne, Department of",DDO,No
-France,French notgeld,"Dordogne, Department of","Périgueux, Commune of",DDO,No
-France,French notgeld,"Dordogne, Department of","Thiviers, Commune of",DDO,No
-France,French notgeld,"Doubs, Department of","Beaucourt, Commune of",DOU,No
-France,French notgeld,"Doubs, Department of","Besançon, Commune of",DOU,No
-France,French notgeld,"Doubs, Department of","Doubs, Department of",DOU,No
+France,French notgeld,"Aude, Department of","Aude, Department of",AUD,YES
+France,French notgeld,"Aude, Department of","Barbaira, Commune of",AUD,YES
+France,French notgeld,"Aude, Department of","Carcassonne, Commune of",AUD,YES
+France,French notgeld,"Aude, Department of","Castelnaudary, Commune of",AUD,YES
+France,French notgeld,"Aude, Department of","Cuxac d'Aude, Commune of",AUD,YES
+France,French notgeld,"Aude, Department of","Montréal, Commune of",AUD,YES
+France,French notgeld,"Aude, Department of","Narbonne, Commune of",AUD,YES
+France,French notgeld,"Aude, Department of","Ouveillan, Commune of",AUD,YES
+France,French notgeld,"Aude, Department of","Peyriac-de-Mer, Commune of",AUD,YES
+France,French notgeld,"Aude, Department of","Sigean, Commune of",AUD,YES
+France,French notgeld,"Bas-Rhein, Department of","Bas-Rhein, Department of",BAS,YES
+France,French notgeld,"Bas-Rhein, Department of","Strasbourg, Commune of",BAS,YES
+France,French notgeld,"Basses-Pyrénées, Department of","Basses-Pyrénées, Department of",BAP,YES
+France,French notgeld,"Basses-Pyrénées, Department of","Bayonne, Commune of",BAP,YES
+France,French notgeld,"Bouches-du-Rhône, Department of","Bouches-du-Rhône, Department of",BOU,YES
+France,French notgeld,"Bouches-du-Rhône, Department of","Marseille, Commune of",BOU,YES
+France,French notgeld,"Calvados, Department of","Bayeux, Commune of",CAL,YES
+France,French notgeld,"Calvados, Department of","Caen, Commune of",CAL,YES
+France,French notgeld,"Calvados, Department of","Calvados, Department of",CAL,YES
+France,French notgeld,"Calvados, Department of","Falaise, Commune of",CAL,YES
+France,French notgeld,"Charente-Maritime, Department of","Charente-Maritime, Department of",CHM,YES
+France,French notgeld,"Charente-Maritime, Department of","Jonzac, Commune of",CHM,YES
+France,French notgeld,"Charente-Maritime, Department of","La Rochelle, Commune of",CHM,YES
+France,French notgeld,"Charente-Maritime, Department of","Rochefort-sur-Mer, Commune of",CHM,YES
+France,French notgeld,"Charente-Maritime, Department of","Royan-sur-Océan, Commune of",CHM,YES
+France,French notgeld,"Corrèze, Department of","Brive-la-Gaillarde, Commune of",COR,YES
+France,French notgeld,"Corrèze, Department of","Colmar, Commune of",COR,YES
+France,French notgeld,"Corrèze, Department of","Corrèze, Department of",COR,YES
+France,French notgeld,"Corrèze, Department of","Haut-Rhin, Department of",COR,YES
+France,French notgeld,"Corrèze, Department of","Mulhouse, Commune of",COR,YES
+France,French notgeld,"Côte-d'Or, Department of","Côte-d'Or, Department of",COT,YES
+France,French notgeld,"Côte-d'Or, Department of","Dijon, Commune of",COT,YES
+France,French notgeld,"Deux-Sévres, Department of","Deux-Sévres, Department of",DEU,YES
+France,French notgeld,"Dordogne, Department of","Dordogne, Department of",DDO,YES
+France,French notgeld,"Dordogne, Department of","Périgueux, Commune of",DDO,YES
+France,French notgeld,"Dordogne, Department of","Thiviers, Commune of",DDO,YES
+France,French notgeld,"Doubs, Department of","Beaucourt, Commune of",DOU,YES
+France,French notgeld,"Doubs, Department of","Besançon, Commune of",DOU,YES
+France,French notgeld,"Doubs, Department of","Doubs, Department of",DOU,YES
 France,French notgeld,"Drôme, Department of","Donzère, Commune of",DRO,No
 France,French notgeld,"Drôme, Department of","Drôme, Department of",DRO,No
 France,French notgeld,"Eure, Department of","Bernay, Commune of",ERE,No
