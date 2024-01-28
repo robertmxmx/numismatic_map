@@ -115,7 +115,7 @@ relizane_notgeld,oran_department_notgeld,algeria_notgeld,algeria_section,algeria
 sidi-bel-abbes_notgeld,oran_department_notgeld,algeria_notgeld,algeria_section,algeria_section,"Sidi Bel Abbès, Commune of","Oran, Department de",Algerian notgeld,Algeria,Algeria,
 amazonia,amazonia,amazonia,amazonia,amazonia,Amazonia,Amazonia,Amazonia,Amazonia,Amazonia,
 ancient,ancient,ancient,ancient,ancient,Ancient and early medieval polities,Ancient and early medieval polities,Ancient and early medieval polities,Ancient and early medieval polities,Ancient and early medieval polities,
-andorre,andorre,andorre,andorre,andorre,Andorra,Andorra,Andorra,Andorra,Andorra,
+andorre,andorre,andorre,andorre,andorre,Andorra,Andorra,Andorra,Andorra,Andorra,AND
 angola,angola,angola,angola,angola,Angola,Angola,Angola,Angola,Angola,
 cabinda,angola,angola,angola,angola,"Cabinda, Republic of",Angola,Angola,Angola,Angola,
 antarctica,antarctica,antarctica,antarctica,antarctica,Antarctica,Antarctica,Antarctica,Antarctica,Antarctica,
@@ -2025,7 +2025,7 @@ vetulonia,etrurie,etrurie,etrurie,etrurie,Vetulonia,Etruria,Etruria,Etruria,Etru
 volaterrae,etrurie,etrurie,etrurie,etrurie,Volaterrae,Etruria,Etruria,Etruria,Etruria,
 volsinii,etrurie,etrurie,etrurie,etrurie,Volsinii,Etruria,Etruria,Etruria,Etruria,
 vulci,etrurie,etrurie,etrurie,etrurie,Vulci,Etruria,Etruria,Etruria,Etruria,
-zone_euro,zone_euro,zone_euro,zone_euro,zone_euro,Eurozone,Eurozone,Eurozone,Eurozone,Eurozone,
+zone_euro,zone_euro,zone_euro,zone_euro,zone_euro,Eurozone,Eurozone,Eurozone,Eurozone,Eurozone,EUR
 fantasy,fantasy,fantasy,fantasy,fantasy,Fantasy places,Fantasy places,Fantasy places,Fantasy places,Fantasy places,
 fidji,fidji,fidji,fidji,fidji,Fiji,Fiji,Fiji,Fiji,Fiji,
 aland,finlande,finlande,finlande,finlande,Åland,Finland,Finland,Finland,Finland,
@@ -7360,7 +7360,7 @@ fezzan,libya_section,libya_section,libya_section,libya_section,Fezzan,Libya,Liby
 libya_section,libya_section,libya_section,libya_section,libya_section,Libya,Libya,Libya,Libya,Libya,
 libye,libya_section,libya_section,libya_section,libya_section,Libya,Libya,Libya,Libya,Libya,
 tripolitania,libya_section,libya_section,libya_section,libya_section,Tripolitania,Libya,Libya,Libya,Libya,
-liechtenstein,liechtenstein,liechtenstein,liechtenstein,liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,
+liechtenstein,liechtenstein,liechtenstein,liechtenstein,liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,LIE
 lithuania_section,lithuania_section,lithuania_section,lithuania_section,lithuania_section,Lithuania,Lithuania,Lithuania,Lithuania,Lithuania,
 lituanie,lithuania_section,lithuania_section,lithuania_section,lithuania_section,Lithuania,Lithuania,Lithuania,Lithuania,Lithuania,
 lithuania_grand_duchy,lithuania_section,lithuania_section,lithuania_section,lithuania_section,"Lithuania, Grand Duchy of",Lithuania,Lithuania,Lithuania,Lithuania,
@@ -7577,9 +7577,9 @@ wallachia,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallach
 gaugazia,moldavie,moldavie,moldavie,moldavie,Gagauzia,Moldova,Moldova,Moldova,Moldova,
 moldavie,moldavie,moldavie,moldavie,moldavie,Moldova,Moldova,Moldova,Moldova,Moldova,
 molossia,molossia,molossia,molossia,molossia,Molossia,Molossia,Molossia,Molossia,Molossia,
-monaco_notgeld,monaco_section,monaco_section,monaco_section,monaco_section,Monacan notgeld,Monaco,Monaco,Monaco,Monaco,
-monaco,monaco_section,monaco_section,monaco_section,monaco_section,Monaco,Monaco,Monaco,Monaco,Monaco,
-monaco_section,monaco_section,monaco_section,monaco_section,monaco_section,Monaco,Monaco,Monaco,Monaco,Monaco,
+monaco_notgeld,monaco_section,monaco_section,monaco_section,monaco_section,Monacan notgeld,Monaco,Monaco,Monaco,Monaco,MNN
+monaco,monaco_section,monaco_section,monaco_section,monaco_section,Monaco,Monaco,Monaco,Monaco,Monaco,MNN
+monaco_section,monaco_section,monaco_section,monaco_section,monaco_section,Monaco,Monaco,Monaco,Monaco,Monaco,MNN
 badakhshan_shahs,chagatai_khanate_section,mongol-empire,mongol-empire,mongol-empire,"Badakhshan, Shahs of",Chagatai Khanate,Mongol States,Mongol States,Mongol States,
 chagatai_khanate,chagatai_khanate_section,mongol-empire,mongol-empire,mongol-empire,Chagatai Khanate,Chagatai Khanate,Mongol States,Mongol States,Mongol States,
 ghazna_chagatai,chagatai_khanate_section,mongol-empire,mongol-empire,mongol-empire,"Ghazna, Chagatai of",Chagatai Khanate,Mongol States,Mongol States,Mongol States,
@@ -8030,108 +8030,108 @@ poland_duchies,poland_kingdom_section,poland_section,poland_section,poland_secti
 wroclaw_duchy,poland_kingdom_section,poland_section,poland_section,poland_section,"Wrocław, Duchy of",Polish States,Poland,Poland,Poland,
 zamosc_city,poland_kingdom_section,poland_section,poland_section,poland_section,"Zamość, City of",Polish States,Poland,Poland,Poland,
 pologne-lituanie,pologne-lituanie,pologne-lituanie,pologne-lituanie,pologne-lituanie,Polish–Lithuanian Commonwealth,Polish–Lithuanian Commonwealth,Polish–Lithuanian Commonwealth,Polish–Lithuanian Commonwealth,Polish–Lithuanian Commonwealth,
-acores,portugal_section,portugal_section,portugal_section,portugal_section,Azores,Portugal,Portugal,Portugal,Portugal,
-madeira,portugal_section,portugal_section,portugal_section,portugal_section,Madeira,Portugal,Portugal,Portugal,Portugal,
-madere,portugal_section,portugal_section,portugal_section,portugal_section,Madeira Islands,Portugal,Portugal,Portugal,Portugal,
-portugal,portugal_section,portugal_section,portugal_section,portugal_section,Portugal,Portugal,Portugal,Portugal,Portugal,
-portugal_section,portugal_section,portugal_section,portugal_section,portugal_section,Portugal,Portugal,Portugal,Portugal,Portugal,
-portugal-notgeld,portugal_section,portugal_section,portugal_section,portugal_section,Portuguese notgeld,Portugal,Portugal,Portugal,Portugal,
-evora_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Évora, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-angra_do_heroismo_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Angra do Heroísmo, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-aveiro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Aveiro, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-beja_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Beja, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-braga_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Braga, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-braganca_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Bragança, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-castelo_branco_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Castelo Branco, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-coimbra_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Coimbra, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-faro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Faro, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-funchal_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Funchal, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-guarda_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Guarda, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-lamego_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Lamego, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-leiria_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Leiria, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-lisboa_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Lisboa, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-ponta_delgada_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Ponta Delgada, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-portalegre_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Portalegre, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-porto_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Porto, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-santarem_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Santarém, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-setubal_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Setúbal, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-viana_do_castelo_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Viana do Castelo, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-vila_real_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Vila Real, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-viseu_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Viseu, District of",Portuguese notgeld,Portugal,Portugal,Portugal,
-evora_notgeld,evora_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Évora, Municipality of","Évora, District of",Portuguese notgeld,Portugal,Portugal,
-borba_notgeld,evora_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Borba, Municipality of","Évora, District of",Portuguese notgeld,Portugal,Portugal,
-estremoz_notgeld,evora_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Estremoz, Municipality of","Évora, District of",Portuguese notgeld,Portugal,Portugal,
-montemor_o_novo_notgeld,evora_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Montemor-O-Novo, Municipality of","Évora, District of",Portuguese notgeld,Portugal,Portugal,
-mourao_notgeld,evora_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Mourão, Municipality of","Évora, District of",Portuguese notgeld,Portugal,Portugal,
-aveiro_notgeld,aveiro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Aveiro, Municipality of","Aveiro, District of",Portuguese notgeld,Portugal,Portugal,
-espinho_notgeld,aveiro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Espinho, Municipality of","Aveiro, District of",Portuguese notgeld,Portugal,Portugal,
-feira_notgeld,aveiro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Feira, Municipality of","Aveiro, District of",Portuguese notgeld,Portugal,Portugal,
-oliveira_de_azemeis_notgeld,aveiro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Oliveira de Azemeis, Municipality of","Aveiro, District of",Portuguese notgeld,Portugal,Portugal,
-ovar_notgeld,aveiro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Ovar, Municipality of","Aveiro, District of",Portuguese notgeld,Portugal,Portugal,
-vagos_notgeld,aveiro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vagos, Municipality of","Aveiro, District of",Portuguese notgeld,Portugal,Portugal,
-castro_verde_notgeld,beja_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Castro Verde, Municipality of","Beja, District of",Portuguese notgeld,Portugal,Portugal,
-cuba_notgeld,beja_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Cuba, Municipality of","Beja, District of",Portuguese notgeld,Portugal,Portugal,
-serpa_notgeld,beja_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Serpa, Municipality of","Beja, District of",Portuguese notgeld,Portugal,Portugal,
-braga_notgeld,braga_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Braga, Municipality of","Braga, District of",Portuguese notgeld,Portugal,Portugal,
-guimaraes_notgeld,braga_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Guimarães, Municipality of","Braga, District of",Portuguese notgeld,Portugal,Portugal,
-vila_nova_de_famalicao_notgeld,braga_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vila Nova de Famalicão, Municipality of","Braga, District of",Portuguese notgeld,Portugal,Portugal,
-torre_de_moncorvo_notgeld,braganca_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Torre de Moncorvo, Municipality of","Bragança, District of",Portuguese notgeld,Portugal,Portugal,
-concelho_de_certa_notgeld,castelo_branco_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Certã, Municipality of","Castelo Branco, District of",Portuguese notgeld,Portugal,Portugal,
-fundao_notgeld,castelo_branco_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Fundão, Municipality of","Castelo Branco, District of",Portuguese notgeld,Portugal,Portugal,
-vila_de_rei_notgeld,castelo_branco_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vila de Rei, Municipality of","Castelo Branco, District of",Portuguese notgeld,Portugal,Portugal,
-coimbra_notgeld,coimbra_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Coimbra, Municipality of","Coimbra, District of",Portuguese notgeld,Portugal,Portugal,
-figueira_da_foz_notgeld,coimbra_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Figueira da Foz, Municipality of","Coimbra, District of",Portuguese notgeld,Portugal,Portugal,
-montemor_o_velho_notgeld,coimbra_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Montemor-O-Velho, Municipality of","Coimbra, District of",Portuguese notgeld,Portugal,Portugal,
-oliveira_do_hospital_notgeld,coimbra_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Oliveira do Hospital, Municipality of","Coimbra, District of",Portuguese notgeld,Portugal,Portugal,
-faro_notgeld,faro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Faro, Municipality of","Faro, District of",Portuguese notgeld,Portugal,Portugal,
-loule_notgeld,faro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Loulé, Municipality of","Faro, District of",Portuguese notgeld,Portugal,Portugal,
-portimao_notgeld,faro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Portimão, Municipality of","Faro, District of",Portuguese notgeld,Portugal,Portugal,
-vila_real_de_santo_antonio_notgeld,faro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vila Real de Santo António, Municipality of","Faro, District of",Portuguese notgeld,Portugal,Portugal,
-funchal_notgeld,funchal_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Funchal, Municipality of","Funchal, District of",Portuguese notgeld,Portugal,Portugal,
-figueira_de_castelo_rodrigo_notgeld,guarda_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Figueira de Castelo Rodrigo, Municipality of","Guarda, District of",Portuguese notgeld,Portugal,Portugal,
-guarda_notgeld,guarda_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Guarda, Munipality of","Guarda, District of",Portuguese notgeld,Portugal,Portugal,
-sabugal_notgeld,guarda_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Sabugal, Municipality of","Guarda, District of",Portuguese notgeld,Portugal,Portugal,
-trancozo_notgeld,guarda_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Trancozo, Municipality of","Guarda, District of",Portuguese notgeld,Portugal,Portugal,
-vila_nova_de_foz_coa_notgeld,guarda_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vila Nova de Foz Côa, Municipality of","Guarda, District of",Portuguese notgeld,Portugal,Portugal,
-caldas_da_rainha_notgeld,leiria_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Caldas da Rainha, Municipality of","Leiria, District of",Portuguese notgeld,Portugal,Portugal,
-leiria_notgeld,leiria_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Leiria, Municipality of","Leiria, District of",Portuguese notgeld,Portugal,Portugal,
-marinha_grande_notgeld,leiria_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Marinha Grande, Municipality of","Leiria, District of",Portuguese notgeld,Portugal,Portugal,
-azambuja_notgeld,lisboa_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Azambuja, Municipality of","Lisboa, District of",Portuguese notgeld,Portugal,Portugal,
-loures_notgeld,lisboa_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Loures, Municipality of","Lisboa, District of",Portuguese notgeld,Portugal,Portugal,
-mafra_notgeld,lisboa_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Mafra, Municipality of","Lisboa, District of",Portuguese notgeld,Portugal,Portugal,
-sintra_notgeld,lisboa_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Sintra, Municipality of","Lisboa, District of",Portuguese notgeld,Portugal,Portugal,
-campo_maior_notgeld,portalegre_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Campo Maior, Municipality of","Portalegre, District of",Portuguese notgeld,Portugal,Portugal,
-elvas_notgeld,portalegre_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Elvas, Municipality of","Portalegre, District of",Portuguese notgeld,Portugal,Portugal,
-concelho_de_fronteira_notgeld,portalegre_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Fronteira, Municipality of","Portalegre, District of",Portuguese notgeld,Portugal,Portugal,
-monforte_notgeld,portalegre_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Monforte, Municipality of","Portalegre, District of",Portuguese notgeld,Portugal,Portugal,
-portalegre_notgeld,portalegre_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Portalegre, Municipality of","Portalegre, District of",Portuguese notgeld,Portugal,Portugal,
-gondomar_notgeld,porto_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Gondomar, Munipality of","Porto, District of",Portuguese notgeld,Portugal,Portugal,
-louzada_notgeld,porto_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Louzada, Municipality of","Porto, District of",Portuguese notgeld,Portugal,Portugal,
-matosinhos_notgeld,porto_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Matosinhos, Municipality of","Porto, District of",Portuguese notgeld,Portugal,Portugal,
-povoa_de_varzim_notgeld,porto_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Póvoa de Varzim, Municipality of","Porto, District of",Portuguese notgeld,Portugal,Portugal,
-penafiel_notgeld,porto_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Penafiel, Municipality of","Porto, District of",Portuguese notgeld,Portugal,Portugal,
-santo_tirso_notgeld,porto_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Santo Tirso, Municipality of","Porto, District of",Portuguese notgeld,Portugal,Portugal,
-vila_do_conde_notgeld,porto_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vila do Conde, Municipality of","Porto, District of",Portuguese notgeld,Portugal,Portugal,
-alpiarca_notgeld,santarem_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Alpiarça, Municipality of","Santarém, District of",Portuguese notgeld,Portugal,Portugal,
-coruche_notgeld,santarem_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Coruche, Municipality of","Santarém, District of",Portuguese notgeld,Portugal,Portugal,
-ferreira_do_zezere_notgeld,santarem_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Ferreira do Zêzere, Municipality of","Santarém, District of",Portuguese notgeld,Portugal,Portugal,
-santarem_notgeld,santarem_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Santarem, Municipality of","Santarém, District of",Portuguese notgeld,Portugal,Portugal,
-tomar_notgeld,santarem_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Tomar, Municipality of","Santarém, District of",Portuguese notgeld,Portugal,Portugal,
-vila_nova_da_barquinha_notgeld,santarem_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vila Nova da Barquinha, Municipality of","Santarém, District of",Portuguese notgeld,Portugal,Portugal,
-alcacer_do_sal_notgeld,setubal_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Alcacer do Sal, Municipality of","Setúbal, District of",Portuguese notgeld,Portugal,Portugal,
-almada_notgeld,setubal_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Almada, Municipality of","Setúbal, District of",Portuguese notgeld,Portugal,Portugal,
-cezimbra_notgeld,setubal_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Cezimbra, Municipality of","Setúbal, District of",Portuguese notgeld,Portugal,Portugal,
-setubal_notgeld,setubal_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Setúbal, Municipality of","Setúbal, District of",Portuguese notgeld,Portugal,Portugal,
-sines_notgeld,setubal_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Sines, Municipality of","Setúbal, District of",Portuguese notgeld,Portugal,Portugal,
-arcos_de_valdevez,viana_do_castelo_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Arcos de Valdevez, Municipality of","Viana do Castelo, District of",Portuguese notgeld,Portugal,Portugal,
-moncao_notgeld,viana_do_castelo_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Monção, Municipality of","Viana do Castelo, District of",Portuguese notgeld,Portugal,Portugal,
-valenca_notgeld,viana_do_castelo_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Valença, Municipality of","Viana do Castelo, District of",Portuguese notgeld,Portugal,Portugal,
-viana_do_castelo_notgeld,viana_do_castelo_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Viana do Castelo, Municipality of","Viana do Castelo, District of",Portuguese notgeld,Portugal,Portugal,
-vila_nova_de_cerveira_notgeld,viana_do_castelo_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vila Nova da Cerveira, Municipality of","Viana do Castelo, District of",Portuguese notgeld,Portugal,Portugal,
-valpacos_notgeld,vila_real_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Valpaços, Municipality of","Vila Real, District of",Portuguese notgeld,Portugal,Portugal,
-vila_real_notgeld,vila_real_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vila Real, Municipality of","Vila Real, District of",Portuguese notgeld,Portugal,Portugal,
-mangualde_notgeld,viseu_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Mangualde, Municipality of","Viseu, District of",Portuguese notgeld,Portugal,Portugal,
-viseu_notgeld,viseu_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Viseu, Municipality of","Viseu, District of",Portuguese notgeld,Portugal,Portugal,
+acores,portugal_section,portugal_section,portugal_section,portugal_section,Azores,Portugal,Portugal,Portugal,Portugal,ACC
+madeira,portugal_section,portugal_section,portugal_section,portugal_section,Madeira,Portugal,Portugal,Portugal,Portugal,MAD
+madere,portugal_section,portugal_section,portugal_section,portugal_section,Madeira Islands,Portugal,Portugal,Portugal,Portugal,MAD
+portugal,portugal_section,portugal_section,portugal_section,portugal_section,Portugal,Portugal,Portugal,Portugal,Portugal,POR
+portugal_section,portugal_section,portugal_section,portugal_section,portugal_section,Portugal,Portugal,Portugal,Portugal,Portugal,POR
+portugal-notgeld,portugal_section,portugal_section,portugal_section,portugal_section,Portuguese notgeld,Portugal,Portugal,Portugal,Portugal,POR
+evora_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Évora, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+angra_do_heroismo_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Angra do Heroísmo, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+aveiro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Aveiro, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+beja_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Beja, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+braga_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Braga, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+braganca_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Bragança, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+castelo_branco_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Castelo Branco, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+coimbra_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Coimbra, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+faro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Faro, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+funchal_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Funchal, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+guarda_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Guarda, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+lamego_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Lamego, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+leiria_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Leiria, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+lisboa_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Lisboa, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+ponta_delgada_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Ponta Delgada, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+portalegre_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Portalegre, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+porto_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Porto, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+santarem_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Santarém, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+setubal_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Setúbal, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+viana_do_castelo_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Viana do Castelo, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+vila_real_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Vila Real, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+viseu_district_notgeld,portugal-notgeld,portugal_section,portugal_section,portugal_section,"Viseu, District of",Portuguese notgeld,Portugal,Portugal,Portugal,POR
+evora_notgeld,evora_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Évora, Municipality of","Évora, District of",Portuguese notgeld,Portugal,Portugal,POR
+borba_notgeld,evora_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Borba, Municipality of","Évora, District of",Portuguese notgeld,Portugal,Portugal,POR
+estremoz_notgeld,evora_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Estremoz, Municipality of","Évora, District of",Portuguese notgeld,Portugal,Portugal,POR
+montemor_o_novo_notgeld,evora_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Montemor-O-Novo, Municipality of","Évora, District of",Portuguese notgeld,Portugal,Portugal,POR
+mourao_notgeld,evora_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Mourão, Municipality of","Évora, District of",Portuguese notgeld,Portugal,Portugal,POR
+aveiro_notgeld,aveiro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Aveiro, Municipality of","Aveiro, District of",Portuguese notgeld,Portugal,Portugal,POR
+espinho_notgeld,aveiro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Espinho, Municipality of","Aveiro, District of",Portuguese notgeld,Portugal,Portugal,POR
+feira_notgeld,aveiro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Feira, Municipality of","Aveiro, District of",Portuguese notgeld,Portugal,Portugal,POR
+oliveira_de_azemeis_notgeld,aveiro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Oliveira de Azemeis, Municipality of","Aveiro, District of",Portuguese notgeld,Portugal,Portugal,POR
+ovar_notgeld,aveiro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Ovar, Municipality of","Aveiro, District of",Portuguese notgeld,Portugal,Portugal,POR
+vagos_notgeld,aveiro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vagos, Municipality of","Aveiro, District of",Portuguese notgeld,Portugal,Portugal,POR
+castro_verde_notgeld,beja_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Castro Verde, Municipality of","Beja, District of",Portuguese notgeld,Portugal,Portugal,POR
+cuba_notgeld,beja_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Cuba, Municipality of","Beja, District of",Portuguese notgeld,Portugal,Portugal,POR
+serpa_notgeld,beja_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Serpa, Municipality of","Beja, District of",Portuguese notgeld,Portugal,Portugal,POR
+braga_notgeld,braga_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Braga, Municipality of","Braga, District of",Portuguese notgeld,Portugal,Portugal,POR
+guimaraes_notgeld,braga_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Guimarães, Municipality of","Braga, District of",Portuguese notgeld,Portugal,Portugal,POR
+vila_nova_de_famalicao_notgeld,braga_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vila Nova de Famalicão, Municipality of","Braga, District of",Portuguese notgeld,Portugal,Portugal,POR
+torre_de_moncorvo_notgeld,braganca_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Torre de Moncorvo, Municipality of","Bragança, District of",Portuguese notgeld,Portugal,Portugal,POR
+concelho_de_certa_notgeld,castelo_branco_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Certã, Municipality of","Castelo Branco, District of",Portuguese notgeld,Portugal,Portugal,POR
+fundao_notgeld,castelo_branco_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Fundão, Municipality of","Castelo Branco, District of",Portuguese notgeld,Portugal,Portugal,POR
+vila_de_rei_notgeld,castelo_branco_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vila de Rei, Municipality of","Castelo Branco, District of",Portuguese notgeld,Portugal,Portugal,POR
+coimbra_notgeld,coimbra_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Coimbra, Municipality of","Coimbra, District of",Portuguese notgeld,Portugal,Portugal,POR
+figueira_da_foz_notgeld,coimbra_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Figueira da Foz, Municipality of","Coimbra, District of",Portuguese notgeld,Portugal,Portugal,POR
+montemor_o_velho_notgeld,coimbra_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Montemor-O-Velho, Municipality of","Coimbra, District of",Portuguese notgeld,Portugal,Portugal,POR
+oliveira_do_hospital_notgeld,coimbra_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Oliveira do Hospital, Municipality of","Coimbra, District of",Portuguese notgeld,Portugal,Portugal,POR
+faro_notgeld,faro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Faro, Municipality of","Faro, District of",Portuguese notgeld,Portugal,Portugal,POR
+loule_notgeld,faro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Loulé, Municipality of","Faro, District of",Portuguese notgeld,Portugal,Portugal,POR
+portimao_notgeld,faro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Portimão, Municipality of","Faro, District of",Portuguese notgeld,Portugal,Portugal,POR
+vila_real_de_santo_antonio_notgeld,faro_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vila Real de Santo António, Municipality of","Faro, District of",Portuguese notgeld,Portugal,Portugal,POR
+funchal_notgeld,funchal_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Funchal, Municipality of","Funchal, District of",Portuguese notgeld,Portugal,Portugal,POR
+figueira_de_castelo_rodrigo_notgeld,guarda_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Figueira de Castelo Rodrigo, Municipality of","Guarda, District of",Portuguese notgeld,Portugal,Portugal,POR
+guarda_notgeld,guarda_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Guarda, Munipality of","Guarda, District of",Portuguese notgeld,Portugal,Portugal,POR
+sabugal_notgeld,guarda_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Sabugal, Municipality of","Guarda, District of",Portuguese notgeld,Portugal,Portugal,POR
+trancozo_notgeld,guarda_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Trancozo, Municipality of","Guarda, District of",Portuguese notgeld,Portugal,Portugal,POR
+vila_nova_de_foz_coa_notgeld,guarda_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vila Nova de Foz Côa, Municipality of","Guarda, District of",Portuguese notgeld,Portugal,Portugal,POR
+caldas_da_rainha_notgeld,leiria_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Caldas da Rainha, Municipality of","Leiria, District of",Portuguese notgeld,Portugal,Portugal,POR
+leiria_notgeld,leiria_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Leiria, Municipality of","Leiria, District of",Portuguese notgeld,Portugal,Portugal,POR
+marinha_grande_notgeld,leiria_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Marinha Grande, Municipality of","Leiria, District of",Portuguese notgeld,Portugal,Portugal,POR
+azambuja_notgeld,lisboa_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Azambuja, Municipality of","Lisboa, District of",Portuguese notgeld,Portugal,Portugal,POR
+loures_notgeld,lisboa_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Loures, Municipality of","Lisboa, District of",Portuguese notgeld,Portugal,Portugal,POR
+mafra_notgeld,lisboa_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Mafra, Municipality of","Lisboa, District of",Portuguese notgeld,Portugal,Portugal,POR
+sintra_notgeld,lisboa_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Sintra, Municipality of","Lisboa, District of",Portuguese notgeld,Portugal,Portugal,POR
+campo_maior_notgeld,portalegre_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Campo Maior, Municipality of","Portalegre, District of",Portuguese notgeld,Portugal,Portugal,POR
+elvas_notgeld,portalegre_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Elvas, Municipality of","Portalegre, District of",Portuguese notgeld,Portugal,Portugal,POR
+concelho_de_fronteira_notgeld,portalegre_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Fronteira, Municipality of","Portalegre, District of",Portuguese notgeld,Portugal,Portugal,POR
+monforte_notgeld,portalegre_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Monforte, Municipality of","Portalegre, District of",Portuguese notgeld,Portugal,Portugal,POR
+portalegre_notgeld,portalegre_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Portalegre, Municipality of","Portalegre, District of",Portuguese notgeld,Portugal,Portugal,POR
+gondomar_notgeld,porto_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Gondomar, Munipality of","Porto, District of",Portuguese notgeld,Portugal,Portugal,POR
+louzada_notgeld,porto_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Louzada, Municipality of","Porto, District of",Portuguese notgeld,Portugal,Portugal,POR
+matosinhos_notgeld,porto_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Matosinhos, Municipality of","Porto, District of",Portuguese notgeld,Portugal,Portugal,POR
+povoa_de_varzim_notgeld,porto_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Póvoa de Varzim, Municipality of","Porto, District of",Portuguese notgeld,Portugal,Portugal,POR
+penafiel_notgeld,porto_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Penafiel, Municipality of","Porto, District of",Portuguese notgeld,Portugal,Portugal,POR
+santo_tirso_notgeld,porto_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Santo Tirso, Municipality of","Porto, District of",Portuguese notgeld,Portugal,Portugal,POR
+vila_do_conde_notgeld,porto_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vila do Conde, Municipality of","Porto, District of",Portuguese notgeld,Portugal,Portugal,POR
+alpiarca_notgeld,santarem_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Alpiarça, Municipality of","Santarém, District of",Portuguese notgeld,Portugal,Portugal,POR
+coruche_notgeld,santarem_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Coruche, Municipality of","Santarém, District of",Portuguese notgeld,Portugal,Portugal,POR
+ferreira_do_zezere_notgeld,santarem_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Ferreira do Zêzere, Municipality of","Santarém, District of",Portuguese notgeld,Portugal,Portugal,POR
+santarem_notgeld,santarem_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Santarem, Municipality of","Santarém, District of",Portuguese notgeld,Portugal,Portugal,POR
+tomar_notgeld,santarem_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Tomar, Municipality of","Santarém, District of",Portuguese notgeld,Portugal,Portugal,POR
+vila_nova_da_barquinha_notgeld,santarem_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vila Nova da Barquinha, Municipality of","Santarém, District of",Portuguese notgeld,Portugal,Portugal,POR
+alcacer_do_sal_notgeld,setubal_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Alcacer do Sal, Municipality of","Setúbal, District of",Portuguese notgeld,Portugal,Portugal,POR
+almada_notgeld,setubal_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Almada, Municipality of","Setúbal, District of",Portuguese notgeld,Portugal,Portugal,POR
+cezimbra_notgeld,setubal_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Cezimbra, Municipality of","Setúbal, District of",Portuguese notgeld,Portugal,Portugal,POR
+setubal_notgeld,setubal_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Setúbal, Municipality of","Setúbal, District of",Portuguese notgeld,Portugal,Portugal,POR
+sines_notgeld,setubal_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Sines, Municipality of","Setúbal, District of",Portuguese notgeld,Portugal,Portugal,POR
+arcos_de_valdevez,viana_do_castelo_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Arcos de Valdevez, Municipality of","Viana do Castelo, District of",Portuguese notgeld,Portugal,Portugal,POR
+moncao_notgeld,viana_do_castelo_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Monção, Municipality of","Viana do Castelo, District of",Portuguese notgeld,Portugal,Portugal,POR
+valenca_notgeld,viana_do_castelo_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Valença, Municipality of","Viana do Castelo, District of",Portuguese notgeld,Portugal,Portugal,POR
+viana_do_castelo_notgeld,viana_do_castelo_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Viana do Castelo, Municipality of","Viana do Castelo, District of",Portuguese notgeld,Portugal,Portugal,POR
+vila_nova_de_cerveira_notgeld,viana_do_castelo_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vila Nova da Cerveira, Municipality of","Viana do Castelo, District of",Portuguese notgeld,Portugal,Portugal,POR
+valpacos_notgeld,vila_real_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Valpaços, Municipality of","Vila Real, District of",Portuguese notgeld,Portugal,Portugal,POR
+vila_real_notgeld,vila_real_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Vila Real, Municipality of","Vila Real, District of",Portuguese notgeld,Portugal,Portugal,POR
+mangualde_notgeld,viseu_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Mangualde, Municipality of","Viseu, District of",Portuguese notgeld,Portugal,Portugal,POR
+viseu_notgeld,viseu_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Viseu, Municipality of","Viseu, District of",Portuguese notgeld,Portugal,Portugal,POR
 purple_shaftieuland,purple_shaftieuland,purple_shaftieuland,purple_shaftieuland,purple_shaftieuland,Purple Shaftieuland,Purple Shaftieuland,Purple Shaftieuland,Purple Shaftieuland,Purple Shaftieuland,
 qatar,qatar,qatar,qatar,qatar,Qatar,Qatar,Qatar,Qatar,Qatar,
 qatar-et-dubai,qatar-et-dubai,qatar-et-dubai,qatar-et-dubai,qatar-et-dubai,Qatar and Dubai,Qatar and Dubai,Qatar and Dubai,Qatar and Dubai,Qatar and Dubai,
@@ -10173,9 +10173,9 @@ sainte-helene,saint-helena,british_territories,united-kingdom,united-kingdom,Sai
 sainte-helene_ascension,saint-helena,british_territories,united-kingdom,united-kingdom,Saint Helena and Ascension,"Saint Helena, Ascension and Tristan da Cunha",British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 stoltenhoff_island,saint-helena,british_territories,united-kingdom,united-kingdom,Stoltenhoff Island,"Saint Helena, Ascension and Tristan da Cunha",British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 tristan_da_cunha,saint-helena,british_territories,united-kingdom,united-kingdom,Tristan da Cunha,"Saint Helena, Ascension and Tristan da Cunha",British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
-guernsey,british_dependencies,united-kingdom,united-kingdom,united-kingdom,Guernsey,British Crown dependencies,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
+guernsey,british_dependencies,united-kingdom,united-kingdom,united-kingdom,Guernsey,British Crown dependencies,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",GUE
 ile_de_man,british_dependencies,united-kingdom,united-kingdom,united-kingdom,Isle of Man,British Crown dependencies,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
-jersey,british_dependencies,united-kingdom,united-kingdom,united-kingdom,Jersey,British Crown dependencies,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
+jersey,british_dependencies,united-kingdom,united-kingdom,united-kingdom,Jersey,British Crown dependencies,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",JER
 anguilla,british_territories,united-kingdom,united-kingdom,united-kingdom,Anguilla,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 bermudes,british_territories,united-kingdom,united-kingdom,united-kingdom,Bermuda,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 british-antarctic-territory,british_territories,united-kingdom,united-kingdom,united-kingdom,British Antarctic Territory,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
@@ -10183,7 +10183,7 @@ british-indian-ocean-territory,british_territories,united-kingdom,united-kingdom
 british-virgin-islands_section,british_territories,united-kingdom,united-kingdom,united-kingdom,British Virgin Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 iles_caimanes,british_territories,united-kingdom,united-kingdom,united-kingdom,Cayman Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 iles_malouines,british_territories,united-kingdom,united-kingdom,united-kingdom,Falkland Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
-gibraltar,british_territories,united-kingdom,united-kingdom,united-kingdom,Gibraltar,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
+gibraltar,british_territories,united-kingdom,united-kingdom,united-kingdom,Gibraltar,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",GIB
 montserrat,british_territories,united-kingdom,united-kingdom,united-kingdom,Montserrat,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 pitcairn,british_territories,united-kingdom,united-kingdom,united-kingdom,Pitcairn Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 saint-helena,british_territories,united-kingdom,united-kingdom,united-kingdom,"Saint Helena, Ascension and Tristan da Cunha",British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
