@@ -168,22 +168,22 @@ atlantis,atlantis,atlantis,atlantis,atlantis,Atlantis,Atlantis,Atlantis,Atlantis
 atlantis_kingdom,atlantis_kingdom,atlantis_kingdom,atlantis_kingdom,atlantis_kingdom,"Atlantis, Kingdom of","Atlantis, Kingdom of","Atlantis, Kingdom of","Atlantis, Kingdom of","Atlantis, Kingdom of",
 atlantium,atlantium,atlantium,atlantium,atlantium,"Atlantium, Empire of","Atlantium, Empire of","Atlantium, Empire of","Atlantium, Empire of","Atlantium, Empire of",
 kingdom_of_atooi,kingdom_of_atooi,kingdom_of_atooi,kingdom_of_atooi,kingdom_of_atooi,"Atooi, Kingdom of","Atooi, Kingdom of","Atooi, Kingdom of","Atooi, Kingdom of","Atooi, Kingdom of",
-ashmore_and_cartier_islands,australia_section,australia_section,australia_section,australia_section,Ashmore and Cartier Islands,Australia,Australia,Australia,Australia,
-australia_section,australia_section,australia_section,australia_section,australia_section,Australia,Australia,Australia,Australia,Australia,
-australie,australia_section,australia_section,australia_section,australia_section,Australia,Australia,Australia,Australia,Australia,
-australia_colonial,australia_section,australia_section,australia_section,australia_section,Australian States,Australia,Australia,Australia,Australia,
-chritmas_island,australia_section,australia_section,australia_section,australia_section,Christmas Island,Australia,Australia,Australia,Australia,
-cocos,australia_section,australia_section,australia_section,australia_section,Cocos (Keeling) Islands,Australia,Australia,Australia,Australia,
-enderby_land,australia_section,australia_section,australia_section,australia_section,Enderby Land,Australia,Australia,Australia,Australia,
-montebello_islands,australia_section,australia_section,australia_section,australia_section,Montebello Islands,Australia,Australia,Australia,Australia,
-norfolk_island,australia_section,australia_section,australia_section,australia_section,Norfolk island,Australia,Australia,Australia,Australia,
-australian_colonies,australia_colonial,australia_section,australia_section,australia_section,Australian Colonies,Australian States,Australia,Australia,Australia,
-new_south_wales,australia_colonial,australia_section,australia_section,australia_section,New South Wales,Australian States,Australia,Australia,Australia,
-queensland,australia_colonial,australia_section,australia_section,australia_section,Queensland,Australian States,Australia,Australia,Australia,
-south_australia,australia_colonial,australia_section,australia_section,australia_section,South Australia,Australian States,Australia,Australia,Australia,
-tasmania,australia_colonial,australia_section,australia_section,australia_section,Tasmania,Australian States,Australia,Australia,Australia,
-victoria,australia_colonial,australia_section,australia_section,australia_section,Victoria,Australian States,Australia,Australia,Australia,
-western_australia,australia_colonial,australia_section,australia_section,australia_section,Western Australia,Australian States,Australia,Australia,Australia,
+ashmore_and_cartier_islands,australia_section,australia_section,australia_section,australia_section,Ashmore and Cartier Islands,Australia,Australia,Australia,Australia,AUS
+australia_section,australia_section,australia_section,australia_section,australia_section,Australia,Australia,Australia,Australia,Australia,AUS
+australie,australia_section,australia_section,australia_section,australia_section,Australia,Australia,Australia,Australia,Australia,AUS
+australia_colonial,australia_section,australia_section,australia_section,australia_section,Australian States,Australia,Australia,Australia,Australia,AUS
+chritmas_island,australia_section,australia_section,australia_section,australia_section,Christmas Island,Australia,Australia,Australia,Australia,CHR
+cocos,australia_section,australia_section,australia_section,australia_section,Cocos (Keeling) Islands,Australia,Australia,Australia,Australia,COC
+enderby_land,australia_section,australia_section,australia_section,australia_section,Enderby Land,Australia,Australia,Australia,Australia,AUS
+montebello_islands,australia_section,australia_section,australia_section,australia_section,Montebello Islands,Australia,Australia,Australia,Australia,AUS
+norfolk_island,australia_section,australia_section,australia_section,australia_section,Norfolk island,Australia,Australia,Australia,Australia,NOF
+australian_colonies,australia_colonial,australia_section,australia_section,australia_section,Australian Colonies,Australian States,Australia,Australia,Australia,AUS
+new_south_wales,australia_colonial,australia_section,australia_section,australia_section,New South Wales,Australian States,Australia,Australia,Australia,NSW
+queensland,australia_colonial,australia_section,australia_section,australia_section,Queensland,Australian States,Australia,Australia,Australia,QUE
+south_australia,australia_colonial,australia_section,australia_section,australia_section,South Australia,Australian States,Australia,Australia,Australia,SAA
+tasmania,australia_colonial,australia_section,australia_section,australia_section,Tasmania,Australian States,Australia,Australia,Australia,TAS
+victoria,australia_colonial,australia_section,australia_section,australia_section,Victoria,Australian States,Australia,Australia,Australia,VIC
+western_australia,australia_colonial,australia_section,australia_section,australia_section,Western Australia,Australian States,Australia,Australia,Australia,WST
 austria,austria,austria,austria,austria,Austria,Austria,Austria,Austria,Austria,
 autriche,austria,austria,austria,austria,Austria,Austria,Austria,Austria,Austria,
 autriche-habsbourg,austria,austria,austria,austria,Austrian Empire,Austria,Austria,Austria,Austria,
@@ -1642,7 +1642,7 @@ chaghaniyan_principality,northern_tokharistan_section,tokharistan_section,centra
 northern_tokharistan,northern_tokharistan_section,tokharistan_section,central-asia,central-asia,Northern Tokharistan,Northern Tokharistan,Tokharistan,Central Asia and Caucasia,Central Asia and Caucasia,
 termez_city,northern_tokharistan_section,tokharistan_section,central-asia,central-asia,"Termez, City of",Northern Tokharistan,Tokharistan,Central Asia and Caucasia,Central Asia and Caucasia,
 vakhsh_valley,northern_tokharistan_section,tokharistan_section,central-asia,central-asia,Vakhsh Valley,Northern Tokharistan,Tokharistan,Central Asia and Caucasia,Central Asia and Caucasia,
-ceylon_fantasy,ceylon_fantasy,ceylon_fantasy,ceylon_fantasy,ceylon_fantasy,Ceylon (fantasy),Ceylon (fantasy),Ceylon (fantasy),Ceylon (fantasy),Ceylon (fantasy),
+ceylon_fantasy,ceylon_fantasy,ceylon_fantasy,ceylon_fantasy,ceylon_fantasy,Ceylon (fantasy),Ceylon (fantasy),Ceylon (fantasy),Ceylon (fantasy),Ceylon (fantasy),SRI
 tchad,tchad,tchad,tchad,tchad,Chad,Chad,Chad,Chad,Chad,
 chile_section,chile_section,chile_section,chile_section,chile_section,Chile,Chile,Chile,Chile,Chile,
 chili,chile_section,chile_section,chile_section,chile_section,Chile,Chile,Chile,Chile,Chile,
@@ -2007,9 +2007,9 @@ osel_wiek_bishopric,estonia_danish_section,estonia_section,estonia_section,eston
 estonia_danish,estonia_danish_section,estonia_section,estonia_section,estonia_section,"Estonia, Danish","Estonia, Danish",Estonia,Estonia,Estonia,
 narva_city,estonia_swedish_section,estonia_section,estonia_section,estonia_section,"Narva, City of","Estonia, Swedish",Estonia,Estonia,Estonia,
 reval,estonia_swedish_section,estonia_section,estonia_section,estonia_section,"Reval, City of","Estonia, Swedish",Estonia,Estonia,Estonia,
-swaziland,swaziland,swaziland,swaziland,swaziland,Eswatini,Eswatini,Eswatini,Eswatini,Eswatini,
-eswatini_period,swaziland,swaziland,swaziland,swaziland,Kingdom of Eswatini (2018-date),Eswatini,Eswatini,Eswatini,Eswatini,
-swaziland_period,swaziland,swaziland,swaziland,swaziland,Kingdom of Swaziland (1968-2018),Eswatini,Eswatini,Eswatini,Eswatini,
+swaziland,swaziland,swaziland,swaziland,swaziland,Eswatini,Eswatini,Eswatini,Eswatini,Eswatini,ESS
+eswatini_period,swaziland,swaziland,swaziland,swaziland,Kingdom of Eswatini (2018-date),Eswatini,Eswatini,Eswatini,Eswatini,ESS
+swaziland_period,swaziland,swaziland,swaziland,swaziland,Kingdom of Swaziland (1968-2018),Eswatini,Eswatini,Eswatini,Eswatini,ESS
 ethiopia_section,ethiopia_section,ethiopia_section,ethiopia_section,ethiopia_section,Ethiopia,Ethiopia,Ethiopia,Ethiopia,Ethiopia,
 ethiopie,ethiopia_section,ethiopia_section,ethiopia_section,ethiopia_section,Ethiopia,Ethiopia,Ethiopia,Ethiopia,Ethiopia,
 harar_emirate,ethiopia_section,ethiopia_section,ethiopia_section,ethiopia_section,"Harar, Emirate of",Ethiopia,Ethiopia,Ethiopia,Ethiopia,
@@ -6169,7 +6169,7 @@ hunnic_uncertain,hunnic-empire,hunnic-empire,hunnic-empire,hunnic-empire,Uncerta
 jammu_kashmir_tribes,kidarite_kingdom_section,hunnic-empire,hunnic-empire,hunnic-empire,"Jammu and Kashmir, Tribes in",Kidarite Kingdom,Hunnic tribes,Hunnic tribes,Hunnic tribes,
 kidarite_kingdom,kidarite_kingdom_section,hunnic-empire,hunnic-empire,hunnic-empire,Kidarite Kingdom,Kidarite Kingdom,Hunnic tribes,Hunnic tribes,Hunnic tribes,
 kota_kula_principality,kidarite_kingdom_section,hunnic-empire,hunnic-empire,hunnic-empire,"Kota Kula, Principality of the",Kidarite Kingdom,Hunnic tribes,Hunnic tribes,Hunnic tribes,
-principality-of-hutt-river,principality-of-hutt-river,principality-of-hutt-river,principality-of-hutt-river,principality-of-hutt-river,Hutt River,Hutt River,Hutt River,Hutt River,Hutt River,
+principality-of-hutt-river,principality-of-hutt-river,principality-of-hutt-river,principality-of-hutt-river,principality-of-hutt-river,Hutt River,Hutt River,Hutt River,Hutt River,Hutt River,AUS
 areikoratikos_gens,arevacos,celtiberians,iberia_ancient,iberia_ancient,"Arekorata,  City of",Arevaci people,Celtiberia,Iberia (ancient),Iberia (ancient),
 arkailikos_gens,arevacos,celtiberians,iberia_ancient,iberia_ancient,Arkailikos gens,Arevaci people,Celtiberia,Iberia (ancient),Iberia (ancient),
 borneskon,arevacos,celtiberians,iberia_ancient,iberia_ancient,Borneskon,Arevaci people,Celtiberia,Iberia (ancient),Iberia (ancient),
@@ -7353,7 +7353,7 @@ jelgava_notgeld,latvia_notgeld,lettonie_section,lettonie_section,lettonie_sectio
 liepaja_notgeld,latvia_notgeld,lettonie_section,lettonie_section,lettonie_section,"Liepāja, City of",Latvian notgeld,Latvia,Latvia,Latvia,
 liban,liban,liban,liban,liban,Lebanon,Lebanon,Lebanon,Lebanon,Lebanon,
 leeward_islands,leeward_islands,leeward_islands,leeward_islands,leeward_islands,Leeward Islands,Leeward Islands,Leeward Islands,Leeward Islands,Leeward Islands,
-lesotho,lesotho,lesotho,lesotho,lesotho,Lesotho,Lesotho,Lesotho,Lesotho,Lesotho,
+lesotho,lesotho,lesotho,lesotho,lesotho,Lesotho,Lesotho,Lesotho,Lesotho,Lesotho,LSS
 liberia,liberia,liberia,liberia,liberia,Liberia,Liberia,Liberia,Liberia,Liberia,
 liberland,liberland,liberland,liberland,liberland,Liberland,Liberland,Liberland,Liberland,Liberland,
 fezzan,libya_section,libya_section,libya_section,libya_section,Fezzan,Libya,Libya,Libya,Libya,
@@ -7786,10 +7786,10 @@ neutral_moresnet,neutral_moresnet,neutral_moresnet,neutral_moresnet,neutral_more
 commonwealth_of_new_island,commonwealth_of_new_island,commonwealth_of_new_island,commonwealth_of_new_island,commonwealth_of_new_island,"New Island, The Commonwealth of","New Island, The Commonwealth of","New Island, The Commonwealth of","New Island, The Commonwealth of","New Island, The Commonwealth of",
 new_swabia,new_swabia,new_swabia,new_swabia,new_swabia,New Swabia,New Swabia,New Swabia,New Swabia,New Swabia,
 new_utopia,new_utopia,new_utopia,new_utopia,new_utopia,"New Utopia, Principality of","New Utopia, Principality of","New Utopia, Principality of","New Utopia, Principality of","New Utopia, Principality of",
-auckland_islands,nouvelle-zelande,new_zealand_section,new_zealand_section,new_zealand_section,Auckland Islands,New Zealand,New Zealand,New Zealand,New Zealand,
-chatham_islands,nouvelle-zelande,new_zealand_section,new_zealand_section,new_zealand_section,Chatham Islands,New Zealand,New Zealand,New Zealand,New Zealand,
-new_zealand_section,new_zealand_section,new_zealand_section,new_zealand_section,new_zealand_section,New Zealand,New Zealand,New Zealand,New Zealand,New Zealand,
-nouvelle-zelande,new_zealand_section,new_zealand_section,new_zealand_section,new_zealand_section,New Zealand,New Zealand,New Zealand,New Zealand,New Zealand,
+auckland_islands,nouvelle-zelande,new_zealand_section,new_zealand_section,new_zealand_section,Auckland Islands,New Zealand,New Zealand,New Zealand,New Zealand,NZZ
+chatham_islands,nouvelle-zelande,new_zealand_section,new_zealand_section,new_zealand_section,Chatham Islands,New Zealand,New Zealand,New Zealand,New Zealand,NZZ
+new_zealand_section,new_zealand_section,new_zealand_section,new_zealand_section,new_zealand_section,New Zealand,New Zealand,New Zealand,New Zealand,New Zealand,NZZ
+nouvelle-zelande,new_zealand_section,new_zealand_section,new_zealand_section,new_zealand_section,New Zealand,New Zealand,New Zealand,New Zealand,New Zealand,NZZ
 tokelau,new_zealand_section,new_zealand_section,new_zealand_section,new_zealand_section,Tokelau,New Zealand,New Zealand,New Zealand,New Zealand,
 nicaragua,nicaragua,nicaragua,nicaragua,nicaragua,Nicaragua,Nicaragua,Nicaragua,Nicaragua,Nicaragua,
 niger,niger,niger,niger,niger,Niger,Niger,Niger,Niger,Niger,
@@ -9992,16 +9992,16 @@ nonaspe_notgeld,zaragoza_province_notgeld,espagne_guerre-civile,spain,spain,"Non
 sastago_notgeld,zaragoza_province_notgeld,espagne_guerre-civile,spain,spain,"Sástago, Municipality of","Zaragoza, Province of",Spanish notgeld,Spain,Spain,
 velilla_de_ebro_notgeld,zaragoza_province_notgeld,espagne_guerre-civile,spain,spain,"Velilla de Ebro, Municipality of","Zaragoza, Province of",Spanish notgeld,Spain,Spain,
 villar_de_los_navarros_notgeld,zaragoza_province_notgeld,espagne_guerre-civile,spain,spain,"Villar de los Navarros, Municipality of","Zaragoza, Province of",Spanish notgeld,Spain,Spain,
-dambadeniya_kingdom,lanka_medieval_section,sri-lanka,sri-lanka,sri-lanka,"Dambadeniya, Kingdom of",Sinhalese States,Sri Lanka,Sri Lanka,Sri Lanka,
-jaffna_kingdom,lanka_medieval_section,sri-lanka,sri-lanka,sri-lanka,"Jaffna, Kingdom of",Sinhalese States,Sri Lanka,Sri Lanka,Sri Lanka,
-kandy_kingdom,lanka_medieval_section,sri-lanka,sri-lanka,sri-lanka,"Kandy, Kingdom of",Sinhalese States,Sri Lanka,Sri Lanka,Sri Lanka,
-kotte_kingdom,lanka_medieval_section,sri-lanka,sri-lanka,sri-lanka,"Kotte, Kingdom of",Sinhalese States,Sri Lanka,Sri Lanka,Sri Lanka,
-polonnaruwa_kingdom,lanka_medieval_section,sri-lanka,sri-lanka,sri-lanka,"Polonnaruwa, Kingdom of",Sinhalese States,Sri Lanka,Sri Lanka,Sri Lanka,
-ceylon_period,ceylan,sri-lanka,sri-lanka,sri-lanka,Ceylon (1597-1972),Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,
-lanka_medieval_section,sri-lanka,sri-lanka,sri-lanka,sri-lanka,Sinhalese States,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,
-sri-lanka,sri-lanka,sri-lanka,sri-lanka,sri-lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,
-ceylan,sri-lanka,sri-lanka,sri-lanka,sri-lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,
-sri_lanka_period,ceylan,sri-lanka,sri-lanka,sri-lanka,Sri Lanka (1972-date),Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,
+dambadeniya_kingdom,lanka_medieval_section,sri-lanka,sri-lanka,sri-lanka,"Dambadeniya, Kingdom of",Sinhalese States,Sri Lanka,Sri Lanka,Sri Lanka,SRI
+jaffna_kingdom,lanka_medieval_section,sri-lanka,sri-lanka,sri-lanka,"Jaffna, Kingdom of",Sinhalese States,Sri Lanka,Sri Lanka,Sri Lanka,SRI
+kandy_kingdom,lanka_medieval_section,sri-lanka,sri-lanka,sri-lanka,"Kandy, Kingdom of",Sinhalese States,Sri Lanka,Sri Lanka,Sri Lanka,SRI
+kotte_kingdom,lanka_medieval_section,sri-lanka,sri-lanka,sri-lanka,"Kotte, Kingdom of",Sinhalese States,Sri Lanka,Sri Lanka,Sri Lanka,SRI
+polonnaruwa_kingdom,lanka_medieval_section,sri-lanka,sri-lanka,sri-lanka,"Polonnaruwa, Kingdom of",Sinhalese States,Sri Lanka,Sri Lanka,Sri Lanka,SRI
+ceylon_period,ceylan,sri-lanka,sri-lanka,sri-lanka,Ceylon (1597-1972),Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,SRI
+lanka_medieval_section,sri-lanka,sri-lanka,sri-lanka,sri-lanka,Sinhalese States,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,SRI
+sri-lanka,sri-lanka,sri-lanka,sri-lanka,sri-lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,SRI
+ceylan,sri-lanka,sri-lanka,sri-lanka,sri-lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,SRI
+sri_lanka_period,ceylan,sri-lanka,sri-lanka,sri-lanka,Sri Lanka (1972-date),Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,SRI
 darfur,sudan,sudan,sudan,sudan,Darfur,Sudan,Sudan,Sudan,Sudan,
 soudan,sudan,sudan,sudan,sudan,Sudan,Sudan,Sudan,Sudan,Sudan,
 sudan,sudan,sudan,sudan,sudan,Sudan,Sudan,Sudan,Sudan,Sudan,
@@ -10193,7 +10193,7 @@ akrotiri_dhekelia,united-kingdom,united-kingdom,united-kingdom,united-kingdom,Ak
 british_dependencies,united-kingdom,united-kingdom,united-kingdom,united-kingdom,British Crown dependencies,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 british_territories,united-kingdom,united-kingdom,united-kingdom,united-kingdom,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 east_burra,united-kingdom,united-kingdom,united-kingdom,united-kingdom,East Burra,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
-england,united-kingdom,united-kingdom,united-kingdom,united-kingdom,England,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
+england,united-kingdom,united-kingdom,united-kingdom,united-kingdom,England,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",ENG
 isle_of_stroma,united-kingdom,united-kingdom,united-kingdom,united-kingdom,Isle of Stroma,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 isle_of_wight,united-kingdom,united-kingdom,united-kingdom,united-kingdom,Isle of Wight,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 northern_ireland,united-kingdom,united-kingdom,united-kingdom,united-kingdom,Northern Ireland,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
@@ -10211,17 +10211,17 @@ british_west_florida,united-states,united-states,united-states,united-states,"Br
 cape_cod,united-states,united-states,united-states,united-states,Cape Cod,United States,United States,United States,United States,
 confederate_states,united-states,united-states,united-states,united-states,Confederate States,United States,United States,United States,United States,
 gardiners_island,united-states,united-states,united-states,united-states,Gardiners Island,United States,United States,United States,United States,
-hawaii,united-states,united-states,united-states,united-states,Hawaii,United States,United States,United States,United States,
+hawaii,united-states,united-states,united-states,united-states,Hawaii,United States,United States,United States,United States,HAW
 northern_mariana_islands,united-states,united-states,united-states,united-states,Northern Mariana Islands,United States,United States,United States,United States,
 puerto_rico_section,united-states,united-states,united-states,united-states,Puerto Rico,United States,United States,United States,United States,
 texas-republic,united-states,united-states,united-states,united-states,Texas,United States,United States,United States,United States,
-united-states,united-states,united-states,united-states,united-states,United States,United States,United States,United States,United States,
-etats-unis,united-states,united-states,united-states,united-states,United States,United States,United States,United States,United States,
-united-states-pre-federal,united-states,united-states,united-states,united-states,United States (pre-federal and private/territorial),United States,United States,United States,United States,
+united-states,united-states,united-states,united-states,united-states,United States,United States,United States,United States,United States,USA
+etats-unis,united-states,united-states,united-states,united-states,United States,United States,United States,United States,United States,USA
+united-states-pre-federal,united-states,united-states,united-states,united-states,United States (pre-federal and private/territorial),United States,United States,United States,United States,USA
 us_military_bases,united-states,united-states,united-states,united-states,United States military bases,United States,United States,United States,United States,
 usa_pacific_territories,united-states,united-states,united-states,united-states,United States Pacific territories,United States,United States,United States,United States,
 antilles_danoises,united-states,united-states,united-states,united-states,United States Virgin Islands,United States,United States,United States,United States,
-alaska,united-states-pre-federal,united-states,united-states,united-states,Alaska,United States (pre-federal and private/territorial),United States,United States,United States,
+alaska,united-states-pre-federal,united-states,united-states,united-states,Alaska,United States (pre-federal and private/territorial),United States,United States,United States,ALS
 california,united-states-pre-federal,united-states,united-states,united-states,California,United States (pre-federal and private/territorial),United States,United States,United States,
 california_gold,united-states-pre-federal,united-states,united-states,united-states,California gold ,United States (pre-federal and private/territorial),United States,United States,United States,
 colorado_gold,united-states-pre-federal,united-states,united-states,united-states,Colorado gold,United States (pre-federal and private/territorial),United States,United States,United States,
