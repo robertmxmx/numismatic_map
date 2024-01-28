@@ -57,18 +57,18 @@ wechaubour_tribe,african_tribes,african_tribes,african_tribes,african_tribes,Wec
 wielber_tribe,african_tribes,african_tribes,african_tribes,african_tribes,Wielber Tribe,African tribes,African tribes,African tribes,African tribes,
 principality_of_aigues_mortes,principality_of_aigues_mortes,principality_of_aigues_mortes,principality_of_aigues_mortes,principality_of_aigues_mortes,"Aigues-Mortes, Principality of","Aigues-Mortes, Principality of","Aigues-Mortes, Principality of","Aigues-Mortes, Principality of","Aigues-Mortes, Principality of",
 aksum,aksum,aksum,aksum,aksum,Aksum,Aksum,Aksum,Aksum,Aksum,
-albania_section,albania_section,albania_section,albania_section,albania_section,Albania,Albania,Albania,Albania,Albania,
-albanie,albania_section,albania_section,albania_section,albania_section,Albania,Albania,Albania,Albania,Albania,
-albanian_cities,albania_section,albania_section,albania_section,albania_section,Albanian notgeld,Albania,Albania,Albania,Albania,
-albanian_states,albania_section,albania_section,albania_section,albania_section,Albanian States,Albania,Albania,Albania,Albania,
-berat_city,albanian_cities,albania_section,albania_section,albania_section,"Berat, City of",Albanian notgeld,Albania,Albania,Albania,
-elbasan_municipality,albanian_cities,albania_section,albania_section,albania_section,"Elbasan, Municipality of",Albanian notgeld,Albania,Albania,Albania,
-korce_municipality,albanian_cities,albania_section,albania_section,albania_section,"Korçë, Municiplaity of",Albanian notgeld,Albania,Albania,Albania,
-shkroder_city_notgeld,albanian_cities,albania_section,albania_section,albania_section,"Shkodër, City of",Albanian notgeld,Albania,Albania,Albania,
-vlora_municipality,albanian_cities,albania_section,albania_section,albania_section,"Vlorë, Municipality of",Albanian notgeld,Albania,Albania,Albania,
-drivast_city,albanian_states,albania_section,albania_section,albania_section,"Drivast, City of ",Albanian States,Albania,Albania,Albania,
-kruje_lordship,albanian_states,albania_section,albania_section,albania_section,"Krujë, Lordship of",Albanian States,Albania,Albania,Albania,
-shkroder_city,albanian_states,albania_section,albania_section,albania_section,"Shkodër, City of",Albanian States,Albania,Albania,Albania,
+albania_section,albania_section,albania_section,albania_section,albania_section,Albania,Albania,Albania,Albania,Albania,ALB
+albanie,albania_section,albania_section,albania_section,albania_section,Albania,Albania,Albania,Albania,Albania,ALB
+albanian_cities,albania_section,albania_section,albania_section,albania_section,Albanian notgeld,Albania,Albania,Albania,Albania,ALB
+albanian_states,albania_section,albania_section,albania_section,albania_section,Albanian States,Albania,Albania,Albania,Albania,ALB
+berat_city,albanian_cities,albania_section,albania_section,albania_section,"Berat, City of",Albanian notgeld,Albania,Albania,Albania,ALB
+elbasan_municipality,albanian_cities,albania_section,albania_section,albania_section,"Elbasan, Municipality of",Albanian notgeld,Albania,Albania,Albania,ALB
+korce_municipality,albanian_cities,albania_section,albania_section,albania_section,"Korçë, Municiplaity of",Albanian notgeld,Albania,Albania,Albania,ALB
+shkroder_city_notgeld,albanian_cities,albania_section,albania_section,albania_section,"Shkodër, City of",Albanian notgeld,Albania,Albania,Albania,ALB
+vlora_municipality,albanian_cities,albania_section,albania_section,albania_section,"Vlorë, Municipality of",Albanian notgeld,Albania,Albania,Albania,ALB
+drivast_city,albanian_states,albania_section,albania_section,albania_section,"Drivast, City of ",Albanian States,Albania,Albania,Albania,ALB
+kruje_lordship,albanian_states,albania_section,albania_section,albania_section,"Krujë, Lordship of",Albanian States,Albania,Albania,Albania,ALB
+shkroder_city,albanian_states,albania_section,albania_section,albania_section,"Shkodër, City of",Albanian States,Albania,Albania,Albania,ALB
 abdelkader_emirate,algeria_section,algeria_section,algeria_section,algeria_section,"Abdelkader, Emirate of",Algeria,Algeria,Algeria,Algeria,
 algeria_section,algeria_section,algeria_section,algeria_section,algeria_section,Algeria,Algeria,Algeria,Algeria,Algeria,
 algerie,algeria_section,algeria_section,algeria_section,algeria_section,Algeria,Algeria,Algeria,Algeria,Algeria,
@@ -1368,12 +1368,12 @@ kingdom_york,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_s
 afrique_occidentale_britannique,afrique_occidentale_britannique,afrique_occidentale_britannique,afrique_occidentale_britannique,afrique_occidentale_britannique,British West Africa,British West Africa,British West Africa,British West Africa,British West Africa,
 british-west-indies,british-west-indies,british-west-indies,british-west-indies,british-west-indies,British West Indies,British West Indies,British West Indies,British West Indies,British West Indies,
 brunei,brunei,brunei,brunei,brunei,Brunei,Brunei,Brunei,Brunei,Brunei,
-bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,Bulgaria,Bulgaria,Bulgaria,Bulgaria,Bulgaria,
-bulgarie,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,Bulgaria,Bulgaria,Bulgaria,Bulgaria,Bulgaria,
-dobruja_despotate,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,"Dobruja, Despotate of",Bulgaria,Bulgaria,Bulgaria,Bulgaria,
-bulgarian_empire,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,Second Bulgarian Empire,Bulgaria,Bulgaria,Bulgaria,Bulgaria,
-vidin_despotate,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,"Vidin, Tsardom of",Bulgaria,Bulgaria,Bulgaria,Bulgaria,
-burgundian_kingdom,burgundian_kingdom,burgundian_kingdom,burgundian_kingdom,burgundian_kingdom,Burgundian Kingdom,Burgundian Kingdom,Burgundian Kingdom,Burgundian Kingdom,Burgundian Kingdom,
+bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,Bulgaria,Bulgaria,Bulgaria,Bulgaria,Bulgaria,BUL
+bulgarie,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,Bulgaria,Bulgaria,Bulgaria,Bulgaria,Bulgaria,BUL
+dobruja_despotate,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,"Dobruja, Despotate of",Bulgaria,Bulgaria,Bulgaria,Bulgaria,BUL
+bulgarian_empire,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,Second Bulgarian Empire,Bulgaria,Bulgaria,Bulgaria,Bulgaria,BUL
+vidin_despotate,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,"Vidin, Tsardom of",Bulgaria,Bulgaria,Bulgaria,Bulgaria,BUL
+burgundian_kingdom,burgundian_kingdom,burgundian_kingdom,burgundian_kingdom,burgundian_kingdom,Burgundian Kingdom,Burgundian Kingdom,Burgundian Kingdom,Burgundian Kingdom,Burgundian Kingdom,BUL
 burkina-faso,burkina-faso,burkina-faso,burkina-faso,burkina-faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,
 upper_volta,burkina-faso,burkina-faso,burkina-faso,burkina-faso,Upper Volta,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,
 burundi,burundi,burundi,burundi,burundi,Burundi,Burundi,Burundi,Burundi,Burundi,
@@ -1985,7 +1985,7 @@ equateur,equateur,equateur,equateur,equateur,Ecuador,Ecuador,Ecuador,Ecuador,Ecu
 galapagos_islands,equateur,equateur,equateur,equateur,Galápagos Islands,Ecuador,Ecuador,Ecuador,Ecuador,
 galapagos,equateur,equateur,equateur,equateur,Galapagos Islands,Ecuador,Ecuador,Ecuador,Ecuador,
 edristan,edristan,edristan,edristan,edristan,"Edristan, People's Republic of","Edristan, People's Republic of","Edristan, People's Republic of","Edristan, People's Republic of","Edristan, People's Republic of",
-egypte,egypte,egypte,egypte,egypte,Egypt,Egypt,Egypt,Egypt,Egypt,
+egypte,egypte,egypte,egypte,egypte,Egypt,Egypt,Egypt,Egypt,Egypt,EGY
 egypt-ancient,egypt_ancient_section,egypt_ancient_section,egypt_ancient_section,egypt_ancient_section,Egypt (ancient),Egypt (ancient),Egypt (ancient),Egypt (ancient),Egypt (ancient),
 egypt_ancient_section,egypt_ancient_section,egypt_ancient_section,egypt_ancient_section,egypt_ancient_section,Egypt (ancient),Egypt (ancient),Egypt (ancient),Egypt (ancient),Egypt (ancient),
 ptolemaic_kingdom_section,egypt_ancient_section,egypt_ancient_section,egypt_ancient_section,egypt_ancient_section,Ptolemaic Kingdom (305 BC - 30 BC),Egypt (ancient),Egypt (ancient),Egypt (ancient),Egypt (ancient),
@@ -5472,11 +5472,11 @@ media_atropatene_kingdom,greater_armenia,greater_armenia,greater_armenia,greater
 osroene_kingdom,greater_armenia,greater_armenia,greater_armenia,greater_armenia,"Osroene, Kingdom of",Greater Armenia,Greater Armenia,Greater Armenia,Greater Armenia,
 sophene_kingdom,greater_armenia,greater_armenia,greater_armenia,greater_armenia,"Sophene, Kingdom of",Greater Armenia,Greater Armenia,Greater Armenia,Greater Armenia,
 tosp_kingdom,greater_armenia,greater_armenia,greater_armenia,greater_armenia,"Tosp, Kingdom of",Greater Armenia,Greater Armenia,Greater Armenia,Greater Armenia,
-egean_islands,greece,greece,greece,greece,Aegean Islands,Greece,Greece,Greece,Greece,
-crete,greece,greece,greece,greece,Crete,Greece,Greece,Greece,Greece,
-grece,greece,greece,greece,greece,Greece,Greece,Greece,Greece,Greece,
-greece,greece,greece,greece,greece,Greece,Greece,Greece,Greece,Greece,
-ionian-islands,greece,greece,greece,greece,Ionian Islands,Greece,Greece,Greece,Greece,
+egean_islands,greece,greece,greece,greece,Aegean Islands,Greece,Greece,Greece,Greece,AGG
+crete,greece,greece,greece,greece,Crete,Greece,Greece,Greece,Greece,CRE
+grece,greece,greece,greece,greece,Greece,Greece,Greece,Greece,Greece,GRE
+greece,greece,greece,greece,greece,Greece,Greece,Greece,Greece,Greece,GRE
+ionian-islands,greece,greece,greece,greece,Ionian Islands,Greece,Greece,Greece,Greece,IOI
 achaian_league,achaia,grece_antique,grece_antique,grece_antique,Achaean League,Achaia,Greece (ancient),Greece (ancient),Greece (ancient),
 aigai,achaia,grece_antique,grece_antique,grece_antique,Aigai (Achaia),Achaia,Greece (ancient),Greece (ancient),Greece (ancient),
 aigeira,achaia,grece_antique,grece_antique,grece_antique,Aigeira,Achaia,Greece (ancient),Greece (ancient),Greece (ancient),
@@ -7206,9 +7206,9 @@ italian_republic,italie_etats,italy,italy,italy,"Italy, Napoleonic Republic of",
 ivrea_city,italie_etats,italy,italy,italy,"Ivrea, City of",Italian States,Italy,Italy,Italy,
 livorno,italie_etats,italy,italy,italy,Livorno,Italian States,Italy,Italy,Italy,
 loano_county,italie_etats,italy,italy,italy,"Loano, County of",Italian States,Italy,Italy,Italy,
-lombardy,italie_etats,italy,italy,italy,"Lombardy, Kingdom of",Italian States,Italy,Italy,Italy,
-lombardy_venetia,italie_etats,italy,italy,italy,"Lombardy-Venetia, Kingdom of",Italian States,Italy,Italy,Italy,
-lucca,italie_etats,italy,italy,italy,"Lucca, Republic of",Italian States,Italy,Italy,Italy,
+lombardy,italie_etats,italy,italy,italy,"Lombardy, Kingdom of",Italian States,Italy,Italy,Italy,LOM
+lombardy_venetia,italie_etats,italy,italy,italy,"Lombardy-Venetia, Kingdom of",Italian States,Italy,Italy,Italy,LOV
+lucca,italie_etats,italy,italy,italy,"Lucca, Republic of",Italian States,Italy,Italy,Italy,LUC
 maccagno,italie_etats,italy,italy,italy,Maccagno,Italian States,Italy,Italy,Italy,
 mantua_city,italie_etats,italy,italy,italy,"Mantua, City under siege of",Italian States,Italy,Italy,Italy,
 mantua,italie_etats,italy,italy,italy,"Mantua, Duchy of",Italian States,Italy,Italy,Italy,
@@ -7217,16 +7217,16 @@ massa_carrara,italie_etats,italy,italy,italy,"Massa-Carrara, Duchy of",Italian S
 messerano,italie_etats,italy,italy,italy,Masserano,Italian States,Italy,Italy,Italy,
 milan,italie_etats,italy,italy,italy,"Milan, Duchy of",Italian States,Italy,Italy,Italy,
 mirandola,italie_etats,italy,italy,italy,"Mirandola, Duchy of",Italian States,Italy,Italy,Italy,
-modena,italie_etats,italy,italy,italy,"Modena and Reggio, Duchy of",Italian States,Italy,Italy,Italy,
+modena,italie_etats,italy,italy,italy,"Modena and Reggio, Duchy of",Italian States,Italy,Italy,Italy,MOD
 casale,italie_etats,italy,italy,italy,Montferrat,Italian States,Italy,Italy,Italy,
 naples_duchy,italie_etats,italy,italy,italy,"Naples, Duchy of",Italian States,Italy,Italy,Italy,
 naples,italie_etats,italy,italy,italy,"Naples, Kingdom of",Italian States,Italy,Italy,Italy,
 novellara_bagnolo_county,italie_etats,italy,italy,italy,"Novellara and Bagnolo, County of",Italian States,Italy,Italy,Italy,
 padania,italie_etats,italy,italy,italy,Padania,Italian States,Italy,Italy,Italy,
 padova_lordship,italie_etats,italy,italy,italy,"Padova, Lordship of",Italian States,Italy,Italy,Italy,
-papal_states_italy_shortcut,italie_etats,italy,italy,italy,Papal States,Italian States,Italy,Italy,Italy,
-parma,italie_etats,italy,italy,italy,"Parma and Piacenza, Duchy of",Italian States,Italy,Italy,Italy,
-parma_city,italie_etats,italy,italy,italy,"Parma, City of",Italian States,Italy,Italy,Italy,
+papal_states_italy_shortcut,italie_etats,italy,italy,italy,Papal States,Italian States,Italy,Italy,Italy,PAP
+parma,italie_etats,italy,italy,italy,"Parma and Piacenza, Duchy of",Italian States,Italy,Italy,Italy,PAR
+parma_city,italie_etats,italy,italy,italy,"Parma, City of",Italian States,Italy,Italy,Italy,PAR
 pavia,italie_etats,italy,italy,italy,Pavia,Italian States,Italy,Italy,Italy,
 perugia,italie_etats,italy,italy,italy,Perugia,Italian States,Italy,Italy,Italy,
 pesaro_city,italie_etats,italy,italy,italy,"Pesaro, City of",Italian States,Italy,Italy,Italy,
@@ -7255,11 +7255,11 @@ syracuse_city,italie_etats,italy,italy,italy,"Syracuse, City of",Italian States,
 tassarolo,italie_etats,italy,italy,italy,"Tassarolo, County of",Italian States,Italy,Italy,Italy,
 trento,italie_etats,italy,italy,italy,"Trento, Prince-bishopric of",Italian States,Italy,Italy,Italy,
 trieste_city,italie_etats,italy,italy,italy,"Trieste, City of",Italian States,Italy,Italy,Italy,
-tuscany,italie_etats,italy,italy,italy,Tuscany,Italian States,Italy,Italy,Italy,
-two_sicilies,italie_etats,italy,italy,italy,"Two Sicilies, Kingdom of the",Italian States,Italy,Italy,Italy,
-united_provinces_of_central_italy,italie_etats,italy,italy,italy,United Provinces of Central Italy,Italian States,Italy,Italy,Italy,
+tuscany,italie_etats,italy,italy,italy,Tuscany,Italian States,Italy,Italy,Italy,TUS
+two_sicilies,italie_etats,italy,italy,italy,"Two Sicilies, Kingdom of the",Italian States,Italy,Italy,Italy,NAP
+united_provinces_of_central_italy,italie_etats,italy,italy,italy,United Provinces of Central Italy,Italian States,Italy,Italy,Italy,UIT
 urbino,italie_etats,italy,italy,italy,"Urbino, Duchy of",Italian States,Italy,Italy,Italy,
-venice,italie_etats,italy,italy,italy,"Venice, Republic of",Italian States,Italy,Italy,Italy,
+venice,italie_etats,italy,italy,italy,"Venice, Republic of",Italian States,Italy,Italy,Italy,VEN
 vercelli,italie_etats,italy,italy,italy,"Vercelli, City of",Italian States,Italy,Italy,Italy,
 vergagni_lordship,italie_etats,italy,italy,italy,"Vergagni, Lordship of",Italian States,Italy,Italy,Italy,
 iglesias_city,italie_etats,italy,italy,italy,"Villa di Chiesa, City of",Italian States,Italy,Italy,Italy,
@@ -7826,7 +7826,7 @@ ostrogothic_kingdom_section,ostrogothic_kingdom_section,ostrogothic_kingdom_sect
 ravenna_city_ostrogothic,ostrogothic_kingdom_section,ostrogothic_kingdom_section,ostrogothic_kingdom_section,ostrogothic_kingdom_section,"Ravenna, City of",Ostrogothic Kingdom,Ostrogothic Kingdom,Ostrogothic Kingdom,Ostrogothic Kingdom,
 rome_city_ostrogothic,ostrogothic_kingdom_section,ostrogothic_kingdom_section,ostrogothic_kingdom_section,ostrogothic_kingdom_section,"Rome, City of",Ostrogothic Kingdom,Ostrogothic Kingdom,Ostrogothic Kingdom,Ostrogothic Kingdom,
 other_world_kingdom,other_world_kingdom,other_world_kingdom,other_world_kingdom,other_world_kingdom,Other World Kingdom,Other World Kingdom,Other World Kingdom,Other World Kingdom,Other World Kingdom,
-ottoman,ottoman,ottoman,ottoman,ottoman,Ottoman Empire,Ottoman Empire,Ottoman Empire,Ottoman Empire,Ottoman Empire,
+ottoman,ottoman,ottoman,ottoman,ottoman,Ottoman Empire,Ottoman Empire,Ottoman Empire,Ottoman Empire,Ottoman Empire,TUR
 pakistan,pakistan,pakistan,pakistan,pakistan,Pakistan,Pakistan,Pakistan,Pakistan,Pakistan,
 palaos,palaos,palaos,palaos,palaos,Palau,Palau,Palau,Palau,Palau,
 palestine_fantasy,palestine_fantasy,palestine_fantasy,palestine_fantasy,palestine_fantasy,Palestine,Palestine,Palestine,Palestine,Palestine,
@@ -10144,7 +10144,7 @@ trinite-et-tobago,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et
 trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,
 cartago,tunisie,tunisie,tunisie,tunisie,Carthage,Tunisia,Tunisia,Tunisia,Tunisia,
 tunisie,tunisie,tunisie,tunisie,tunisie,Tunisia,Tunisia,Tunisia,Tunisia,Tunisia,
-turquie,turquie,turquie,turquie,turquie,Turkey,Turkey,Turkey,Turkey,Turkey,
+turquie,turquie,turquie,turquie,turquie,Turkey,Turkey,Turkey,Turkey,Turkey,TUR
 turkmenistan,turkmenistan,turkmenistan,turkmenistan,turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,
 tuvalu,tuvalu,tuvalu,tuvalu,tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,
 vaitupu,tuvalu,tuvalu,tuvalu,tuvalu,Vaitupu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,
@@ -10260,35 +10260,35 @@ new_hebrides_period,vanuatu,vanuatu_section,vanuatu_section,vanuatu_section,New 
 vanuatu,vanuatu_section,vanuatu_section,vanuatu_section,vanuatu_section,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,
 vanuatu_section,vanuatu_section,vanuatu_section,vanuatu_section,vanuatu_section,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,
 vanuatu_period,vanuatu,vanuatu_section,vanuatu_section,vanuatu_section,Vanuatu (1980-date),Vanuatu,Vanuatu,Vanuatu,Vanuatu,
-ancona_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Ancona (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-ascoli_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Ascoli (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-bologna_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Bologna (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-civitavecchia_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Civitavecchia (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-comtat_venaissin,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Comtat Venaissin,Papal States,Vatican City,Vatican City,Vatican City,
-fano_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Fano (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-fermo_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Fermo (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-ferrara_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Ferrara (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-foligno_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Foligno (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-gubbio_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Gubbio (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-l_aquila_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,L'Aquila (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-macerata_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Macerata (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-matelica_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Matelica (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-montalto_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Montalto (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-papal_states,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Papal States,Papal States,Vatican City,Vatican City,Vatican City,
-parma_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Parma (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-pergola_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Pergola (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-perugia_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Perugia (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-piacenza_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Piacenza (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-ravenna_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Ravenna (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-ronciglione_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Ronciglione (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-san_severino_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,San Severino (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-spoleto_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Spoleto (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-terni_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Terni (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-tivoli_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Tivoli (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-viterbo_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Viterbo (Papal States),Papal States,Vatican City,Vatican City,Vatican City,
-papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,papal_states_section,Papal States,Vatican City,Vatican City,Vatican City,Vatican City,
-vatican,papal_states_section,papal_states_section,papal_states_section,papal_states_section,Vatican City,Vatican City,Vatican City,Vatican City,Vatican City,
-papal_states_section,papal_states_section,papal_states_section,papal_states_section,papal_states_section,Vatican City,Vatican City,Vatican City,Vatican City,Vatican City,
+ancona_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Ancona (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+ascoli_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Ascoli (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+bologna_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Bologna (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+civitavecchia_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Civitavecchia (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+comtat_venaissin,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Comtat Venaissin,Papal States,Vatican City,Vatican City,Vatican City,PAP
+fano_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Fano (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+fermo_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Fermo (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+ferrara_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Ferrara (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+foligno_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Foligno (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+gubbio_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Gubbio (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+l_aquila_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,L'Aquila (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+macerata_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Macerata (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+matelica_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Matelica (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+montalto_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Montalto (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+papal_states,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Papal States,Papal States,Vatican City,Vatican City,Vatican City,PAP
+parma_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Parma (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+pergola_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Pergola (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+perugia_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Perugia (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+piacenza_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Piacenza (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+ravenna_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Ravenna (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+ronciglione_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Ronciglione (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+san_severino_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,San Severino (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+spoleto_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Spoleto (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+terni_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Terni (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+tivoli_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Tivoli (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+viterbo_papal_state,papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,Viterbo (Papal States),Papal States,Vatican City,Vatican City,Vatican City,PAP
+papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,papal_states_section,Papal States,Vatican City,Vatican City,Vatican City,Vatican City,PAP
+vatican,papal_states_section,papal_states_section,papal_states_section,papal_states_section,Vatican City,Vatican City,Vatican City,Vatican City,Vatican City,PAP
+papal_states_section,papal_states_section,papal_states_section,papal_states_section,papal_states_section,Vatican City,Vatican City,Vatican City,Vatican City,Vatican City,PAP
 venezuela,venezuela_section,venezuela_section,venezuela_section,venezuela_section,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,
 venezuela_section,venezuela_section,venezuela_section,venezuela_section,venezuela_section,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,
 venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,venezuela_section,Venezuelan provinces,Venezuela,Venezuela,Venezuela,Venezuela,
