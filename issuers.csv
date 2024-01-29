@@ -4971,7 +4971,7 @@ waldeck_section_notgeld,german-notgeld,germany,germany,germany,"Waldeck, Federal
 waldeck-pyrmont_section_notgeld,german-notgeld,germany,germany,germany,"Waldeck-Pyrmont, Federal state of",German notgeld,Germany,Germany,Germany,waldeck-pyrmont_section_notgeld
 west-prussia_section_notgeld,german-notgeld,germany,germany,germany,"West Prussia, Prussian province of",German notgeld,Germany,Germany,Germany,west-prussia_section_notgeld
 westphalia_section_notgeld,german-notgeld,germany,germany,germany,"Westphalia, Prussian province of",German notgeld,Germany,Germany,Germany,westphalia_section_notgeld
-aachen_free_imperial_city,etats_allemands,germany,germany,germany,"Aachen, Free imperial city of",German States,Germany,Germany,Germany,GER
+aachen_free_imperial_city,etats_allemands,germany,germany,germany,"Aachen, Free imperial city of",German States,Germany,Germany,Germany,
 ahlen_city,etats_allemands,germany,germany,germany,"Ahlen, City of",German States,Germany,Germany,Germany,
 aichach_city,etats_allemands,germany,germany,germany,"Aichach, City of",German States,Germany,Germany,Germany,
 amberg_city,etats_allemands,germany,germany,germany,"Amberg, City of",German States,Germany,Germany,Germany,
@@ -5346,8 +5346,8 @@ saxe_lauenburg_duchy,etats_allemands,germany,germany,germany,"Saxe-Lauenburg, Du
 saxe_meiningen_duchy,etats_allemands,germany,germany,germany,"Saxe-Meiningen, Duchy of",German States,Germany,Germany,Germany,SME
 saxe_romhild_duchy,etats_allemands,germany,germany,germany,"Saxe-Römhild, Duchy of",German States,Germany,Germany,Germany,
 saxe_saafeld_duchy,etats_allemands,germany,germany,germany,"Saxe-Saalfeld, Duchy of",German States,Germany,Germany,Germany,
-saxe_weimar_duchy,etats_allemands,germany,germany,germany,"Saxe-Weimar, Duchy of",German States,Germany,Germany,Germany,SWI
-saxe_weimar_eisenach_grand_duchy,etats_allemands,germany,germany,germany,Saxe-Weimar-Eisenach,German States,Germany,Germany,Germany,SWI
+saxe_weimar_duchy,etats_allemands,germany,germany,germany,"Saxe-Weimar, Duchy of",German States,Germany,Germany,Germany,SWN
+saxe_weimar_eisenach_grand_duchy,etats_allemands,germany,germany,germany,Saxe-Weimar-Eisenach,German States,Germany,Germany,Germany,SWN
 saxe_weissenfels_duchy,etats_allemands,germany,germany,germany,"Saxe-Weissenfels, Duchy of",German States,Germany,Germany,Germany,
 saxe_wittenberg_duchy,etats_allemands,germany,germany,germany,"Saxe-Wittenberg, Duchy of",German States,Germany,Germany,Germany,
 saxe_zeitz_duchy,etats_allemands,germany,germany,germany,"Saxe-Zeitz, Duchy of",German States,Germany,Germany,Germany,
@@ -5455,7 +5455,7 @@ etats_allemands,germany,germany,germany,germany,German States,Germany,Germany,Ge
 germany,germany,germany,germany,germany,Germany,Germany,Germany,Germany,Germany,GER
 allemagne-pre1945,germany,germany,germany,germany,Germany (1871-1948),Germany,Germany,Germany,Germany,GER
 allemagne,germany,germany,germany,germany,"Germany, Federal Republic of",Germany,Germany,Germany,Germany,GER
-sarre,germany,germany,germany,germany,Saar,Germany,Germany,Germany,Germany,SAE
+sarre,germany,germany,germany,germany,ERA;SAA,Germany,Germany,Germany,Germany,SAE
 ghana,ghana_section,ghana_section,ghana_section,ghana_section,Ghana,Ghana,Ghana,Ghana,Ghana,
 ghana_section,ghana_section,ghana_section,ghana_section,ghana_section,Ghana,Ghana,Ghana,Ghana,Ghana,
 gilbert_ellice_islands,gilbert_ellice_islands,gilbert_ellice_islands,gilbert_ellice_islands,gilbert_ellice_islands,Gilbert and Ellice Islands,Gilbert and Ellice Islands,Gilbert and Ellice Islands,Gilbert and Ellice Islands,Gilbert and Ellice Islands,
@@ -8011,9 +8011,9 @@ elbing_city,poland_kingdom_section,poland_section,poland_section,poland_section,
 greater_poland_duchy,poland_kingdom_section,poland_section,poland_section,poland_section,"Greater Poland, Duchy of",Polish States,Poland,Poland,Poland,
 jedrzejow_abbey,poland_kingdom_section,poland_section,poland_section,poland_section,Jędrzejów Abbey,Polish States,Poland,Poland,Poland,
 jawor_swidnica_duchy,poland_kingdom_section,poland_section,poland_section,poland_section,"Jawor, Duchy of",Polish States,Poland,Poland,Poland,
-krakow_bishopric,poland_kingdom_section,poland_section,poland_section,poland_section,"Kraków, Bishopric of",Polish States,Poland,Poland,Poland,
-krakow_duchy,poland_kingdom_section,poland_section,poland_section,poland_section,"Kraków, Duchy of",Polish States,Poland,Poland,Poland,
-krakow_freecity,poland_kingdom_section,poland_section,poland_section,poland_section,"Kraków, Free city of",Polish States,Poland,Poland,Poland,
+krakow_bishopric,poland_kingdom_section,poland_section,poland_section,poland_section,"Kraków, Bishopric of",Polish States,Poland,Poland,Poland,KAK
+krakow_duchy,poland_kingdom_section,poland_section,poland_section,poland_section,"Kraków, Duchy of",Polish States,Poland,Poland,Poland,KAK
+krakow_freecity,poland_kingdom_section,poland_section,poland_section,poland_section,"Kraków, Free city of",Polish States,Poland,Poland,Poland,KAK
 kujavia_pomerania_bishopric,poland_kingdom_section,poland_section,poland_section,poland_section,"Kujawy–Pomorze, Bishopric of",Polish States,Poland,Poland,Poland,
 kuyavia_duchy,poland_kingdom_section,poland_section,poland_section,poland_section,"Kuyavia, Duchy of",Polish States,Poland,Poland,Poland,
 masovia_duchy,poland_kingdom_section,poland_section,poland_section,poland_section,"Masovia, Duchy of",Polish States,Poland,Poland,Poland,
@@ -8143,8 +8143,8 @@ rhodesie_et_nyassaland,rhodesie_et_nyassaland,rhodesie_et_nyassaland,rhodesie_et
 riviera_principality,riviera_principality,riviera_principality,riviera_principality,riviera_principality,Riviera Principality,Riviera Principality,Riviera Principality,Riviera Principality,Riviera Principality,
 robland,robland,robland,robland,robland,"Robland, Kingdom of","Robland, Kingdom of","Robland, Kingdom of","Robland, Kingdom of","Robland, Kingdom of",
 rome_fantasy,rome_fantasy,rome_fantasy,rome_fantasy,rome_fantasy,Roman Empire (fantasy),Roman Empire (fantasy),Roman Empire (fantasy),Roman Empire (fantasy),Roman Empire (fantasy),
-romania_section,romania_section,romania_section,romania_section,romania_section,Romania,Romania,Romania,Romania,Romania,
-roumanie,romania_section,romania_section,romania_section,romania_section,Romania,Romania,Romania,Romania,Romania,
+romania_section,romania_section,romania_section,romania_section,romania_section,Romania,Romania,Romania,Romania,Romania,RMM
+roumanie,romania_section,romania_section,romania_section,romania_section,Romania,Romania,Romania,Romania,Romania,RMM
 romania_notgeld,romania_section,romania_section,romania_section,romania_section,Romanian notgeld,Romania,Romania,Romania,Romania,
 arad_notgeld,romania_notgeld,romania_section,romania_section,romania_section,"Arad, City of",Romanian notgeld,Romania,Romania,Romania,
 baia-mare_notgeld,romania_notgeld,romania_section,romania_section,romania_section,"Baia Mare, City of",Romanian notgeld,Romania,Romania,Romania,
@@ -10150,8 +10150,8 @@ tuvalu,tuvalu,tuvalu,tuvalu,tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,
 vaitupu,tuvalu,tuvalu,tuvalu,tuvalu,Vaitupu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,
 ouganda,ouganda,ouganda,ouganda,ouganda,Uganda,Uganda,Uganda,Uganda,Uganda,
 transnistria_governorate,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Transnistria Governorate,Ukraine,Ukraine,Ukraine,Ukraine,
-ukraine,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,ukraine
-ukraine_section,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,ukraine
+ukraine,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,UKR
+ukraine_section,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,UKR
 uncertain_germanic_tribes,uncertain_germanic_tribes,uncertain_germanic_tribes,uncertain_germanic_tribes,uncertain_germanic_tribes,Uncertain Germanic tribes,Uncertain Germanic tribes,Uncertain Germanic tribes,Uncertain Germanic tribes,Uncertain Germanic tribes,
 abu_dhabi,uae,uae,uae,uae,"Abu Dhabi, Emirate of",United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,
 ajman,uae,uae,uae,uae,Ajman,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,
