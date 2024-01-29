@@ -1891,10 +1891,10 @@ isla_de_la_juventud,cuba,cuba,cuba,cuba,Isla de la Juventud,Cuba,Cuba,Cuba,Cuba,
 chypre,chypre_section,chypre_section,chypre_section,chypre_section,Cyprus,Cyprus,Cyprus,Cyprus,Cyprus,
 chypre_section,chypre_section,chypre_section,chypre_section,chypre_section,Cyprus,Cyprus,Cyprus,Cyprus,Cyprus,
 famagouste_city,chypre_section,chypre_section,chypre_section,chypre_section,"Famagusta, City of",Cyprus,Cyprus,Cyprus,Cyprus,
-boheme_moravie,czech,czech,czech,czech,Bohemia and Moravia,Czech Republic,Czech Republic,Czech Republic,Czech Republic,
-czech,czech,czech,czech,czech,Czech Republic,Czech Republic,Czech Republic,Czech Republic,Czech Republic,
-republique_tcheque,czech,czech,czech,czech,Czech Republic,Czech Republic,Czech Republic,Czech Republic,Czech Republic,
-tchecoslovaquie,tchecoslovaquie,tchecoslovaquie,tchecoslovaquie,tchecoslovaquie,Czechoslovakia,Czechoslovakia,Czechoslovakia,Czechoslovakia,Czechoslovakia,
+boheme_moravie,czech,czech,czech,czech,Bohemia and Moravia,Czech Republic,Czech Republic,Czech Republic,Czech Republic,czech
+czech,czech,czech,czech,czech,Czech Republic,Czech Republic,Czech Republic,Czech Republic,Czech Republic,czech
+republique_tcheque,czech,czech,czech,czech,Czech Republic,Czech Republic,Czech Republic,Czech Republic,Czech Republic,czech
+tchecoslovaquie,tchecoslovaquie,tchecoslovaquie,tchecoslovaquie,tchecoslovaquie,Czechoslovakia,Czechoslovakia,Czechoslovakia,Czechoslovakia,Czechoslovakia,czech
 damanhur,damanhur,damanhur,damanhur,damanhur,"Damanhur, Federation of","Damanhur, Federation of","Damanhur, Federation of","Damanhur, Federation of","Damanhur, Federation of",
 aabenraa_notgeld,aabenraa_section,danish_notgeld_section,denmark,denmark,"Aabenraa, Town of","Aabenraa, County of",Danish notgeld,Denmark,Denmark,aabenraa_notgeld
 bjolderup_notgeld,aabenraa_section,danish_notgeld_section,denmark,denmark,"Bjolderup, Municipality of","Aabenraa, County of",Danish notgeld,Denmark,Denmark,bjolderup_notgeld
@@ -1999,14 +1999,14 @@ eritrea_section,eritrea_section,eritrea_section,eritrea_section,eritrea_section,
 erythree,eritrea_section,eritrea_section,eritrea_section,eritrea_section,Eritrea,Eritrea,Eritrea,Eritrea,Eritrea,
 eritrea_italian,eritrea_section,eritrea_section,eritrea_section,eritrea_section,Italian Eritrea,Eritrea,Eritrea,Eritrea,Eritrea,
 esperantujo,esperantujo,esperantujo,esperantujo,esperantujo,Esperantujo,Esperantujo,Esperantujo,Esperantujo,Esperantujo,
-estonia_section,estonia_section,estonia_section,estonia_section,estonia_section,Estonia,Estonia,Estonia,Estonia,Estonia,
-estonie,estonia_section,estonia_section,estonia_section,estonia_section,Estonia,Estonia,Estonia,Estonia,Estonia,
-estonia_danish_section,estonia_section,estonia_section,estonia_section,estonia_section,"Estonia, Danish",Estonia,Estonia,Estonia,Estonia,
-estonia_swedish_section,estonia_section,estonia_section,estonia_section,estonia_section,"Estonia, Swedish",Estonia,Estonia,Estonia,Estonia,
-osel_wiek_bishopric,estonia_danish_section,estonia_section,estonia_section,estonia_section,"Ösel-Wiek, Bishopric of","Estonia, Danish",Estonia,Estonia,Estonia,
-estonia_danish,estonia_danish_section,estonia_section,estonia_section,estonia_section,"Estonia, Danish","Estonia, Danish",Estonia,Estonia,Estonia,
-narva_city,estonia_swedish_section,estonia_section,estonia_section,estonia_section,"Narva, City of","Estonia, Swedish",Estonia,Estonia,Estonia,
-reval,estonia_swedish_section,estonia_section,estonia_section,estonia_section,"Reval, City of","Estonia, Swedish",Estonia,Estonia,Estonia,
+estonia_section,estonia_section,estonia_section,estonia_section,estonia_section,Estonia,Estonia,Estonia,Estonia,Estonia,estonia
+estonie,estonia_section,estonia_section,estonia_section,estonia_section,Estonia,Estonia,Estonia,Estonia,Estonia,estonia
+estonia_danish_section,estonia_section,estonia_section,estonia_section,estonia_section,"Estonia, Danish",Estonia,Estonia,Estonia,Estonia,estonia
+estonia_swedish_section,estonia_section,estonia_section,estonia_section,estonia_section,"Estonia, Swedish",Estonia,Estonia,Estonia,Estonia,estonia
+osel_wiek_bishopric,estonia_danish_section,estonia_section,estonia_section,estonia_section,"Ösel-Wiek, Bishopric of","Estonia, Danish",Estonia,Estonia,Estonia,estonia
+estonia_danish,estonia_danish_section,estonia_section,estonia_section,estonia_section,"Estonia, Danish","Estonia, Danish",Estonia,Estonia,Estonia,estonia
+narva_city,estonia_swedish_section,estonia_section,estonia_section,estonia_section,"Narva, City of","Estonia, Swedish",Estonia,Estonia,Estonia,estonia
+reval,estonia_swedish_section,estonia_section,estonia_section,estonia_section,"Reval, City of","Estonia, Swedish",Estonia,Estonia,Estonia,estonia
 swaziland,swaziland,swaziland,swaziland,swaziland,Eswatini,Eswatini,Eswatini,Eswatini,Eswatini,ESS
 eswatini_period,swaziland,swaziland,swaziland,swaziland,Kingdom of Eswatini (2018-date),Eswatini,Eswatini,Eswatini,Eswatini,ESS
 swaziland_period,swaziland,swaziland,swaziland,swaziland,Kingdom of Swaziland (1968-2018),Eswatini,Eswatini,Eswatini,Eswatini,ESS
@@ -7346,11 +7346,11 @@ laos,laos_section,laos_section,laos_section,laos_section,Laos,Laos,Laos,Laos,Lao
 laos_section,laos_section,laos_section,laos_section,laos_section,Laos,Laos,Laos,Laos,Laos,
 luang_prabang,laos_section,laos_section,laos_section,laos_section,"Luang Prabang, Kingdom of",Laos,Laos,Laos,Laos,
 vientiane,laos_section,laos_section,laos_section,laos_section,"Vientiane, Kingdom of",Laos,Laos,Laos,Laos,
-lettonie,lettonie_section,lettonie_section,lettonie_section,lettonie_section,Latvia,Latvia,Latvia,Latvia,Latvia,
-lettonie_section,lettonie_section,lettonie_section,lettonie_section,lettonie_section,Latvia,Latvia,Latvia,Latvia,Latvia,
-latvia_notgeld,lettonie_section,lettonie_section,lettonie_section,lettonie_section,Latvian notgeld,Latvia,Latvia,Latvia,Latvia,
-jelgava_notgeld,latvia_notgeld,lettonie_section,lettonie_section,lettonie_section,"Jelgava, City of",Latvian notgeld,Latvia,Latvia,Latvia,
-liepaja_notgeld,latvia_notgeld,lettonie_section,lettonie_section,lettonie_section,"Liepāja, City of",Latvian notgeld,Latvia,Latvia,Latvia,
+lettonie,lettonie_section,lettonie_section,lettonie_section,lettonie_section,Latvia,Latvia,Latvia,Latvia,Latvia,latvia
+lettonie_section,lettonie_section,lettonie_section,lettonie_section,lettonie_section,Latvia,Latvia,Latvia,Latvia,Latvia,latvia
+latvia_notgeld,lettonie_section,lettonie_section,lettonie_section,lettonie_section,Latvian notgeld,Latvia,Latvia,Latvia,Latvia,latvia
+jelgava_notgeld,latvia_notgeld,lettonie_section,lettonie_section,lettonie_section,"Jelgava, City of",Latvian notgeld,Latvia,Latvia,Latvia,latvia
+liepaja_notgeld,latvia_notgeld,lettonie_section,lettonie_section,lettonie_section,"Liepāja, City of",Latvian notgeld,Latvia,Latvia,Latvia,latvia
 liban,liban,liban,liban,liban,Lebanon,Lebanon,Lebanon,Lebanon,Lebanon,
 leeward_islands,leeward_islands,leeward_islands,leeward_islands,leeward_islands,Leeward Islands,Leeward Islands,Leeward Islands,Leeward Islands,Leeward Islands,
 lesotho,lesotho,lesotho,lesotho,lesotho,Lesotho,Lesotho,Lesotho,Lesotho,Lesotho,LSS
@@ -7361,10 +7361,10 @@ libya_section,libya_section,libya_section,libya_section,libya_section,Libya,Liby
 libye,libya_section,libya_section,libya_section,libya_section,Libya,Libya,Libya,Libya,Libya,
 tripolitania,libya_section,libya_section,libya_section,libya_section,Tripolitania,Libya,Libya,Libya,Libya,
 liechtenstein,liechtenstein,liechtenstein,liechtenstein,liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,LIE
-lithuania_section,lithuania_section,lithuania_section,lithuania_section,lithuania_section,Lithuania,Lithuania,Lithuania,Lithuania,Lithuania,
-lituanie,lithuania_section,lithuania_section,lithuania_section,lithuania_section,Lithuania,Lithuania,Lithuania,Lithuania,Lithuania,
-lithuania_grand_duchy,lithuania_section,lithuania_section,lithuania_section,lithuania_section,"Lithuania, Grand Duchy of",Lithuania,Lithuania,Lithuania,Lithuania,
-memel,lithuania_section,lithuania_section,lithuania_section,lithuania_section,Memel Territory,Lithuania,Lithuania,Lithuania,Lithuania,
+lithuania_section,lithuania_section,lithuania_section,lithuania_section,lithuania_section,Lithuania,Lithuania,Lithuania,Lithuania,Lithuania,lithuania
+lituanie,lithuania_section,lithuania_section,lithuania_section,lithuania_section,Lithuania,Lithuania,Lithuania,Lithuania,Lithuania,lithuania
+lithuania_grand_duchy,lithuania_section,lithuania_section,lithuania_section,lithuania_section,"Lithuania, Grand Duchy of",Lithuania,Lithuania,Lithuania,Lithuania,lithuania
+memel,lithuania_section,lithuania_section,lithuania_section,lithuania_section,Memel Territory,Lithuania,Lithuania,Lithuania,Lithuania,memel
 courland,livonia_section,livonia_section,livonia_section,livonia_section,"Courland and Semigallia, Duchy of",Livonia,Livonia,Livonia,Livonia,
 livonia_section,livonia_section,livonia_section,livonia_section,livonia_section,Livonia,Livonia,Livonia,Livonia,Livonia,
 duchy_of_livonia,livonia_section,livonia_section,livonia_section,livonia_section,"Livonia, Duchy of",Livonia,Livonia,Livonia,Livonia,
@@ -7989,22 +7989,22 @@ marathos_phoenicie,phenicie,phenicie,phenicie,phenicie,Marathos,Phoenician citie
 phenicie,phenicie,phenicie,phenicie,phenicie,Phoenician cities,Phoenician cities,Phoenician cities,Phoenician cities,Phoenician cities,
 sidon_phoenicie,phenicie,phenicie,phenicie,phenicie,Sidon,Phoenician cities,Phoenician cities,Phoenician cities,Phoenician cities,
 tyre_phoenicie,phenicie,phenicie,phenicie,phenicie,Tyre,Phoenician cities,Phoenician cities,Phoenician cities,Phoenician cities,
-poland_section,poland_section,poland_section,poland_section,poland_section,Poland,Poland,Poland,Poland,Poland,
-pologne,poland_section,poland_section,poland_section,poland_section,Poland,Poland,Poland,Poland,Poland,
-poland_kingdom,poland_section,poland_section,poland_section,poland_section,"Poland, Kingdom of",Poland,Poland,Poland,Poland,
-poland_partitions,poland_section,poland_section,poland_section,poland_section,"Poland, Partitions of",Poland,Poland,Poland,Poland,
-polish_notgeld,poland_section,poland_section,poland_section,poland_section,Polish notgeld,Poland,Poland,Poland,Poland,
-poland_kingdom_section,poland_section,poland_section,poland_section,poland_section,Polish States,Poland,Poland,Poland,Poland,
-bielsko_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Bielsko, Municipality of",Polish notgeld,Poland,Poland,Poland,
-bydgoszcz_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Bydgoszcz, Municipality of",Polish notgeld,Poland,Poland,Poland,
-cieszyn_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Cieszyn, Municipality of",Polish notgeld,Poland,Poland,Poland,
-czestochowa_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Częstochowa, Municipality of",Polish notgeld,Poland,Poland,Poland,
-koscierski_district_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Kościerski, District of",Polish notgeld,Poland,Poland,Poland,
-puck_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Puck, Municipality of",Polish notgeld,Poland,Poland,Poland,
-wejherowo_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Wejherowo, District of",Polish notgeld,Poland,Poland,Poland,
-witkowo_district_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Witkowo, District of",Polish notgeld,Poland,Poland,Poland,
-austrian_partition,poland_kingdom_section,poland_section,poland_section,poland_section,Austrian Partition of Poland,Polish States,Poland,Poland,Poland,
-dantzig,poland_kingdom_section,poland_section,poland_section,poland_section,"Danzig, City of",Polish States,Poland,Poland,Poland,
+poland_section,poland_section,poland_section,poland_section,poland_section,Poland,Poland,Poland,Poland,Poland,poland
+pologne,poland_section,poland_section,poland_section,poland_section,Poland,Poland,Poland,Poland,Poland,poland
+poland_kingdom,poland_section,poland_section,poland_section,poland_section,"Poland, Kingdom of",Poland,Poland,Poland,Poland,poland
+poland_partitions,poland_section,poland_section,poland_section,poland_section,"Poland, Partitions of",Poland,Poland,Poland,Poland,poland
+polish_notgeld,poland_section,poland_section,poland_section,poland_section,Polish notgeld,Poland,Poland,Poland,Poland,poland
+poland_kingdom_section,poland_section,poland_section,poland_section,poland_section,Polish States,Poland,Poland,Poland,Poland,poland
+bielsko_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Bielsko, Municipality of",Polish notgeld,Poland,Poland,Poland,bielsko_notgeld
+bydgoszcz_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Bydgoszcz, Municipality of",Polish notgeld,Poland,Poland,Poland,bydgoszcz_notgeld
+cieszyn_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Cieszyn, Municipality of",Polish notgeld,Poland,Poland,Poland,cieszyn_notgeld
+czestochowa_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Częstochowa, Municipality of",Polish notgeld,Poland,Poland,Poland,czestochowa_notgeld
+koscierski_district_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Kościerski, District of",Polish notgeld,Poland,Poland,Poland,koscierski_district_notgeld
+puck_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Puck, Municipality of",Polish notgeld,Poland,Poland,Poland,puck_notgeld
+wejherowo_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Wejherowo, District of",Polish notgeld,Poland,Poland,Poland,wejherowo_notgeld
+witkowo_district_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Witkowo, District of",Polish notgeld,Poland,Poland,Poland,witkowo_district_notgeld
+austrian_partition,poland_kingdom_section,poland_section,poland_section,poland_section,Austrian Partition of Poland,Polish States,Poland,Poland,Poland,poland-austria
+dantzig,poland_kingdom_section,poland_section,poland_section,poland_section,"Danzig, City of",Polish States,Poland,Poland,Poland,danzig
 drossen_city,poland_kingdom_section,poland_section,poland_section,poland_section,"Drossen, City of",Polish States,Poland,Poland,Poland,
 east_pomerania_duchy,poland_kingdom_section,poland_section,poland_section,poland_section,"East Pomerania, Duchy of",Polish States,Poland,Poland,Poland,
 elbing_city,poland_kingdom_section,poland_section,poland_section,poland_section,"Elbing, City of",Polish States,Poland,Poland,Poland,
@@ -8508,15 +8508,15 @@ livonia-and-estonia,russia,russia,russia,russia,Livonia and Estonia,Russia,Russi
 mordovia,russia,russia,russia,russia,"Mordovia, Republic of",Russia,Russia,Russia,Russia,
 nizhny_novgorod,russia,russia,russia,russia,Nizhny Novgorod,Russia,Russia,Russia,Russia,
 russia,russia,russia,russia,russia,Russia,Russia,Russia,Russia,Russia,
-russie,russia,russia,russia,russia,Russia,Russia,Russia,Russia,Russia,
-russia_civil_war,russia,russia,russia,russia,Russia - Civil war issues,Russia,Russia,Russia,Russia,
+russie,russia,russia,russia,russia,Russia,Russia,Russia,Russia,Russia,RUS
+russia_civil_war,russia,russia,russia,russia,Russia - Civil war issues,Russia,Russia,Russia,Russia,RUS
 caucasia,russia,russia,russia,russia,Russian Caucasia,Russia,Russia,Russia,Russia,
-russia-empire,russia,russia,russia,russia,Russian Empire,Russia,Russia,Russia,Russia,
+russia-empire,russia,russia,russia,russia,Russian Empire,Russia,Russia,Russia,Russia,RUS
 russian-american_company,russia,russia,russia,russia,Russian-American Company,Russia,Russia,Russia,Russia,
 yakutia,russia,russia,russia,russia,"Sakha (Yakutia), Republic of",Russia,Russia,Russia,Russia,
 sakhaline,russia,russia,russia,russia,Sakhalin Island,Russia,Russia,Russia,Russia,
 siberia,russia,russia,russia,russia,Siberia,Russia,Russia,Russia,Russia,
-ancienne_urss,russia,russia,russia,russia,Soviet Union,Russia,Russia,Russia,Russia,
+ancienne_urss,russia,russia,russia,russia,Soviet Union,Russia,Russia,Russia,Russia,RUS
 tannu-tuva,russia,russia,russia,russia,Tannu Tuva,Russia,Russia,Russia,Russia,
 tatarstan,russia,russia,russia,russia,Tatarstan,Russia,Russia,Russia,Russia,
 taurida_governorate,russia,russia,russia,russia,Taurida Governorate,Russia,Russia,Russia,Russia,
@@ -8559,7 +8559,7 @@ aldabra,seychelles,seychelles,seychelles,seychelles,Aldabra,Seychelles,Seychelle
 seychelles,seychelles,seychelles,seychelles,seychelles,Seychelles,Seychelles,Seychelles,Seychelles,Seychelles,
 sierra_leone,sierra_leone,sierra_leone,sierra_leone,sierra_leone,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,
 singapour,singapour,singapour,singapour,singapour,Singapore,Singapore,Singapore,Singapore,Singapore,
-slovaquie,slovaquie,slovaquie,slovaquie,slovaquie,Slovakia,Slovakia,Slovakia,Slovakia,Slovakia,
+slovaquie,slovaquie,slovaquie,slovaquie,slovaquie,Slovakia,Slovakia,Slovakia,Slovakia,Slovakia,slovakia
 slovenie,slovenie,slovenie,slovenie,slovenie,Slovenia,Slovenia,Slovenia,Slovenia,Slovenia,
 slowjamastan_republic,slowjamastan_republic,slowjamastan_republic,slowjamastan_republic,slowjamastan_republic,"Slowjamastan, Republic of","Slowjamastan, Republic of","Slowjamastan, Republic of","Slowjamastan, Republic of","Slowjamastan, Republic of",
 iles_salomon,iles_salomon,iles_salomon,iles_salomon,iles_salomon,Solomon Islands,Solomon Islands,Solomon Islands,Solomon Islands,Solomon Islands,
@@ -10150,8 +10150,8 @@ tuvalu,tuvalu,tuvalu,tuvalu,tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,
 vaitupu,tuvalu,tuvalu,tuvalu,tuvalu,Vaitupu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,
 ouganda,ouganda,ouganda,ouganda,ouganda,Uganda,Uganda,Uganda,Uganda,Uganda,
 transnistria_governorate,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Transnistria Governorate,Ukraine,Ukraine,Ukraine,Ukraine,
-ukraine,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,
-ukraine_section,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,
+ukraine,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,ukraine
+ukraine_section,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,ukraine
 uncertain_germanic_tribes,uncertain_germanic_tribes,uncertain_germanic_tribes,uncertain_germanic_tribes,uncertain_germanic_tribes,Uncertain Germanic tribes,Uncertain Germanic tribes,Uncertain Germanic tribes,Uncertain Germanic tribes,Uncertain Germanic tribes,
 abu_dhabi,uae,uae,uae,uae,"Abu Dhabi, Emirate of",United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,
 ajman,uae,uae,uae,uae,Ajman,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,
