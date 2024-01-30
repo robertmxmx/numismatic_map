@@ -1888,8 +1888,8 @@ duchy_of_archipelago,venetian_colonies,orient-latin,orient-latin,orient-latin,"A
 lordship_of_tinos_and_mykonos,venetian_colonies,orient-latin,orient-latin,orient-latin,"Tinos and Mykonos, Lordship of",Venetian colonies,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,
 cuba,cuba,cuba,cuba,cuba,Cuba,Cuba,Cuba,Cuba,Cuba,
 isla_de_la_juventud,cuba,cuba,cuba,cuba,Isla de la Juventud,Cuba,Cuba,Cuba,Cuba,
-chypre,chypre_section,chypre_section,chypre_section,chypre_section,Cyprus,Cyprus,Cyprus,Cyprus,Cyprus,
-chypre_section,chypre_section,chypre_section,chypre_section,chypre_section,Cyprus,Cyprus,Cyprus,Cyprus,Cyprus,
+chypre,chypre_section,chypre_section,chypre_section,chypre_section,Cyprus,Cyprus,Cyprus,Cyprus,Cyprus,CYP
+chypre_section,chypre_section,chypre_section,chypre_section,chypre_section,Cyprus,Cyprus,Cyprus,Cyprus,Cyprus,CYP
 famagouste_city,chypre_section,chypre_section,chypre_section,chypre_section,"Famagusta, City of",Cyprus,Cyprus,Cyprus,Cyprus,
 boheme_moravie,czech,czech,czech,czech,Bohemia and Moravia,Czech Republic,Czech Republic,Czech Republic,Czech Republic,czech
 czech,czech,czech,czech,czech,Czech Republic,Czech Republic,Czech Republic,Czech Republic,Czech Republic,czech
@@ -7428,8 +7428,8 @@ french_sudan,mali,mali,mali,mali,French Sudan (1921-1958),Mali,Mali,Mali,Mali,
 mali,mali,mali,mali,mali,Mali,Mali,Mali,Mali,Mali,
 mali_period,mali,mali,mali,mali,Mali (1960-date),Mali,Mali,Mali,Mali,
 upper_senegal_and_niger_period,mali,mali,mali,mali,Upper Senegal and Niger (1904-1921),Mali,Mali,Mali,Mali,
-malte,malte,malte,malte,malte,Malta,Malta,Malta,Malta,Malta,
-ordre_de_malte,ordre_de_malte,ordre_de_malte,ordre_de_malte,ordre_de_malte,"Malta, Order of","Malta, Order of","Malta, Order of","Malta, Order of","Malta, Order of",
+malte,malte,malte,malte,malte,Malta,Malta,Malta,Malta,Malta,MLT
+ordre_de_malte,ordre_de_malte,ordre_de_malte,ordre_de_malte,ordre_de_malte,"Malta, Order of","Malta, Order of","Malta, Order of","Malta, Order of","Malta, Order of",MLT
 marie_byrd_land,marie_byrd_land,marie_byrd_land,marie_byrd_land,marie_byrd_land,Marie Byrd Land,Marie Byrd Land,Marie Byrd Land,Marie Byrd Land,Marie Byrd Land,
 marshall,marshall,marshall,marshall,marshall,Marshall Islands,Marshall Islands,Marshall Islands,Marshall Islands,Marshall Islands,
 mauretanie-antique,mauretanie-antique,mauretanie-antique,mauretanie-antique,mauretanie-antique,Mauretania,Mauretania,Mauretania,Mauretania,Mauretania,
@@ -7806,7 +7806,7 @@ north_macedonia_section,north_macedonia_section,north_macedonia_section,north_ma
 prilep_lordship,north_macedonia_section,north_macedonia_section,north_macedonia_section,north_macedonia_section,"Prilep, Lordship of",North Macedonia,North Macedonia,North Macedonia,North Macedonia,
 north_pole,north_pole,north_pole,north_pole,north_pole,North Pole,North Pole,North Pole,North Pole,North Pole,
 repubblica_del_nord,repubblica_del_nord,repubblica_del_nord,repubblica_del_nord,repubblica_del_nord,"North, Republic of the","North, Republic of the","North, Republic of the","North, Republic of the","North, Republic of the",
-northern_cyprus,northern_cyprus,northern_cyprus,northern_cyprus,northern_cyprus,Northern Cyprus,Northern Cyprus,Northern Cyprus,Northern Cyprus,Northern Cyprus,
+northern_cyprus,northern_cyprus,northern_cyprus,northern_cyprus,northern_cyprus,CYP;NCY,Northern Cyprus,Northern Cyprus,Northern Cyprus,Northern Cyprus,NCY
 bouvet_island,norway,norway,norway,norway,Bouvet Island,Norway,Norway,Norway,Norway,
 norvege,norway,norway,norway,norway,Norway,Norway,Norway,Norway,Norway,NOR
 norway,norway,norway,norway,norway,Norway,Norway,Norway,Norway,Norway,NOR
