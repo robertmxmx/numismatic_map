@@ -7570,13 +7570,13 @@ rohan,middle_earth,middle_earth,middle_earth,middle_earth,Rohan,Middle Earth,Mid
 hajduk_republic_of_mijat_tomic,hajduk_republic_of_mijat_tomic,hajduk_republic_of_mijat_tomic,hajduk_republic_of_mijat_tomic,hajduk_republic_of_mijat_tomic,"Mijat Tomić, Hajduk Republic of","Mijat Tomić, Hajduk Republic of","Mijat Tomić, Hajduk Republic of","Mijat Tomić, Hajduk Republic of","Mijat Tomić, Hajduk Republic of",
 minerva,minerva,minerva,minerva,minerva,"Minerva, Republic of","Minerva, Republic of","Minerva, Republic of","Minerva, Republic of","Minerva, Republic of",
 disputed,disputed,disputed,disputed,disputed,Modern states with limited recognition,Modern states with limited recognition,Modern states with limited recognition,Modern states with limited recognition,Modern states with limited recognition,
-moldavia_duchy,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,Moldavia,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,
-moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,
-moldavie_valachie,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,
-wallachia,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,Wallachia ,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,
-gaugazia,moldavie,moldavie,moldavie,moldavie,Gagauzia,Moldova,Moldova,Moldova,Moldova,
-moldavie,moldavie,moldavie,moldavie,moldavie,Moldova,Moldova,Moldova,Moldova,Moldova,
-molossia,molossia,molossia,molossia,molossia,Molossia,Molossia,Molossia,Molossia,Molossia,
+moldavia_duchy,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,Moldavia,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,ROM
+moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,ROM
+moldavie_valachie,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,ROM
+wallachia,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,moldavia_wallachia_section,Wallachia ,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,Moldavia and Wallachia,ROM
+gaugazia,moldavie,moldavie,moldavie,moldavie,Gagauzia,Moldova,Moldova,Moldova,Moldova,MLD
+moldavie,moldavie,moldavie,moldavie,moldavie,Moldova,Moldova,Moldova,Moldova,Moldova,MLD
+molossia,molossia,molossia,molossia,molossia,Molossia,Molossia,Molossia,Molossia,Molossia,MLD
 monaco_notgeld,monaco_section,monaco_section,monaco_section,monaco_section,Monacan notgeld,Monaco,Monaco,Monaco,Monaco,MNN
 monaco,monaco_section,monaco_section,monaco_section,monaco_section,Monaco,Monaco,Monaco,Monaco,Monaco,MNN
 monaco_section,monaco_section,monaco_section,monaco_section,monaco_section,Monaco,Monaco,Monaco,Monaco,Monaco,MNN
@@ -10137,7 +10137,7 @@ timor_oriental,timor_oriental,timor_oriental,timor_oriental,timor_oriental,Timor
 timor_oriental_period,timor_oriental,timor_oriental,timor_oriental,timor_oriental,Timor-Leste (2002-date),Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,
 togo,togo,togo,togo,togo,Togo,Togo,Togo,Togo,Togo,
 tonga,tonga,tonga,tonga,tonga,Tonga,Tonga,Tonga,Tonga,Tonga,
-transnistrie,transnistrie,transnistrie,transnistrie,transnistrie,Transnistria,Transnistria,Transnistria,Transnistria,Transnistria,
+transnistrie,transnistrie,transnistrie,transnistrie,transnistrie,Transnistria,Transnistria,Transnistria,Transnistria,Transnistria,TTT
 tobago,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,
 trinite,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,Trinidad,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,
 trinite-et-tobago,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,
@@ -10149,7 +10149,7 @@ turkmenistan,turkmenistan,turkmenistan,turkmenistan,turkmenistan,Turkmenistan,Tu
 tuvalu,tuvalu,tuvalu,tuvalu,tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,
 vaitupu,tuvalu,tuvalu,tuvalu,tuvalu,Vaitupu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,
 ouganda,ouganda,ouganda,ouganda,ouganda,Uganda,Uganda,Uganda,Uganda,Uganda,
-transnistria_governorate,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Transnistria Governorate,Ukraine,Ukraine,Ukraine,Ukraine,
+UKR,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Transnistria Governorate,Ukraine,Ukraine,Ukraine,Ukraine,TNS
 ukraine,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,UKR
 ukraine_section,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,UKR
 uncertain_germanic_tribes,uncertain_germanic_tribes,uncertain_germanic_tribes,uncertain_germanic_tribes,uncertain_germanic_tribes,Uncertain Germanic tribes,Uncertain Germanic tribes,Uncertain Germanic tribes,Uncertain Germanic tribes,Uncertain Germanic tribes,
