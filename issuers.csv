@@ -1208,7 +1208,7 @@ baltic_islands,baltic_islands,baltic_islands,baltic_islands,baltic_islands,Balti
 bangladesh,bangladesh,bangladesh,bangladesh,bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,
 barbade,barbade,barbade,barbade,barbade,Barbados,Barbados,Barbados,Barbados,Barbados,
 barsoom,barsoom,barsoom,barsoom,barsoom,Barsoom,Barsoom,Barsoom,Barsoom,Barsoom,
-bielorussie,bielorussie,bielorussie,bielorussie,bielorussie,Belarus,Belarus,Belarus,Belarus,Belarus,
+bielorussie,bielorussie,bielorussie,bielorussie,bielorussie,Belarus,Belarus,Belarus,Belarus,Belarus,BLS
 belgian_congo_period,congo_belge,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,Belgian Congo (1908-1960),Belgian Congo,"Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi",
 congo_free_state_period,congo_belge,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,Congo Free State (1885-1908),Belgian Congo,"Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi",
 congo_belge,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,Belgian Congo,"Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi",
@@ -7989,12 +7989,12 @@ marathos_phoenicie,phenicie,phenicie,phenicie,phenicie,Marathos,Phoenician citie
 phenicie,phenicie,phenicie,phenicie,phenicie,Phoenician cities,Phoenician cities,Phoenician cities,Phoenician cities,Phoenician cities,
 sidon_phoenicie,phenicie,phenicie,phenicie,phenicie,Sidon,Phoenician cities,Phoenician cities,Phoenician cities,Phoenician cities,
 tyre_phoenicie,phenicie,phenicie,phenicie,phenicie,Tyre,Phoenician cities,Phoenician cities,Phoenician cities,Phoenician cities,
-poland_section,poland_section,poland_section,poland_section,poland_section,Poland,Poland,Poland,Poland,Poland,poland
-pologne,poland_section,poland_section,poland_section,poland_section,Poland,Poland,Poland,Poland,Poland,poland
-poland_kingdom,poland_section,poland_section,poland_section,poland_section,"Poland, Kingdom of",Poland,Poland,Poland,Poland,poland
-poland_partitions,poland_section,poland_section,poland_section,poland_section,"Poland, Partitions of",Poland,Poland,Poland,Poland,poland
-polish_notgeld,poland_section,poland_section,poland_section,poland_section,Polish notgeld,Poland,Poland,Poland,Poland,poland
-poland_kingdom_section,poland_section,poland_section,poland_section,poland_section,Polish States,Poland,Poland,Poland,Poland,poland
+poland_section,poland_section,poland_section,poland_section,poland_section,Poland,Poland,Poland,Poland,Poland,POL
+pologne,poland_section,poland_section,poland_section,poland_section,Poland,Poland,Poland,Poland,Poland,POL
+poland_kingdom,poland_section,poland_section,poland_section,poland_section,"Poland, Kingdom of",Poland,Poland,Poland,Poland,POL
+poland_partitions,poland_section,poland_section,poland_section,poland_section,"Poland, Partitions of",Poland,Poland,Poland,Poland,POL
+polish_notgeld,poland_section,poland_section,poland_section,poland_section,Polish notgeld,Poland,Poland,Poland,Poland,POL
+poland_kingdom_section,poland_section,poland_section,poland_section,poland_section,Polish States,Poland,Poland,Poland,Poland,POL
 bielsko_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Bielsko, Municipality of",Polish notgeld,Poland,Poland,Poland,bielsko_notgeld
 bydgoszcz_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Bydgoszcz, Municipality of",Polish notgeld,Poland,Poland,Poland,bydgoszcz_notgeld
 cieszyn_notgeld,polish_notgeld,poland_section,poland_section,poland_section,"Cieszyn, Municipality of",Polish notgeld,Poland,Poland,Poland,cieszyn_notgeld
