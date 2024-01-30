@@ -2,7 +2,7 @@ code_1,code_2,code_3,code_4,code_5,name_1,name_2,name_3,name_4,name_5,Short
 tokens,tokens,tokens,tokens,tokens,* Tokens *,* Tokens *,* Tokens *,* Tokens *,* Tokens *,
 exonumia,exonumia,exonumia,exonumia,exonumia,** Exonumia **,** Exonumia **,** Exonumia **,** Exonumia **,** Exonumia **,
 anan,anan,anan,anan,anan,Änän Islands,Änän Islands,Änän Islands,Änän Islands,Änän Islands,
-abkhazia,abkhazia,abkhazia,abkhazia,abkhazia,Abkhazia,Abkhazia,Abkhazia,Abkhazia,Abkhazia,
+abkhazia,abkhazia,abkhazia,abkhazia,abkhazia,Abkhazia,Abkhazia,Abkhazia,Abkhazia,Abkhazia,ABK
 aerican_empire,aerican_empire,aerican_empire,aerican_empire,aerican_empire,Aerican Empire,Aerican Empire,Aerican Empire,Aerican Empire,Aerican Empire,
 badakhshan_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Badakhshan, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
 balkh_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Balkh, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
@@ -162,8 +162,8 @@ san_luis_province,argentine-provinces,argentina,argentina,argentina,San Luis,Arg
 santiago_del_estero_province,argentine-provinces,argentina,argentina,argentina,Santiago del Estero,Argentine provinces,Argentina,Argentina,Argentina,
 tierra_del_fuego,argentine-provinces,argentina,argentina,argentina,Tierra del Fuego,Argentine provinces,Argentina,Argentina,Argentina,
 tucuman,argentine-provinces,argentina,argentina,argentina,Tucuman,Argentine provinces,Argentina,Argentina,Argentina,
-armenie,armenie,armenie,armenie,armenie,Armenia,Armenia,Armenia,Armenia,Armenia,
-haut-karabagh,haut-karabagh,haut-karabagh,haut-karabagh,haut-karabagh,Artsakh,Artsakh,Artsakh,Artsakh,Artsakh,
+armenie,armenie,armenie,armenie,armenie,Armenia,Armenia,Armenia,Armenia,Armenia,ARM
+haut-karabagh,haut-karabagh,haut-karabagh,haut-karabagh,haut-karabagh,Artsakh,Artsakh,Artsakh,Artsakh,Artsakh,ART
 atlantis,atlantis,atlantis,atlantis,atlantis,Atlantis,Atlantis,Atlantis,Atlantis,Atlantis,
 atlantis_kingdom,atlantis_kingdom,atlantis_kingdom,atlantis_kingdom,atlantis_kingdom,"Atlantis, Kingdom of","Atlantis, Kingdom of","Atlantis, Kingdom of","Atlantis, Kingdom of","Atlantis, Kingdom of",
 atlantium,atlantium,atlantium,atlantium,atlantium,"Atlantium, Empire of","Atlantium, Empire of","Atlantium, Empire of","Atlantium, Empire of","Atlantium, Empire of",
@@ -1198,9 +1198,9 @@ avar_khaganate,avar_khaganate,avar_khaganate,avar_khaganate,avar_khaganate,Avar 
 avram,avram,avram,avram,avram,"Avram, Grand Duchy of","Avram, Grand Duchy of","Avram, Grand Duchy of","Avram, Grand Duchy of","Avram, Grand Duchy of",
 princedom_of_aysellant,princedom_of_aysellant,princedom_of_aysellant,princedom_of_aysellant,princedom_of_aysellant,"Aysellant, Princedom of","Aysellant, Princedom of","Aysellant, Princedom of","Aysellant, Princedom of","Aysellant, Princedom of",
 azawad,azawad,azawad,azawad,azawad,Azawad,Azawad,Azawad,Azawad,Azawad,
-azerbaidjan,azerbaijan,azerbaijan,azerbaijan,azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,
-azerbaijan,azerbaijan,azerbaijan,azerbaijan,azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,
-nakhichevan_republic,azerbaidjan,azerbaijan,azerbaijan,azerbaijan,Nakhchivan Autonomous Republic,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,
+azerbaidjan,azerbaijan,azerbaijan,azerbaijan,azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,AZZ
+azerbaijan,azerbaijan,azerbaijan,azerbaijan,azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,AZZ
+nakhichevan_republic,azerbaidjan,azerbaijan,azerbaijan,azerbaijan,Nakhchivan Autonomous Republic,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,NAV
 aztecs,aztecs,aztecs,aztecs,aztecs,Aztecs,Aztecs,Aztecs,Aztecs,Aztecs,
 bahamas,bahamas,bahamas,bahamas,bahamas,"Bahamas, The","Bahamas, The","Bahamas, The","Bahamas, The","Bahamas, The",
 bahrein,bahrein,bahrein,bahrein,bahrein,Bahrain,Bahrain,Bahrain,Bahrain,Bahrain,
@@ -2743,10 +2743,10 @@ gaule_celtique,gaule,gaule,gaule,gaule,Gallia Celtica,Gaul,Gaul,Gaul,Gaul,
 gaule_narbonnaise,gaule,gaule,gaule,gaule,Gallia Narbonensis,Gaul,Gaul,Gaul,Gaul,
 gaule,gaule,gaule,gaule,gaule,Gaul,Gaul,Gaul,Gaul,Gaul,
 geniusz_kingdom,geniusz_kingdom,geniusz_kingdom,geniusz_kingdom,geniusz_kingdom,"Geniusz, Kingdom of","Geniusz, Kingdom of","Geniusz, Kingdom of","Geniusz, Kingdom of","Geniusz, Kingdom of",
-georgia_section,georgia_section,georgia_section,georgia_section,georgia_section,Georgia,Georgia,Georgia,Georgia,Georgia,
-georgie,georgia_section,georgia_section,georgia_section,georgia_section,Georgia (1991-date),Georgia,Georgia,Georgia,Georgia,
-georgia_democratic_republic,georgia_section,georgia_section,georgia_section,georgia_section,"Georgia, Democratic Republic of (1918-1921)",Georgia,Georgia,Georgia,Georgia,
-georgia_kingdom,georgia_section,georgia_section,georgia_section,georgia_section,"Georgia, Kingdom of (1010-1490)",Georgia,Georgia,Georgia,Georgia,
+georgia_section,georgia_section,georgia_section,georgia_section,georgia_section,Georgia,Georgia,Georgia,Georgia,Georgia,GEO
+georgie,georgia_section,georgia_section,georgia_section,georgia_section,Georgia (1991-date),Georgia,Georgia,Georgia,Georgia,GEO
+georgia_democratic_republic,georgia_section,georgia_section,georgia_section,georgia_section,"Georgia, Democratic Republic of (1918-1921)",Georgia,Georgia,Georgia,Georgia,GEO
+georgia_kingdom,georgia_section,georgia_section,georgia_section,georgia_section,"Georgia, Kingdom of (1010-1490)",Georgia,Georgia,Georgia,Georgia,GEO
 gepids,gepids,gepids,gepids,gepids,Gepid Kingdom,Gepid Kingdom,Gepid Kingdom,Gepid Kingdom,Gepid Kingdom,
 afrique_orientale_allemande,afrique_orientale_allemande,afrique_orientale_allemande,afrique_orientale_allemande,afrique_orientale_allemande,German East Africa,German East Africa,German East Africa,German East Africa,German East Africa,GEA
 algringen_notgeld,alsace-lorraine_section_notgeld,german-notgeld,germany,germany,"Algrange, Municipality of","Alsace-Lorraine, Imperial territory of",German notgeld,Germany,Germany,alsace-lorraine_section_notgeld
