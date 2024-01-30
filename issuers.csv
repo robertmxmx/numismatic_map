@@ -1653,18 +1653,18 @@ easter_island,chile_states,chile_section,chile_section,chile_section,Easter Isla
 san_bernardo_de_maypo,chile_states,chile_section,chile_section,chile_section,San Bernardo de Maypo,Chilian States,Chile,Chile,Chile,
 tarapaca_region,chile_states,chile_section,chile_section,chile_section,Tarapacá Region,Chilian States,Chile,Chile,Chile,
 valdivia_city,chile_states,chile_section,chile_section,chile_section,"Valdivia, City of",Chilian States,Chile,Chile,Chile,
-china,china,china,china,china,China,China,China,China,China,
-china_empire_section,china,china,china,china,"China, Empire of",China,China,China,China,
+china,china,china,china,china,China,China,China,China,China,CHI
+china_empire_section,china,china,china,china,"China, Empire of",China,China,China,China,CHI
 chine_japon,china,china,china,china,"China, Japanese puppet states in",China,China,China,China,
 chine,china,china,china,china,"China, People's Republic of",China,China,China,China,
-chine_republique,china,china,china,china,"China, Republic of",China,China,China,China,
+chine_republique,china,china,china,china,"China, Republic of",China,China,China,China,CHI
 chinese_provinces,china,china,china,china,Chinese provinces,China,China,China,China,
 hong_kong,china,china,china,china,Hong Kong,China,China,China,China,
 kiau-chau,china,china,china,china,Kiau Chau,China,China,China,China,
 macao,china,china,china,china,Macau,China,China,China,China,
 tibet,china,china,china,china,Tibet,China,China,China,China,
 weihaiwei,china,china,china,china,Weihaiwei,China,China,China,China,
-chine_empire,china_empire_section,china,china,china,"China, Empire of","China, Empire of",China,China,China,
+chine_empire,china_empire_section,china,china,china,"China, Empire of","China, Empire of",China,China,China,CHI
 china_notgeld,china_empire_section,china,china,china,Chinese notgeld,"China, Empire of",China,China,China,
 dynastic_rebels,china_empire_section,china,china,china,Dynastic rebels,"China, Empire of",China,China,China,
 manchu_people,china_empire_section,china,china,china,Later Jin dynasty,"China, Empire of",China,China,China,
@@ -7302,8 +7302,8 @@ tuder,umbria,italy_ancient,italy_ancient,italy_ancient,Tuder,Umbria,Italy (ancie
 uncertain_umbrian_city,umbria,italy_ancient,italy_ancient,italy_ancient,Umbrian uncertain city,Umbria,Italy (ancient),Italy (ancient),Italy (ancient),
 cote-d-ivoire,cote-d-ivoire,cote-d-ivoire,cote-d-ivoire,cote-d-ivoire,Ivory Coast,Ivory Coast,Ivory Coast,Ivory Coast,Ivory Coast,
 jamaique,jamaique,jamaique,jamaique,jamaique,Jamaica,Jamaica,Jamaica,Jamaica,Jamaica,
-japan_section,japan_section,japan_section,japan_section,japan_section,Japan,Japan,Japan,Japan,Japan,
-japon,japan_section,japan_section,japan_section,japan_section,Japan,Japan,Japan,Japan,Japan,
+japan_section,japan_section,japan_section,japan_section,japan_section,Japan,Japan,Japan,Japan,Japan,JAP
+japon,japan_section,japan_section,japan_section,japan_section,Japan,Japan,Japan,Japan,Japan,JAP
 japan_feudal,japan_section,japan_section,japan_section,japan_section,Japanese feudal domains,Japan,Japan,Japan,Japan,
 ryukyu,japan_section,japan_section,japan_section,japan_section,"Ryukyu, Kingdom of",Japan,Japan,Japan,Japan,
 aizu_domain,japan_feudal,japan_section,japan_section,japan_section,Aizu Domain,Japanese feudal domains,Japan,Japan,Japan,
@@ -7325,7 +7325,7 @@ yonezawa_domain,japan_feudal,japan_section,japan_section,japan_section,Yonezawa 
 jordanie,jordanie,jordanie,jordanie,jordanie,Jordan,Jordan,Jordan,Jordan,Jordan,
 judee,judee,judee,judee,judee,Judea,Judea,Judea,Judea,Judea,
 kamberra,kamberra,kamberra,kamberra,kamberra,"Kamberra, Kingdom of","Kamberra, Kingdom of","Kamberra, Kingdom of","Kamberra, Kingdom of","Kamberra, Kingdom of",
-kazakhstan,kazakhstan,kazakhstan,kazakhstan,kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,
+kazakhstan,kazakhstan,kazakhstan,kazakhstan,kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,KAZ
 kenya,kenya_section,kenya_section,kenya_section,kenya_section,Kenya,Kenya,Kenya,Kenya,Kenya,
 kenya_section,kenya_section,kenya_section,kenya_section,kenya_section,Kenya,Kenya,Kenya,Kenya,Kenya,
 mombasa,kenya_section,kenya_section,kenya_section,kenya_section,Mombasa,Kenya,Kenya,Kenya,Kenya,
