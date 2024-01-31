@@ -1209,12 +1209,12 @@ bangladesh,bangladesh,bangladesh,bangladesh,bangladesh,Bangladesh,Bangladesh,Ban
 barbade,barbade,barbade,barbade,barbade,Barbados,Barbados,Barbados,Barbados,Barbados,
 barsoom,barsoom,barsoom,barsoom,barsoom,Barsoom,Barsoom,Barsoom,Barsoom,Barsoom,
 bielorussie,bielorussie,bielorussie,bielorussie,bielorussie,Belarus,Belarus,Belarus,Belarus,Belarus,BLS
-belgian_congo_period,congo_belge,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,Belgian Congo (1908-1960),Belgian Congo,"Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi",
-congo_free_state_period,congo_belge,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,Congo Free State (1885-1908),Belgian Congo,"Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi",
-congo_belge,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,Belgian Congo,"Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi",
-ruanda-urundi,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,Belgian Congo and Ruanda-Urundi,"Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi",
-congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,"Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi",
-rwanda-burundi,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,Rwanda-Burundi,"Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi",
+belgian_congo_period,congo_belge,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,Belgian Congo (1908-1960),Belgian Congo,"Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi",CON
+congo_free_state_period,congo_belge,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,Congo Free State (1885-1908),Belgian Congo,"Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi",CON
+congo_belge,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,Belgian Congo,"Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi",CON
+ruanda-urundi,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,Belgian Congo and Ruanda-Urundi,"Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi",CON
+congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,"Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi",CON
+rwanda-burundi,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,Rwanda-Burundi,"Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi",RBU
 malines_notgeld,antwerp_notgeld,belgian_notgeld_section,belgium,belgium,"Mechelen, City of","Antwerp, Province of",Belgian notgeld,Belgium,Belgium,BAN
 aalst_notgeld,east_flanders_notgeld,belgian_notgeld_section,belgium,belgium,"Aalst, City of","East Flanders, Province of",Belgian notgeld,Belgium,Belgium,BEF
 stad_gent,east_flanders_notgeld,belgian_notgeld_section,belgium,belgium,"Ghent, City of","East Flanders, Province of",Belgian notgeld,Belgium,Belgium,BEF
@@ -1376,7 +1376,7 @@ vidin_despotate,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_sect
 burgundian_kingdom,burgundian_kingdom,burgundian_kingdom,burgundian_kingdom,burgundian_kingdom,Burgundian Kingdom,Burgundian Kingdom,Burgundian Kingdom,Burgundian Kingdom,Burgundian Kingdom,BUL
 burkina-faso,burkina-faso,burkina-faso,burkina-faso,burkina-faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,
 upper_volta,burkina-faso,burkina-faso,burkina-faso,burkina-faso,Upper Volta,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,
-burundi,burundi,burundi,burundi,burundi,Burundi,Burundi,Burundi,Burundi,Burundi,
+burundi,burundi,burundi,burundi,burundi,Burundi,Burundi,Burundi,Burundi,Burundi,BDI
 byzance,byzantine_states,byzantine_states,byzantine_states,byzantine_states,Byzantine Empire,Byzantine states,Byzantine states,Byzantine states,Byzantine states,
 byzantine_states,byzantine_states,byzantine_states,byzantine_states,byzantine_states,Byzantine states,Byzantine states,Byzantine states,Byzantine states,Byzantine states,
 despotate_of_epirus,byzantine_states,byzantine_states,byzantine_states,byzantine_states,"Epirus, Despotate of",Byzantine states,Byzantine states,Byzantine states,Byzantine states,
@@ -8522,7 +8522,7 @@ tatarstan,russia,russia,russia,russia,Tatarstan,Russia,Russia,Russia,Russia,
 taurida_governorate,russia,russia,russia,russia,Taurida Governorate,Russia,Russia,Russia,Russia,
 tuva,russia,russia,russia,russia,Tuva,Russia,Russia,Russia,Russia,
 udmurtia,russia,russia,russia,russia,Udmurtia,Russia,Russia,Russia,Russia,
-rwanda,rwanda,rwanda,rwanda,rwanda,Rwanda,Rwanda,Rwanda,Rwanda,Rwanda,
+rwanda,rwanda,rwanda,rwanda,rwanda,Rwanda,Rwanda,Rwanda,Rwanda,Rwanda,RWA
 sao_tome-et-principe,sao_tome-et-principe,sao_tome-et-principe,sao_tome-et-principe,sao_tome-et-principe,São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,STP
 nevis,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,
 st-kitts,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,Saint Kitts,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,
@@ -10123,9 +10123,9 @@ ultimate_state_of_taedivm,ultimate_state_of_taedivm,ultimate_state_of_taedivm,ul
 taiwan,taiwan,taiwan,taiwan,taiwan,Taiwan,Taiwan,Taiwan,Taiwan,Taiwan,
 tadjikistan,tadjikistan,tadjikistan,tadjikistan,tadjikistan,Tajikistan,Tajikistan,Tajikistan,Tajikistan,Tajikistan,
 mafia_island,tanzania,tanzania,tanzania,tanzania,Mafia Island,Tanzania,Tanzania,Tanzania,Tanzania,
-tanzania,tanzania,tanzania,tanzania,tanzania,Tanzania,Tanzania,Tanzania,Tanzania,Tanzania,
-tanzanie,tanzania,tanzania,tanzania,tanzania,Tanzania,Tanzania,Tanzania,Tanzania,Tanzania,
-zanzibar,tanzania,tanzania,tanzania,tanzania,Zanzibar,Tanzania,Tanzania,Tanzania,Tanzania,
+tanzania,tanzania,tanzania,tanzania,tanzania,Tanzania,Tanzania,Tanzania,Tanzania,Tanzania,TZZ
+tanzanie,tanzania,tanzania,tanzania,tanzania,Tanzania,Tanzania,Tanzania,Tanzania,Tanzania,TZZ
+zanzibar,tanzania,tanzania,tanzania,tanzania,Zanzibar,Tanzania,Tanzania,Tanzania,Tanzania,ZIB
 tashir_dzoraget,tashir_dzoraget,tashir_dzoraget,tashir_dzoraget,tashir_dzoraget,"Tashir-Dzoraget, Kingdom of","Tashir-Dzoraget, Kingdom of","Tashir-Dzoraget, Kingdom of","Tashir-Dzoraget, Kingdom of","Tashir-Dzoraget, Kingdom of",
 kingdom_of_tavolara,kingdom_of_tavolara,kingdom_of_tavolara,kingdom_of_tavolara,kingdom_of_tavolara,"Tavolara, Kingdom of","Tavolara, Kingdom of","Tavolara, Kingdom of","Tavolara, Kingdom of","Tavolara, Kingdom of",
 rural_herders_farmers,rural_herders_farmers,rural_herders_farmers,rural_herders_farmers,rural_herders_farmers,Territory of rural herders farmers,Territory of rural herders farmers,Territory of rural herders farmers,Territory of rural herders farmers,Territory of rural herders farmers,
