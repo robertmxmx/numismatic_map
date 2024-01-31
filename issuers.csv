@@ -1831,8 +1831,8 @@ katanga,drc,drc,drc,drc,Katanga,"Congo, Democratic Republic of the","Congo, Demo
 congo_leopoldville_period,republique_democratique_du_congo,drc,drc,drc,Republic of the Congo (Léopoldville) (1960-1971),"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",CON
 zaire_period,republique_democratique_du_congo,drc,drc,drc,Zaire (1971-1997),"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",CON
 congo-brazzaville,congo-brazzaville,congo-brazzaville,congo-brazzaville,congo-brazzaville,"Congo, Republic of the","Congo, Republic of the","Congo, Republic of the","Congo, Republic of the","Congo, Republic of the",CNG
-iles_cook,iles_cook,iles_cook,iles_cook,iles_cook,Cook Islands,Cook Islands,Cook Islands,Cook Islands,Cook Islands,
-suwarrow,iles_cook,iles_cook,iles_cook,iles_cook,Suwarrow,Cook Islands,Cook Islands,Cook Islands,Cook Islands,
+iles_cook,iles_cook,iles_cook,iles_cook,iles_cook,Cook Islands,Cook Islands,Cook Islands,Cook Islands,Cook Islands,COO
+suwarrow,iles_cook,iles_cook,iles_cook,iles_cook,Suwarrow,Cook Islands,Cook Islands,Cook Islands,Cook Islands,COO
 isla_del_coco,costa_rica,costa_rica,costa_rica,costa_rica,Cocos Island,Costa Rica,Costa Rica,Costa Rica,Costa Rica,
 costa_rica,costa_rica,costa_rica,costa_rica,costa_rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,
 countries,countries,countries,countries,countries,Countries and territories,Countries and territories,Countries and territories,Countries and territories,Countries and territories,
@@ -5458,7 +5458,7 @@ allemagne,germany,germany,germany,germany,"Germany, Federal Republic of",Germany
 sarre,germany,germany,germany,germany,ERA;SAA,Germany,Germany,Germany,Germany,SAE
 ghana,ghana_section,ghana_section,ghana_section,ghana_section,Ghana,Ghana,Ghana,Ghana,Ghana,GHA
 ghana_section,ghana_section,ghana_section,ghana_section,ghana_section,Ghana,Ghana,Ghana,Ghana,Ghana,GHA
-gilbert_ellice_islands,gilbert_ellice_islands,gilbert_ellice_islands,gilbert_ellice_islands,gilbert_ellice_islands,Gilbert and Ellice Islands,Gilbert and Ellice Islands,Gilbert and Ellice Islands,Gilbert and Ellice Islands,Gilbert and Ellice Islands,
+gilbert_ellice_islands,gilbert_ellice_islands,gilbert_ellice_islands,gilbert_ellice_islands,gilbert_ellice_islands,Gilbert and Ellice Islands,Gilbert and Ellice Islands,Gilbert and Ellice Islands,Gilbert and Ellice Islands,Gilbert and Ellice Islands,GEL
 commagene_kingdom,commagene_section,greater_armenia,greater_armenia,greater_armenia,"Commagene, Kingdom of","Commagene, Kingdom of",Greater Armenia,Greater Armenia,Greater Armenia,
 samosata_city,commagene_section,greater_armenia,greater_armenia,greater_armenia,"Samosata, City of","Commagene, Kingdom of",Greater Armenia,Greater Armenia,Greater Armenia,
 adiabene,greater_armenia,greater_armenia,greater_armenia,greater_armenia,"Adiabene, Kingdom of",Greater Armenia,Greater Armenia,Greater Armenia,Greater Armenia,
@@ -7301,27 +7301,27 @@ iguvium,umbria,italy_ancient,italy_ancient,italy_ancient,Iguvium,Umbria,Italy (a
 tuder,umbria,italy_ancient,italy_ancient,italy_ancient,Tuder,Umbria,Italy (ancient),Italy (ancient),Italy (ancient),
 uncertain_umbrian_city,umbria,italy_ancient,italy_ancient,italy_ancient,Umbrian uncertain city,Umbria,Italy (ancient),Italy (ancient),Italy (ancient),
 cote-d-ivoire,cote-d-ivoire,cote-d-ivoire,cote-d-ivoire,cote-d-ivoire,Ivory Coast,Ivory Coast,Ivory Coast,Ivory Coast,Ivory Coast,IVC
-jamaique,jamaique,jamaique,jamaique,jamaique,Jamaica,Jamaica,Jamaica,Jamaica,Jamaica,
+jamaique,jamaique,jamaique,jamaique,jamaique,Jamaica,Jamaica,Jamaica,Jamaica,Jamaica,JAM
 japan_section,japan_section,japan_section,japan_section,japan_section,Japan,Japan,Japan,Japan,Japan,JAP
 japon,japan_section,japan_section,japan_section,japan_section,Japan,Japan,Japan,Japan,Japan,JAP
-japan_feudal,japan_section,japan_section,japan_section,japan_section,Japanese feudal domains,Japan,Japan,Japan,Japan,
-ryukyu,japan_section,japan_section,japan_section,japan_section,"Ryukyu, Kingdom of",Japan,Japan,Japan,Japan,
-aizu_domain,japan_feudal,japan_section,japan_section,japan_section,Aizu Domain,Japanese feudal domains,Japan,Japan,Japan,
-ezo_territory,japan_feudal,japan_section,japan_section,japan_section,Ezo Territory,Japanese feudal domains,Japan,Japan,Japan,
-fukuchiyama_domain,japan_feudal,japan_section,japan_section,japan_section,Fukuchiyama Domain,Japanese feudal domains,Japan,Japan,Japan,
-fukuoka_domain,japan_feudal,japan_section,japan_section,japan_section,Fukuoka Domain,Japanese feudal domains,Japan,Japan,Japan,
-kaga_domain,japan_feudal,japan_section,japan_section,japan_section,Kaga Domain,Japanese feudal domains,Japan,Japan,Japan,
-kai_province,japan_feudal,japan_section,japan_section,japan_section,Kai Province,Japanese feudal domains,Japan,Japan,Japan,
-kubota_domain,japan_feudal,japan_section,japan_section,japan_section,Kubota Domain,Japanese feudal domains,Japan,Japan,Japan,
-mimasaka_province,japan_feudal,japan_section,japan_section,japan_section,Mimasaka Province,Japanese feudal domains,Japan,Japan,Japan,
-mito_domain,japan_feudal,japan_section,japan_section,japan_section,Mito Domain,Japanese feudal domains,Japan,Japan,Japan,
-morioka_domain,japan_feudal,japan_section,japan_section,japan_section,Morioka Domain,Japanese feudal domains,Japan,Japan,Japan,
-mutsu_province,japan_feudal,japan_section,japan_section,japan_section,Mutsu Province,Japanese feudal domains,Japan,Japan,Japan,
-nagasaki,japan_feudal,japan_section,japan_section,japan_section,"Nagasaki, City of",Japanese feudal domains,Japan,Japan,Japan,
-sendai_domain,japan_feudal,japan_section,japan_section,japan_section,Sendai Domain,Japanese feudal domains,Japan,Japan,Japan,
-tajima_province,japan_feudal,japan_section,japan_section,japan_section,Tajima Province,Japanese feudal domains,Japan,Japan,Japan,
-tosa_domain,japan_feudal,japan_section,japan_section,japan_section,Tosa Domain,Japanese feudal domains,Japan,Japan,Japan,
-yonezawa_domain,japan_feudal,japan_section,japan_section,japan_section,Yonezawa Domain,Japanese feudal domains,Japan,Japan,Japan,
+japan_feudal,japan_section,japan_section,japan_section,japan_section,Japanese feudal domains,Japan,Japan,Japan,Japan,JAP
+ryukyu,japan_section,japan_section,japan_section,japan_section,"Ryukyu, Kingdom of",Japan,Japan,Japan,Japan,ryukyu
+aizu_domain,japan_feudal,japan_section,japan_section,japan_section,Aizu Domain,Japanese feudal domains,Japan,Japan,Japan,aizu_domain
+ezo_territory,japan_feudal,japan_section,japan_section,japan_section,Ezo Territory,Japanese feudal domains,Japan,Japan,Japan,ezo_territory
+fukuchiyama_domain,japan_feudal,japan_section,japan_section,japan_section,Fukuchiyama Domain,Japanese feudal domains,Japan,Japan,Japan,fukuchiyama_domain
+fukuoka_domain,japan_feudal,japan_section,japan_section,japan_section,Fukuoka Domain,Japanese feudal domains,Japan,Japan,Japan,fukuoka_domain
+kaga_domain,japan_feudal,japan_section,japan_section,japan_section,Kaga Domain,Japanese feudal domains,Japan,Japan,Japan,kaga_domain
+kai_province,japan_feudal,japan_section,japan_section,japan_section,Kai Province,Japanese feudal domains,Japan,Japan,Japan,kai_province
+kubota_domain,japan_feudal,japan_section,japan_section,japan_section,Kubota Domain,Japanese feudal domains,Japan,Japan,Japan,kubota_domain
+mimasaka_province,japan_feudal,japan_section,japan_section,japan_section,Mimasaka Province,Japanese feudal domains,Japan,Japan,Japan,mimasaka_province
+mito_domain,japan_feudal,japan_section,japan_section,japan_section,Mito Domain,Japanese feudal domains,Japan,Japan,Japan,mito_domain
+morioka_domain,japan_feudal,japan_section,japan_section,japan_section,Morioka Domain,Japanese feudal domains,Japan,Japan,Japan,morioka_domain
+mutsu_province,japan_feudal,japan_section,japan_section,japan_section,Mutsu Province,Japanese feudal domains,Japan,Japan,Japan,mutsu_province
+nagasaki,japan_feudal,japan_section,japan_section,japan_section,"Nagasaki, City of",Japanese feudal domains,Japan,Japan,Japan,nagasaki
+sendai_domain,japan_feudal,japan_section,japan_section,japan_section,Sendai Domain,Japanese feudal domains,Japan,Japan,Japan,sendai_domain
+tajima_province,japan_feudal,japan_section,japan_section,japan_section,Tajima Province,Japanese feudal domains,Japan,Japan,Japan,tajima_province
+tosa_domain,japan_feudal,japan_section,japan_section,japan_section,Tosa Domain,Japanese feudal domains,Japan,Japan,Japan,tosa_domain
+yonezawa_domain,japan_feudal,japan_section,japan_section,japan_section,Yonezawa Domain,Japanese feudal domains,Japan,Japan,Japan,yonezawa_domain
 jordanie,jordanie,jordanie,jordanie,jordanie,Jordan,Jordan,Jordan,Jordan,Jordan,
 judee,judee,judee,judee,judee,Judea,Judea,Judea,Judea,Judea,
 kamberra,kamberra,kamberra,kamberra,kamberra,"Kamberra, Kingdom of","Kamberra, Kingdom of","Kamberra, Kingdom of","Kamberra, Kingdom of","Kamberra, Kingdom of",
@@ -7329,9 +7329,9 @@ kazakhstan,kazakhstan,kazakhstan,kazakhstan,kazakhstan,Kazakhstan,Kazakhstan,Kaz
 kenya,kenya_section,kenya_section,kenya_section,kenya_section,Kenya,Kenya,Kenya,Kenya,Kenya,KEN
 kenya_section,kenya_section,kenya_section,kenya_section,kenya_section,Kenya,Kenya,Kenya,Kenya,Kenya,KEN
 mombasa,kenya_section,kenya_section,kenya_section,kenya_section,Mombasa,Kenya,Kenya,Kenya,Kenya,EAF
-gilbert_islands,kiribati,kiribati,kiribati,kiribati,Gilbert Islands,Kiribati,Kiribati,Kiribati,Kiribati,
-kiribati,kiribati,kiribati,kiribati,kiribati,Kiribati,Kiribati,Kiribati,Kiribati,Kiribati,
-korea,korea,korea,korea,korea,Korea,Korea,Korea,Korea,Korea,
+gilbert_islands,kiribati,kiribati,kiribati,kiribati,Gilbert Islands,Kiribati,Kiribati,Kiribati,Kiribati,KBB
+kiribati,kiribati,kiribati,kiribati,kiribati,Kiribati,Kiribati,Kiribati,Kiribati,Kiribati,KBB
+korea,korea,korea,korea,korea,Korea,Korea,Korea,Korea,Korea,KOR
 koronis,koronis,koronis,koronis,koronis,"Koronis, United Federation of","Koronis, United Federation of","Koronis, United Federation of","Koronis, United Federation of","Koronis, United Federation of",
 kosovo,kosovo,kosovo,kosovo,kosovo,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,KSV
 kurdistan,kurdistan,kurdistan,kurdistan,kurdistan,Kurdistan,Kurdistan,Kurdistan,Kurdistan,Kurdistan,
@@ -7431,7 +7431,7 @@ upper_senegal_and_niger_period,mali,mali,mali,mali,Upper Senegal and Niger (1904
 malte,malte,malte,malte,malte,Malta,Malta,Malta,Malta,Malta,MLT
 ordre_de_malte,ordre_de_malte,ordre_de_malte,ordre_de_malte,ordre_de_malte,"Malta, Order of","Malta, Order of","Malta, Order of","Malta, Order of","Malta, Order of",MLT
 marie_byrd_land,marie_byrd_land,marie_byrd_land,marie_byrd_land,marie_byrd_land,Marie Byrd Land,Marie Byrd Land,Marie Byrd Land,Marie Byrd Land,Marie Byrd Land,
-marshall,marshall,marshall,marshall,marshall,Marshall Islands,Marshall Islands,Marshall Islands,Marshall Islands,Marshall Islands,
+marshall,marshall,marshall,marshall,marshall,Marshall Islands,Marshall Islands,Marshall Islands,Marshall Islands,Marshall Islands,MSH
 mauretanie-antique,mauretanie-antique,mauretanie-antique,mauretanie-antique,mauretanie-antique,Mauretania,Mauretania,Mauretania,Mauretania,Mauretania,
 mauritanie,mauritanie,mauritanie,mauritanie,mauritanie,Mauritania,Mauritania,Mauritania,Mauritania,Mauritania,MAA
 maurice,maurice,maurice,maurice,maurice,Mauritius,Mauritius,Mauritius,Mauritius,Mauritius,MAU
@@ -7556,8 +7556,8 @@ mexique_revolution,mexico,mexico,mexico,mexico,Mexican States,Mexico,Mexico,Mexi
 mexico,mexico,mexico,mexico,mexico,Mexico,Mexico,Mexico,Mexico,Mexico,
 mexique,mexico,mexico,mexico,mexico,Mexico,Mexico,Mexico,Mexico,Mexico,
 micronations,micronations,micronations,micronations,micronations,Micronations,Micronations,Micronations,Micronations,Micronations,
-micronesia,micronesia,micronesia,micronesia,micronesia,"Micronesia, Federated States of","Micronesia, Federated States of","Micronesia, Federated States of","Micronesia, Federated States of","Micronesia, Federated States of",
-yap,micronesia,micronesia,micronesia,micronesia,Yap,"Micronesia, Federated States of","Micronesia, Federated States of","Micronesia, Federated States of","Micronesia, Federated States of",
+micronesia,micronesia,micronesia,micronesia,micronesia,"Micronesia, Federated States of","Micronesia, Federated States of","Micronesia, Federated States of","Micronesia, Federated States of","Micronesia, Federated States of",MIC
+yap,micronesia,micronesia,micronesia,micronesia,Yap,"Micronesia, Federated States of","Micronesia, Federated States of","Micronesia, Federated States of","Micronesia, Federated States of",MIC
 middle_congo,middle_congo,middle_congo,middle_congo,middle_congo,Middle Congo,Middle Congo,Middle Congo,Middle Congo,Middle Congo,
 eriador,middle_earth,middle_earth,middle_earth,middle_earth,Eriador,Middle Earth,Middle Earth,Middle Earth,Middle Earth,
 gondor,middle_earth,middle_earth,middle_earth,middle_earth,Gondor,Middle Earth,Middle Earth,Middle Earth,Middle Earth,
@@ -7698,7 +7698,7 @@ shawnee,native_american_tribes,native_american_tribes,native_american_tribes,nat
 shoshone,native_american_tribes,native_american_tribes,native_american_tribes,native_american_tribes,Shoshone tribes,Native American tribes,Native American tribes,Native American tribes,Native American tribes,
 sioux,native_american_tribes,native_american_tribes,native_american_tribes,native_american_tribes,Sioux tribes,Native American tribes,Native American tribes,Native American tribes,Native American tribes,
 wampanoag,native_american_tribes,native_american_tribes,native_american_tribes,native_american_tribes,Wampanoag tribes,Native American tribes,Native American tribes,Native American tribes,Native American tribes,
-nauru,nauru,nauru,nauru,nauru,Nauru,Nauru,Nauru,Nauru,Nauru,
+nauru,nauru,nauru,nauru,nauru,Nauru,Nauru,Nauru,Nauru,Nauru,NAU
 bhaktapur_kingdom,malla_dynasty_section,nepal_section,nepal_section,nepal_section,Bhaktapur Kingdom,Malla dynasty,Nepal,Nepal,Nepal,
 dolakha_kingdom,malla_dynasty_section,nepal_section,nepal_section,nepal_section,Dolakha Kingdom,Malla dynasty,Nepal,Nepal,Nepal,
 kathmandu_kingdom,malla_dynasty_section,nepal_section,nepal_section,nepal_section,Kathmandu Kingdom,Malla dynasty,Nepal,Nepal,Nepal,
@@ -7790,7 +7790,7 @@ auckland_islands,nouvelle-zelande,new_zealand_section,new_zealand_section,new_ze
 chatham_islands,nouvelle-zelande,new_zealand_section,new_zealand_section,new_zealand_section,Chatham Islands,New Zealand,New Zealand,New Zealand,New Zealand,NZZ
 new_zealand_section,new_zealand_section,new_zealand_section,new_zealand_section,new_zealand_section,New Zealand,New Zealand,New Zealand,New Zealand,New Zealand,NZZ
 nouvelle-zelande,new_zealand_section,new_zealand_section,new_zealand_section,new_zealand_section,New Zealand,New Zealand,New Zealand,New Zealand,New Zealand,NZZ
-tokelau,new_zealand_section,new_zealand_section,new_zealand_section,new_zealand_section,Tokelau,New Zealand,New Zealand,New Zealand,New Zealand,
+tokelau,new_zealand_section,new_zealand_section,new_zealand_section,new_zealand_section,Tokelau,New Zealand,New Zealand,New Zealand,New Zealand,TKK
 nicaragua,nicaragua,nicaragua,nicaragua,nicaragua,Nicaragua,Nicaragua,Nicaragua,Nicaragua,Nicaragua,
 niger,niger,niger,niger,niger,Niger,Niger,Niger,Niger,Niger,NGG
 biafra,nigeria_section,nigeria_section,nigeria_section,nigeria_section,Biafra,Nigeria,Nigeria,Nigeria,Nigeria,BIA
@@ -7800,7 +7800,7 @@ niki_namu,niki_namu,niki_namu,niki_namu,niki_namu,Niki Namu,Niki Namu,Niki Namu,
 niue,niue,niue,niue,niue,Niue,Niue,Niue,Niue,Niue,
 union_north_america,union_north_america,union_north_america,union_north_america,union_north_america,"North America, Union of","North America, Union of","North America, Union of","North America, Union of","North America, Union of",
 north_barchant,north_barchant,north_barchant,north_barchant,north_barchant,"North Barchant, Kingdom of","North Barchant, Kingdom of","North Barchant, Kingdom of","North Barchant, Kingdom of","North Barchant, Kingdom of",
-coree_du_nord,coree_du_nord,coree_du_nord,coree_du_nord,coree_du_nord,North Korea,North Korea,North Korea,North Korea,North Korea,
+coree_du_nord,coree_du_nord,coree_du_nord,coree_du_nord,coree_du_nord,North Korea,North Korea,North Korea,North Korea,North Korea,NKO
 macedoine,north_macedonia_section,north_macedonia_section,north_macedonia_section,north_macedonia_section,North Macedonia,North Macedonia,North Macedonia,North Macedonia,North Macedonia,FYO
 north_macedonia_section,north_macedonia_section,north_macedonia_section,north_macedonia_section,north_macedonia_section,North Macedonia,North Macedonia,North Macedonia,North Macedonia,North Macedonia,FYO
 prilep_lordship,north_macedonia_section,north_macedonia_section,north_macedonia_section,north_macedonia_section,"Prilep, Lordship of",North Macedonia,North Macedonia,North Macedonia,North Macedonia,FYO
@@ -7816,7 +7816,7 @@ novorossiya,novorossiya,novorossiya,novorossiya,novorossiya,Novorossiya,Novoross
 numidie,numidie,numidie,numidie,numidie,Numidia,Numidia,Numidia,Numidia,Numidia,
 numisma,numisma,numisma,numisma,numisma,Numisma,Numisma,Numisma,Numisma,Numisma,
 oberost,oberost,oberost,oberost,oberost,Ober Ost,Ober Ost,Ober Ost,Ober Ost,Ober Ost,
-oceania,oceania,oceania,oceania,oceania,"Oceania, Japanese occupation of","Oceania, Japanese occupation of","Oceania, Japanese occupation of","Oceania, Japanese occupation of","Oceania, Japanese occupation of",
+oceania,oceania,oceania,oceania,oceania,"Oceania, Japanese occupation of","Oceania, Japanese occupation of","Oceania, Japanese occupation of","Oceania, Japanese occupation of","Oceania, Japanese occupation of",JAO
 dhofar_governorate,oman_section,oman_section,oman_section,oman_section,Dhofar Governorate,Oman,Oman,Oman,Oman,
 muscat_and_oman,oman_section,oman_section,oman_section,oman_section,Muscat and Oman,Oman,Oman,Oman,Oman,
 oman,oman_section,oman_section,oman_section,oman_section,Oman,Oman,Oman,Oman,Oman,
@@ -7828,14 +7828,14 @@ rome_city_ostrogothic,ostrogothic_kingdom_section,ostrogothic_kingdom_section,os
 other_world_kingdom,other_world_kingdom,other_world_kingdom,other_world_kingdom,other_world_kingdom,Other World Kingdom,Other World Kingdom,Other World Kingdom,Other World Kingdom,Other World Kingdom,
 ottoman,ottoman,ottoman,ottoman,ottoman,Ottoman Empire,Ottoman Empire,Ottoman Empire,Ottoman Empire,Ottoman Empire,TUR
 pakistan,pakistan,pakistan,pakistan,pakistan,Pakistan,Pakistan,Pakistan,Pakistan,Pakistan,
-palaos,palaos,palaos,palaos,palaos,Palau,Palau,Palau,Palau,Palau,
+palaos,palaos,palaos,palaos,palaos,Palau,Palau,Palau,Palau,Palau,PAU
 palestine_fantasy,palestine_fantasy,palestine_fantasy,palestine_fantasy,palestine_fantasy,Palestine,Palestine,Palestine,Palestine,Palestine,
 panama,panama,panama,panama,panama,Panama,Panama,Panama,Panama,Panama,
-german-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,German New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,
-nouvelle_guinee,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,
-papouasie-nouvelle-guinee,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,
-papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,
-papua_territory,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,"Papua, Territory of",Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,
+german-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,German New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,GNG
+nouvelle_guinee,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,PPT
+papouasie-nouvelle-guinee,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,PTT
+papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,PTT
+papua_territory,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,"Papua, Territory of",Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,PPT
 paraguay,paraguay_section,paraguay_section,paraguay_section,paraguay_section,Paraguay,Paraguay,Paraguay,Paraguay,Paraguay,
 paraguay_section,paraguay_section,paraguay_section,paraguay_section,paraguay_section,Paraguay,Paraguay,Paraguay,Paraguay,Paraguay,
 paraguay_western_dept,paraguay_section,paraguay_section,paraguay_section,paraguay_section,Western Department,Paraguay,Paraguay,Paraguay,Paraguay,
@@ -7877,107 +7877,107 @@ perou,perou_section,perou_section,perou_section,perou_section,Peru,Peru,Peru,Per
 perou_section,perou_section,perou_section,perou_section,perou_section,Peru,Peru,Peru,Peru,Peru,
 peru_south,perou_section,perou_section,perou_section,perou_section,"South Peru, Republic of",Peru,Peru,Peru,Peru,
 pheasant_island,pheasant_island,pheasant_island,pheasant_island,pheasant_island,Pheasant Island,Pheasant Island,Pheasant Island,Pheasant Island,Pheasant Island,
-barbaza_notgeld,antique_province_section,philippines_notgeld,philippines_section,philippines_section,"Barbaza, Municipality of","Antique, Province of",Philippine notgeld,Philippines,Philippines,
-antequera_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Antequera, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,
-balilihan_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Balilihan, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,
-bilar_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Bilar, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,
-bohol_province_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Bohol, Province of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,
-calape_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Calape, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,
-clarin_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Clarin, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,
-dimiao_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Dimiao, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,
-jagna_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Jagna, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,
-loay_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Loay, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,
-loboc_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Loboc, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,
-loon_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Loon, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,
-maribojoc_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Maribojoc, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,
-sevilla_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Sevilla, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,
-tubigon_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Tubigon, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,
-ubay_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Ubay, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,
-cagayan_province_notgeld,cagayan_province_section,philippines_notgeld,philippines_section,philippines_section,"Cagayan, Province of","Cagayan, Province of",Philippine notgeld,Philippines,Philippines,
-claveria_notgeld,cagayan_province_section,philippines_notgeld,philippines_section,philippines_section,"Claveria, Municipality of","Cagayan, Province of",Philippine notgeld,Philippines,Philippines,
-aklan_area_notgeld,capiz_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Aklan, Area of","Capiz, Province of",Philippine notgeld,Philippines,Philippines,
-capiz_province_notgeld,capiz_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Capiz, Province of","Capiz, Province of",Philippine notgeld,Philippines,Philippines,
-sigma_notgeld,capiz_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Sigma, Municipality of","Capiz, Province of",Philippine notgeld,Philippines,Philippines,
-bantayan_notgeld,cebu_province_section,philippines_notgeld,philippines_section,philippines_section,"Bantayan, Municipality of ","Cebu, Province of",Philippine notgeld,Philippines,Philippines,
-cebu_province_notgeld,cebu_province_section,philippines_notgeld,philippines_section,philippines_section,"Cebu, Province of","Cebu, Province of",Philippine notgeld,Philippines,Philippines,
-madridejos_notgeld,cebu_province_section,philippines_notgeld,philippines_section,philippines_section,"Madridejos, Municipality of","Cebu, Province of",Philippine notgeld,Philippines,Philippines,
-balangiga_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Balangiga, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,
-borongan_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Borongan, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,
-dolores_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Dolores, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,
-guiuan_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Guiuan, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,
-hernani_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Hernani, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,
-llorente_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Llorente, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,
-oras_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Oras, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,
-salcedo_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Salcedo, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,
-san_julian_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"San Julian, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,
-sulat_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Sulat, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,
-taft_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Taft, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,
-iloilo_province_notgeld,iloilo_province_section,philippines_notgeld,philippines_section,philippines_section,"Iloilo, Province of","Iloilo, Province of",Philippine notgeld,Philippines,Philippines,
-jordan_notgeld,iloilo_province_section,philippines_notgeld,philippines_section,philippines_section,"Jordan, Municipality of","Iloilo, Province of",Philippine notgeld,Philippines,Philippines,
-hilongos_notgeld,leyte_province_section,philippines_notgeld,philippines_section,philippines_section,"Hilongos, Municipality of","Leyte, Province of",Philippine notgeld,Philippines,Philippines,
-hindang_notgeld,leyte_province_section,philippines_notgeld,philippines_section,philippines_section,"Hindang, Municipality of","Leyte, Province of",Philippine notgeld,Philippines,Philippines,
-leyte_province_notgeld,leyte_province_section,philippines_notgeld,philippines_section,philippines_section,"Leyte, Province of","Leyte, Province of",Philippine notgeld,Philippines,Philippines,
-liloan_notgeld,leyte_province_section,philippines_notgeld,philippines_section,philippines_section,"Liloan, Municipality of","Leyte, Province of",Philippine notgeld,Philippines,Philippines,
-maasin_notgeld,leyte_province_section,philippines_notgeld,philippines_section,philippines_section,"Maasin, Municipality of","Leyte, Province of",Philippine notgeld,Philippines,Philippines,
-macrohon_notgeld,leyte_province_section,philippines_notgeld,philippines_section,philippines_section,"Macrohon, Municipality of","Leyte, Province of",Philippine notgeld,Philippines,Philippines,
-ma_ba_hi_hin_in-notgeld,leyte_province_section,philippines_notgeld,philippines_section,philippines_section,"Matalom, Bato, Hilongos, Hindang, and Inopacan, Municipalities of","Leyte, Province of",Philippine notgeld,Philippines,Philippines,
-apayo_sub-province_notgeld,mountain_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Apayo, Sub-province of",Mountain Province,Philippine notgeld,Philippines,Philippines,
-mountain_province_notgeld,mountain_section_notgeld,philippines_notgeld,philippines_section,philippines_section,Mountain Province,Mountain Province,Philippine notgeld,Philippines,Philippines,
-basay_notgeld,negros_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Basay, Municipality of","Negros, Island of",Philippine notgeld,Philippines,Philippines,
-negros_occidental_province_notgeld,negros_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Negros Occidental, Province of","Negros, Island of",Philippine notgeld,Philippines,Philippines,
-negros_oriental_province_notgeld,negros_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Negros Oriental, Province of","Negros, Island of",Philippine notgeld,Philippines,Philippines,
-negros_island_notgeld,negros_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Negros, Island of","Negros, Island of",Philippine notgeld,Philippines,Philippines,
-pambujan-sur_notgeld,northern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Pambujan Sur, Municipality of","Northern Samar, Province of",Philippine notgeld,Philippines,Philippines,
-cagayancillo_municipality_notgeld,nueva_vizcaya_province_notgeld,philippines_notgeld,philippines_section,philippines_section,"Cagayancillo, Municipality of","Nueva Vizcaya, Province of",Philippine notgeld,Philippines,Philippines,
-agutaya_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Agutaya, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,
-bacuit_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Bacuit, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,
-balabac_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Balabac, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,
-brookes_point_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Brooke's Point, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,
-coron_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Coron, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,
-cuyo_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Cuyo, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,
-dumaran_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Dumaran, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,
-palawan_province_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Palawan, Province of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,
-puerto-princesa_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Puerto Princesa, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,
-taytay_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Taytay, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,
-romblon_municipality_notgeld,romblon_province_section,philippines_notgeld,philippines_section,philippines_section,"Romblon, Municipality of","Romblon, Province of",Philippine notgeld,Philippines,Philippines,
-sibuyan_island_notgeld,romblon_province_section,philippines_notgeld,philippines_section,philippines_section,"Sibuyan, Island of","Romblon, Province of",Philippine notgeld,Philippines,Philippines,
-basey_notgeld,samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Basey, Municipality of","Samar, Province of",Philippine notgeld,Philippines,Philippines,
-calbiga_notgeld,samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Calbiga, Municipality of","Samar, Province of",Philippine notgeld,Philippines,Philippines,
-samar_province_notgeld,samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Samar, Province of","Samar, Province of",Philippine notgeld,Philippines,Philippines,
-zamboanga_municipality_notgeld,zamboanga_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Zamboanga, Municipality of","Zamboanga, Province of",Philippine notgeld,Philippines,Philippines,
-zamboanga_province_notgeld,zamboanga_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Zamboanga, Province of","Zamboanga, Province of",Philippine notgeld,Philippines,Philippines,
-antique_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Antique, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-bohol_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Bohol, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-bukidnon_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Bukidnon, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-cagayan_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Cagayan, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-capiz_section_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Capiz, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-cebu_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Cebu, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-ilcos_norte_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Ilocos Norte, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-iloilo_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Iloilo, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-isabela_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Isabela, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-lanao_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Lanao, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-leyte_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Leyte, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-luzon_island_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Luzon, Island of",Philippine notgeld,Philippines,Philippines,Philippines,
-malolos,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Malolos, Town of",Philippine notgeld,Philippines,Philippines,Philippines,
-masbate_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Masbate, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-mindanao_island_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Mindanao, Island of",Philippine notgeld,Philippines,Philippines,Philippines,
-misamis_occidental_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Misamis Occidental, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-misamis_oriental_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Misamis Oriental, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-mountain_section_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,Mountain Province,Philippine notgeld,Philippines,Philippines,Philippines,
-negros_section_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Negros, Island of",Philippine notgeld,Philippines,Philippines,Philippines,
-northern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Northern Samar, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-nueva_vizcaya_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Nueva Vizcaya, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-palawan_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Palawan, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-panay_island_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Panay, Island of",Philippine notgeld,Philippines,Philippines,Philippines,
-romblon_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Romblon, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-romblon_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Romblon, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-samar_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Samar, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-sulu_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Sulu, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-zamboanga_section_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Zamboanga, Province of",Philippine notgeld,Philippines,Philippines,Philippines,
-philippines_notgeld,philippines_section,philippines_section,philippines_section,philippines_section,Philippine notgeld,Philippines,Philippines,Philippines,Philippines,
-philippines,philippines_section,philippines_section,philippines_section,philippines_section,Philippines,Philippines,Philippines,Philippines,Philippines,
-philippines_section,philippines_section,philippines_section,philippines_section,philippines_section,Philippines,Philippines,Philippines,Philippines,Philippines,
+barbaza_notgeld,antique_province_section,philippines_notgeld,philippines_section,philippines_section,"Barbaza, Municipality of","Antique, Province of",Philippine notgeld,Philippines,Philippines,antique_province_section
+antequera_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Antequera, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,bohol_province_section
+balilihan_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Balilihan, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,bohol_province_section
+bilar_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Bilar, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,bohol_province_section
+bohol_province_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Bohol, Province of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,bohol_province_section
+calape_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Calape, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,bohol_province_section
+clarin_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Clarin, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,bohol_province_section
+dimiao_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Dimiao, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,bohol_province_section
+jagna_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Jagna, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,bohol_province_section
+loay_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Loay, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,bohol_province_section
+loboc_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Loboc, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,bohol_province_section
+loon_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Loon, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,bohol_province_section
+maribojoc_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Maribojoc, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,bohol_province_section
+sevilla_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Sevilla, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,bohol_province_section
+tubigon_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Tubigon, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,bohol_province_section
+ubay_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Ubay, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,bohol_province_section
+cagayan_province_notgeld,cagayan_province_section,philippines_notgeld,philippines_section,philippines_section,"Cagayan, Province of","Cagayan, Province of",Philippine notgeld,Philippines,Philippines,cagayan_province_section
+claveria_notgeld,cagayan_province_section,philippines_notgeld,philippines_section,philippines_section,"Claveria, Municipality of","Cagayan, Province of",Philippine notgeld,Philippines,Philippines,cagayan_province_section
+aklan_area_notgeld,capiz_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Aklan, Area of","Capiz, Province of",Philippine notgeld,Philippines,Philippines,capiz_section_notgeld
+capiz_province_notgeld,capiz_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Capiz, Province of","Capiz, Province of",Philippine notgeld,Philippines,Philippines,capiz_section_notgeld
+sigma_notgeld,capiz_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Sigma, Municipality of","Capiz, Province of",Philippine notgeld,Philippines,Philippines,capiz_section_notgeld
+bantayan_notgeld,cebu_province_section,philippines_notgeld,philippines_section,philippines_section,"Bantayan, Municipality of ","Cebu, Province of",Philippine notgeld,Philippines,Philippines,cebu_province_section
+cebu_province_notgeld,cebu_province_section,philippines_notgeld,philippines_section,philippines_section,"Cebu, Province of","Cebu, Province of",Philippine notgeld,Philippines,Philippines,cebu_province_section
+madridejos_notgeld,cebu_province_section,philippines_notgeld,philippines_section,philippines_section,"Madridejos, Municipality of","Cebu, Province of",Philippine notgeld,Philippines,Philippines,cebu_province_section
+balangiga_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Balangiga, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,eastern_samar_province_section
+borongan_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Borongan, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,eastern_samar_province_section
+dolores_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Dolores, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,eastern_samar_province_section
+guiuan_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Guiuan, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,eastern_samar_province_section
+hernani_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Hernani, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,eastern_samar_province_section
+llorente_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Llorente, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,eastern_samar_province_section
+oras_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Oras, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,eastern_samar_province_section
+salcedo_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Salcedo, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,eastern_samar_province_section
+san_julian_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"San Julian, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,eastern_samar_province_section
+sulat_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Sulat, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,eastern_samar_province_section
+taft_notgeld,eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Taft, Municipality of","Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,eastern_samar_province_section
+iloilo_province_notgeld,iloilo_province_section,philippines_notgeld,philippines_section,philippines_section,"Iloilo, Province of","Iloilo, Province of",Philippine notgeld,Philippines,Philippines,iloilo_province_section
+jordan_notgeld,iloilo_province_section,philippines_notgeld,philippines_section,philippines_section,"Jordan, Municipality of","Iloilo, Province of",Philippine notgeld,Philippines,Philippines,iloilo_province_section
+hilongos_notgeld,leyte_province_section,philippines_notgeld,philippines_section,philippines_section,"Hilongos, Municipality of","Leyte, Province of",Philippine notgeld,Philippines,Philippines,leyte_province_section
+hindang_notgeld,leyte_province_section,philippines_notgeld,philippines_section,philippines_section,"Hindang, Municipality of","Leyte, Province of",Philippine notgeld,Philippines,Philippines,leyte_province_section
+leyte_province_notgeld,leyte_province_section,philippines_notgeld,philippines_section,philippines_section,"Leyte, Province of","Leyte, Province of",Philippine notgeld,Philippines,Philippines,leyte_province_section
+liloan_notgeld,leyte_province_section,philippines_notgeld,philippines_section,philippines_section,"Liloan, Municipality of","Leyte, Province of",Philippine notgeld,Philippines,Philippines,leyte_province_section
+maasin_notgeld,leyte_province_section,philippines_notgeld,philippines_section,philippines_section,"Maasin, Municipality of","Leyte, Province of",Philippine notgeld,Philippines,Philippines,leyte_province_section
+macrohon_notgeld,leyte_province_section,philippines_notgeld,philippines_section,philippines_section,"Macrohon, Municipality of","Leyte, Province of",Philippine notgeld,Philippines,Philippines,leyte_province_section
+ma_ba_hi_hin_in-notgeld,leyte_province_section,philippines_notgeld,philippines_section,philippines_section,"Matalom, Bato, Hilongos, Hindang, and Inopacan, Municipalities of","Leyte, Province of",Philippine notgeld,Philippines,Philippines,leyte_province_section
+apayo_sub-province_notgeld,mountain_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Apayo, Sub-province of",Mountain Province,Philippine notgeld,Philippines,Philippines,mountain_section_notgeld
+mountain_province_notgeld,mountain_section_notgeld,philippines_notgeld,philippines_section,philippines_section,Mountain Province,Mountain Province,Philippine notgeld,Philippines,Philippines,mountain_section_notgeld
+basay_notgeld,negros_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Basay, Municipality of","Negros, Island of",Philippine notgeld,Philippines,Philippines,negros_section_notgeld
+negros_occidental_province_notgeld,negros_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Negros Occidental, Province of","Negros, Island of",Philippine notgeld,Philippines,Philippines,negros_section_notgeld
+negros_oriental_province_notgeld,negros_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Negros Oriental, Province of","Negros, Island of",Philippine notgeld,Philippines,Philippines,negros_section_notgeld
+negros_island_notgeld,negros_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Negros, Island of","Negros, Island of",Philippine notgeld,Philippines,Philippines,negros_section_notgeld
+pambujan-sur_notgeld,northern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Pambujan Sur, Municipality of","Northern Samar, Province of",Philippine notgeld,Philippines,Philippines,northern_samar_province_section
+cagayancillo_municipality_notgeld,nueva_vizcaya_province_notgeld,philippines_notgeld,philippines_section,philippines_section,"Cagayancillo, Municipality of","Nueva Vizcaya, Province of",Philippine notgeld,Philippines,Philippines,nueva_vizcaya_province_notgeld
+agutaya_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Agutaya, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,palawan_province_section
+bacuit_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Bacuit, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,palawan_province_section
+balabac_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Balabac, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,palawan_province_section
+brookes_point_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Brooke's Point, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,palawan_province_section
+coron_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Coron, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,palawan_province_section
+cuyo_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Cuyo, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,palawan_province_section
+dumaran_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Dumaran, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,palawan_province_section
+palawan_province_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Palawan, Province of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,palawan_province_section
+puerto-princesa_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Puerto Princesa, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,palawan_province_section
+taytay_municipality_notgeld,palawan_province_section,philippines_notgeld,philippines_section,philippines_section,"Taytay, Municipality of","Palawan, Province of",Philippine notgeld,Philippines,Philippines,palawan_province_section
+romblon_municipality_notgeld,romblon_province_section,philippines_notgeld,philippines_section,philippines_section,"Romblon, Municipality of","Romblon, Province of",Philippine notgeld,Philippines,Philippines,romblon_province_section
+sibuyan_island_notgeld,romblon_province_section,philippines_notgeld,philippines_section,philippines_section,"Sibuyan, Island of","Romblon, Province of",Philippine notgeld,Philippines,Philippines,romblon_province_section
+basey_notgeld,samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Basey, Municipality of","Samar, Province of",Philippine notgeld,Philippines,Philippines,samar_province_section
+calbiga_notgeld,samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Calbiga, Municipality of","Samar, Province of",Philippine notgeld,Philippines,Philippines,samar_province_section
+samar_province_notgeld,samar_province_section,philippines_notgeld,philippines_section,philippines_section,"Samar, Province of","Samar, Province of",Philippine notgeld,Philippines,Philippines,samar_province_section
+zamboanga_municipality_notgeld,zamboanga_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Zamboanga, Municipality of","Zamboanga, Province of",Philippine notgeld,Philippines,Philippines,zamboanga_section_notgeld
+zamboanga_province_notgeld,zamboanga_section_notgeld,philippines_notgeld,philippines_section,philippines_section,"Zamboanga, Province of","Zamboanga, Province of",Philippine notgeld,Philippines,Philippines,zamboanga_section_notgeld
+antique_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Antique, Province of",Philippine notgeld,Philippines,Philippines,Philippines,antique_province_section
+bohol_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Bohol, Province of",Philippine notgeld,Philippines,Philippines,Philippines,bohol_province_section
+bukidnon_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Bukidnon, Province of",Philippine notgeld,Philippines,Philippines,Philippines,bukidnon_province_notgeld
+cagayan_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Cagayan, Province of",Philippine notgeld,Philippines,Philippines,Philippines,cagayan_province_section
+capiz_section_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Capiz, Province of",Philippine notgeld,Philippines,Philippines,Philippines,capiz_section_notgeld
+cebu_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Cebu, Province of",Philippine notgeld,Philippines,Philippines,Philippines,cebu_province_section
+eastern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Eastern Samar, Province of",Philippine notgeld,Philippines,Philippines,Philippines,eastern_samar_province_section
+ilcos_norte_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Ilocos Norte, Province of",Philippine notgeld,Philippines,Philippines,Philippines,ilcos_norte_province_notgeld
+iloilo_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Iloilo, Province of",Philippine notgeld,Philippines,Philippines,Philippines,iloilo_province_section
+isabela_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Isabela, Province of",Philippine notgeld,Philippines,Philippines,Philippines,isabela_province_notgeld
+lanao_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Lanao, Province of",Philippine notgeld,Philippines,Philippines,Philippines,lanao_province_notgeld
+leyte_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Leyte, Province of",Philippine notgeld,Philippines,Philippines,Philippines,leyte_province_section
+luzon_island_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Luzon, Island of",Philippine notgeld,Philippines,Philippines,Philippines,luzon_island_notgeld
+malolos,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Malolos, Town of",Philippine notgeld,Philippines,Philippines,Philippines,malolos
+masbate_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Masbate, Province of",Philippine notgeld,Philippines,Philippines,Philippines,masbate_province_notgeld
+mindanao_island_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Mindanao, Island of",Philippine notgeld,Philippines,Philippines,Philippines,mindanao_island_notgeld
+misamis_occidental_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Misamis Occidental, Province of",Philippine notgeld,Philippines,Philippines,Philippines,misamis_occidental_province_notgeld
+misamis_oriental_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Misamis Oriental, Province of",Philippine notgeld,Philippines,Philippines,Philippines,misamis_oriental_province_notgeld
+mountain_section_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,Mountain Province,Philippine notgeld,Philippines,Philippines,Philippines,mountain_section_notgeld
+negros_section_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Negros, Island of",Philippine notgeld,Philippines,Philippines,Philippines,negros_section_notgeld
+northern_samar_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Northern Samar, Province of",Philippine notgeld,Philippines,Philippines,Philippines,northern_samar_province_section
+nueva_vizcaya_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Nueva Vizcaya, Province of",Philippine notgeld,Philippines,Philippines,Philippines,nueva_vizcaya_province_notgeld
+palawan_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Palawan, Province of",Philippine notgeld,Philippines,Philippines,Philippines,palawan_province_section
+panay_island_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Panay, Island of",Philippine notgeld,Philippines,Philippines,Philippines,panay_island_notgeld
+romblon_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Romblon, Province of",Philippine notgeld,Philippines,Philippines,Philippines,romblon_province_notgeld
+romblon_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Romblon, Province of",Philippine notgeld,Philippines,Philippines,Philippines,romblon_province_section
+samar_province_section,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Samar, Province of",Philippine notgeld,Philippines,Philippines,Philippines,samar_province_section
+sulu_province_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Sulu, Province of",Philippine notgeld,Philippines,Philippines,Philippines,sulu_province_notgeld
+zamboanga_section_notgeld,philippines_notgeld,philippines_section,philippines_section,philippines_section,"Zamboanga, Province of",Philippine notgeld,Philippines,Philippines,Philippines,zamboanga_section_notgeld
+philippines_notgeld,philippines_section,philippines_section,philippines_section,philippines_section,Philippine notgeld,Philippines,Philippines,Philippines,Philippines,PHI
+philippines,philippines_section,philippines_section,philippines_section,philippines_section,Philippines,Philippines,Philippines,Philippines,Philippines,PHI
+philippines_section,philippines_section,philippines_section,philippines_section,philippines_section,Philippines,Philippines,Philippines,Philippines,Philippines,PHI
 ashdod,philistia_cities_section,philistia_cities_section,philistia_cities_section,philistia_cities_section,Ashdod,"Philistia, Cities of","Philistia, Cities of","Philistia, Cities of","Philistia, Cities of",
 ashkelon,philistia_cities_section,philistia_cities_section,philistia_cities_section,philistia_cities_section,Ashkelon,"Philistia, Cities of","Philistia, Cities of","Philistia, Cities of","Philistia, Cities of",
 gaza,philistia_cities_section,philistia_cities_section,philistia_cities_section,philistia_cities_section,Gaza,"Philistia, Cities of","Philistia, Cities of","Philistia, Cities of","Philistia, Cities of",
@@ -8580,7 +8580,7 @@ cape_of_good_hope,boer,south-africa,south-africa,south-africa,Cape of Good Hope,
 griquatown,boer,south-africa,south-africa,south-africa,Griquatown,South Africa (pre-Union),South Africa,South Africa,South Africa,GQQ
 orange_free_state,boer,south-africa,south-africa,south-africa,Orange Free State,South Africa (pre-Union),South Africa,South Africa,South Africa,OFS
 south_african_republic,boer,south-africa,south-africa,south-africa,South African Republic,South Africa (pre-Union),South Africa,South Africa,South Africa,ZAR
-coree_du_sud,coree_du_sud,coree_du_sud,coree_du_sud,coree_du_sud,South Korea,South Korea,South Korea,South Korea,South Korea,
+coree_du_sud,coree_du_sud,coree_du_sud,coree_du_sud,coree_du_sud,South Korea,South Korea,South Korea,South Korea,South Korea,SKO
 south_orkney_islands,south_orkney_islands,south_orkney_islands,south_orkney_islands,south_orkney_islands,South Orkney Islands,South Orkney Islands,South Orkney Islands,South Orkney Islands,South Orkney Islands,
 south_ossetia,south_ossetia,south_ossetia,south_ossetia,south_ossetia,South Ossetia,South Ossetia,South Ossetia,South Ossetia,South Ossetia,
 south_pole,south_pole,south_pole,south_pole,south_pole,South Pole,South Pole,South Pole,South Pole,South Pole,
@@ -10131,10 +10131,10 @@ kingdom_of_tavolara,kingdom_of_tavolara,kingdom_of_tavolara,kingdom_of_tavolara,
 rural_herders_farmers,rural_herders_farmers,rural_herders_farmers,rural_herders_farmers,rural_herders_farmers,Territory of rural herders farmers,Territory of rural herders farmers,Territory of rural herders farmers,Territory of rural herders farmers,Territory of rural herders farmers,
 thailande,thailande,thailande,thailande,thailande,Thailand,Thailand,Thailand,Thailand,Thailand,
 temps,temps,temps,temps,temps,"Time, Kingdom of","Time, Kingdom of","Time, Kingdom of","Time, Kingdom of","Time, Kingdom of",
-oecusse,timor_oriental,timor_oriental,timor_oriental,timor_oriental,Oecusse,Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,
-portuguese_timor_period,timor_oriental,timor_oriental,timor_oriental,timor_oriental,Portuguese Timor (1910-2002),Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,
-timor_oriental,timor_oriental,timor_oriental,timor_oriental,timor_oriental,Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,
-timor_oriental_period,timor_oriental,timor_oriental,timor_oriental,timor_oriental,Timor-Leste (2002-date),Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,
+oecusse,timor_oriental,timor_oriental,timor_oriental,timor_oriental,Oecusse,Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,TLL
+portuguese_timor_period,timor_oriental,timor_oriental,timor_oriental,timor_oriental,Portuguese Timor (1910-2002),Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,TLL
+timor_oriental,timor_oriental,timor_oriental,timor_oriental,timor_oriental,Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,TLL
+timor_oriental_period,timor_oriental,timor_oriental,timor_oriental,timor_oriental,Timor-Leste (2002-date),Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,TLL
 togo,togo,togo,togo,togo,Togo,Togo,Togo,Togo,Togo,TGG
 tonga,tonga,tonga,tonga,tonga,Tonga,Tonga,Tonga,Tonga,Tonga,TNG
 transnistrie,transnistrie,transnistrie,transnistrie,transnistrie,Transnistria,Transnistria,Transnistria,Transnistria,Transnistria,TTT
@@ -10146,7 +10146,7 @@ cartago,tunisie,tunisie,tunisie,tunisie,Carthage,Tunisia,Tunisia,Tunisia,Tunisia
 tunisie,tunisie,tunisie,tunisie,tunisie,Tunisia,Tunisia,Tunisia,Tunisia,Tunisia,TIS
 turquie,turquie,turquie,turquie,turquie,Turkey,Turkey,Turkey,Turkey,Turkey,TUR
 turkmenistan,turkmenistan,turkmenistan,turkmenistan,turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,
-tuvalu,tuvalu,tuvalu,tuvalu,tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,
+tuvalu,tuvalu,tuvalu,tuvalu,tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,TVV
 vaitupu,tuvalu,tuvalu,tuvalu,tuvalu,Vaitupu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,
 ouganda,ouganda,ouganda,ouganda,ouganda,Uganda,Uganda,Uganda,Uganda,Uganda,UGA
 UKR,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Transnistria Governorate,Ukraine,Ukraine,Ukraine,Ukraine,TNS
@@ -10185,7 +10185,7 @@ iles_caimanes,british_territories,united-kingdom,united-kingdom,united-kingdom,C
 iles_malouines,british_territories,united-kingdom,united-kingdom,united-kingdom,Falkland Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",FLK
 gibraltar,british_territories,united-kingdom,united-kingdom,united-kingdom,Gibraltar,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",GIB
 montserrat,british_territories,united-kingdom,united-kingdom,united-kingdom,Montserrat,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
-pitcairn,british_territories,united-kingdom,united-kingdom,united-kingdom,Pitcairn Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
+pitcairn,british_territories,united-kingdom,united-kingdom,united-kingdom,Pitcairn Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",PTT
 saint-helena,british_territories,united-kingdom,united-kingdom,united-kingdom,"Saint Helena, Ascension and Tristan da Cunha",British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",SNT
 georgie-sandwich,british_territories,united-kingdom,united-kingdom,united-kingdom,South Georgia and the South Sandwich Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 iles_turques-et-caiques,british_territories,united-kingdom,united-kingdom,united-kingdom,Turks and Caicos Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
