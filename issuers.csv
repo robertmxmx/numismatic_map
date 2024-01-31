@@ -1816,21 +1816,21 @@ popayan_city,colombian_states,colombia_section,colombia_section,colombia_section
 santa_marta_city,colombian_states,colombia_section,colombia_section,colombia_section,"Santa Marta, City of",Colombian states,Colombia,Colombia,Colombia,
 santander_state,colombian_states,colombia_section,colombia_section,colombia_section,"Santander, State of",Colombian states,Colombia,Colombia,Colombia,
 tolima_state,colombian_states,colombia_section,colombia_section,colombia_section,"Tolima, State of",Colombian states,Colombia,Colombia,Colombia,
-anjouan,comores,comoro_section,comoro_section,comoro_section,Anjouan,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,
-comores,comoro_section,comoro_section,comoro_section,comoro_section,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,
-comoro_section,comoro_section,comoro_section,comoro_section,comoro_section,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,
-comores_notgeld_section,comoro_section,comoro_section,comoro_section,comoro_section,Comoro Islands (notgeld),Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,
-moheli,comoro_section,comoro_section,comoro_section,comoro_section,Mohéli,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,
-comores_notgeld,comores_notgeld_section,comoro_section,comoro_section,comoro_section,Grande Comore (notgeld),Comoro Islands (notgeld),Comoro Islands,Comoro Islands,Comoro Islands,
-moheli_notgeld,comores_notgeld_section,comoro_section,comoro_section,comoro_section,Mohéli (notgeld),Comoro Islands (notgeld),Comoro Islands,Comoro Islands,Comoro Islands,
+anjouan,comores,comoro_section,comoro_section,comoro_section,Anjouan,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMM
+comores,comoro_section,comoro_section,comoro_section,comoro_section,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMM
+comoro_section,comoro_section,comoro_section,comoro_section,comoro_section,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMM
+comores_notgeld_section,comoro_section,comoro_section,comoro_section,comoro_section,Comoro Islands (notgeld),Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMM
+moheli,comoro_section,comoro_section,comoro_section,comoro_section,Mohéli,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMM
+comores_notgeld,comores_notgeld_section,comoro_section,comoro_section,comoro_section,Grande Comore (notgeld),Comoro Islands (notgeld),Comoro Islands,Comoro Islands,Comoro Islands,CMM
+moheli_notgeld,comores_notgeld_section,comoro_section,comoro_section,comoro_section,Mohéli (notgeld),Comoro Islands (notgeld),Comoro Islands,Comoro Islands,Comoro Islands,CMM
 conch_republic,conch_republic,conch_republic,conch_republic,conch_republic,Conch Republic,Conch Republic,Conch Republic,Conch Republic,Conch Republic,
-drc,drc,drc,drc,drc,"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",
-republique_democratique_du_congo,drc,drc,drc,drc,"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",
-democratic_republic_congo_period,republique_democratique_du_congo,drc,drc,drc,Democratic Republic of the Congo (1997-date),"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",
-katanga,drc,drc,drc,drc,Katanga,"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",
-congo_leopoldville_period,republique_democratique_du_congo,drc,drc,drc,Republic of the Congo (Léopoldville) (1960-1971),"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",
-zaire_period,republique_democratique_du_congo,drc,drc,drc,Zaire (1971-1997),"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",
-congo-brazzaville,congo-brazzaville,congo-brazzaville,congo-brazzaville,congo-brazzaville,"Congo, Republic of the","Congo, Republic of the","Congo, Republic of the","Congo, Republic of the","Congo, Republic of the",
+drc,drc,drc,drc,drc,"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",CON
+republique_democratique_du_congo,drc,drc,drc,drc,"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",CON
+democratic_republic_congo_period,republique_democratique_du_congo,drc,drc,drc,Democratic Republic of the Congo (1997-date),"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",CON
+katanga,drc,drc,drc,drc,Katanga,"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",KAT
+congo_leopoldville_period,republique_democratique_du_congo,drc,drc,drc,Republic of the Congo (Léopoldville) (1960-1971),"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",CON
+zaire_period,republique_democratique_du_congo,drc,drc,drc,Zaire (1971-1997),"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",CON
+congo-brazzaville,congo-brazzaville,congo-brazzaville,congo-brazzaville,congo-brazzaville,"Congo, Republic of the","Congo, Republic of the","Congo, Republic of the","Congo, Republic of the","Congo, Republic of the",CON
 iles_cook,iles_cook,iles_cook,iles_cook,iles_cook,Cook Islands,Cook Islands,Cook Islands,Cook Islands,Cook Islands,
 suwarrow,iles_cook,iles_cook,iles_cook,iles_cook,Suwarrow,Cook Islands,Cook Islands,Cook Islands,Cook Islands,
 isla_del_coco,costa_rica,costa_rica,costa_rica,costa_rica,Cocos Island,Costa Rica,Costa Rica,Costa Rica,Costa Rica,
@@ -2347,22 +2347,22 @@ viviers_bishopric,feodales,france_section,france_section,france_section,"Viviers
 walincourt_lordship,feodales,france_section,france_section,france_section,"Walincourt, Lordship of",French States,France,France,France,FRA
 weissenburg_abbey,feodales,france_section,france_section,france_section,"Weissenburg, Abbey of",French States,France,France,France,FRA
 weissenburg_city,feodales,france_section,france_section,france_section,"Weissenburg, City of",French States,France,France,France,FRA
-iles_france_bonaparte_period,iles-de-france-et-bonaparte,france_overseas,france_section,france_section,Isles de France and de Bonaparte (1806-1810),"France and Bonaparte, Islands of","France, Overseas",France,France,
-iles_france_bourbon_period,iles-de-france-et-bonaparte,france_overseas,france_section,france_section,Isles de France and de Bourbon (1649-1806),"France and Bonaparte, Islands of","France, Overseas",France,France,
+iles_france_bonaparte_period,iles-de-france-et-bonaparte,france_overseas,france_section,france_section,Isles de France and de Bonaparte (1806-1810),"France and Bonaparte, Islands of","France, Overseas",France,France,REE
+iles_france_bourbon_period,iles-de-france-et-bonaparte,france_overseas,france_section,france_section,Isles de France and de Bourbon (1649-1806),"France and Bonaparte, Islands of","France, Overseas",France,France,REE
 french-oceania,french-polynesia,france_overseas,france_section,france_section,French Oceania,French Polynesia,"France, Overseas",France,France,
 polynesie_francaise,french-polynesia,france_overseas,france_section,france_section,French Polynesia,French Polynesia,"France, Overseas",France,France,
 moorea,french-polynesia,france_overseas,france_section,france_section,Moorea,French Polynesia,"France, Overseas",France,France,
 archipel_societe,french-polynesia,france_overseas,france_section,france_section,Society Islands,French Polynesia,"France, Overseas",France,France,
 tahiti,french-polynesia,france_overseas,france_section,france_section,Tahiti,French Polynesia,"France, Overseas",France,France,
 tuamotu,french-polynesia,france_overseas,france_section,france_section,Tuamotu Archipelago,French Polynesia,"France, Overseas",France,France,
-terre_adelie,taaf,france_overseas,france_section,france_section,Adélie Land,French Southern and Antarctic Lands,"France, Overseas",France,France,
+terre_adelie,taaf,france_overseas,france_section,france_section,Adélie Land,French Southern and Antarctic Lands,"France, Overseas",France,France,FSO
 amsterdam_saint_paul,taaf,france_overseas,france_section,france_section,Amsterdam and Saint Paul,French Southern and Antarctic Lands,"France, Overseas",France,France,
 iles_crozet,taaf,france_overseas,france_section,france_section,Crozet Islands,French Southern and Antarctic Lands,"France, Overseas",France,France,
 iles_kerguelen,taaf,france_overseas,france_section,france_section,Kerguelen Islands,French Southern and Antarctic Lands,"France, Overseas",France,France,
 iles_eparses,taaf,france_overseas,france_section,france_section,Scattered Islands in the Indian Ocean,French Southern and Antarctic Lands,"France, Overseas",France,France,
 ile_des_pins,nouvelle-caledonie,france_overseas,france_section,france_section,Isle of Pines,New Caledonia,"France, Overseas",France,France,
-ile_bourbon_period,reunion,france_overseas,france_section,france_section,Bourbon Island (1815-1848),Réunion,"France, Overseas",France,France,
-reunion_period,reunion,france_overseas,france_section,france_section,Réunion (1848-date),Réunion,"France, Overseas",France,France,
+ile_bourbon_period,reunion,france_overseas,france_section,france_section,Bourbon Island (1815-1848),Réunion,"France, Overseas",France,France,REE
+reunion_period,reunion,france_overseas,france_section,france_section,Réunion (1848-date),Réunion,"France, Overseas",France,France,REE
 bellegarde_notgeld,ain_notgeld,french-states,france_section,france_section,"Bellegarde, Commune of","Ain, Department of",French notgeld,France,France,ain_notgeld
 bourg-en-bresse_notgeld,ain_notgeld,french-states,france_section,france_section,"Bourg-en-Bresse, Commune of","Ain, Department of",French notgeld,France,France,ain_notgeld
 gex_notgeld,ain_notgeld,french-states,france_section,france_section,"Gex, Commune of","Ain, Department of",French notgeld,France,France,ain_notgeld
@@ -7423,7 +7423,7 @@ malaisie,malaysia,malaysia,malaysia,malaysia,Malaysia,Malaysia,Malaysia,Malaysia
 malaysia,malaysia,malaysia,malaysia,malaysia,Malaysia,Malaysia,Malaysia,Malaysia,Malaysia,
 perak,malaysia,malaysia,malaysia,malaysia,Perak,Malaysia,Malaysia,Malaysia,Malaysia,
 malacca_portuguese,malaysia,malaysia,malaysia,malaysia,Portuguese Malacca ,Malaysia,Malaysia,Malaysia,Malaysia,
-maldives,maldives,maldives,maldives,maldives,Maldives,Maldives,Maldives,Maldives,Maldives,
+maldives,maldives,maldives,maldives,maldives,Maldives,Maldives,Maldives,Maldives,Maldives,MDD
 french_sudan,mali,mali,mali,mali,French Sudan (1921-1958),Mali,Mali,Mali,Mali,
 mali,mali,mali,mali,mali,Mali,Mali,Mali,Mali,Mali,
 mali_period,mali,mali,mali,mali,Mali (1960-date),Mali,Mali,Mali,Mali,
@@ -7434,7 +7434,7 @@ marie_byrd_land,marie_byrd_land,marie_byrd_land,marie_byrd_land,marie_byrd_land,
 marshall,marshall,marshall,marshall,marshall,Marshall Islands,Marshall Islands,Marshall Islands,Marshall Islands,Marshall Islands,
 mauretanie-antique,mauretanie-antique,mauretanie-antique,mauretanie-antique,mauretanie-antique,Mauretania,Mauretania,Mauretania,Mauretania,Mauretania,
 mauritanie,mauritanie,mauritanie,mauritanie,mauritanie,Mauritania,Mauritania,Mauritania,Mauritania,Mauritania,
-maurice,maurice,maurice,maurice,maurice,Mauritius,Mauritius,Mauritius,Mauritius,Mauritius,
+maurice,maurice,maurice,maurice,maurice,Mauritius,Mauritius,Mauritius,Mauritius,Mauritius,MAU
 mayas,mayas,mayas,mayas,mayas,Mayas,Mayas,Mayas,Mayas,Mayas,
 characene_kingdom,mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,"Characene, Kingdom of",Mesopotamia,Mesopotamia,Mesopotamia,Mesopotamia,
 mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,Mesopotamia,Mesopotamia,Mesopotamia,Mesopotamia,Mesopotamia,
@@ -8555,8 +8555,8 @@ serbia_empire,serbia_section,serbia_section,serbia_section,serbia_section,Serbia
 brancovic_district,serbia_medieval_section,serbia_section,serbia_section,serbia_section,"Branković, District of",Serbia (medieval),Serbia,Serbia,Serbia,
 dejanovic_domain,serbia_medieval_section,serbia_section,serbia_section,serbia_section,Dejanović Domain,Serbia (medieval),Serbia,Serbia,Serbia,
 serbia_kingdom,serbia_medieval_section,serbia_section,serbia_section,serbia_section,Serbia (medieval),Serbia (medieval),Serbia,Serbia,Serbia,
-aldabra,seychelles,seychelles,seychelles,seychelles,Aldabra,Seychelles,Seychelles,Seychelles,Seychelles,
-seychelles,seychelles,seychelles,seychelles,seychelles,Seychelles,Seychelles,Seychelles,Seychelles,Seychelles,
+aldabra,seychelles,seychelles,seychelles,seychelles,Aldabra,Seychelles,Seychelles,Seychelles,Seychelles,SEY
+seychelles,seychelles,seychelles,seychelles,seychelles,Seychelles,Seychelles,Seychelles,Seychelles,Seychelles,SEY
 sierra_leone,sierra_leone,sierra_leone,sierra_leone,sierra_leone,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,SLL
 singapour,singapour,singapour,singapour,singapour,Singapore,Singapore,Singapore,Singapore,Singapore,
 slovaquie,slovaquie,slovaquie,slovaquie,slovaquie,Slovakia,Slovakia,Slovakia,Slovakia,Slovakia,SLO
