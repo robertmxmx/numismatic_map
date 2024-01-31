@@ -116,7 +116,7 @@ sidi-bel-abbes_notgeld,oran_department_notgeld,algeria_notgeld,algeria_section,a
 amazonia,amazonia,amazonia,amazonia,amazonia,Amazonia,Amazonia,Amazonia,Amazonia,Amazonia,
 ancient,ancient,ancient,ancient,ancient,Ancient and early medieval polities,Ancient and early medieval polities,Ancient and early medieval polities,Ancient and early medieval polities,Ancient and early medieval polities,
 andorre,andorre,andorre,andorre,andorre,Andorra,Andorra,Andorra,Andorra,Andorra,AND
-angola,angola,angola,angola,angola,Angola,Angola,Angola,Angola,Angola,
+angola,angola,angola,angola,angola,Angola,Angola,Angola,Angola,Angola,ANG
 cabinda,angola,angola,angola,angola,"Cabinda, Republic of",Angola,Angola,Angola,Angola,
 antarctica,antarctica,antarctica,antarctica,antarctica,Antarctica,Antarctica,Antarctica,Antarctica,Antarctica,
 argentine_antarctica,antarctica,antarctica,antarctica,antarctica,Argentine Antarctica,Antarctica,Antarctica,Antarctica,Antarctica,
@@ -7401,7 +7401,7 @@ luxembourg_city,luxembourg_states,luxembourg_section,luxembourg_section,luxembou
 madagascar,madagascar_section,madagascar_section,madagascar_section,madagascar_section,Madagascar,Madagascar,Madagascar,Madagascar,Madagascar,MAD
 madagascar_section,madagascar_section,madagascar_section,madagascar_section,madagascar_section,Madagascar,Madagascar,Madagascar,Madagascar,Madagascar,MAD
 madagascar_notgeld,madagascar_section,madagascar_section,madagascar_section,madagascar_section,Madagascar (notgeld),Madagascar,Madagascar,Madagascar,Madagascar,MAD
-malawi,malawi,malawi,malawi,malawi,Malawi,Malawi,Malawi,Malawi,Malawi,
+malawi,malawi,malawi,malawi,malawi,Malawi,Malawi,Malawi,Malawi,Malawi,MLL
 malaya_borneo,malaysia_british,malaysia,malaysia,malaysia,Malaya and British Borneo,British Malaysia,Malaysia,Malaysia,Malaysia,
 borneo,malaysia_british,malaysia,malaysia,malaysia,North Borneo,British Malaysia,Malaysia,Malaysia,Malaysia,
 sarawak,malaysia_british,malaysia,malaysia,malaysia,Sarawak,British Malaysia,Malaysia,Malaysia,Malaysia,
@@ -7634,7 +7634,7 @@ maroc,morocco_section,morocco_section,morocco_section,morocco_section,Morocco,Mo
 morocco_section,morocco_section,morocco_section,morocco_section,morocco_section,Morocco,Morocco,Morocco,Morocco,Morocco,MOR
 rif_republic,morocco_section,morocco_section,morocco_section,morocco_section,"Rif, Republic of the",Morocco,Morocco,Morocco,Morocco,RIF
 tangier_city,morocco_section,morocco_section,morocco_section,morocco_section,"Tangier, City of",Morocco,Morocco,Morocco,Morocco,TAN
-mozambique,mozambique,mozambique,mozambique,mozambique,Mozambique,Mozambique,Mozambique,Mozambique,Mozambique,
+mozambique,mozambique,mozambique,mozambique,mozambique,Mozambique,Mozambique,Mozambique,Mozambique,Mozambique,MOZ
 amotekunia,mujand,mujand,mujand,mujand,Amotekunia,Mujand,Mujand,Mujand,Mujand,
 andaqesh,mujand,mujand,mujand,mujand,Andaqesh,Mujand,Mujand,Mujand,Mujand,
 blissdan_naive,mujand,mujand,mujand,mujand,Blissdane Naive,Mujand,Mujand,Mujand,Mujand,
@@ -8139,7 +8139,7 @@ independent_state_of_rainbow_creek,independent_state_of_rainbow_creek,independen
 rehoboth_fantasy,rehoboth_fantasy,rehoboth_fantasy,rehoboth_fantasy,rehoboth_fantasy,Rehoboth (fantasy),Rehoboth (fantasy),Rehoboth (fantasy),Rehoboth (fantasy),Rehoboth (fantasy),
 mirage_islands,mirage_islands,mirage_islands,mirage_islands,mirage_islands,Republic of Mirage Islands,Republic of Mirage Islands,Republic of Mirage Islands,Republic of Mirage Islands,Republic of Mirage Islands,
 holy_empire_of_reunion,holy_empire_of_reunion,holy_empire_of_reunion,holy_empire_of_reunion,holy_empire_of_reunion,"Reunion, Holy Empire of","Reunion, Holy Empire of","Reunion, Holy Empire of","Reunion, Holy Empire of","Reunion, Holy Empire of",
-rhodesie_et_nyassaland,rhodesie_et_nyassaland,rhodesie_et_nyassaland,rhodesie_et_nyassaland,rhodesie_et_nyassaland,Rhodesia and Nyasaland,Rhodesia and Nyasaland,Rhodesia and Nyasaland,Rhodesia and Nyasaland,Rhodesia and Nyasaland,
+rhodesie_et_nyassaland,rhodesie_et_nyassaland,rhodesie_et_nyassaland,rhodesie_et_nyassaland,rhodesie_et_nyassaland,Rhodesia and Nyasaland,Rhodesia and Nyasaland,Rhodesia and Nyasaland,Rhodesia and Nyasaland,Rhodesia and Nyasaland,ZIM
 riviera_principality,riviera_principality,riviera_principality,riviera_principality,riviera_principality,Riviera Principality,Riviera Principality,Riviera Principality,Riviera Principality,Riviera Principality,
 robland,robland,robland,robland,robland,"Robland, Kingdom of","Robland, Kingdom of","Robland, Kingdom of","Robland, Kingdom of","Robland, Kingdom of",
 rome_fantasy,rome_fantasy,rome_fantasy,rome_fantasy,rome_fantasy,Roman Empire (fantasy),Roman Empire (fantasy),Roman Empire (fantasy),Roman Empire (fantasy),Roman Empire (fantasy),
@@ -10365,9 +10365,9 @@ osijek_notgeld,yugoslavia_notgeld,yugoslavia_section,yugoslavia_section,yugoslav
 sarajevo_notgeld,yugoslavia_notgeld,yugoslavia_section,yugoslavia_section,yugoslavia_section,"Sarajevo, Municipality of",Yugoslavia Notgeld,Yugoslavia,Yugoslavia,Yugoslavia,sarajevo_notgeld
 split_notgeld,yugoslavia_notgeld,yugoslavia_section,yugoslavia_section,yugoslavia_section,"Split, City of",Yugoslavia Notgeld,Yugoslavia,Yugoslavia,Yugoslavia,split_notgeld
 zagreb_notgeld,yugoslavia_notgeld,yugoslavia_section,yugoslavia_section,yugoslavia_section,"Zagreb, City of",Yugoslavia Notgeld,Yugoslavia,Yugoslavia,Yugoslavia,zagreb_notgeld
-zambie,zambie,zambie,zambie,zambie,Zambia,Zambia,Zambia,Zambia,Zambia,
+zambie,zambie,zambie,zambie,zambie,Zambia,Zambia,Zambia,Zambia,Zambia,ZAM
 zamunda,zamunda,zamunda,zamunda,zamunda,Zamunda,Zamunda,Zamunda,Zamunda,Zamunda,
-rhodesie,zimbabwe_section,zimbabwe_section,zimbabwe_section,zimbabwe_section,Rhodesia (1964-1979),Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,
-rhodesie_du_sud,zimbabwe_section,zimbabwe_section,zimbabwe_section,zimbabwe_section,Southern Rhodesia (1932-1955),Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,
-zimbabwe_section,zimbabwe_section,zimbabwe_section,zimbabwe_section,zimbabwe_section,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,
-zimbabwe,zimbabwe_section,zimbabwe_section,zimbabwe_section,zimbabwe_section,Zimbabwe (1980-date),Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,
+rhodesie,zimbabwe_section,zimbabwe_section,zimbabwe_section,zimbabwe_section,Rhodesia (1964-1979),Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,ZIM
+rhodesie_du_sud,zimbabwe_section,zimbabwe_section,zimbabwe_section,zimbabwe_section,Southern Rhodesia (1932-1955),Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,ZIM
+zimbabwe_section,zimbabwe_section,zimbabwe_section,zimbabwe_section,zimbabwe_section,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,ZIM
+zimbabwe,zimbabwe_section,zimbabwe_section,zimbabwe_section,zimbabwe_section,Zimbabwe (1980-date),Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,ZIM
