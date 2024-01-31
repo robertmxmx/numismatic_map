@@ -1272,9 +1272,9 @@ belize_period,belize,belize,belize,belize,Belize (1973-date),Belize,Belize,Beliz
 british_honduras_period,belize,belize,belize,belize,British Honduras (1862-1973),Belize,Belize,Belize,Belize,
 bay_of_honduras_period,belize,belize,belize,belize,British Settlements on the Bay of Honduras (1783-1862),Belize,Belize,Belize,Belize,
 benelux,benelux,benelux,benelux,benelux,Benelux,Benelux,Benelux,Benelux,Benelux,
-benin_section,benin_section,benin_section,benin_section,benin_section,Benin,Benin,Benin,Benin,Benin,
-benin,benin_section,benin_section,benin_section,benin_section,Benin (1975-date),Benin,Benin,Benin,Benin,
-dahomey,benin_section,benin_section,benin_section,benin_section,Dahomey (1960-1975),Benin,Benin,Benin,Benin,
+benin_section,benin_section,benin_section,benin_section,benin_section,Benin,Benin,Benin,Benin,Benin,BNN
+benin,benin_section,benin_section,benin_section,benin_section,Benin (1975-date),Benin,Benin,Benin,Benin,BNN
+dahomey,benin_section,benin_section,benin_section,benin_section,Dahomey (1960-1975),Benin,Benin,Benin,Benin,BNN
 bermania,bermania,bermania,bermania,bermania,"Bermania, Kingdom of","Bermania, Kingdom of","Bermania, Kingdom of","Bermania, Kingdom of","Bermania, Kingdom of",
 bermuda_triangle,bermuda_triangle,bermuda_triangle,bermuda_triangle,bermuda_triangle,Bermuda Triangle,Bermuda Triangle,Bermuda Triangle,Bermuda Triangle,Bermuda Triangle,
 bhoutan,bhoutan,bhoutan,bhoutan,bhoutan,Bhutan,Bhutan,Bhutan,Bhutan,Bhutan,
@@ -1365,7 +1365,7 @@ mercia,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_k
 northumbria,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,"Northumbria, Kingdom of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of",
 wessex,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,"Wessex, Kingdom of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of",
 kingdom_york,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,"York, Viking Kingdom of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of",
-afrique_occidentale_britannique,afrique_occidentale_britannique,afrique_occidentale_britannique,afrique_occidentale_britannique,afrique_occidentale_britannique,British West Africa,British West Africa,British West Africa,British West Africa,British West Africa,
+afrique_occidentale_britannique,afrique_occidentale_britannique,afrique_occidentale_britannique,afrique_occidentale_britannique,afrique_occidentale_britannique,British West Africa,British West Africa,British West Africa,British West Africa,British West Africa,BWA
 british-west-indies,british-west-indies,british-west-indies,british-west-indies,british-west-indies,British West Indies,British West Indies,British West Indies,British West Indies,British West Indies,
 brunei,brunei,brunei,brunei,brunei,Brunei,Brunei,Brunei,Brunei,Brunei,
 bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,Bulgaria,Bulgaria,Bulgaria,Bulgaria,Bulgaria,BUL
@@ -1403,7 +1403,7 @@ newfoundland,canada-provinces,canada_section,canada_section,canada_section,Newfo
 nova_scotia_province,canada-provinces,canada_section,canada_section,canada_section,Nova Scotia,Canadian provinces,Canada,Canada,Canada,
 pei_province,canada-provinces,canada_section,canada_section,canada_section,Prince Edward Island,Canadian provinces,Canada,Canada,Canada,
 upper_canada_province,canada-provinces,canada_section,canada_section,canada_section,Upper Canada,Canadian provinces,Canada,Canada,Canada,
-cap-vert,cap-vert,cap-vert,cap-vert,cap-vert,Cape Verde,Cape Verde,Cape Verde,Cape Verde,Cape Verde,
+cap-vert,cap-vert,cap-vert,cap-vert,cap-vert,Cape Verde,Cape Verde,Cape Verde,Cape Verde,Cape Verde,CVV
 carolingian_empire_section,carolingian_empire_section,carolingian_empire_section,carolingian_empire_section,carolingian_empire_section,Carolingian Empire,Carolingian Empire,Carolingian Empire,Carolingian Empire,Carolingian Empire,
 carolingian_states,carolingian_empire_section,carolingian_empire_section,carolingian_empire_section,carolingian_empire_section,Carolingian States,Carolingian Empire,Carolingian Empire,Carolingian Empire,Carolingian Empire,
 east_francia,carolingian_empire_section,carolingian_empire_section,carolingian_empire_section,carolingian_empire_section,"East Francia, Kingdom of (843-962)",Carolingian Empire,Carolingian Empire,Carolingian Empire,Carolingian Empire,
@@ -1469,8 +1469,8 @@ trinovantes_celts,celtic-britain,celtic-britain,celtic-britain,celtic-britain,Tr
 republique_centrafricaine,republique_centrafricaine,republique_centrafricaine,republique_centrafricaine,republique_centrafricaine,Central African Republic,Central African Republic,Central African Republic,Central African Republic,Central African Republic,
 ubangi-shari,republique_centrafricaine,republique_centrafricaine,republique_centrafricaine,republique_centrafricaine,Ubangi-Shari,Central African Republic,Central African Republic,Central African Republic,Central African Republic,
 beac,central_african_states_section,central_african_states_section,central_african_states_section,central_african_states_section,Central African States,Central African States,Central African States,Central African States,Central African States,
-central_african_states_section,central_african_states_section,central_african_states_section,central_african_states_section,central_african_states_section,Central African States,Central African States,Central African States,Central African States,Central African States,
-aef,central_african_states_section,central_african_states_section,central_african_states_section,central_african_states_section,French Equatorial Africa,Central African States,Central African States,Central African States,Central African States,
+central_african_states_section,central_african_states_section,central_african_states_section,central_african_states_section,central_african_states_section,Central African States,Central African States,Central African States,Central African States,Central African States,FEA
+aef,central_african_states_section,central_african_states_section,central_african_states_section,central_african_states_section,French Equatorial Africa,Central African States,Central African States,Central African States,Central African States,FEA
 central-american-republic,central-american-republic,central-american-republic,central-american-republic,central-american-republic,Central American Republic,Central American Republic,Central American Republic,Central American Republic,Central American Republic,
 odeca,odeca,odeca,odeca,odeca,Central American States (ODECA),Central American States (ODECA),Central American States (ODECA),Central American States (ODECA),Central American States (ODECA),
 bastarnae_celto_scythians,celtics,celtics,celtics,celtics,Bastarnae Celto-Scythians,Central and Eastern Europe (ancient),Central and Eastern Europe (ancient),Central and Eastern Europe (ancient),Central and Eastern Europe (ancient),
@@ -1994,7 +1994,7 @@ ptolemaic_sicily,ptolemaic_kingdom_section,egypt_ancient_section,egypt_ancient_s
 ptolemaic_barbarous_mint,ptolemaic_kingdom_section,egypt_ancient_section,egypt_ancient_section,egypt_ancient_section,Uncertain barbarous city,Ptolemaic Kingdom (305 BC - 30 BC),Egypt (ancient),Egypt (ancient),Egypt (ancient),
 salvador,salvador,salvador,salvador,salvador,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador,
 elleore,elleore,elleore,elleore,elleore,"Elleore, Kingdom of","Elleore, Kingdom of","Elleore, Kingdom of","Elleore, Kingdom of","Elleore, Kingdom of",
-guinee_equatoriale,guinee_equatoriale,guinee_equatoriale,guinee_equatoriale,guinee_equatoriale,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,
+guinee_equatoriale,guinee_equatoriale,guinee_equatoriale,guinee_equatoriale,guinee_equatoriale,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,EQQ
 eritrea_section,eritrea_section,eritrea_section,eritrea_section,eritrea_section,Eritrea,Eritrea,Eritrea,Eritrea,Eritrea,ERI
 erythree,eritrea_section,eritrea_section,eritrea_section,eritrea_section,Eritrea,Eritrea,Eritrea,Eritrea,Eritrea,ERI
 eritrea_italian,eritrea_section,eritrea_section,eritrea_section,eritrea_section,Italian Eritrea,Eritrea,Eritrea,Eritrea,Eritrea,ERI
@@ -2655,9 +2655,9 @@ franks_kingdom,frankish_kingdoms_section,frankish_kingdoms_section,frankish_king
 frankish_kingdoms_section,frankish_kingdoms_section,frankish_kingdoms_section,frankish_kingdoms_section,frankish_kingdoms_section,Frankish Kingdoms,Frankish Kingdoms,Frankish Kingdoms,Frankish Kingdoms,Frankish Kingdoms,
 paris_bishopric,frankish_kingdoms_section,frankish_kingdoms_section,frankish_kingdoms_section,frankish_kingdoms_section,"Paris, Bishopric of",Frankish Kingdoms,Frankish Kingdoms,Frankish Kingdoms,Frankish Kingdoms,
 indochine,indochine,indochine,indochine,indochine,French Indochina,French Indochina,French Indochina,French Indochina,French Indochina,
-aof,aof,aof,aof,aof,French West Africa,French West Africa,French West Africa,French West Africa,French West Africa,
+aof,aof,aof,aof,aof,French West Africa,French West Africa,French West Africa,French West Africa,French West Africa,FWA
 gabon,gabon,gabon,gabon,gabon,Gabon,Gabon,Gabon,Gabon,Gabon,
-gambie,gambie,gambie,gambie,gambie,"Gambia, The","Gambia, The","Gambia, The","Gambia, The","Gambia, The",
+gambie,gambie,gambie,gambie,gambie,"Gambia, The","Gambia, The","Gambia, The","Gambia, The","Gambia, The",GMM
 essos,game_of_thrones_section,game_of_thrones_section,game_of_thrones_section,game_of_thrones_section,Essos,Game of Thrones,Game of Thrones,Game of Thrones,Game of Thrones,
 game_of_thrones_section,game_of_thrones_section,game_of_thrones_section,game_of_thrones_section,game_of_thrones_section,Game of Thrones,Game of Thrones,Game of Thrones,Game of Thrones,Game of Thrones,
 westeros,game_of_thrones_section,game_of_thrones_section,game_of_thrones_section,game_of_thrones_section,Westeros,Game of Thrones,Game of Thrones,Game of Thrones,Game of Thrones,
@@ -6133,7 +6133,7 @@ guatemala,guatemala_section,guatemala_section,guatemala_section,guatemala_sectio
 guatemala_section,guatemala_section,guatemala_section,guatemala_section,guatemala_section,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,
 los_altos,guatemala_section,guatemala_section,guatemala_section,guatemala_section,Los Altos,Guatemala,Guatemala,Guatemala,Guatemala,
 guinee,guinee,guinee,guinee,guinee,Guinea,Guinea,Guinea,Guinea,Guinea,
-guinee_bissau,guinee_bissau,guinee_bissau,guinee_bissau,guinee_bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,
+guinee_bissau,guinee_bissau,guinee_bissau,guinee_bissau,guinee_bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,GBI
 essequebo-demarary,guyana_section,guyana_section,guyana_section,guyana_section,Demerara and Essequibo,Guyana,Guyana,Guyana,Guyana,
 guyana,guyana_section,guyana_section,guyana_section,guyana_section,Guyana,Guyana,Guyana,Guyana,Guyana,
 guyana_section,guyana_section,guyana_section,guyana_section,guyana_section,Guyana,Guyana,Guyana,Guyana,Guyana,
@@ -7300,7 +7300,7 @@ ariminum,umbria,italy_ancient,italy_ancient,italy_ancient,Ariminum,Umbria,Italy 
 iguvium,umbria,italy_ancient,italy_ancient,italy_ancient,Iguvium,Umbria,Italy (ancient),Italy (ancient),Italy (ancient),
 tuder,umbria,italy_ancient,italy_ancient,italy_ancient,Tuder,Umbria,Italy (ancient),Italy (ancient),Italy (ancient),
 uncertain_umbrian_city,umbria,italy_ancient,italy_ancient,italy_ancient,Umbrian uncertain city,Umbria,Italy (ancient),Italy (ancient),Italy (ancient),
-cote-d-ivoire,cote-d-ivoire,cote-d-ivoire,cote-d-ivoire,cote-d-ivoire,Ivory Coast,Ivory Coast,Ivory Coast,Ivory Coast,Ivory Coast,
+cote-d-ivoire,cote-d-ivoire,cote-d-ivoire,cote-d-ivoire,cote-d-ivoire,Ivory Coast,Ivory Coast,Ivory Coast,Ivory Coast,Ivory Coast,IVC
 jamaique,jamaique,jamaique,jamaique,jamaique,Jamaica,Jamaica,Jamaica,Jamaica,Jamaica,
 japan_section,japan_section,japan_section,japan_section,japan_section,Japan,Japan,Japan,Japan,Japan,JAP
 japon,japan_section,japan_section,japan_section,japan_section,Japan,Japan,Japan,Japan,Japan,JAP
@@ -7354,7 +7354,7 @@ liepaja_notgeld,latvia_notgeld,lettonie_section,lettonie_section,lettonie_sectio
 liban,liban,liban,liban,liban,Lebanon,Lebanon,Lebanon,Lebanon,Lebanon,
 leeward_islands,leeward_islands,leeward_islands,leeward_islands,leeward_islands,Leeward Islands,Leeward Islands,Leeward Islands,Leeward Islands,Leeward Islands,
 lesotho,lesotho,lesotho,lesotho,lesotho,Lesotho,Lesotho,Lesotho,Lesotho,Lesotho,LSS
-liberia,liberia,liberia,liberia,liberia,Liberia,Liberia,Liberia,Liberia,Liberia,
+liberia,liberia,liberia,liberia,liberia,Liberia,Liberia,Liberia,Liberia,Liberia,LBB
 liberland,liberland,liberland,liberland,liberland,Liberland,Liberland,Liberland,Liberland,Liberland,
 fezzan,libya_section,libya_section,libya_section,libya_section,Fezzan,Libya,Libya,Libya,Libya,FEZ
 libya_section,libya_section,libya_section,libya_section,libya_section,Libya,Libya,Libya,Libya,Libya,LYB
@@ -7673,9 +7673,9 @@ beikthano_kingdom,pyu_states,myanmar_ancient,myanmar_ancient,myanmar_ancient,Bei
 halin_city,pyu_states,myanmar_ancient,myanmar_ancient,myanmar_ancient,"Halin, City of",Pyu city-states,Myanmar (ancient),Myanmar (ancient),Myanmar (ancient),
 maingmaw_city,pyu_states,myanmar_ancient,myanmar_ancient,myanmar_ancient,"Maingmaw, City of",Pyu city-states,Myanmar (ancient),Myanmar (ancient),Myanmar (ancient),
 sri_ksetra_kingdom,pyu_states,myanmar_ancient,myanmar_ancient,myanmar_ancient,Sri Ksetra Kingdom,Pyu city-states,Myanmar (ancient),Myanmar (ancient),Myanmar (ancient),
-namibie,namibie,namibie,namibie,namibie,Namibia,Namibia,Namibia,Namibia,Namibia,
-namibia_period,namibie,namibie,namibie,namibie,Namibia (1990-date),Namibia,Namibia,Namibia,Namibia,
-south_west_africa_period,namibie,namibie,namibie,namibie,South West Africa (1884-1990),Namibia,Namibia,Namibia,Namibia,
+namibie,namibie,namibie,namibie,namibie,Namibia,Namibia,Namibia,Namibia,Namibia,NAM
+namibia_period,namibie,namibie,namibie,namibie,Namibia (1990-date),Namibia,Namibia,Namibia,Namibia,NAM
+south_west_africa_period,namibie,namibie,namibie,namibie,South West Africa (1884-1990),Namibia,Namibia,Namibia,Namibia,NAM
 abenaki_tribes,native_american_tribes,native_american_tribes,native_american_tribes,native_american_tribes,Abenaki tribes,Native American tribes,Native American tribes,Native American tribes,Native American tribes,
 soto_nations,native_american_tribes,native_american_tribes,native_american_tribes,native_american_tribes,Anishinabe Nations,Native American tribes,Native American tribes,Native American tribes,Native American tribes,
 apache,native_american_tribes,native_american_tribes,native_american_tribes,native_american_tribes,Apache tribes,Native American tribes,Native American tribes,Native American tribes,Native American tribes,
@@ -8523,7 +8523,7 @@ taurida_governorate,russia,russia,russia,russia,Taurida Governorate,Russia,Russi
 tuva,russia,russia,russia,russia,Tuva,Russia,Russia,Russia,Russia,
 udmurtia,russia,russia,russia,russia,Udmurtia,Russia,Russia,Russia,Russia,
 rwanda,rwanda,rwanda,rwanda,rwanda,Rwanda,Rwanda,Rwanda,Rwanda,Rwanda,
-sao_tome-et-principe,sao_tome-et-principe,sao_tome-et-principe,sao_tome-et-principe,sao_tome-et-principe,São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,
+sao_tome-et-principe,sao_tome-et-principe,sao_tome-et-principe,sao_tome-et-principe,sao_tome-et-principe,São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,STP
 nevis,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,
 st-kitts,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,Saint Kitts,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,
 saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,
@@ -8540,14 +8540,14 @@ free_republic_of_saugeais,free_republic_of_saugeais,free_republic_of_saugeais,fr
 scadrial,scadrial,scadrial,scadrial,scadrial,Scadrial,Scadrial,Scadrial,Scadrial,Scadrial,
 sealand,sealand,sealand,sealand,sealand,Sealand,Sealand,Sealand,Sealand,Sealand,
 seborga,seborga,seborga,seborga,seborga,Seborga,Seborga,Seborga,Seborga,Seborga,
-senegal,senegal_section,senegal_section,senegal_section,senegal_section,Senegal,Senegal,Senegal,Senegal,Senegal,
-senegal_section,senegal_section,senegal_section,senegal_section,senegal_section,Senegal,Senegal,Senegal,Senegal,Senegal,
-senegal_notgeld,senegal_section,senegal_section,senegal_section,senegal_section,Senegal notgeld,Senegal,Senegal,Senegal,Senegal,
-dakar_notgeld,senegal_notgeld,senegal_section,senegal_section,senegal_section,"Dakar, City of",Senegal notgeld,Senegal,Senegal,Senegal,
-kayes_notgeld,senegal_notgeld,senegal_section,senegal_section,senegal_section,"Kayes, City of",Senegal notgeld,Senegal,Senegal,Senegal,
-keur_boubar_notgeld,senegal_notgeld,senegal_section,senegal_section,senegal_section,"Keur Boubar, City of",Senegal notgeld,Senegal,Senegal,Senegal,
-rufisque_notgeld,senegal_notgeld,senegal_section,senegal_section,senegal_section,"Rufisque, City of",Senegal notgeld,Senegal,Senegal,Senegal,
-ziguinchor_notgeld,senegal_notgeld,senegal_section,senegal_section,senegal_section,"Ziguinchor, City of",Senegal notgeld,Senegal,Senegal,Senegal,
+senegal,senegal_section,senegal_section,senegal_section,senegal_section,Senegal,Senegal,Senegal,Senegal,Senegal,SNN
+senegal_section,senegal_section,senegal_section,senegal_section,senegal_section,Senegal,Senegal,Senegal,Senegal,Senegal,SNN
+senegal_notgeld,senegal_section,senegal_section,senegal_section,senegal_section,Senegal notgeld,Senegal,Senegal,Senegal,Senegal,SNN
+dakar_notgeld,senegal_notgeld,senegal_section,senegal_section,senegal_section,"Dakar, City of",Senegal notgeld,Senegal,Senegal,Senegal,dakar_notgeld
+kayes_notgeld,senegal_notgeld,senegal_section,senegal_section,senegal_section,"Kayes, City of",Senegal notgeld,Senegal,Senegal,Senegal,kayes_notgeld
+keur_boubar_notgeld,senegal_notgeld,senegal_section,senegal_section,senegal_section,"Keur Boubar, City of",Senegal notgeld,Senegal,Senegal,Senegal,keur_boubar_notgeld
+rufisque_notgeld,senegal_notgeld,senegal_section,senegal_section,senegal_section,"Rufisque, City of",Senegal notgeld,Senegal,Senegal,Senegal,rufisque_notgeld
+ziguinchor_notgeld,senegal_notgeld,senegal_section,senegal_section,senegal_section,"Ziguinchor, City of",Senegal notgeld,Senegal,Senegal,Senegal,ziguinchor_notgeld
 serbia_section,serbia_section,serbia_section,serbia_section,serbia_section,Serbia,Serbia,Serbia,Serbia,Serbia,SER
 serbie,serbia_section,serbia_section,serbia_section,serbia_section,Serbia,Serbia,Serbia,Serbia,Serbia,SER
 serbia_medieval_section,serbia_section,serbia_section,serbia_section,serbia_section,Serbia (medieval),Serbia,Serbia,Serbia,Serbia,SER
@@ -8557,7 +8557,7 @@ dejanovic_domain,serbia_medieval_section,serbia_section,serbia_section,serbia_se
 serbia_kingdom,serbia_medieval_section,serbia_section,serbia_section,serbia_section,Serbia (medieval),Serbia (medieval),Serbia,Serbia,Serbia,
 aldabra,seychelles,seychelles,seychelles,seychelles,Aldabra,Seychelles,Seychelles,Seychelles,Seychelles,
 seychelles,seychelles,seychelles,seychelles,seychelles,Seychelles,Seychelles,Seychelles,Seychelles,Seychelles,
-sierra_leone,sierra_leone,sierra_leone,sierra_leone,sierra_leone,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,
+sierra_leone,sierra_leone,sierra_leone,sierra_leone,sierra_leone,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,SLL
 singapour,singapour,singapour,singapour,singapour,Singapore,Singapore,Singapore,Singapore,Singapore,
 slovaquie,slovaquie,slovaquie,slovaquie,slovaquie,Slovakia,Slovakia,Slovakia,Slovakia,Slovakia,SLO
 slovenie,slovenie,slovenie,slovenie,slovenie,Slovenia,Slovenia,Slovenia,Slovenia,Slovenia,SLV
