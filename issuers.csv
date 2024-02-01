@@ -1886,8 +1886,8 @@ lordship_of_sidon,jerusalem_kingdom_section,orient-latin,orient-latin,orient-lat
 lordship_of_tyre,jerusalem_kingdom_section,orient-latin,orient-latin,orient-latin,"Tyre, Lordship of","Jerusalem, Kingdom of",Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,
 duchy_of_archipelago,venetian_colonies,orient-latin,orient-latin,orient-latin,"Archipelago, Duchy of the",Venetian colonies,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,
 lordship_of_tinos_and_mykonos,venetian_colonies,orient-latin,orient-latin,orient-latin,"Tinos and Mykonos, Lordship of",Venetian colonies,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,Crusader and Christian states in the Eastern Mediterranean,
-cuba,cuba,cuba,cuba,cuba,Cuba,Cuba,Cuba,Cuba,Cuba,
-isla_de_la_juventud,cuba,cuba,cuba,cuba,Isla de la Juventud,Cuba,Cuba,Cuba,Cuba,
+cuba,cuba,cuba,cuba,cuba,Cuba,Cuba,Cuba,Cuba,Cuba,CUB
+isla_de_la_juventud,cuba,cuba,cuba,cuba,Isla de la Juventud,Cuba,Cuba,Cuba,Cuba,CUB
 chypre,chypre_section,chypre_section,chypre_section,chypre_section,Cyprus,Cyprus,Cyprus,Cyprus,Cyprus,CYP
 chypre_section,chypre_section,chypre_section,chypre_section,chypre_section,Cyprus,Cyprus,Cyprus,Cyprus,Cyprus,CYP
 famagouste_city,chypre_section,chypre_section,chypre_section,chypre_section,"Famagusta, City of",Cyprus,Cyprus,Cyprus,Cyprus,
@@ -7339,7 +7339,7 @@ koweit,koweit,koweit,koweit,koweit,Kuwait,Kuwait,Kuwait,Kuwait,Kuwait,KUW
 kievan_rus,kievan_rus_section,kievan_rus_section,kievan_rus_section,kievan_rus_section,Kyivan Rus,Kyivan Rus,Kyivan Rus,Kyivan Rus,Kyivan Rus,
 kievan_rus_section,kievan_rus_section,kievan_rus_section,kievan_rus_section,kievan_rus_section,Kyivan Rus,Kyivan Rus,Kyivan Rus,Kyivan Rus,Kyivan Rus,
 tmutarakan_principality,kievan_rus_section,kievan_rus_section,kievan_rus_section,kievan_rus_section,"Tmutarakan, Principality of",Kyivan Rus,Kyivan Rus,Kyivan Rus,Kyivan Rus,
-kirghizistan,kirghizistan,kirghizistan,kirghizistan,kirghizistan,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,
+kirghizistan,kirghizistan,kirghizistan,kirghizistan,kirghizistan,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,KYR
 champasak,laos_section,laos_section,laos_section,laos_section,"Champasak, Kingdom of",Laos,Laos,Laos,Laos,LAO
 lan_xang,laos_section,laos_section,laos_section,laos_section,"Lan Xang, Kingdom of",Laos,Laos,Laos,Laos,LAO
 laos,laos_section,laos_section,laos_section,laos_section,Laos,Laos,Laos,Laos,Laos,LAO
@@ -7439,7 +7439,7 @@ mayas,mayas,mayas,mayas,mayas,Mayas,Mayas,Mayas,Mayas,Mayas,
 characene_kingdom,mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,"Characene, Kingdom of",Mesopotamia,Mesopotamia,Mesopotamia,Mesopotamia,
 mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,Mesopotamia,Mesopotamia,Mesopotamia,Mesopotamia,Mesopotamia,
 omani_people,mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,Omani people,Mesopotamia,Mesopotamia,Mesopotamia,Mesopotamia,
-baja_california_mexican_state,baja_california_mexican_state_section,mexique_revolution,mexico,mexico,"Baja California, State of","Baja California, State of",Mexican States,Mexico,Mexico,
+baja_california_mexican_state,baja_california_mexican_state_section,mexique_revolution,mexico,mexico,"Baja California, State of","Baja California, State of",Mexican States,Mexico,Mexico,MEX
 la_paz_notgeld,baja_california_mexican_state_section,mexique_revolution,mexico,mexico,"La Paz, Municipality of","Baja California, State of",Mexican States,Mexico,Mexico,
 chihuahua_revolution,chihuahua_mexican_state_section,mexique_revolution,mexico,mexico,"Chihuahua, State of","Chihuahua, State of",Mexican States,Mexico,Mexico,
 hidalgo_del_parral_notgeld,chihuahua_mexican_state_section,mexique_revolution,mexico,mexico,"Hidalgo del Parral, Municipality of","Chihuahua, State of",Mexican States,Mexico,Mexico,
@@ -10209,12 +10209,12 @@ alcatraz_repubblica,united-states,united-states,united-states,united-states,"Alc
 samoa-americaine,united-states,united-states,united-states,united-states,American Samoa,United States,United States,United States,United States,
 british_west_florida,united-states,united-states,united-states,united-states,"British West Florida, Dominion of",United States,United States,United States,United States,
 cape_cod,united-states,united-states,united-states,united-states,Cape Cod,United States,United States,United States,United States,
-confederate_states,united-states,united-states,united-states,united-states,Confederate States,United States,United States,United States,United States,
+confederate_states,united-states,united-states,united-states,united-states,Confederate States,United States,United States,United States,United States,CSA
 gardiners_island,united-states,united-states,united-states,united-states,Gardiners Island,United States,United States,United States,United States,
 hawaii,united-states,united-states,united-states,united-states,Hawaii,United States,United States,United States,United States,HAW
 northern_mariana_islands,united-states,united-states,united-states,united-states,Northern Mariana Islands,United States,United States,United States,United States,
 puerto_rico_section,united-states,united-states,united-states,united-states,Puerto Rico,United States,United States,United States,United States,
-texas-republic,united-states,united-states,united-states,united-states,Texas,United States,United States,United States,United States,
+texas-republic,united-states,united-states,united-states,united-states,Texas,United States,United States,United States,United States,TEX
 united-states,united-states,united-states,united-states,united-states,United States,United States,United States,United States,United States,USA
 etats-unis,united-states,united-states,united-states,united-states,United States,United States,United States,United States,United States,USA
 united-states-pre-federal,united-states,united-states,united-states,united-states,United States (pre-federal and private/territorial),United States,United States,United States,United States,USA
