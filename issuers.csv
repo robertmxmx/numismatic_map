@@ -1471,8 +1471,8 @@ ubangi-shari,republique_centrafricaine,republique_centrafricaine,republique_cent
 beac,central_african_states_section,central_african_states_section,central_african_states_section,central_african_states_section,Central African States,Central African States,Central African States,Central African States,Central African States,FEA
 central_african_states_section,central_african_states_section,central_african_states_section,central_african_states_section,central_african_states_section,Central African States,Central African States,Central African States,Central African States,Central African States,FEA
 aef,central_african_states_section,central_african_states_section,central_african_states_section,central_african_states_section,French Equatorial Africa,Central African States,Central African States,Central African States,Central African States,FEA
-central-american-republic,central-american-republic,central-american-republic,central-american-republic,central-american-republic,Central American Republic,Central American Republic,Central American Republic,Central American Republic,Central American Republic,
-odeca,odeca,odeca,odeca,odeca,Central American States (ODECA),Central American States (ODECA),Central American States (ODECA),Central American States (ODECA),Central American States (ODECA),
+central-american-republic,central-american-republic,central-american-republic,central-american-republic,central-american-republic,GUU;,Central American Republic,Central American Republic,Central American Republic,Central American Republic,UCA
+odeca,odeca,odeca,odeca,odeca,Central American States (ODECA),Central American States (ODECA),Central American States (ODECA),Central American States (ODECA),Central American States (ODECA),UCA
 bastarnae_celto_scythians,celtics,celtics,celtics,celtics,Bastarnae Celto-Scythians,Central and Eastern Europe (ancient),Central and Eastern Europe (ancient),Central and Eastern Europe (ancient),Central and Eastern Europe (ancient),
 celtics,celtics,celtics,celtics,celtics,Central and Eastern Europe (ancient),Central and Eastern Europe (ancient),Central and Eastern Europe (ancient),Central and Eastern Europe (ancient),Central and Eastern Europe (ancient),
 danube-celtics,celtics,celtics,celtics,celtics,Central and Eastern European Celts,Central and Eastern Europe (ancient),Central and Eastern Europe (ancient),Central and Eastern Europe (ancient),Central and Eastern Europe (ancient),
@@ -6129,9 +6129,9 @@ uncertain_troas,troas_section,grece_antique,grece_antique,grece_antique,Uncertai
 zeleia,troas_section,grece_antique,grece_antique,grece_antique,Zeleia,Troas,Greece (ancient),Greece (ancient),Greece (ancient),
 greifenberg,greifenberg,greifenberg,greifenberg,greifenberg,"Greifenberg, Grand Duchy of","Greifenberg, Grand Duchy of","Greifenberg, Grand Duchy of","Greifenberg, Grand Duchy of","Greifenberg, Grand Duchy of",
 grenada,grenada,grenada,grenada,grenada,Grenada,Grenada,Grenada,Grenada,Grenada,
-guatemala,guatemala_section,guatemala_section,guatemala_section,guatemala_section,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,
-guatemala_section,guatemala_section,guatemala_section,guatemala_section,guatemala_section,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,
-los_altos,guatemala_section,guatemala_section,guatemala_section,guatemala_section,Los Altos,Guatemala,Guatemala,Guatemala,Guatemala,
+guatemala,guatemala_section,guatemala_section,guatemala_section,guatemala_section,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,GUU
+guatemala_section,guatemala_section,guatemala_section,guatemala_section,guatemala_section,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,GUU
+los_altos,guatemala_section,guatemala_section,guatemala_section,guatemala_section,Los Altos,Guatemala,Guatemala,Guatemala,Guatemala,GUU
 guinee,guinee,guinee,guinee,guinee,Guinea,Guinea,Guinea,Guinea,Guinea,GUI
 guinee_bissau,guinee_bissau,guinee_bissau,guinee_bissau,guinee_bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,GBI
 essequebo-demarary,guyana_section,guyana_section,guyana_section,guyana_section,Demerara and Essequibo,Guyana,Guyana,Guyana,Guyana,
@@ -7439,122 +7439,122 @@ mayas,mayas,mayas,mayas,mayas,Mayas,Mayas,Mayas,Mayas,Mayas,
 characene_kingdom,mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,"Characene, Kingdom of",Mesopotamia,Mesopotamia,Mesopotamia,Mesopotamia,
 mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,Mesopotamia,Mesopotamia,Mesopotamia,Mesopotamia,Mesopotamia,
 omani_people,mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,mesopotamia-ancient,Omani people,Mesopotamia,Mesopotamia,Mesopotamia,Mesopotamia,
-baja_california_mexican_state,baja_california_mexican_state_section,mexique_revolution,mexico,mexico,"Baja California, State of","Baja California, State of",Mexican States,Mexico,Mexico,MEX
-la_paz_notgeld,baja_california_mexican_state_section,mexique_revolution,mexico,mexico,"La Paz, Municipality of","Baja California, State of",Mexican States,Mexico,Mexico,
-chihuahua_revolution,chihuahua_mexican_state_section,mexique_revolution,mexico,mexico,"Chihuahua, State of","Chihuahua, State of",Mexican States,Mexico,Mexico,
-hidalgo_del_parral_notgeld,chihuahua_mexican_state_section,mexique_revolution,mexico,mexico,"Hidalgo del Parral, Municipality of","Chihuahua, State of",Mexican States,Mexico,Mexico,
-jimenez_notgeld,chihuahua_mexican_state_section,mexique_revolution,mexico,mexico,"Jiménez, Municipality of","Chihuahua, State of",Mexican States,Mexico,Mexico,
-santa_eulalia_notgeld,chihuahua_mexican_state_section,mexique_revolution,mexico,mexico,"Santa Eulalia, Municipality of","Chihuahua, State of",Mexican States,Mexico,Mexico,
-coahuila_mexican_state,coahuila_mexican_state_section,mexique_revolution,mexico,mexico,"Coahuila, State of","Coahuila, State of",Mexican States,Mexico,Mexico,
-monclova_notgeld,coahuila_mexican_state_section,mexique_revolution,mexico,mexico,"Monclova, Municipality of","Coahuila, State of",Mexican States,Mexico,Mexico,
-muzquiz_notgeld,coahuila_mexican_state_section,mexique_revolution,mexico,mexico,"Muzquiz, Municipality of","Coahuila, State of",Mexican States,Mexico,Mexico,
-parras_notgeld,coahuila_mexican_state_section,mexique_revolution,mexico,mexico,"Parras, Municipality of","Coahuila, State of",Mexican States,Mexico,Mexico,
-saltillo_notgeld,coahuila_mexican_state_section,mexique_revolution,mexico,mexico,"Saltillo, Municipality of","Coahuila, State of",Mexican States,Mexico,Mexico,
-san_pedro_notgeld,coahuila_mexican_state_section,mexique_revolution,mexico,mexico,"San Pedro, Municipality of","Coahuila, State of",Mexican States,Mexico,Mexico,
-torreon_notgeld,coahuila_mexican_state_section,mexique_revolution,mexico,mexico,"Torreón, Municipality of","Coahuila, State of",Mexican States,Mexico,Mexico,
-durango_revolution,durango_mexican_state_section,mexique_revolution,mexico,mexico,"Durango, State of","Durango, State of",Mexican States,Mexico,Mexico,
-guanacevi_notgeld,durango_mexican_state_section,mexique_revolution,mexico,mexico,"Guanaceví, Municipality of","Durango, State of",Mexican States,Mexico,Mexico,
-san_jose_de_la_boca_notgeld,durango_mexican_state_section,mexique_revolution,mexico,mexico,"San José de la Boca, Municipality of","Durango, State of",Mexican States,Mexico,Mexico,
-topia_notgeld,durango_mexican_state_section,mexique_revolution,mexico,mexico,"Topia, Municipality of","Durango, State of",Mexican States,Mexico,Mexico,
-celaya_notgeld,guanajuato_mexican_state_section,mexique_revolution,mexico,mexico,"Celaya, Municipality of","Guanajuato, State of",Mexican States,Mexico,Mexico,
-guanajuato_mexican_state,guanajuato_mexican_state_section,mexique_revolution,mexico,mexico,"Guanajuato, State of","Guanajuato, State of",Mexican States,Mexico,Mexico,
-chilpancingo_notgeld,guerrero_mexican_state_section,mexique_revolution,mexico,mexico,"Chilpancingo, Municipality of","Guerrero, State of",Mexican States,Mexico,Mexico,
-guerrero_revolution,guerrero_mexican_state_section,mexique_revolution,mexico,mexico,"Guerrero, State of","Guerrero, State of",Mexican States,Mexico,Mexico,
-iguala_notgeld,guerrero_mexican_state_section,mexique_revolution,mexico,mexico,"Iguala, Municipality of","Guerrero, State of",Mexican States,Mexico,Mexico,
-ameca_notgeld,jalisco_mexican_state_section,mexique_revolution,mexico,mexico,"Ameca, Municipality of","Jalisco, State of",Mexican States,Mexico,Mexico,
-atotonilco_el_alto_notgeld,jalisco_mexican_state_section,mexique_revolution,mexico,mexico,"Atotonilco El Alto, Municipality of","Jalisco, State of",Mexican States,Mexico,Mexico,
-guadalajara_notgeld,jalisco_mexican_state_section,mexique_revolution,mexico,mexico,"Guadalajara, Municipality of (Mexico)","Jalisco, State of",Mexican States,Mexico,Mexico,
-jalisco_revolution,jalisco_mexican_state_section,mexique_revolution,mexico,mexico,"Jalisco, State of","Jalisco, State of",Mexican States,Mexico,Mexico,
-lagos_de_moreno_notgeld,jalisco_mexican_state_section,mexique_revolution,mexico,mexico,"Lagos de Moreno, Municipality of","Jalisco, State of",Mexican States,Mexico,Mexico,
-quitupan_notgeld,jalisco_mexican_state_section,mexique_revolution,mexico,mexico,"Quitupan, Municipality of","Jalisco, State of",Mexican States,Mexico,Mexico,
-xalostotitlan_notgeld,jalisco_mexican_state_section,mexique_revolution,mexico,mexico,"Xalostotitlán, Municipality of","Jalisco, State of",Mexican States,Mexico,Mexico,
-zapotlan_el_grande_notgeld,jalisco_mexican_state_section,mexique_revolution,mexico,mexico,"Zapotlán el Grande, Municipality of","Jalisco, State of",Mexican States,Mexico,Mexico,
-guaymas_notgeld,mexico_mexican_state_section,mexique_revolution,mexico,mexico,"Guaymas, Municipality of","Mexico, State of",Mexican States,Mexico,Mexico,
-estado_mexico_revolution,mexico_mexican_state_section,mexique_revolution,mexico,mexico,"Mexico, State of","Mexico, State of",Mexican States,Mexico,Mexico,
-toluca_notgeld,mexico_mexican_state_section,mexique_revolution,mexico,mexico,"Toluca, Municipality of","Mexico, State of",Mexican States,Mexico,Mexico,
-chilchota_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Chilchota, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,
-cotija_de_la_paz_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Cotija de la Paz, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,
-michoacan_mexican_state,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Michoacán, State of","Michoacán, State of",Mexican States,Mexico,Mexico,
-morelia_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Morelia, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,
-patzcuaro_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Pátzcuaro, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,
-puruandiro_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Puruandiro, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,
-tacambaro_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Tacámbaro, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,
-taretan_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Taretan, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,
-tlazasalca_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Tlazasalca, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,
-uruapan_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Uruapán, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,
-valladolid_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Valladolid, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,
-zamora_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Zamora, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,
-cuernavaca_notgeld,morelos_mexican_state_section,mexique_revolution,mexico,mexico,"Cuernavaca, Municipality of","Morelos, State of",Mexican States,Mexico,Mexico,
-morelos_revolution,morelos_mexican_state_section,mexique_revolution,mexico,mexico,"Morelos, State of","Morelos, State of",Mexican States,Mexico,Mexico,
-yautepec_notgeld,morelos_mexican_state_section,mexique_revolution,mexico,mexico,"Yautepec, Municipality of","Morelos, State of",Mexican States,Mexico,Mexico,
-monterrey_notgeld,nuevo_leon_mexican_state_section,mexique_revolution,mexico,mexico,"Monterrey, Municipality of","Nuevo León, State of",Mexican States,Mexico,Mexico,
-nuevo_leon_mexican_state,nuevo_leon_mexican_state_section,mexique_revolution,mexico,mexico,"Nuevo León, State of","Nuevo León, State of",Mexican States,Mexico,Mexico,
-huajuapan_notgeld,oaxaca_mexican_state_section,mexique_revolution,mexico,mexico,"Huajuapán, Municipality of","Oaxaca, State of",Mexican States,Mexico,Mexico,
-nochixtlan_notgeld,oaxaca_mexican_state_section,mexique_revolution,mexico,mexico,"Nochixtlán, Municipality of","Oaxaca, State of",Mexican States,Mexico,Mexico,
-oaxaca_de_juarez_notgeld,oaxaca_mexican_state_section,mexique_revolution,mexico,mexico,"Oaxaca de Juárez, Municipality of","Oaxaca, State of",Mexican States,Mexico,Mexico,
-oaxaca_revolution,oaxaca_mexican_state_section,mexique_revolution,mexico,mexico,"Oaxaca, State of","Oaxaca, State of",Mexican States,Mexico,Mexico,
-tamazola_notgeld,oaxaca_mexican_state_section,mexique_revolution,mexico,mexico,"Tamazola, Municipality of","Oaxaca, State of",Mexican States,Mexico,Mexico,
-tliaxiaco_notgeld,oaxaca_mexican_state_section,mexique_revolution,mexico,mexico,"Tliaxiaco, Municipality of","Oaxaca, State of",Mexican States,Mexico,Mexico,
-chalchicomula_notgeld,puebla_mexican_state_section,mexique_revolution,mexico,mexico,"Chalchicomula, Municipality of","Puebla, State of",Mexican States,Mexico,Mexico,
-matamoros_notgeld,puebla_mexican_state_section,mexique_revolution,mexico,mexico,"Matamoros, District of","Puebla, State of",Mexican States,Mexico,Mexico,
-puebla_revolution,puebla_mexican_state_section,mexique_revolution,mexico,mexico,"Puebla, State of","Puebla, State of",Mexican States,Mexico,Mexico,
-catorce_notgeld,san_luis_potosi_mexican_state_section,mexique_revolution,mexico,mexico,"Catorce, Municipality of","San Luis Potosí, State of",Mexican States,Mexico,Mexico,
-san_luis_potosi_mexican_state,san_luis_potosi_mexican_state_section,mexique_revolution,mexico,mexico,"San Luis Potosí, State of","San Luis Potosí, State of",Mexican States,Mexico,Mexico,
-culiacan_notgeld,sinaloa_mexican_state_section,mexique_revolution,mexico,mexico,"Culiacán, Municipality of","Sinaloa, State of",Mexican States,Mexico,Mexico,
-mazatlan_notgeld,sinaloa_mexican_state_section,mexique_revolution,mexico,mexico,"Mazatlán, Municipality of","Sinaloa, State of",Mexican States,Mexico,Mexico,
-rosario_notgeld,sinaloa_mexican_state_section,mexique_revolution,mexico,mexico,"Rosario, Municipality of","Sinaloa, State of",Mexican States,Mexico,Mexico,
-san_blas_notgeld,sinaloa_mexican_state_section,mexique_revolution,mexico,mexico,"San Blas, Municipality of","Sinaloa, State of",Mexican States,Mexico,Mexico,
-sinaloa_revolution,sinaloa_mexican_state_section,mexique_revolution,mexico,mexico,"Sinaloa, State of","Sinaloa, State of",Mexican States,Mexico,Mexico,
-guaymas_sonora_notgeld,sonora_mexican_state_section,mexique_revolution,mexico,mexico,"Guaymas, Municipality of","Sonora, State of",Mexican States,Mexico,Mexico,
-hermosillo_notgeld,sonora_mexican_state_section,mexique_revolution,mexico,mexico,"Hermosillo, Municipality of","Sonora, State of",Mexican States,Mexico,Mexico,
-sonora,sonora_mexican_state_section,mexique_revolution,mexico,mexico,"Sonora, State of","Sonora, State of",Mexican States,Mexico,Mexico,
-tabasco_mexican_state,tabasco_mexican_state_section,mexique_revolution,mexico,mexico,"Tabasco, State of","Tabasco, State of",Mexican States,Mexico,Mexico,
-villahermosa_de_san_juan_bautista_notgeld,tabasco_mexican_state_section,mexique_revolution,mexico,mexico,"Villahermosa de San Juan Bautista, Municipality of","Tabasco, State of",Mexican States,Mexico,Mexico,
-tamaulipas_mexican_state,tamaulipas_mexican_state_section,mexique_revolution,mexico,mexico,"Tamaulipas, State of","Tamaulipas, State of",Mexican States,Mexico,Mexico,
-tampico_notgeld,tamaulipas_mexican_state_section,mexique_revolution,mexico,mexico,"Tampico, Municipality of","Tamaulipas, State of",Mexican States,Mexico,Mexico,
-san_fernando_de_bexar_notgeld,texas_province_notgeld,mexique_revolution,mexico,mexico,"San Fernando de Bexar, Municipality of","Texas, Province of",Mexican States,Mexico,Mexico,
-tlaxcala_notgeld,tlaxcala_mexican_state_section,mexique_revolution,mexico,mexico,"Tlaxcala, Municipality of","Tlaxcala, State of",Mexican States,Mexico,Mexico,
-tlaxcala_mexican_state,tlaxcala_mexican_state_section,mexique_revolution,mexico,mexico,"Tlaxcala, State of","Tlaxcala, State of",Mexican States,Mexico,Mexico,
-merida_notgeld,yucatan_mexican_state_section,mexique_revolution,mexico,mexico,"Mérida, Municipality of","Yucatan, State of",Mexican States,Mexico,Mexico,
-progreso_notgeld,yucatan_mexican_state_section,mexique_revolution,mexico,mexico,"Progreso, Municipality of","Yucatan, State of",Mexican States,Mexico,Mexico,
-yucatan_mexican_state,yucatan_mexican_state_section,mexique_revolution,mexico,mexico,"Yucatan, State of","Yucatan, State of",Mexican States,Mexico,Mexico,
-jerez_notgeld,zacatecas_mexican_state_section,mexique_revolution,mexico,mexico,"Jérez, Municipality of","Zacatecas, State of",Mexican States,Mexico,Mexico,
-sombrerete_notgeld,zacatecas_mexican_state_section,mexique_revolution,mexico,mexico,"Sombrerete, Municipality of","Zacatecas, State of",Mexican States,Mexico,Mexico,
-zacatecas_mexican_state,zacatecas_mexican_state_section,mexique_revolution,mexico,mexico,"Zacatecas, State of","Zacatecas, State of",Mexican States,Mexico,Mexico,
-aguascalientes_revolution,mexique_revolution,mexico,mexico,mexico,"Aguascalientes, State of",Mexican States,Mexico,Mexico,Mexico,
-baja_california_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Baja California, State of",Mexican States,Mexico,Mexico,Mexico,
-campeche_mexican_state,mexique_revolution,mexico,mexico,mexico,"Campeche, State of",Mexican States,Mexico,Mexico,Mexico,
-chiapas_mexican_state,mexique_revolution,mexico,mexico,mexico,"Chiapas, State of",Mexican States,Mexico,Mexico,Mexico,
-chihuahua_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Chihuahua, State of",Mexican States,Mexico,Mexico,Mexico,
-coahuila_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Coahuila, State of",Mexican States,Mexico,Mexico,Mexico,
-colima_mexican_state,mexique_revolution,mexico,mexico,mexico,"Colima, State of",Mexican States,Mexico,Mexico,Mexico,
-durango_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Durango, State of",Mexican States,Mexico,Mexico,Mexico,
-guanajuato_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Guanajuato, State of",Mexican States,Mexico,Mexico,Mexico,
-guerrero_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Guerrero, State of",Mexican States,Mexico,Mexico,Mexico,
-hidalgo_mexican_state,mexique_revolution,mexico,mexico,mexico,"Hidalgo, State of",Mexican States,Mexico,Mexico,Mexico,
-jalisco_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Jalisco, State of",Mexican States,Mexico,Mexico,Mexico,
-mexico_federal_district_notgeld,mexique_revolution,mexico,mexico,mexico,"Mexico, Federal District of",Mexican States,Mexico,Mexico,Mexico,
-mexico_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Mexico, State of",Mexican States,Mexico,Mexico,Mexico,
-michoacan_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Michoacán, State of",Mexican States,Mexico,Mexico,Mexico,
-morelos_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Morelos, State of",Mexican States,Mexico,Mexico,Mexico,
-nuevo_leon_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Nuevo León, State of",Mexican States,Mexico,Mexico,Mexico,
-oaxaca_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Oaxaca, State of",Mexican States,Mexico,Mexico,Mexico,
-puebla_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Puebla, State of",Mexican States,Mexico,Mexico,Mexico,
-querataro_mexican_state,mexique_revolution,mexico,mexico,mexico,"Querátaro, State of",Mexican States,Mexico,Mexico,Mexico,
-san_luis_potosi_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"San Luis Potosí, State of",Mexican States,Mexico,Mexico,Mexico,
-sinaloa_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Sinaloa, State of",Mexican States,Mexico,Mexico,Mexico,
-sonora_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Sonora, State of",Mexican States,Mexico,Mexico,Mexico,
-tabasco_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Tabasco, State of",Mexican States,Mexico,Mexico,Mexico,
-tamaulipas_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Tamaulipas, State of",Mexican States,Mexico,Mexico,Mexico,
-tepic_notgeld,mexique_revolution,mexico,mexico,mexico,"Tepic, Territory of",Mexican States,Mexico,Mexico,Mexico,
-texas_province_notgeld,mexique_revolution,mexico,mexico,mexico,"Texas, Province of",Mexican States,Mexico,Mexico,Mexico,
-tlaxcala_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Tlaxcala, State of",Mexican States,Mexico,Mexico,Mexico,
-veracruz_ignacio_llave_mexican_state,mexique_revolution,mexico,mexico,mexico,"Veracruz, State of",Mexican States,Mexico,Mexico,Mexico,
-yucatan_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Yucatan, State of",Mexican States,Mexico,Mexico,Mexico,
-zacatecas_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Zacatecas, State of",Mexican States,Mexico,Mexico,Mexico,
-mexique_revolution,mexico,mexico,mexico,mexico,Mexican States,Mexico,Mexico,Mexico,Mexico,
-mexico,mexico,mexico,mexico,mexico,Mexico,Mexico,Mexico,Mexico,Mexico,
-mexique,mexico,mexico,mexico,mexico,Mexico,Mexico,Mexico,Mexico,Mexico,
+baja_california_mexican_state,baja_california_mexican_state_section,mexique_revolution,mexico,mexico,"Baja California, State of","Baja California, State of",Mexican States,Mexico,Mexico,baja_california_mexican_state_section
+la_paz_notgeld,baja_california_mexican_state_section,mexique_revolution,mexico,mexico,"La Paz, Municipality of","Baja California, State of",Mexican States,Mexico,Mexico,baja_california_mexican_state_section
+chihuahua_revolution,chihuahua_mexican_state_section,mexique_revolution,mexico,mexico,"Chihuahua, State of","Chihuahua, State of",Mexican States,Mexico,Mexico,chihuahua_mexican_state_section
+hidalgo_del_parral_notgeld,chihuahua_mexican_state_section,mexique_revolution,mexico,mexico,"Hidalgo del Parral, Municipality of","Chihuahua, State of",Mexican States,Mexico,Mexico,chihuahua_mexican_state_section
+jimenez_notgeld,chihuahua_mexican_state_section,mexique_revolution,mexico,mexico,"Jiménez, Municipality of","Chihuahua, State of",Mexican States,Mexico,Mexico,chihuahua_mexican_state_section
+santa_eulalia_notgeld,chihuahua_mexican_state_section,mexique_revolution,mexico,mexico,"Santa Eulalia, Municipality of","Chihuahua, State of",Mexican States,Mexico,Mexico,chihuahua_mexican_state_section
+coahuila_mexican_state,coahuila_mexican_state_section,mexique_revolution,mexico,mexico,"Coahuila, State of","Coahuila, State of",Mexican States,Mexico,Mexico,coahuila_mexican_state_section
+monclova_notgeld,coahuila_mexican_state_section,mexique_revolution,mexico,mexico,"Monclova, Municipality of","Coahuila, State of",Mexican States,Mexico,Mexico,coahuila_mexican_state_section
+muzquiz_notgeld,coahuila_mexican_state_section,mexique_revolution,mexico,mexico,"Muzquiz, Municipality of","Coahuila, State of",Mexican States,Mexico,Mexico,coahuila_mexican_state_section
+parras_notgeld,coahuila_mexican_state_section,mexique_revolution,mexico,mexico,"Parras, Municipality of","Coahuila, State of",Mexican States,Mexico,Mexico,coahuila_mexican_state_section
+saltillo_notgeld,coahuila_mexican_state_section,mexique_revolution,mexico,mexico,"Saltillo, Municipality of","Coahuila, State of",Mexican States,Mexico,Mexico,coahuila_mexican_state_section
+san_pedro_notgeld,coahuila_mexican_state_section,mexique_revolution,mexico,mexico,"San Pedro, Municipality of","Coahuila, State of",Mexican States,Mexico,Mexico,coahuila_mexican_state_section
+torreon_notgeld,coahuila_mexican_state_section,mexique_revolution,mexico,mexico,"Torreón, Municipality of","Coahuila, State of",Mexican States,Mexico,Mexico,coahuila_mexican_state_section
+durango_revolution,durango_mexican_state_section,mexique_revolution,mexico,mexico,"Durango, State of","Durango, State of",Mexican States,Mexico,Mexico,durango_mexican_state_section
+guanacevi_notgeld,durango_mexican_state_section,mexique_revolution,mexico,mexico,"Guanaceví, Municipality of","Durango, State of",Mexican States,Mexico,Mexico,durango_mexican_state_section
+san_jose_de_la_boca_notgeld,durango_mexican_state_section,mexique_revolution,mexico,mexico,"San José de la Boca, Municipality of","Durango, State of",Mexican States,Mexico,Mexico,durango_mexican_state_section
+topia_notgeld,durango_mexican_state_section,mexique_revolution,mexico,mexico,"Topia, Municipality of","Durango, State of",Mexican States,Mexico,Mexico,durango_mexican_state_section
+celaya_notgeld,guanajuato_mexican_state_section,mexique_revolution,mexico,mexico,"Celaya, Municipality of","Guanajuato, State of",Mexican States,Mexico,Mexico,guanajuato_mexican_state_section
+guanajuato_mexican_state,guanajuato_mexican_state_section,mexique_revolution,mexico,mexico,"Guanajuato, State of","Guanajuato, State of",Mexican States,Mexico,Mexico,guanajuato_mexican_state_section
+chilpancingo_notgeld,guerrero_mexican_state_section,mexique_revolution,mexico,mexico,"Chilpancingo, Municipality of","Guerrero, State of",Mexican States,Mexico,Mexico,guerrero_mexican_state_section
+guerrero_revolution,guerrero_mexican_state_section,mexique_revolution,mexico,mexico,"Guerrero, State of","Guerrero, State of",Mexican States,Mexico,Mexico,guerrero_mexican_state_section
+iguala_notgeld,guerrero_mexican_state_section,mexique_revolution,mexico,mexico,"Iguala, Municipality of","Guerrero, State of",Mexican States,Mexico,Mexico,guerrero_mexican_state_section
+ameca_notgeld,jalisco_mexican_state_section,mexique_revolution,mexico,mexico,"Ameca, Municipality of","Jalisco, State of",Mexican States,Mexico,Mexico,jalisco_mexican_state_section
+atotonilco_el_alto_notgeld,jalisco_mexican_state_section,mexique_revolution,mexico,mexico,"Atotonilco El Alto, Municipality of","Jalisco, State of",Mexican States,Mexico,Mexico,jalisco_mexican_state_section
+guadalajara_notgeld,jalisco_mexican_state_section,mexique_revolution,mexico,mexico,"Guadalajara, Municipality of (Mexico)","Jalisco, State of",Mexican States,Mexico,Mexico,jalisco_mexican_state_section
+jalisco_revolution,jalisco_mexican_state_section,mexique_revolution,mexico,mexico,"Jalisco, State of","Jalisco, State of",Mexican States,Mexico,Mexico,jalisco_mexican_state_section
+lagos_de_moreno_notgeld,jalisco_mexican_state_section,mexique_revolution,mexico,mexico,"Lagos de Moreno, Municipality of","Jalisco, State of",Mexican States,Mexico,Mexico,jalisco_mexican_state_section
+quitupan_notgeld,jalisco_mexican_state_section,mexique_revolution,mexico,mexico,"Quitupan, Municipality of","Jalisco, State of",Mexican States,Mexico,Mexico,jalisco_mexican_state_section
+xalostotitlan_notgeld,jalisco_mexican_state_section,mexique_revolution,mexico,mexico,"Xalostotitlán, Municipality of","Jalisco, State of",Mexican States,Mexico,Mexico,jalisco_mexican_state_section
+zapotlan_el_grande_notgeld,jalisco_mexican_state_section,mexique_revolution,mexico,mexico,"Zapotlán el Grande, Municipality of","Jalisco, State of",Mexican States,Mexico,Mexico,jalisco_mexican_state_section
+guaymas_notgeld,mexico_mexican_state_section,mexique_revolution,mexico,mexico,"Guaymas, Municipality of","Mexico, State of",Mexican States,Mexico,Mexico,mexico_mexican_state_section
+estado_mexico_revolution,mexico_mexican_state_section,mexique_revolution,mexico,mexico,"Mexico, State of","Mexico, State of",Mexican States,Mexico,Mexico,mexico_mexican_state_section
+toluca_notgeld,mexico_mexican_state_section,mexique_revolution,mexico,mexico,"Toluca, Municipality of","Mexico, State of",Mexican States,Mexico,Mexico,mexico_mexican_state_section
+chilchota_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Chilchota, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,michoacan_mexican_state_section
+cotija_de_la_paz_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Cotija de la Paz, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,michoacan_mexican_state_section
+michoacan_mexican_state,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Michoacán, State of","Michoacán, State of",Mexican States,Mexico,Mexico,michoacan_mexican_state_section
+morelia_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Morelia, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,michoacan_mexican_state_section
+patzcuaro_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Pátzcuaro, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,michoacan_mexican_state_section
+puruandiro_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Puruandiro, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,michoacan_mexican_state_section
+tacambaro_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Tacámbaro, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,michoacan_mexican_state_section
+taretan_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Taretan, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,michoacan_mexican_state_section
+tlazasalca_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Tlazasalca, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,michoacan_mexican_state_section
+uruapan_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Uruapán, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,michoacan_mexican_state_section
+valladolid_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Valladolid, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,michoacan_mexican_state_section
+zamora_notgeld,michoacan_mexican_state_section,mexique_revolution,mexico,mexico,"Zamora, Municipality of","Michoacán, State of",Mexican States,Mexico,Mexico,michoacan_mexican_state_section
+cuernavaca_notgeld,morelos_mexican_state_section,mexique_revolution,mexico,mexico,"Cuernavaca, Municipality of","Morelos, State of",Mexican States,Mexico,Mexico,morelos_mexican_state_section
+morelos_revolution,morelos_mexican_state_section,mexique_revolution,mexico,mexico,"Morelos, State of","Morelos, State of",Mexican States,Mexico,Mexico,morelos_mexican_state_section
+yautepec_notgeld,morelos_mexican_state_section,mexique_revolution,mexico,mexico,"Yautepec, Municipality of","Morelos, State of",Mexican States,Mexico,Mexico,morelos_mexican_state_section
+monterrey_notgeld,nuevo_leon_mexican_state_section,mexique_revolution,mexico,mexico,"Monterrey, Municipality of","Nuevo León, State of",Mexican States,Mexico,Mexico,nuevo_leon_mexican_state_section
+nuevo_leon_mexican_state,nuevo_leon_mexican_state_section,mexique_revolution,mexico,mexico,"Nuevo León, State of","Nuevo León, State of",Mexican States,Mexico,Mexico,nuevo_leon_mexican_state_section
+huajuapan_notgeld,oaxaca_mexican_state_section,mexique_revolution,mexico,mexico,"Huajuapán, Municipality of","Oaxaca, State of",Mexican States,Mexico,Mexico,oaxaca_mexican_state_section
+nochixtlan_notgeld,oaxaca_mexican_state_section,mexique_revolution,mexico,mexico,"Nochixtlán, Municipality of","Oaxaca, State of",Mexican States,Mexico,Mexico,oaxaca_mexican_state_section
+oaxaca_de_juarez_notgeld,oaxaca_mexican_state_section,mexique_revolution,mexico,mexico,"Oaxaca de Juárez, Municipality of","Oaxaca, State of",Mexican States,Mexico,Mexico,oaxaca_mexican_state_section
+oaxaca_revolution,oaxaca_mexican_state_section,mexique_revolution,mexico,mexico,"Oaxaca, State of","Oaxaca, State of",Mexican States,Mexico,Mexico,oaxaca_mexican_state_section
+tamazola_notgeld,oaxaca_mexican_state_section,mexique_revolution,mexico,mexico,"Tamazola, Municipality of","Oaxaca, State of",Mexican States,Mexico,Mexico,oaxaca_mexican_state_section
+tliaxiaco_notgeld,oaxaca_mexican_state_section,mexique_revolution,mexico,mexico,"Tliaxiaco, Municipality of","Oaxaca, State of",Mexican States,Mexico,Mexico,oaxaca_mexican_state_section
+chalchicomula_notgeld,puebla_mexican_state_section,mexique_revolution,mexico,mexico,"Chalchicomula, Municipality of","Puebla, State of",Mexican States,Mexico,Mexico,puebla_mexican_state_section
+matamoros_notgeld,puebla_mexican_state_section,mexique_revolution,mexico,mexico,"Matamoros, District of","Puebla, State of",Mexican States,Mexico,Mexico,puebla_mexican_state_section
+puebla_revolution,puebla_mexican_state_section,mexique_revolution,mexico,mexico,"Puebla, State of","Puebla, State of",Mexican States,Mexico,Mexico,puebla_mexican_state_section
+catorce_notgeld,san_luis_potosi_mexican_state_section,mexique_revolution,mexico,mexico,"Catorce, Municipality of","San Luis Potosí, State of",Mexican States,Mexico,Mexico,san_luis_potosi_mexican_state_section
+san_luis_potosi_mexican_state,san_luis_potosi_mexican_state_section,mexique_revolution,mexico,mexico,"San Luis Potosí, State of","San Luis Potosí, State of",Mexican States,Mexico,Mexico,san_luis_potosi_mexican_state_section
+culiacan_notgeld,sinaloa_mexican_state_section,mexique_revolution,mexico,mexico,"Culiacán, Municipality of","Sinaloa, State of",Mexican States,Mexico,Mexico,sinaloa_mexican_state_section
+mazatlan_notgeld,sinaloa_mexican_state_section,mexique_revolution,mexico,mexico,"Mazatlán, Municipality of","Sinaloa, State of",Mexican States,Mexico,Mexico,sinaloa_mexican_state_section
+rosario_notgeld,sinaloa_mexican_state_section,mexique_revolution,mexico,mexico,"Rosario, Municipality of","Sinaloa, State of",Mexican States,Mexico,Mexico,sinaloa_mexican_state_section
+san_blas_notgeld,sinaloa_mexican_state_section,mexique_revolution,mexico,mexico,"San Blas, Municipality of","Sinaloa, State of",Mexican States,Mexico,Mexico,sinaloa_mexican_state_section
+sinaloa_revolution,sinaloa_mexican_state_section,mexique_revolution,mexico,mexico,"Sinaloa, State of","Sinaloa, State of",Mexican States,Mexico,Mexico,sinaloa_mexican_state_section
+guaymas_sonora_notgeld,sonora_mexican_state_section,mexique_revolution,mexico,mexico,"Guaymas, Municipality of","Sonora, State of",Mexican States,Mexico,Mexico,sonora_mexican_state_section
+hermosillo_notgeld,sonora_mexican_state_section,mexique_revolution,mexico,mexico,"Hermosillo, Municipality of","Sonora, State of",Mexican States,Mexico,Mexico,sonora_mexican_state_section
+sonora,sonora_mexican_state_section,mexique_revolution,mexico,mexico,"Sonora, State of","Sonora, State of",Mexican States,Mexico,Mexico,sonora_mexican_state_section
+tabasco_mexican_state,tabasco_mexican_state_section,mexique_revolution,mexico,mexico,"Tabasco, State of","Tabasco, State of",Mexican States,Mexico,Mexico,tabasco_mexican_state_section
+villahermosa_de_san_juan_bautista_notgeld,tabasco_mexican_state_section,mexique_revolution,mexico,mexico,"Villahermosa de San Juan Bautista, Municipality of","Tabasco, State of",Mexican States,Mexico,Mexico,tabasco_mexican_state_section
+tamaulipas_mexican_state,tamaulipas_mexican_state_section,mexique_revolution,mexico,mexico,"Tamaulipas, State of","Tamaulipas, State of",Mexican States,Mexico,Mexico,tamaulipas_mexican_state_section
+tampico_notgeld,tamaulipas_mexican_state_section,mexique_revolution,mexico,mexico,"Tampico, Municipality of","Tamaulipas, State of",Mexican States,Mexico,Mexico,tamaulipas_mexican_state_section
+san_fernando_de_bexar_notgeld,texas_province_notgeld,mexique_revolution,mexico,mexico,"San Fernando de Bexar, Municipality of","Texas, Province of",Mexican States,Mexico,Mexico,texas_province_notgeld
+tlaxcala_notgeld,tlaxcala_mexican_state_section,mexique_revolution,mexico,mexico,"Tlaxcala, Municipality of","Tlaxcala, State of",Mexican States,Mexico,Mexico,tlaxcala_mexican_state_section
+tlaxcala_mexican_state,tlaxcala_mexican_state_section,mexique_revolution,mexico,mexico,"Tlaxcala, State of","Tlaxcala, State of",Mexican States,Mexico,Mexico,tlaxcala_mexican_state_section
+merida_notgeld,yucatan_mexican_state_section,mexique_revolution,mexico,mexico,"Mérida, Municipality of","Yucatan, State of",Mexican States,Mexico,Mexico,yucatan_mexican_state_section
+progreso_notgeld,yucatan_mexican_state_section,mexique_revolution,mexico,mexico,"Progreso, Municipality of","Yucatan, State of",Mexican States,Mexico,Mexico,yucatan_mexican_state_section
+yucatan_mexican_state,yucatan_mexican_state_section,mexique_revolution,mexico,mexico,"Yucatan, State of","Yucatan, State of",Mexican States,Mexico,Mexico,yucatan_mexican_state_section
+jerez_notgeld,zacatecas_mexican_state_section,mexique_revolution,mexico,mexico,"Jérez, Municipality of","Zacatecas, State of",Mexican States,Mexico,Mexico,zacatecas_mexican_state_section
+sombrerete_notgeld,zacatecas_mexican_state_section,mexique_revolution,mexico,mexico,"Sombrerete, Municipality of","Zacatecas, State of",Mexican States,Mexico,Mexico,zacatecas_mexican_state_section
+zacatecas_mexican_state,zacatecas_mexican_state_section,mexique_revolution,mexico,mexico,"Zacatecas, State of","Zacatecas, State of",Mexican States,Mexico,Mexico,zacatecas_mexican_state_section
+aguascalientes_revolution,mexique_revolution,mexico,mexico,mexico,"Aguascalientes, State of",Mexican States,Mexico,Mexico,Mexico,aguascalientes_revolution
+baja_california_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Baja California, State of",Mexican States,Mexico,Mexico,Mexico,baja_california_mexican_state_section
+campeche_mexican_state,mexique_revolution,mexico,mexico,mexico,"Campeche, State of",Mexican States,Mexico,Mexico,Mexico,campeche_mexican_state
+chiapas_mexican_state,mexique_revolution,mexico,mexico,mexico,"Chiapas, State of",Mexican States,Mexico,Mexico,Mexico,chiapas_mexican_state
+chihuahua_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Chihuahua, State of",Mexican States,Mexico,Mexico,Mexico,chihuahua_mexican_state_section
+coahuila_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Coahuila, State of",Mexican States,Mexico,Mexico,Mexico,coahuila_mexican_state_section
+colima_mexican_state,mexique_revolution,mexico,mexico,mexico,"Colima, State of",Mexican States,Mexico,Mexico,Mexico,colima_mexican_state
+durango_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Durango, State of",Mexican States,Mexico,Mexico,Mexico,durango_mexican_state_section
+guanajuato_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Guanajuato, State of",Mexican States,Mexico,Mexico,Mexico,guanajuato_mexican_state_section
+guerrero_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Guerrero, State of",Mexican States,Mexico,Mexico,Mexico,guerrero_mexican_state_section
+hidalgo_mexican_state,mexique_revolution,mexico,mexico,mexico,"Hidalgo, State of",Mexican States,Mexico,Mexico,Mexico,hidalgo_mexican_state
+jalisco_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Jalisco, State of",Mexican States,Mexico,Mexico,Mexico,jalisco_mexican_state_section
+mexico_federal_district_notgeld,mexique_revolution,mexico,mexico,mexico,"Mexico, Federal District of",Mexican States,Mexico,Mexico,Mexico,mexico_federal_district_notgeld
+mexico_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Mexico, State of",Mexican States,Mexico,Mexico,Mexico,MEX
+michoacan_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Michoacán, State of",Mexican States,Mexico,Mexico,Mexico,michoacan_mexican_state_section
+morelos_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Morelos, State of",Mexican States,Mexico,Mexico,Mexico,morelos_mexican_state_section
+nuevo_leon_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Nuevo León, State of",Mexican States,Mexico,Mexico,Mexico,nuevo_leon_mexican_state_section
+oaxaca_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Oaxaca, State of",Mexican States,Mexico,Mexico,Mexico,oaxaca_mexican_state_section
+puebla_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Puebla, State of",Mexican States,Mexico,Mexico,Mexico,puebla_mexican_state_section
+querataro_mexican_state,mexique_revolution,mexico,mexico,mexico,"Querátaro, State of",Mexican States,Mexico,Mexico,Mexico,querataro_mexican_state
+san_luis_potosi_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"San Luis Potosí, State of",Mexican States,Mexico,Mexico,Mexico,san_luis_potosi_mexican_state_section
+sinaloa_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Sinaloa, State of",Mexican States,Mexico,Mexico,Mexico,sinaloa_mexican_state_section
+sonora_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Sonora, State of",Mexican States,Mexico,Mexico,Mexico,sonora_mexican_state_section
+tabasco_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Tabasco, State of",Mexican States,Mexico,Mexico,Mexico,tabasco_mexican_state_section
+tamaulipas_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Tamaulipas, State of",Mexican States,Mexico,Mexico,Mexico,tamaulipas_mexican_state_section
+tepic_notgeld,mexique_revolution,mexico,mexico,mexico,"Tepic, Territory of",Mexican States,Mexico,Mexico,Mexico,tepic_notgeld
+texas_province_notgeld,mexique_revolution,mexico,mexico,mexico,"Texas, Province of",Mexican States,Mexico,Mexico,Mexico,texas_province_notgeld
+tlaxcala_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Tlaxcala, State of",Mexican States,Mexico,Mexico,Mexico,tlaxcala_mexican_state_section
+veracruz_ignacio_llave_mexican_state,mexique_revolution,mexico,mexico,mexico,"Veracruz, State of",Mexican States,Mexico,Mexico,Mexico,veracruz_ignacio_llave_mexican_state
+yucatan_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Yucatan, State of",Mexican States,Mexico,Mexico,Mexico,yucatan_mexican_state_section
+zacatecas_mexican_state_section,mexique_revolution,mexico,mexico,mexico,"Zacatecas, State of",Mexican States,Mexico,Mexico,Mexico,zacatecas_mexican_state_section
+mexique_revolution,mexico,mexico,mexico,mexico,Mexican States,Mexico,Mexico,Mexico,Mexico,MEX
+mexico,mexico,mexico,mexico,mexico,Mexico,Mexico,Mexico,Mexico,Mexico,MEX
+mexique,mexico,mexico,mexico,mexico,Mexico,Mexico,Mexico,Mexico,Mexico,MEX
 micronations,micronations,micronations,micronations,micronations,Micronations,Micronations,Micronations,Micronations,Micronations,
 micronesia,micronesia,micronesia,micronesia,micronesia,"Micronesia, Federated States of","Micronesia, Federated States of","Micronesia, Federated States of","Micronesia, Federated States of","Micronesia, Federated States of",MIC
 yap,micronesia,micronesia,micronesia,micronesia,Yap,"Micronesia, Federated States of","Micronesia, Federated States of","Micronesia, Federated States of","Micronesia, Federated States of",MIC
