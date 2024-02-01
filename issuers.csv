@@ -1367,7 +1367,7 @@ wessex,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_k
 kingdom_york,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,"York, Viking Kingdom of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of",
 afrique_occidentale_britannique,afrique_occidentale_britannique,afrique_occidentale_britannique,afrique_occidentale_britannique,afrique_occidentale_britannique,British West Africa,British West Africa,British West Africa,British West Africa,British West Africa,BWA
 british-west-indies,british-west-indies,british-west-indies,british-west-indies,british-west-indies,British West Indies,British West Indies,British West Indies,British West Indies,British West Indies,
-brunei,brunei,brunei,brunei,brunei,Brunei,Brunei,Brunei,Brunei,Brunei,
+brunei,brunei,brunei,brunei,brunei,Brunei,Brunei,Brunei,Brunei,Brunei,BRU
 bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,Bulgaria,Bulgaria,Bulgaria,Bulgaria,Bulgaria,BUL
 bulgarie,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,Bulgaria,Bulgaria,Bulgaria,Bulgaria,Bulgaria,BUL
 dobruja_despotate,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,"Dobruja, Despotate of",Bulgaria,Bulgaria,Bulgaria,Bulgaria,BUL
@@ -1659,9 +1659,9 @@ chine_japon,china,china,china,china,"China, Japanese puppet states in",China,Chi
 chine,china,china,china,china,"China, People's Republic of",China,China,China,China,
 chine_republique,china,china,china,china,"China, Republic of",China,China,China,China,CHI
 chinese_provinces,china,china,china,china,Chinese provinces,China,China,China,China,
-hong_kong,china,china,china,china,Hong Kong,China,China,China,China,
+hong_kong,china,china,china,china,Hong Kong,China,China,China,China,HKK
 kiau-chau,china,china,china,china,Kiau Chau,China,China,China,China,
-macao,china,china,china,china,Macau,China,China,China,China,
+macao,china,china,china,china,Macau,China,China,China,China,MAC
 tibet,china,china,china,china,Tibet,China,China,China,China,
 weihaiwei,china,china,china,china,Weihaiwei,China,China,China,China,
 chine_empire,china_empire_section,china,china,china,"China, Empire of","China, Empire of",China,China,China,CHI
@@ -6376,7 +6376,7 @@ india_british_section,india,india,india,india,"India, British",India,India,India
 india-danish-tranquebar,india,india,india,india,"India, Danish",India,India,India,India,
 india-dutch,india,india,india,india,"India, Dutch",India,India,India,India,
 india-french,india,india,india,india,"India, French",India,India,India,India,
-inde_portugaise,india,india,india,india,"India, Portuguese",India,India,India,India,
+inde_portugaise,india,india,india,india,"India, Portuguese",India,India,India,India,GOA
 india_hindu_dynasties,india,india,india,india,Indian Hindu Dynasties,India,India,India,India,
 india_northeastern_dynasties,india,india,india,india,Indian North-Eastern Dynasties,India,India,India,India,
 india_northern_dynasties,india,india,india,india,Indian Northern Dynasties,India,India,India,India,
@@ -6654,11 +6654,11 @@ saurashtra_peninsula,western_india_section,india-ancient,india-ancient,india-anc
 shibi_janapada,western_india_section,india-ancient,india-ancient,india-ancient,Shibi Kingdom,Western India,India (ancient),India (ancient),India (ancient),
 traikutaka_dynasty,western_india_section,india-ancient,india-ancient,india-ancient,Traikutaka dynasty,Western India,India (ancient),India (ancient),India (ancient),
 indochina_fantasy,indochina_fantasy,indochina_fantasy,indochina_fantasy,indochina_fantasy,Indochina (fantasy),Indochina (fantasy),Indochina (fantasy),Indochina (fantasy),Indochina (fantasy),
-indonesia,indonesia,indonesia,indonesia,indonesia,Indonesia,Indonesia,Indonesia,Indonesia,Indonesia,
-indonesia_section,indonesia,indonesia,indonesia,indonesia,Indonesia,Indonesia,Indonesia,Indonesia,Indonesia,
-indonesie,indonesia_section,indonesia,indonesia,indonesia,Indonesia (1949-date),Indonesia,Indonesia,Indonesia,Indonesia,
-indonesia_states,indonesia,indonesia,indonesia,indonesia,Indonesian States,Indonesia,Indonesia,Indonesia,Indonesia,
-netherland_east_indies,indonesia_section,indonesia,indonesia,indonesia,Netherlands East Indies (1601-1949),Indonesia,Indonesia,Indonesia,Indonesia,
+indonesia,indonesia,indonesia,indonesia,indonesia,Indonesia,Indonesia,Indonesia,Indonesia,Indonesia,IDO
+indonesia_section,indonesia,indonesia,indonesia,indonesia,Indonesia,Indonesia,Indonesia,Indonesia,Indonesia,IDO
+indonesie,indonesia_section,indonesia,indonesia,indonesia,Indonesia (1949-date),Indonesia,Indonesia,Indonesia,Indonesia,IDO
+indonesia_states,indonesia,indonesia,indonesia,indonesia,Indonesian States,Indonesia,Indonesia,Indonesia,Indonesia,IDO
+netherland_east_indies,indonesia_section,indonesia,indonesia,indonesia,Netherlands East Indies (1601-1949),Indonesia,Indonesia,Indonesia,Indonesia,IDO
 pre_islamic_kingdoms,indonesia,indonesia,indonesia,indonesia,Pre-Islamic kingdoms,Indonesia,Indonesia,Indonesia,Indonesia,
 sulawesi,indonesia,indonesia,indonesia,indonesia,Sulawesi,Indonesia,Indonesia,Indonesia,Indonesia,
 nusa_tenggara_barat,indonesie,indonesia_section,indonesia,indonesia,West Nusa Tenggara,Indonesia (1949-date),Indonesia,Indonesia,Indonesia,
@@ -6667,14 +6667,14 @@ bangka_island,indonesia_states,indonesia,indonesia,indonesia,Bangka Island,Indon
 banten_sultanate,indonesia_states,indonesia,indonesia,indonesia,"Banten, Sultanate of",Indonesian States,Indonesia,Indonesia,Indonesia,
 batubara_sultanate,indonesia_states,indonesia,indonesia,indonesia,"Batubara, Sultanate of",Indonesian States,Indonesia,Indonesia,Indonesia,
 demak_sultanate,indonesia_states,indonesia,indonesia,indonesia,"Demak, Sultanate of",Indonesian States,Indonesia,Indonesia,Indonesia,
-dutch_new_guinea,indonesia_states,indonesia,indonesia,indonesia,Dutch New Guinea,Indonesian States,Indonesia,Indonesia,Indonesia,
+dutch_new_guinea,indonesia_states,indonesia,indonesia,indonesia,Dutch New Guinea,Indonesian States,Indonesia,Indonesia,Indonesia,DNG
 gowa_sultanate,indonesia_states,indonesia,indonesia,indonesia,"Gowa, Sultanate of",Indonesian States,Indonesia,Indonesia,Indonesia,
-irian_jaya,indonesia_states,indonesia,indonesia,indonesia,Irian Jaya,Indonesian States,Indonesia,Indonesia,Indonesia,
+irian_jaya,indonesia_states,indonesia,indonesia,indonesia,Irian Jaya,Indonesian States,Indonesia,Indonesia,Indonesia,IRI
 jambi_sultanate,indonesia_states,indonesia,indonesia,indonesia,"Jambi, Sultanate of",Indonesian States,Indonesia,Indonesia,Indonesia,
 heshun_confederation,indonesia_states,indonesia,indonesia,indonesia,Kongsi Federation,Indonesian States,Indonesia,Indonesia,Indonesia,
 palembang_sultanate,indonesia_states,indonesia,indonesia,indonesia,"Palembang, Sultanate of",Indonesian States,Indonesia,Indonesia,Indonesia,
 pontianak_sultanate,indonesia_states,indonesia,indonesia,indonesia,"Pontianak, Sultanate of",Indonesian States,Indonesia,Indonesia,Indonesia,
-riau,indonesia_states,indonesia,indonesia,indonesia,Riau,Indonesian States,Indonesia,Indonesia,Indonesia,
+riau,indonesia_states,indonesia,indonesia,indonesia,Riau,Indonesian States,Indonesia,Indonesia,Indonesia,RIA
 samudra_pasai_sultanate,indonesia_states,indonesia,indonesia,indonesia,"Samudra-Pasai, Sultanate of",Indonesian States,Indonesia,Indonesia,Indonesia,
 siak_sultanate,indonesia_states,indonesia,indonesia,indonesia,"Siak, Sultanate of",Indonesian States,Indonesia,Indonesia,Indonesia,
 sumenep_sultanate,indonesia_states,indonesia,indonesia,indonesia,"Sumenep, Sultanate of",Indonesian States,Indonesia,Indonesia,Indonesia,
@@ -7402,18 +7402,18 @@ madagascar,madagascar_section,madagascar_section,madagascar_section,madagascar_s
 madagascar_section,madagascar_section,madagascar_section,madagascar_section,madagascar_section,Madagascar,Madagascar,Madagascar,Madagascar,Madagascar,MAD
 madagascar_notgeld,madagascar_section,madagascar_section,madagascar_section,madagascar_section,Madagascar (notgeld),Madagascar,Madagascar,Madagascar,Madagascar,MAD
 malawi,malawi,malawi,malawi,malawi,Malawi,Malawi,Malawi,Malawi,Malawi,MLL
-malaya_borneo,malaysia_british,malaysia,malaysia,malaysia,Malaya and British Borneo,British Malaysia,Malaysia,Malaysia,Malaysia,
-borneo,malaysia_british,malaysia,malaysia,malaysia,North Borneo,British Malaysia,Malaysia,Malaysia,Malaysia,
-sarawak,malaysia_british,malaysia,malaysia,malaysia,Sarawak,British Malaysia,Malaysia,Malaysia,Malaysia,
-straits,malaysia_british,malaysia,malaysia,malaysia,Straits Settlements,British Malaysia,Malaysia,Malaysia,Malaysia,
-johor_sultanate,malaysia_islamic_states,malaysia,malaysia,malaysia,"Johor, Sultanate of",Islamic states of Malaysia,Malaysia,Malaysia,Malaysia,
-kedah_sultanate,malaysia_islamic_states,malaysia,malaysia,malaysia,"Kedah, Sultanate of",Islamic states of Malaysia,Malaysia,Malaysia,Malaysia,
-kelantan_sultanate,malaysia_islamic_states,malaysia,malaysia,malaysia,"Kelantan, Sultanate of",Islamic states of Malaysia,Malaysia,Malaysia,Malaysia,
+malaya_borneo,malaysia_british,malaysia,malaysia,malaysia,Malaya and British Borneo,British Malaysia,Malaysia,Malaysia,Malaysia,MLL
+borneo,malaysia_british,malaysia,malaysia,malaysia,North Borneo,British Malaysia,Malaysia,Malaysia,Malaysia,NBO
+sarawak,malaysia_british,malaysia,malaysia,malaysia,Sarawak,British Malaysia,Malaysia,Malaysia,Malaysia,SAW
+straits,malaysia_british,malaysia,malaysia,malaysia,Straits Settlements,British Malaysia,Malaysia,Malaysia,Malaysia,MLL
+johor_sultanate,malaysia_islamic_states,malaysia,malaysia,malaysia,"Johor, Sultanate of",Islamic states of Malaysia,Malaysia,Malaysia,Malaysia,johor_sultanate
+kedah_sultanate,malaysia_islamic_states,malaysia,malaysia,malaysia,"Kedah, Sultanate of",Islamic states of Malaysia,Malaysia,Malaysia,Malaysia,kedah_sultanate
+kelantan_sultanate,malaysia_islamic_states,malaysia,malaysia,malaysia,"Kelantan, Sultanate of",Islamic states of Malaysia,Malaysia,Malaysia,Malaysia,kelantan_sultanate
 malacca_sultanate,malaysia_islamic_states,malaysia,malaysia,malaysia,"Malacca, Sultanate of",Islamic states of Malaysia,Malaysia,Malaysia,Malaysia,
-pahang_sultanate,malaysia_islamic_states,malaysia,malaysia,malaysia,"Pahang, Sultanate of",Islamic states of Malaysia,Malaysia,Malaysia,Malaysia,
-trengganu_sultanate,malaysia_islamic_states,malaysia,malaysia,malaysia,"Trengganu, Sultanate of",Islamic states of Malaysia,Malaysia,Malaysia,Malaysia,
-malaysia_british,malaysia,malaysia,malaysia,malaysia,British Malaysia,Malaysia,Malaysia,Malaysia,Malaysia,
-malaysia_islamic_states,malaysia,malaysia,malaysia,malaysia,Islamic states of Malaysia,Malaysia,Malaysia,Malaysia,Malaysia,
+pahang_sultanate,malaysia_islamic_states,malaysia,malaysia,malaysia,"Pahang, Sultanate of",Islamic states of Malaysia,Malaysia,Malaysia,Malaysia,pahang_sultanate
+trengganu_sultanate,malaysia_islamic_states,malaysia,malaysia,malaysia,"Trengganu, Sultanate of",Islamic states of Malaysia,Malaysia,Malaysia,Malaysia,trengganu_sultanate
+malaysia_british,malaysia,malaysia,malaysia,malaysia,British Malaysia,Malaysia,Malaysia,Malaysia,Malaysia,MLL
+malaysia_islamic_states,malaysia,malaysia,malaysia,malaysia,Islamic states of Malaysia,Malaysia,Malaysia,Malaysia,Malaysia,MLL
 kedah,malaysia,malaysia,malaysia,malaysia,Kedah,Malaysia,Malaysia,Malaysia,Malaysia,
 kelantan,malaysia,malaysia,malaysia,malaysia,Kelantan,Malaysia,Malaysia,Malaysia,Malaysia,
 labuan,malaysia,malaysia,malaysia,malaysia,Labuan,Malaysia,Malaysia,Malaysia,Malaysia,
@@ -7616,7 +7616,7 @@ mongol-empire,mongol-empire,mongol-empire,mongol-empire,mongol-empire,Mongol Sta
 sutayid_dynasty,mongol-empire,mongol-empire,mongol-empire,mongol-empire,Sutayid dynasty,Mongol States,Mongol States,Mongol States,Mongol States,
 taghaytimurid_dynasty,mongol-empire,mongol-empire,mongol-empire,mongol-empire,Taghaytimurid dynasty,Mongol States,Mongol States,Mongol States,Mongol States,
 timurid_empire,mongol-empire,mongol-empire,mongol-empire,mongol-empire,Timurid Empire,Mongol States,Mongol States,Mongol States,Mongol States,
-mongolie,mongolie,mongolie,mongolie,mongolie,Mongolia,Mongolia,Mongolia,Mongolia,Mongolia,
+mongolie,mongolie,mongolie,mongolie,mongolie,Mongolia,Mongolia,Mongolia,Mongolia,Mongolia,MNG
 antivari_city,MNTMON,montenegro_section,montenegro_section,montenegro_section,"Antivari, City of",Montenegrin States,Montenegro,Montenegro,Montenegro,MNT
 kotor_city,montenegrin_cities,montenegro_section,montenegro_section,montenegro_section,"Cattaro, City of",Montenegrin States,Montenegro,Montenegro,Montenegro,MNT
 dulcigno_city,montenegrin_cities,montenegro_section,montenegro_section,montenegro_section,"Dulcigno, City of ",Montenegrin States,Montenegro,Montenegro,Montenegro,MNT
@@ -8517,7 +8517,7 @@ yakutia,russia,russia,russia,russia,"Sakha (Yakutia), Republic of",Russia,Russia
 sakhaline,russia,russia,russia,russia,Sakhalin Island,Russia,Russia,Russia,Russia,
 siberia,russia,russia,russia,russia,Siberia,Russia,Russia,Russia,Russia,
 ancienne_urss,russia,russia,russia,russia,Soviet Union,Russia,Russia,Russia,Russia,RUS
-tannu-tuva,russia,russia,russia,russia,Tannu Tuva,Russia,Russia,Russia,Russia,
+tannu-tuva,russia,russia,russia,russia,Tannu Tuva,Russia,Russia,Russia,Russia,TNV
 tatarstan,russia,russia,russia,russia,Tatarstan,Russia,Russia,Russia,Russia,
 taurida_governorate,russia,russia,russia,russia,Taurida Governorate,Russia,Russia,Russia,Russia,
 tuva,russia,russia,russia,russia,Tuva,Russia,Russia,Russia,Russia,
@@ -8558,7 +8558,7 @@ serbia_kingdom,serbia_medieval_section,serbia_section,serbia_section,serbia_sect
 aldabra,seychelles,seychelles,seychelles,seychelles,Aldabra,Seychelles,Seychelles,Seychelles,Seychelles,SEY
 seychelles,seychelles,seychelles,seychelles,seychelles,Seychelles,Seychelles,Seychelles,Seychelles,Seychelles,SEY
 sierra_leone,sierra_leone,sierra_leone,sierra_leone,sierra_leone,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,SLL
-singapour,singapour,singapour,singapour,singapour,Singapore,Singapore,Singapore,Singapore,Singapore,
+singapour,singapour,singapour,singapour,singapour,Singapore,Singapore,Singapore,Singapore,Singapore,SNG
 slovaquie,slovaquie,slovaquie,slovaquie,slovaquie,Slovakia,Slovakia,Slovakia,Slovakia,Slovakia,SLO
 slovenie,slovenie,slovenie,slovenie,slovenie,Slovenia,Slovenia,Slovenia,Slovenia,Slovenia,SLV
 slowjamastan_republic,slowjamastan_republic,slowjamastan_republic,slowjamastan_republic,slowjamastan_republic,"Slowjamastan, Republic of","Slowjamastan, Republic of","Slowjamastan, Republic of","Slowjamastan, Republic of","Slowjamastan, Republic of",
@@ -10129,7 +10129,7 @@ zanzibar,tanzania,tanzania,tanzania,tanzania,Zanzibar,Tanzania,Tanzania,Tanzania
 tashir_dzoraget,tashir_dzoraget,tashir_dzoraget,tashir_dzoraget,tashir_dzoraget,"Tashir-Dzoraget, Kingdom of","Tashir-Dzoraget, Kingdom of","Tashir-Dzoraget, Kingdom of","Tashir-Dzoraget, Kingdom of","Tashir-Dzoraget, Kingdom of",
 kingdom_of_tavolara,kingdom_of_tavolara,kingdom_of_tavolara,kingdom_of_tavolara,kingdom_of_tavolara,"Tavolara, Kingdom of","Tavolara, Kingdom of","Tavolara, Kingdom of","Tavolara, Kingdom of","Tavolara, Kingdom of",
 rural_herders_farmers,rural_herders_farmers,rural_herders_farmers,rural_herders_farmers,rural_herders_farmers,Territory of rural herders farmers,Territory of rural herders farmers,Territory of rural herders farmers,Territory of rural herders farmers,Territory of rural herders farmers,
-thailande,thailande,thailande,thailande,thailande,Thailand,Thailand,Thailand,Thailand,Thailand,
+thailande,thailande,thailande,thailande,thailande,Thailand,Thailand,Thailand,Thailand,Thailand,THL
 temps,temps,temps,temps,temps,"Time, Kingdom of","Time, Kingdom of","Time, Kingdom of","Time, Kingdom of","Time, Kingdom of",
 oecusse,timor_oriental,timor_oriental,timor_oriental,timor_oriental,Oecusse,Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,TLL
 portuguese_timor_period,timor_oriental,timor_oriental,timor_oriental,timor_oriental,Portuguese Timor (1910-2002),Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,TLL
@@ -10147,7 +10147,7 @@ tunisie,tunisie,tunisie,tunisie,tunisie,Tunisia,Tunisia,Tunisia,Tunisia,Tunisia,
 turquie,turquie,turquie,turquie,turquie,Turkey,Turkey,Turkey,Turkey,Turkey,TUR
 turkmenistan,turkmenistan,turkmenistan,turkmenistan,turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,
 tuvalu,tuvalu,tuvalu,tuvalu,tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,TVV
-vaitupu,tuvalu,tuvalu,tuvalu,tuvalu,Vaitupu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,
+vaitupu,tuvalu,tuvalu,tuvalu,tuvalu,Vaitupu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,TVV
 ouganda,ouganda,ouganda,ouganda,ouganda,Uganda,Uganda,Uganda,Uganda,Uganda,UGA
 UKR,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Transnistria Governorate,Ukraine,Ukraine,Ukraine,Ukraine,TNS
 ukraine,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,UKR
