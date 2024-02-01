@@ -1277,7 +1277,7 @@ benin,benin_section,benin_section,benin_section,benin_section,Benin (1975-date),
 dahomey,benin_section,benin_section,benin_section,benin_section,Dahomey (1960-1975),Benin,Benin,Benin,Benin,BNN
 bermania,bermania,bermania,bermania,bermania,"Bermania, Kingdom of","Bermania, Kingdom of","Bermania, Kingdom of","Bermania, Kingdom of","Bermania, Kingdom of",
 bermuda_triangle,bermuda_triangle,bermuda_triangle,bermuda_triangle,bermuda_triangle,Bermuda Triangle,Bermuda Triangle,Bermuda Triangle,Bermuda Triangle,Bermuda Triangle,
-bhoutan,bhoutan,bhoutan,bhoutan,bhoutan,Bhutan,Bhutan,Bhutan,Bhutan,Bhutan,
+bhoutan,bhoutan,bhoutan,bhoutan,bhoutan,Bhutan,Bhutan,Bhutan,Bhutan,Bhutan,BHU
 biffeche,biffeche,biffeche,biffeche,biffeche,"Biffeche, Kingdom of","Biffeche, Kingdom of","Biffeche, Kingdom of","Biffeche, Kingdom of","Biffeche, Kingdom of",
 bir_tawil,bir_tawil,bir_tawil,bir_tawil,bir_tawil,Bir Tawil,Bir Tawil,Bir Tawil,Bir Tawil,Bir Tawil,
 bohemia_section,bohemia_section,bohemia_section,bohemia_section,bohemia_section,Bohemia,Bohemia,Bohemia,Bohemia,Bohemia,
@@ -7699,16 +7699,16 @@ shoshone,native_american_tribes,native_american_tribes,native_american_tribes,na
 sioux,native_american_tribes,native_american_tribes,native_american_tribes,native_american_tribes,Sioux tribes,Native American tribes,Native American tribes,Native American tribes,Native American tribes,
 wampanoag,native_american_tribes,native_american_tribes,native_american_tribes,native_american_tribes,Wampanoag tribes,Native American tribes,Native American tribes,Native American tribes,Native American tribes,
 nauru,nauru,nauru,nauru,nauru,Nauru,Nauru,Nauru,Nauru,Nauru,NAU
-bhaktapur_kingdom,malla_dynasty_section,nepal_section,nepal_section,nepal_section,Bhaktapur Kingdom,Malla dynasty,Nepal,Nepal,Nepal,
-dolakha_kingdom,malla_dynasty_section,nepal_section,nepal_section,nepal_section,Dolakha Kingdom,Malla dynasty,Nepal,Nepal,Nepal,
-kathmandu_kingdom,malla_dynasty_section,nepal_section,nepal_section,nepal_section,Kathmandu Kingdom,Malla dynasty,Nepal,Nepal,Nepal,
-malla_dynasty,malla_dynasty_section,nepal_section,nepal_section,nepal_section,Malla dynasty,Malla dynasty,Nepal,Nepal,Nepal,
-patan_kingdom,malla_dynasty_section,nepal_section,nepal_section,nepal_section,Patan Kingdom,Malla dynasty,Nepal,Nepal,Nepal,
-licchavi_kingdom,nepal_section,nepal_section,nepal_section,nepal_section,Licchavi Kingdom,Nepal,Nepal,Nepal,Nepal,
-malla_dynasty_section,nepal_section,nepal_section,nepal_section,nepal_section,Malla dynasty,Nepal,Nepal,Nepal,Nepal,
-nepal,nepal_section,nepal_section,nepal_section,nepal_section,Nepal,Nepal,Nepal,Nepal,Nepal,
-nepal_section,nepal_section,nepal_section,nepal_section,nepal_section,Nepal,Nepal,Nepal,Nepal,Nepal,
-nepal_medieval,nepal_section,nepal_section,nepal_section,nepal_section,Nepal (medieval),Nepal,Nepal,Nepal,Nepal,
+bhaktapur_kingdom,malla_dynasty_section,nepal_section,nepal_section,nepal_section,Bhaktapur Kingdom,Malla dynasty,Nepal,Nepal,Nepal,NEP
+dolakha_kingdom,malla_dynasty_section,nepal_section,nepal_section,nepal_section,Dolakha Kingdom,Malla dynasty,Nepal,Nepal,Nepal,NEP
+kathmandu_kingdom,malla_dynasty_section,nepal_section,nepal_section,nepal_section,Kathmandu Kingdom,Malla dynasty,Nepal,Nepal,Nepal,NEP
+malla_dynasty,malla_dynasty_section,nepal_section,nepal_section,nepal_section,Malla dynasty,Malla dynasty,Nepal,Nepal,Nepal,NEP
+patan_kingdom,malla_dynasty_section,nepal_section,nepal_section,nepal_section,Patan Kingdom,Malla dynasty,Nepal,Nepal,Nepal,NEP
+licchavi_kingdom,nepal_section,nepal_section,nepal_section,nepal_section,Licchavi Kingdom,Nepal,Nepal,Nepal,Nepal,NEP
+malla_dynasty_section,nepal_section,nepal_section,nepal_section,nepal_section,Malla dynasty,Nepal,Nepal,Nepal,Nepal,NEP
+nepal,nepal_section,nepal_section,nepal_section,nepal_section,Nepal,Nepal,Nepal,Nepal,Nepal,NEP
+nepal_section,nepal_section,nepal_section,nepal_section,nepal_section,Nepal,Nepal,Nepal,Nepal,Nepal,NEP
+nepal_medieval,nepal_section,nepal_section,nepal_section,nepal_section,Nepal (medieval),Nepal,Nepal,Nepal,Nepal,NEP
 amsterdam_dutch_republic,provinces-unies,netherlands,netherlands,netherlands,"Amsterdam, Siege of ",Dutch Republic,Netherlands,Netherlands,Netherlands,NET
 arnhem_dutch_republic,provinces-unies,netherlands,netherlands,netherlands,"Arnhem, City of",Dutch Republic,Netherlands,Netherlands,Netherlands,NET
 breda_city,provinces-unies,netherlands,netherlands,netherlands,"Breda, City of",Dutch Republic,Netherlands,Netherlands,Netherlands,NET
