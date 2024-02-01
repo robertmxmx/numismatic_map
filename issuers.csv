@@ -1655,15 +1655,15 @@ tarapaca_region,chile_states,chile_section,chile_section,chile_section,Tarapacá
 valdivia_city,chile_states,chile_section,chile_section,chile_section,"Valdivia, City of",Chilian States,Chile,Chile,Chile,
 china,china,china,china,china,China,China,China,China,China,CHI
 china_empire_section,china,china,china,china,"China, Empire of",China,China,China,China,CHI
-chine_japon,china,china,china,china,"China, Japanese puppet states in",China,China,China,China,
-chine,china,china,china,china,"China, People's Republic of",China,China,China,China,
+chine_japon,china,china,china,china,"China, Japanese puppet states in",China,China,China,China,CHI
+chine,china,china,china,china,"China, People's Republic of",China,China,China,China,CHI
 chine_republique,china,china,china,china,"China, Republic of",China,China,China,China,CHI
-chinese_provinces,china,china,china,china,Chinese provinces,China,China,China,China,
+chinese_provinces,china,china,china,china,Chinese provinces,China,China,China,China,CHI
 hong_kong,china,china,china,china,Hong Kong,China,China,China,China,HKK
-kiau-chau,china,china,china,china,Kiau Chau,China,China,China,China,
+kiau-chau,china,china,china,china,Kiau Chau,China,China,China,China,KCH
 macao,china,china,china,china,Macau,China,China,China,China,MAC
 tibet,china,china,china,china,Tibet,China,China,China,China,TIB
-weihaiwei,china,china,china,china,Weihaiwei,China,China,China,China,
+weihaiwei,china,china,china,china,Weihaiwei,China,China,China,China,Weihaiwei
 chine_empire,china_empire_section,china,china,china,"China, Empire of","China, Empire of",China,China,China,CHI
 china_notgeld,china_empire_section,china,china,china,Chinese notgeld,"China, Empire of",China,China,China,
 dynastic_rebels,china_empire_section,china,china,china,Dynastic rebels,"China, Empire of",China,China,China,
@@ -1672,49 +1672,49 @@ southern_ming_regimes,china_empire_section,china,china,china,Southern Ming regim
 tatar_dynasties,china_empire_section,china,china,china,Tatar dynasties,"China, Empire of",China,China,China,
 ten_kingdoms,china_empire_section,china,china,china,Ten Kingdoms,"China, Empire of",China,China,China,
 tungning_kingdom,china_empire_section,china,china,china,Tungning Kingdom,"China, Empire of",China,China,China,
-xinjiang_region_section,china_empire_section,china,china,china,Xinjiang region,"China, Empire of",China,China,China,
+xinjiang_region_section,china_empire_section,china,china,china,Xinjiang region,"China, Empire of",China,China,China,Xinjiang region
 you_shu_autonomous,china_empire_section,china,china,china,You Zhou Autonomous Region,"China, Empire of",China,China,China,
 yunnan_dali_tribes,china_empire_section,china,china,china,Yunnan-Guizhou tribes,"China, Empire of",China,China,China,
-amoy_island,chine_japon,china,china,china,Amoy Island,"China, Japanese puppet states in",China,China,China,
-china_provisional_government,chine_japon,china,china,china,"China, Provisional Government of the Republic of","China, Japanese puppet states in",China,China,China,
-china_reformed_government,chine_japon,china,china,china,"China, Reformed Government of the Republic of","China, Japanese puppet states in",China,China,China,
-east_hopei,chine_japon,china,china,china,East Hebei,"China, Japanese puppet states in",China,China,China,
-manchoukuo,chine_japon,china,china,china,Manchukuo,"China, Japanese puppet states in",China,China,China,
-meng_chiang,chine_japon,china,china,china,Meng Chiang,"China, Japanese puppet states in",China,China,China,
-anhwei_province,chinese_provinces,china,china,china,Anhwei Province,Chinese provinces,China,China,China,
-chekiang_province,chinese_provinces,china,china,china,Chekiang Province,Chinese provinces,China,China,China,
-chihli_province,chinese_provinces,china,china,china,Chihli Province,Chinese provinces,China,China,China,
-fengtien_province,chinese_provinces,china,china,china,Fengtien Province,Chinese provinces,China,China,China,
-fukien_province,chinese_provinces,china,china,china,Fukien Province,Chinese provinces,China,China,China,
-hainan_province,chinese_provinces,china,china,china,Hainan Province,Chinese provinces,China,China,China,
-heilungkiang_province,chinese_provinces,china,china,china,Heilungkiang Province,Chinese provinces,China,China,China,
-honan_province,chinese_provinces,china,china,china,Honan Province,Chinese provinces,China,China,China,
-hunan_province_section,chinese_provinces,china,china,china,Hunan Province,Chinese provinces,China,China,China,
-hupeh_province,chinese_provinces,china,china,china,Hupeh Province,Chinese provinces,China,China,China,
-jehol_province,chinese_provinces,china,china,china,Jehol Province,Chinese provinces,China,China,China,
-kansu_province,chinese_provinces,china,china,china,Kansu Province,Chinese provinces,China,China,China,
-kiangnan_province,chinese_provinces,china,china,china,Kiangnan Province,Chinese provinces,China,China,China,
-kiangsi_province,chinese_provinces,china,china,china,Kiangsi Province,Chinese provinces,China,China,China,
-kiangsu_province_section,chinese_provinces,china,china,china,Kiangsu Province,Chinese provinces,China,China,China,
-kirin_province,chinese_provinces,china,china,china,Kirin Province,Chinese provinces,China,China,China,
-kwangsi_province,chinese_provinces,china,china,china,Kwangsi Province,Chinese provinces,China,China,China,
-kwangtung_province_section,chinese_provinces,china,china,china,Kwangtung Province,Chinese provinces,China,China,China,
-kweichow_province,chinese_provinces,china,china,china,Kweichow Province,Chinese provinces,China,China,China,
-manchurian_provinces,chinese_provinces,china,china,china,Manchurian Provinces,Chinese provinces,China,China,China,
-peiping_municipality,chinese_provinces,china,china,china,"Peiping, Municipality of",Chinese provinces,China,China,China,
-shansi_suiyuan_provinces,chinese_provinces,china,china,china,Shansi and Suiyuan Provinces,Chinese provinces,China,China,China,
-shansi_province,chinese_provinces,china,china,china,Shansi Province,Chinese provinces,China,China,China,
-shantung_province_section,chinese_provinces,china,china,china,Shantung Province,Chinese provinces,China,China,China,
-shensi_province,chinese_provinces,china,china,china,Shensi Province,Chinese provinces,China,China,China,
-sinkiang_province_section,chinese_provinces,china,china,china,Sinkiang Province,Chinese provinces,China,China,China,
-suiyuan_province,chinese_provinces,china,china,china,Suiyuan Province,Chinese provinces,China,China,China,
-szechuan_province,chinese_provinces,china,china,china,Szechuan Province,Chinese provinces,China,China,China,
+amoy_island,chine_japon,china,china,china,Amoy Island,"China, Japanese puppet states in",China,China,China,Amoy Island
+china_provisional_government,chine_japon,china,china,china,"China, Provisional Government of the Republic of","China, Japanese puppet states in",China,China,China,JML
+china_reformed_government,chine_japon,china,china,china,"China, Reformed Government of the Republic of","China, Japanese puppet states in",China,China,China,JRG
+east_hopei,chine_japon,china,china,china,East Hebei,"China, Japanese puppet states in",China,China,China,EHB
+manchoukuo,chine_japon,china,china,china,Manchukuo,"China, Japanese puppet states in",China,China,China,MMK
+meng_chiang,chine_japon,china,china,china,Meng Chiang,"China, Japanese puppet states in",China,China,China,JMC
+anhwei_province,chinese_provinces,china,china,china,Anhwei Province,Chinese provinces,China,China,China,Anhwei Province
+chekiang_province,chinese_provinces,china,china,china,Chekiang Province,Chinese provinces,China,China,China,Chekiang Province
+chihli_province,chinese_provinces,china,china,china,Chihli Province,Chinese provinces,China,China,China,Chihli Province
+fengtien_province,chinese_provinces,china,china,china,Fengtien Province,Chinese provinces,China,China,China,Fengtien Province
+fukien_province,chinese_provinces,china,china,china,Fukien Province,Chinese provinces,China,China,China,Fukien Province
+hainan_province,chinese_provinces,china,china,china,Hainan Province,Chinese provinces,China,China,China,Hainan Province
+heilungkiang_province,chinese_provinces,china,china,china,Heilungkiang Province,Chinese provinces,China,China,China,Heilungkiang Province
+honan_province,chinese_provinces,china,china,china,Honan Province,Chinese provinces,China,China,China,Honan Province
+hunan_province_section,chinese_provinces,china,china,china,Hunan Province,Chinese provinces,China,China,China,Hunan Province
+hupeh_province,chinese_provinces,china,china,china,Hupeh Province,Chinese provinces,China,China,China,Hupeh Province
+jehol_province,chinese_provinces,china,china,china,Jehol Province,Chinese provinces,China,China,China,Jehol Province
+kansu_province,chinese_provinces,china,china,china,Kansu Province,Chinese provinces,China,China,China,Kansu Province
+kiangnan_province,chinese_provinces,china,china,china,Kiangnan Province,Chinese provinces,China,China,China,Kiangnan Province
+kiangsi_province,chinese_provinces,china,china,china,Kiangsi Province,Chinese provinces,China,China,China,Kiangnan Province
+kiangsu_province_section,chinese_provinces,china,china,china,Kiangsu Province,Chinese provinces,China,China,China,Kiangsu Province
+kirin_province,chinese_provinces,china,china,china,Kirin Province,Chinese provinces,China,China,China,Kirin Province
+kwangsi_province,chinese_provinces,china,china,china,Kwangsi Province,Chinese provinces,China,China,China,Kwangsi Province
+kwangtung_province_section,chinese_provinces,china,china,china,Kwangtung Province,Chinese provinces,China,China,China,Kwangtung Province
+kweichow_province,chinese_provinces,china,china,china,Kweichow Province,Chinese provinces,China,China,China,Kweichow Province
+manchurian_provinces,chinese_provinces,china,china,china,Manchurian Provinces,Chinese provinces,China,China,China,MMK
+peiping_municipality,chinese_provinces,china,china,china,"Peiping, Municipality of",Chinese provinces,China,China,China,"Peiping, Municipality of"
+shansi_suiyuan_provinces,chinese_provinces,china,china,china,Shansi and Suiyuan Provinces,Chinese provinces,China,China,China,Shansi and Suiyuan Provinces
+shansi_province,chinese_provinces,china,china,china,Shansi Province,Chinese provinces,China,China,China,Shansi Province
+shantung_province_section,chinese_provinces,china,china,china,Shantung Province,Chinese provinces,China,China,China,Shantung Province
+shensi_province,chinese_provinces,china,china,china,Shensi Province,Chinese provinces,China,China,China,Shensi Province
+sinkiang_province_section,chinese_provinces,china,china,china,Sinkiang Province,Chinese provinces,China,China,China,Sinkiang Province
+suiyuan_province,chinese_provinces,china,china,china,Suiyuan Province,Chinese provinces,China,China,China,Suiyuan Province
+szechuan_province,chinese_provinces,china,china,china,Szechuan Province,Chinese provinces,China,China,China,Szechuan Province
 taiwan_province,chinese_provinces,china,china,china,Taiwan Province,Chinese provinces,China,China,China,TAI
-tientsin_munisipality,chinese_provinces,china,china,china,"Tientsin, Municipality of",Chinese provinces,China,China,China,
-tsinghai_province,chinese_provinces,china,china,china,Tsinghai Province,Chinese provinces,China,China,China,
-xingan_province_section,chinese_provinces,china,china,china,Xing'an Province,Chinese provinces,China,China,China,
-yunnan_province,chinese_provinces,china,china,china,Yunnan Province,Chinese provinces,China,China,China,
-taipa,macao,china,china,china,Taipa,Macau,China,China,China,
+tientsin_munisipality,chinese_provinces,china,china,china,"Tientsin, Municipality of",Chinese provinces,China,China,China,"Tientsin, Municipality of"
+tsinghai_province,chinese_provinces,china,china,china,Tsinghai Province,Chinese provinces,China,China,China,Tsinghai Province
+xingan_province_section,chinese_provinces,china,china,china,Xing'an Province,Chinese provinces,China,China,China,Xingan Province
+yunnan_province,chinese_provinces,china,china,china,Yunnan Province,Chinese provinces,China,China,China,Yunnan Province
+taipa,macao,china,china,china,Taipa,Macau,China,China,China,MAC
 he_prefecture,china_notgeld,china_empire_section,china,china,He Prefecture,Chinese notgeld,"China, Empire of",China,China,
 jiang_prefecture,china_notgeld,china_empire_section,china,china,Jiang Prefecture,Chinese notgeld,"China, Empire of",China,China,
 lin-an_prefecture,china_notgeld,china_empire_section,china,china,Lin'an Prefecture,Chinese notgeld,"China, Empire of",China,China,
@@ -1726,15 +1726,15 @@ great_song_dynasty,dynastic_rebels,china_empire_section,china,china,Great Song d
 great_yan_state,dynastic_rebels,china_empire_section,china,china,Great Yan State,Dynastic rebels,"China, Empire of",China,China,
 wu_region,dynastic_rebels,china_empire_section,china,china,Great Zhong State,Dynastic rebels,"China, Empire of",China,China,
 great_zhou_dynasty,dynastic_rebels,china_empire_section,china,china,Great Zhou dynasty,Dynastic rebels,"China, Empire of",China,China,
-triad_society,dynastic_rebels,china_empire_section,china,china,Guangdong Triad Society,Dynastic rebels,"China, Empire of",China,China,
+triad_society,dynastic_rebels,china_empire_section,china,china,Guangdong Triad Society,Dynastic rebels,"China, Empire of",China,China,Kwangtung Province
 guizhou_rebellion,dynastic_rebels,china_empire_section,china,china,"Guizhou, Rebellion in",Dynastic rebels,"China, Empire of",China,China,
 kewang_dynasty,dynastic_rebels,china_empire_section,china,china,Kewang dynasty,Dynastic rebels,"China, Empire of",China,China,
 shun_dynasty,dynastic_rebels,china_empire_section,china,china,Shun dynasty,Dynastic rebels,"China, Empire of",China,China,
-small_sword_society,dynastic_rebels,china_empire_section,china,china,Small Sword Society,Dynastic rebels,"China, Empire of",China,China,
-taiping_heavenly_kingdom,dynastic_rebels,china_empire_section,china,china,Taiping Heavenly Kingdom,Dynastic rebels,"China, Empire of",China,China,
+small_sword_society,dynastic_rebels,china_empire_section,china,china,Small Sword Society,Dynastic rebels,"China, Empire of",China,China,Small Sword Society
+taiping_heavenly_kingdom,dynastic_rebels,china_empire_section,china,china,Taiping Heavenly Kingdom,Dynastic rebels,"China, Empire of",China,China,Taiping Heavenly Kingdom
 tianwan_kingdom,dynastic_rebels,china_empire_section,china,china,Tianwan Kingdom,Dynastic rebels,"China, Empire of",China,China,
 xi_dynasty,dynastic_rebels,china_empire_section,china,china,Xi dynasty,Dynastic rebels,"China, Empire of",China,China,
-taiping_rebels,dynastic_rebels,china_empire_section,china,china,"Zhejiang, Rebellion in",Dynastic rebels,"China, Empire of",China,China,
+taiping_rebels,dynastic_rebels,china_empire_section,china,china,"Zhejiang, Rebellion in",Dynastic rebels,"China, Empire of",China,China,Taiping Heavenly Kingdom
 eastern_xia_kingdom,tatar_dynasties,china_empire_section,china,china,Eastern Xia Kingdom,Tatar dynasties,"China, Empire of",China,China,
 great_jin,tatar_dynasties,china_empire_section,china,china,Great Jin,Tatar dynasties,"China, Empire of",China,China,
 liao_dynasty,tatar_dynasties,china_empire_section,china,china,Liao dynasty,Tatar dynasties,"China, Empire of",China,China,
@@ -1748,27 +1748,27 @@ southern_han_kingdom,ten_kingdoms,china_empire_section,china,china,Southern Han 
 southern_tang_kingdom,ten_kingdoms,china_empire_section,china,china,Southern Tang Kingdom,Ten Kingdoms,"China, Empire of",China,China,
 uncertain_chinese_kingdoms,ten_kingdoms,china_empire_section,china,china,Uncertain Chinese kingdoms,Ten Kingdoms,"China, Empire of",China,China,
 yin_kingdom,ten_kingdoms,china_empire_section,china,china,Yin Kingdom,Ten Kingdoms,"China, Empire of",China,China,
-kucha_region,xinjiang_region_section,china_empire_section,china,china,Kucha region,Xinjiang region,"China, Empire of",China,China,
-xinjiang_region,xinjiang_region_section,china_empire_section,china,china,South Xinjiang,Xinjiang region,"China, Empire of",China,China,
-turkestan_khanate,xinjiang_region_section,china_empire_section,china,china,Turkestan Khanate,Xinjiang region,"China, Empire of",China,China,
-yettishar_emirate,xinjiang_region_section,china_empire_section,china,china,"Yettishar, Emirate of",Xinjiang region,"China, Empire of",China,China,
-changsha_city,hunan_province_section,chinese_provinces,china,china,"Changsha, City of",Hunan Province,Chinese provinces,China,China,
-hunan_province,hunan_province_section,chinese_provinces,china,china,Hunan Province,Hunan Province,Chinese provinces,China,China,
-chingkiang_city,kiangsu_province_section,chinese_provinces,china,china,"Chingkiang, City of",Kiangsu Province,Chinese provinces,China,China,
-kiangsu_province,kiangsu_province_section,chinese_provinces,china,china,Kiangsu Province,Kiangsu Province,Chinese provinces,China,China,
-shanghai_city,kiangsu_province_section,chinese_provinces,china,china,"Shanghai, City of",Kiangsu Province,Chinese provinces,China,China,
-suchow_city,kiangsu_province_section,chinese_provinces,china,china,"Suchow, City of",Kiangsu Province,Chinese provinces,China,China,
-canton_city,kwangtung_province_section,chinese_provinces,china,china,"Canton, City of",Kwangtung Province,Chinese provinces,China,China,
-kwangtung_province,kwangtung_province_section,chinese_provinces,china,china,Kwangtung Province,Kwangtung Province,Chinese provinces,China,China,
-shantung_province,shantung_province_section,chinese_provinces,china,china,Shantung Province,Shantung Province,Chinese provinces,China,China,
-tsingtao_city,shantung_province_section,chinese_provinces,china,china,"Tsingtao, City of",Shantung Province,Chinese provinces,China,China,
-altai_city,sinkiang_province_section,chinese_provinces,china,china,"Altai, City of",Sinkiang Province,Chinese provinces,China,China,
-first_east_turkestan_republic,sinkiang_province_section,chinese_provinces,china,china,First East Turkestan Republic,Sinkiang Province,Chinese provinces,China,China,
-ili_prefecture,sinkiang_province_section,chinese_provinces,china,china,Ili Prefecture,Sinkiang Province,Chinese provinces,China,China,
-sinkiang_province,sinkiang_province_section,chinese_provinces,china,china,Sinkiang Province,Sinkiang Province,Chinese provinces,China,China,
-tihwa_city,sinkiang_province_section,chinese_provinces,china,china,"Tihwa, City of",Sinkiang Province,Chinese provinces,China,China,
-tunganistan_region,sinkiang_province_section,chinese_provinces,china,china,Tunganistan region,Sinkiang Province,Chinese provinces,China,China,
-hulunbuir_city,xingan_province_section,chinese_provinces,china,china,"Hulunbuir, City of",Xing'an Province,Chinese provinces,China,China,
+kucha_region,xinjiang_region_section,china_empire_section,china,china,Kucha region,Xinjiang region,"China, Empire of",China,China,Xinjiang region
+xinjiang_region,xinjiang_region_section,china_empire_section,china,china,South Xinjiang,Xinjiang region,"China, Empire of",China,China,Xinjiang region
+turkestan_khanate,xinjiang_region_section,china_empire_section,china,china,Turkestan Khanate,Xinjiang region,"China, Empire of",China,China,Xinjiang region
+yettishar_emirate,xinjiang_region_section,china_empire_section,china,china,"Yettishar, Emirate of",Xinjiang region,"China, Empire of",China,China,Xinjiang region
+changsha_city,hunan_province_section,chinese_provinces,china,china,"Changsha, City of",Hunan Province,Chinese provinces,China,China,Hunan Province
+hunan_province,hunan_province_section,chinese_provinces,china,china,Hunan Province,Hunan Province,Chinese provinces,China,China,Hunan Province
+chingkiang_city,kiangsu_province_section,chinese_provinces,china,china,"Chingkiang, City of",Kiangsu Province,Chinese provinces,China,China,Kiangsu Province
+kiangsu_province,kiangsu_province_section,chinese_provinces,china,china,Kiangsu Province,Kiangsu Province,Chinese provinces,China,China,Kiangsu Province
+shanghai_city,kiangsu_province_section,chinese_provinces,china,china,"Shanghai, City of",Kiangsu Province,Chinese provinces,China,China,Kiangsu Province
+suchow_city,kiangsu_province_section,chinese_provinces,china,china,"Suchow, City of",Kiangsu Province,Chinese provinces,China,China,Kiangsu Province
+canton_city,kwangtung_province_section,chinese_provinces,china,china,"Canton, City of",Kwangtung Province,Chinese provinces,China,China,Kwangtung Province
+kwangtung_province,kwangtung_province_section,chinese_provinces,china,china,Kwangtung Province,Kwangtung Province,Chinese provinces,China,China,Kwangtung Province
+shantung_province,shantung_province_section,chinese_provinces,china,china,Shantung Province,Shantung Province,Chinese provinces,China,China,Shantung Province
+tsingtao_city,shantung_province_section,chinese_provinces,china,china,"Tsingtao, City of",Shantung Province,Chinese provinces,China,China,Shantung Province
+altai_city,sinkiang_province_section,chinese_provinces,china,china,"Altai, City of",Sinkiang Province,Chinese provinces,China,China,Sinkiang Province
+first_east_turkestan_republic,sinkiang_province_section,chinese_provinces,china,china,First East Turkestan Republic,Sinkiang Province,Chinese provinces,China,China,Sinkiang Province
+ili_prefecture,sinkiang_province_section,chinese_provinces,china,china,Ili Prefecture,Sinkiang Province,Chinese provinces,China,China,Sinkiang Province
+sinkiang_province,sinkiang_province_section,chinese_provinces,china,china,Sinkiang Province,Sinkiang Province,Chinese provinces,China,China,Sinkiang Province
+tihwa_city,sinkiang_province_section,chinese_provinces,china,china,"Tihwa, City of",Sinkiang Province,Chinese provinces,China,China,Sinkiang Province
+tunganistan_region,sinkiang_province_section,chinese_provinces,china,china,Tunganistan region,Sinkiang Province,Chinese provinces,China,China,Sinkiang Province
+hulunbuir_city,xingan_province_section,chinese_provinces,china,china,"Hulunbuir, City of",Xing'an Province,Chinese provinces,China,China,Xingan Province
 chengjia_empire,china_ancient_section,china_ancient_section,china_ancient_section,china_ancient_section,Chengjia Empire,China (ancient),China (ancient),China (ancient),China (ancient),
 ancient-china,china_ancient_section,china_ancient_section,china_ancient_section,china_ancient_section,China (ancient),China (ancient),China (ancient),China (ancient),China (ancient),
 china_ancient_section,china_ancient_section,china_ancient_section,china_ancient_section,china_ancient_section,China (ancient),China (ancient),China (ancient),China (ancient),China (ancient),
