@@ -7322,7 +7322,7 @@ sendai_domain,japan_feudal,japan_section,japan_section,japan_section,Sendai Doma
 tajima_province,japan_feudal,japan_section,japan_section,japan_section,Tajima Province,Japanese feudal domains,Japan,Japan,Japan,tajima_province
 tosa_domain,japan_feudal,japan_section,japan_section,japan_section,Tosa Domain,Japanese feudal domains,Japan,Japan,Japan,tosa_domain
 yonezawa_domain,japan_feudal,japan_section,japan_section,japan_section,Yonezawa Domain,Japanese feudal domains,Japan,Japan,Japan,yonezawa_domain
-jordanie,jordanie,jordanie,jordanie,jordanie,Jordan,Jordan,Jordan,Jordan,Jordan,
+jordanie,jordanie,jordanie,jordanie,jordanie,Jordan,Jordan,Jordan,Jordan,Jordan,JRD
 judee,judee,judee,judee,judee,Judea,Judea,Judea,Judea,Judea,
 kamberra,kamberra,kamberra,kamberra,kamberra,"Kamberra, Kingdom of","Kamberra, Kingdom of","Kamberra, Kingdom of","Kamberra, Kingdom of","Kamberra, Kingdom of",
 kazakhstan,kazakhstan,kazakhstan,kazakhstan,kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,KAZ
@@ -7351,7 +7351,7 @@ lettonie_section,lettonie_section,lettonie_section,lettonie_section,lettonie_sec
 latvia_notgeld,lettonie_section,lettonie_section,lettonie_section,lettonie_section,Latvian notgeld,Latvia,Latvia,Latvia,Latvia,latvia
 jelgava_notgeld,latvia_notgeld,lettonie_section,lettonie_section,lettonie_section,"Jelgava, City of",Latvian notgeld,Latvia,Latvia,Latvia,latvia
 liepaja_notgeld,latvia_notgeld,lettonie_section,lettonie_section,lettonie_section,"Liepāja, City of",Latvian notgeld,Latvia,Latvia,Latvia,latvia
-liban,liban,liban,liban,liban,Lebanon,Lebanon,Lebanon,Lebanon,Lebanon,
+liban,liban,liban,liban,liban,Lebanon,Lebanon,Lebanon,Lebanon,Lebanon,LEB
 leeward_islands,leeward_islands,leeward_islands,leeward_islands,leeward_islands,Leeward Islands,Leeward Islands,Leeward Islands,Leeward Islands,Leeward Islands,
 lesotho,lesotho,lesotho,lesotho,lesotho,Lesotho,Lesotho,Lesotho,Lesotho,Lesotho,LSS
 liberia,liberia,liberia,liberia,liberia,Liberia,Liberia,Liberia,Liberia,Liberia,LBB
@@ -10118,7 +10118,7 @@ suisse_cantons,switzerland,switzerland,switzerland,switzerland,Swiss cantons,Swi
 switzerland,switzerland,switzerland,switzerland,switzerland,Switzerland,Switzerland,Switzerland,Switzerland,Switzerland,SWI
 switzerland_group,switzerland,switzerland,switzerland,switzerland,Switzerland,Switzerland,Switzerland,Switzerland,Switzerland,SWI
 suisse,switzerland_group,switzerland,switzerland,switzerland,Switzerland (1848-date),Switzerland,Switzerland,Switzerland,Switzerland,SWI
-syrie,syrie,syrie,syrie,syrie,Syria,Syria,Syria,Syria,Syria,
+syrie,syrie,syrie,syrie,syrie,Syria,Syria,Syria,Syria,Syria,SYR
 ultimate_state_of_taedivm,ultimate_state_of_taedivm,ultimate_state_of_taedivm,ultimate_state_of_taedivm,ultimate_state_of_taedivm,"Tædivm, The Ultimate State of","Tædivm, The Ultimate State of","Tædivm, The Ultimate State of","Tædivm, The Ultimate State of","Tædivm, The Ultimate State of",
 taiwan,taiwan,taiwan,taiwan,taiwan,Taiwan,Taiwan,Taiwan,Taiwan,Taiwan,TAI
 tadjikistan,tadjikistan,tadjikistan,tadjikistan,tadjikistan,Tajikistan,Tajikistan,Tajikistan,Tajikistan,Tajikistan,
