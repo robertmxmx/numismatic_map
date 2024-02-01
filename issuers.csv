@@ -1383,9 +1383,9 @@ despotate_of_epirus,byzantine_states,byzantine_states,byzantine_states,byzantine
 nicaea_empire,byzantine_states,byzantine_states,byzantine_states,byzantine_states,"Nicaea, Empire of",Byzantine states,Byzantine states,Byzantine states,Byzantine states,
 thessalonica_empire,byzantine_states,byzantine_states,byzantine_states,byzantine_states,"Thessalonica, Empire of",Byzantine states,Byzantine states,Byzantine states,Byzantine states,
 trebizond_empire,byzantine_states,byzantine_states,byzantine_states,byzantine_states,"Trebizond, Empire of",Byzantine states,Byzantine states,Byzantine states,Byzantine states,
-cambodge,cambodia_section,cambodia_section,cambodia_section,cambodia_section,Cambodia,Cambodia,Cambodia,Cambodia,Cambodia,
-cambodia_section,cambodia_section,cambodia_section,cambodia_section,cambodia_section,Cambodia,Cambodia,Cambodia,Cambodia,Cambodia,
-khmer_empire,cambodia_section,cambodia_section,cambodia_section,cambodia_section,Khmer Empire,Cambodia,Cambodia,Cambodia,Cambodia,
+cambodge,cambodia_section,cambodia_section,cambodia_section,cambodia_section,Cambodia,Cambodia,Cambodia,Cambodia,Cambodia,CAM
+cambodia_section,cambodia_section,cambodia_section,cambodia_section,cambodia_section,Cambodia,Cambodia,Cambodia,Cambodia,Cambodia,CAM
+khmer_empire,cambodia_section,cambodia_section,cambodia_section,cambodia_section,Khmer Empire,Cambodia,Cambodia,Cambodia,Cambodia,CAM
 cameroon_section,cameroon_section,cameroon_section,cameroon_section,cameroon_section,Cameroon,Cameroon,Cameroon,Cameroon,Cameroon,CMM
 cameroun,cameroon_section,cameroon_section,cameroon_section,cameroon_section,Cameroon (1960-date),Cameroon,Cameroon,Cameroon,Cameroon,CMM
 cameroon_french,cameroon_section,cameroon_section,cameroon_section,cameroon_section,French Cameroon (1916-1960),Cameroon,Cameroon,Cameroon,Cameroon,CMM
@@ -1709,7 +1709,7 @@ shensi_province,chinese_provinces,china,china,china,Shensi Province,Chinese prov
 sinkiang_province_section,chinese_provinces,china,china,china,Sinkiang Province,Chinese provinces,China,China,China,
 suiyuan_province,chinese_provinces,china,china,china,Suiyuan Province,Chinese provinces,China,China,China,
 szechuan_province,chinese_provinces,china,china,china,Szechuan Province,Chinese provinces,China,China,China,
-taiwan_province,chinese_provinces,china,china,china,Taiwan Province,Chinese provinces,China,China,China,
+taiwan_province,chinese_provinces,china,china,china,Taiwan Province,Chinese provinces,China,China,China,TAI
 tientsin_munisipality,chinese_provinces,china,china,china,"Tientsin, Municipality of",Chinese provinces,China,China,China,
 tsinghai_province,chinese_provinces,china,china,china,Tsinghai Province,Chinese provinces,China,China,China,
 xingan_province_section,chinese_provinces,china,china,china,Xing'an Province,Chinese provinces,China,China,China,
@@ -2654,7 +2654,7 @@ ile_tromelin,iles_eparses,taaf,france_overseas,france_section,Tromelin Island,Sc
 franks_kingdom,frankish_kingdoms_section,frankish_kingdoms_section,frankish_kingdoms_section,frankish_kingdoms_section,Frankish Kingdom,Frankish Kingdoms,Frankish Kingdoms,Frankish Kingdoms,Frankish Kingdoms,
 frankish_kingdoms_section,frankish_kingdoms_section,frankish_kingdoms_section,frankish_kingdoms_section,frankish_kingdoms_section,Frankish Kingdoms,Frankish Kingdoms,Frankish Kingdoms,Frankish Kingdoms,Frankish Kingdoms,
 paris_bishopric,frankish_kingdoms_section,frankish_kingdoms_section,frankish_kingdoms_section,frankish_kingdoms_section,"Paris, Bishopric of",Frankish Kingdoms,Frankish Kingdoms,Frankish Kingdoms,Frankish Kingdoms,
-indochine,indochine,indochine,indochine,indochine,French Indochina,French Indochina,French Indochina,French Indochina,French Indochina,
+indochine,indochine,indochine,indochine,indochine,French Indochina,French Indochina,French Indochina,French Indochina,French Indochina,VIN
 aof,aof,aof,aof,aof,French West Africa,French West Africa,French West Africa,French West Africa,French West Africa,FWA
 gabon,gabon,gabon,gabon,gabon,Gabon,Gabon,Gabon,Gabon,Gabon,GAB
 gambie,gambie,gambie,gambie,gambie,"Gambia, The","Gambia, The","Gambia, The","Gambia, The","Gambia, The",GMM
@@ -6384,10 +6384,10 @@ inde_princiers,india,india,india,india,Indian princely states,India,India,India,
 indian_states,india,india,india,india,Indian states,India,India,India,India,
 india_islamic,india,india,india,india,Indian Sultanates,India,India,India,India,
 inde_moghol,india,india,india,india,Mughal Empire,India,India,India,India,
-bengal_presidency,india_british_section,india,india,india,Bengal Presidency,"India, British",India,India,India,IND
-bombay_presidency,india_british_section,india,india,india,Bombay Presidency,"India, British",India,India,India,IND
+bengal_presidency,india_british_section,india,india,india,Bengal Presidency,"India, British",India,India,India,IBE
+bombay_presidency,india_british_section,india,india,india,Bombay Presidency,"India, British",India,India,India,IBO
 inde_britannique,india_british_section,india,india,india,India - British,"India, British",India,India,India,IND
-madras_presidency,india_british_section,india,india,india,Madras Presidency,"India, British",India,India,India,IND
+madras_presidency,india_british_section,india,india,india,Madras Presidency,"India, British",India,India,India,IMA
 carnatic_nawabdom,india_hindu_dynasties,india,india,india,"Carnatic, Nawabdom of the",Indian Hindu Dynasties,India,India,India,
 chalukya_dynasty,india_hindu_dynasties,india,india,india,Chalukya dynasty,Indian Hindu Dynasties,India,India,India,
 chola_dynasty,india_hindu_dynasties,india,india,india,Chola dynasty,Indian Hindu Dynasties,India,India,India,
@@ -7340,12 +7340,12 @@ kievan_rus,kievan_rus_section,kievan_rus_section,kievan_rus_section,kievan_rus_s
 kievan_rus_section,kievan_rus_section,kievan_rus_section,kievan_rus_section,kievan_rus_section,Kyivan Rus,Kyivan Rus,Kyivan Rus,Kyivan Rus,Kyivan Rus,
 tmutarakan_principality,kievan_rus_section,kievan_rus_section,kievan_rus_section,kievan_rus_section,"Tmutarakan, Principality of",Kyivan Rus,Kyivan Rus,Kyivan Rus,Kyivan Rus,
 kirghizistan,kirghizistan,kirghizistan,kirghizistan,kirghizistan,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,
-champasak,laos_section,laos_section,laos_section,laos_section,"Champasak, Kingdom of",Laos,Laos,Laos,Laos,
-lan_xang,laos_section,laos_section,laos_section,laos_section,"Lan Xang, Kingdom of",Laos,Laos,Laos,Laos,
-laos,laos_section,laos_section,laos_section,laos_section,Laos,Laos,Laos,Laos,Laos,
-laos_section,laos_section,laos_section,laos_section,laos_section,Laos,Laos,Laos,Laos,Laos,
-luang_prabang,laos_section,laos_section,laos_section,laos_section,"Luang Prabang, Kingdom of",Laos,Laos,Laos,Laos,
-vientiane,laos_section,laos_section,laos_section,laos_section,"Vientiane, Kingdom of",Laos,Laos,Laos,Laos,
+champasak,laos_section,laos_section,laos_section,laos_section,"Champasak, Kingdom of",Laos,Laos,Laos,Laos,LAO
+lan_xang,laos_section,laos_section,laos_section,laos_section,"Lan Xang, Kingdom of",Laos,Laos,Laos,Laos,LAO
+laos,laos_section,laos_section,laos_section,laos_section,Laos,Laos,Laos,Laos,Laos,LAO
+laos_section,laos_section,laos_section,laos_section,laos_section,Laos,Laos,Laos,Laos,Laos,LAO
+luang_prabang,laos_section,laos_section,laos_section,laos_section,"Luang Prabang, Kingdom of",Laos,Laos,Laos,Laos,LAO
+vientiane,laos_section,laos_section,laos_section,laos_section,"Vientiane, Kingdom of",Laos,Laos,Laos,Laos,LAO
 lettonie,lettonie_section,lettonie_section,lettonie_section,lettonie_section,Latvia,Latvia,Latvia,Latvia,Latvia,latvia
 lettonie_section,lettonie_section,lettonie_section,lettonie_section,lettonie_section,Latvia,Latvia,Latvia,Latvia,Latvia,latvia
 latvia_notgeld,lettonie_section,lettonie_section,lettonie_section,lettonie_section,Latvian notgeld,Latvia,Latvia,Latvia,Latvia,latvia
@@ -7659,7 +7659,7 @@ romedia,mujand,mujand,mujand,mujand,Romedia,Mujand,Mujand,Mujand,Mujand,
 sima_senco,mujand,mujand,mujand,mujand,Sima Senco,Mujand,Mujand,Mujand,Mujand,
 toroguay,mujand,mujand,mujand,mujand,Toroguay,Mujand,Mujand,Mujand,Mujand,
 territory_of_west_junee,mujand,mujand,mujand,mujand,"West Junee, Territory of",Mujand,Mujand,Mujand,Mujand,
-myanmar,myanmar,myanmar,myanmar,myanmar,Myanmar,Myanmar,Myanmar,Myanmar,Myanmar,
+myanmar,myanmar,myanmar,myanmar,myanmar,Myanmar,Myanmar,Myanmar,Myanmar,Myanmar,BUR
 hamsavati_kingdom,mon_kingdoms,myanmar_ancient,myanmar_ancient,myanmar_ancient,"Hamsavati, Kingdom of",Mon Kingdoms,Myanmar (ancient),Myanmar (ancient),Myanmar (ancient),
 kyaikto_region,mon_kingdoms,myanmar_ancient,myanmar_ancient,myanmar_ancient,Kyaikto region,Mon Kingdoms,Myanmar (ancient),Myanmar (ancient),Myanmar (ancient),
 myaungmyo_region,mon_kingdoms,myanmar_ancient,myanmar_ancient,myanmar_ancient,Myaungmyo region,Mon Kingdoms,Myanmar (ancient),Myanmar (ancient),Myanmar (ancient),
@@ -10120,7 +10120,7 @@ switzerland_group,switzerland,switzerland,switzerland,switzerland,Switzerland,Sw
 suisse,switzerland_group,switzerland,switzerland,switzerland,Switzerland (1848-date),Switzerland,Switzerland,Switzerland,Switzerland,SWI
 syrie,syrie,syrie,syrie,syrie,Syria,Syria,Syria,Syria,Syria,
 ultimate_state_of_taedivm,ultimate_state_of_taedivm,ultimate_state_of_taedivm,ultimate_state_of_taedivm,ultimate_state_of_taedivm,"Tædivm, The Ultimate State of","Tædivm, The Ultimate State of","Tædivm, The Ultimate State of","Tædivm, The Ultimate State of","Tædivm, The Ultimate State of",
-taiwan,taiwan,taiwan,taiwan,taiwan,Taiwan,Taiwan,Taiwan,Taiwan,Taiwan,
+taiwan,taiwan,taiwan,taiwan,taiwan,Taiwan,Taiwan,Taiwan,Taiwan,Taiwan,TAI
 tadjikistan,tadjikistan,tadjikistan,tadjikistan,tadjikistan,Tajikistan,Tajikistan,Tajikistan,Tajikistan,Tajikistan,
 mafia_island,tanzania,tanzania,tanzania,tanzania,Mafia Island,Tanzania,Tanzania,Tanzania,Tanzania,
 tanzania,tanzania,tanzania,tanzania,tanzania,Tanzania,Tanzania,Tanzania,Tanzania,Tanzania,TZZ
@@ -10299,28 +10299,28 @@ maracaibo,venezuelan-provinces,venezuela_section,venezuela_section,venezuela_sec
 margarita,venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,Margarita,Venezuelan provinces,Venezuela,Venezuela,Venezuela,
 tachira,venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,Tachira,Venezuelan provinces,Venezuela,Venezuela,Venezuela,
 vevcani_republic,vevcani_republic,vevcani_republic,vevcani_republic,vevcani_republic,"Vevčani, Republic of","Vevčani, Republic of","Vevčani, Republic of","Vevčani, Republic of","Vevčani, Republic of",
-cochinchine,viet-nam,viet-nam,viet-nam,viet-nam,French Cochinchina,Vietnam,Vietnam,Vietnam,Vietnam,
-north_vietnam,viet-nam,viet-nam,viet-nam,viet-nam,North Vietnam,Vietnam,Vietnam,Vietnam,Vietnam,
-south-vietnam,viet-nam,viet-nam,viet-nam,viet-nam,South Vietnam,Vietnam,Vietnam,Vietnam,Vietnam,
-tonkin,viet-nam,viet-nam,viet-nam,viet-nam,Tonkin,Vietnam,Vietnam,Vietnam,Vietnam,
-viet-nam,viet-nam,viet-nam,viet-nam,viet-nam,Vietnam,Vietnam,Vietnam,Vietnam,Vietnam,
-viet_nam,viet-nam,viet-nam,viet-nam,viet-nam,Vietnam,Vietnam,Vietnam,Vietnam,Vietnam,
-vietnamese_empire,viet-nam,viet-nam,viet-nam,viet-nam,"Vietnam, Empire of",Vietnam,Vietnam,Vietnam,Vietnam,
-dang_ngoai,vietnamese_empire,viet-nam,viet-nam,viet-nam,Đàng Ngoài,"Vietnam, Empire of",Vietnam,Vietnam,Vietnam,
-dang_trong,vietnamese_empire,viet-nam,viet-nam,viet-nam,Đàng Trong,"Vietnam, Empire of",Vietnam,Vietnam,Vietnam,
-cao_bang_province,vietnamese_empire,viet-nam,viet-nam,viet-nam,Cao Bằng Province,"Vietnam, Empire of",Vietnam,Vietnam,Vietnam,
-dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,viet-nam,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,Vietnam,
-vietnam-empire,vietnamese_empire,viet-nam,viet-nam,viet-nam,"Vietnam, Empire of","Vietnam, Empire of",Vietnam,Vietnam,Vietnam,
-cam_giang_vuong_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Cẩm Giang Vương Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,
-loc_binh_vuong_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Lộc Bình Vương Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,
-le_nga_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Lê Nga Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,
-le_van_khoi_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Lê Văn Khôi Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,
-mac_rebels,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Mạc rebels,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,
-nong_van_van_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Nông Văn Vân Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,
-ninh_xa_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Ninh Xá Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,
-su_thien_thanh_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Sử Thiên Thánh Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,
-tran_cao_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Trần Cảo Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,
-tran_tuan_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Trần Tuân Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,
+cochinchine,viet-nam,viet-nam,viet-nam,viet-nam,French Cochinchina,Vietnam,Vietnam,Vietnam,Vietnam,VCO
+north_vietnam,viet-nam,viet-nam,viet-nam,viet-nam,North Vietnam,Vietnam,Vietnam,Vietnam,Vietnam,VIE
+south-vietnam,viet-nam,viet-nam,viet-nam,viet-nam,South Vietnam,Vietnam,Vietnam,Vietnam,Vietnam,SVI
+tonkin,viet-nam,viet-nam,viet-nam,viet-nam,Tonkin,Vietnam,Vietnam,Vietnam,Vietnam,VTO
+viet-nam,viet-nam,viet-nam,viet-nam,viet-nam,Vietnam,Vietnam,Vietnam,Vietnam,Vietnam,VIE
+viet_nam,viet-nam,viet-nam,viet-nam,viet-nam,Vietnam,Vietnam,Vietnam,Vietnam,Vietnam,VIE
+vietnamese_empire,viet-nam,viet-nam,viet-nam,viet-nam,"Vietnam, Empire of",Vietnam,Vietnam,Vietnam,Vietnam,VIE
+dang_ngoai,vietnamese_empire,viet-nam,viet-nam,viet-nam,Đàng Ngoài,"Vietnam, Empire of",Vietnam,Vietnam,Vietnam,VIE
+dang_trong,vietnamese_empire,viet-nam,viet-nam,viet-nam,Đàng Trong,"Vietnam, Empire of",Vietnam,Vietnam,Vietnam,VIE
+cao_bang_province,vietnamese_empire,viet-nam,viet-nam,viet-nam,Cao Bằng Province,"Vietnam, Empire of",Vietnam,Vietnam,Vietnam,VIE
+dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,viet-nam,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,Vietnam,VIE
+vietnam-empire,vietnamese_empire,viet-nam,viet-nam,viet-nam,"Vietnam, Empire of","Vietnam, Empire of",Vietnam,Vietnam,Vietnam,VIE
+cam_giang_vuong_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Cẩm Giang Vương Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,VIE
+loc_binh_vuong_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Lộc Bình Vương Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,VIE
+le_nga_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Lê Nga Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,VIE
+le_van_khoi_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Lê Văn Khôi Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,VIE
+mac_rebels,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Mạc rebels,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,VIE
+nong_van_van_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Nông Văn Vân Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,VIE
+ninh_xa_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Ninh Xá Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,VIE
+su_thien_thanh_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Sử Thiên Thánh Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,VIE
+tran_cao_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Trần Cảo Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,VIE
+tran_tuan_rebellion,dynastic_rebels_viet,vietnamese_empire,viet-nam,viet-nam,Trần Tuân Rebellion,Dynastic rebels,"Vietnam, Empire of",Vietnam,Vietnam,VIE
 viinamarisaar,viinamarisaar,viinamarisaar,viinamarisaar,viinamarisaar,Viinamarisaar,Viinamarisaar,Viinamarisaar,Viinamarisaar,Viinamarisaar,
 vikesland,vikesland,vikesland,vikesland,vikesland,"Vikesland, Kingdom of","Vikesland, Kingdom of","Vikesland, Kingdom of","Vikesland, Kingdom of","Vikesland, Kingdom of",
 visigothic_kingdom,visigothic_kingdom,visigothic_kingdom,visigothic_kingdom,visigothic_kingdom,Visigothic Kingdom,Visigothic Kingdom,Visigothic Kingdom,Visigothic Kingdom,Visigothic Kingdom,
