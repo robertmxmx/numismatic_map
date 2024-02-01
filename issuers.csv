@@ -1662,7 +1662,7 @@ chinese_provinces,china,china,china,china,Chinese provinces,China,China,China,Ch
 hong_kong,china,china,china,china,Hong Kong,China,China,China,China,HKK
 kiau-chau,china,china,china,china,Kiau Chau,China,China,China,China,
 macao,china,china,china,china,Macau,China,China,China,China,MAC
-tibet,china,china,china,china,Tibet,China,China,China,China,
+tibet,china,china,china,china,Tibet,China,China,China,China,TIB
 weihaiwei,china,china,china,china,Weihaiwei,China,China,China,China,
 chine_empire,china_empire_section,china,china,china,"China, Empire of","China, Empire of",China,China,China,CHI
 china_notgeld,china_empire_section,china,china,china,Chinese notgeld,"China, Empire of",China,China,China,
@@ -6679,8 +6679,8 @@ samudra_pasai_sultanate,indonesia_states,indonesia,indonesia,indonesia,"Samudra-
 siak_sultanate,indonesia_states,indonesia,indonesia,indonesia,"Siak, Sultanate of",Indonesian States,Indonesia,Indonesia,Indonesia,
 sumenep_sultanate,indonesia_states,indonesia,indonesia,indonesia,"Sumenep, Sultanate of",Indonesian States,Indonesia,Indonesia,Indonesia,
 azerbaijan_people_republic,iran_section,iran_section,iran_section,iran_section,Azerbaijan People's Government,Iran,Iran,Iran,Iran,
-iran,iran_section,iran_section,iran_section,iran_section,Iran,Iran,Iran,Iran,Iran,
-iran_section,iran_section,iran_section,iran_section,iran_section,Iran,Iran,Iran,Iran,Iran,
+iran,iran_section,iran_section,iran_section,iran_section,Iran,Iran,Iran,Iran,Iran,PER
+iran_section,iran_section,iran_section,iran_section,iran_section,Iran,Iran,Iran,Iran,Iran,PER
 iranian_states,iran_section,iran_section,iran_section,iran_section,Iranian States,Iran,Iran,Iran,Iran,
 eastern_provinces,iranian_states,iran_section,iran_section,iran_section,Eastern Provinces,Iranian States,Iran,Iran,Iran,
 gilan_province,iranian_states,iran_section,iran_section,iran_section,Gilan Province,Iranian States,Iran,Iran,Iran,
@@ -6740,7 +6740,7 @@ urdu_camp,iranian_cities,iranian_states,iran_section,iran_section,Urdu Camp,Iran
 urumi_city,iranian_cities,iranian_states,iran_section,iran_section,"Urumi, City of",Iranian Cities,Iranian States,Iran,Iran,
 yazd_city,iranian_cities,iranian_states,iran_section,iran_section,"Yazd, City of",Iranian Cities,Iranian States,Iran,Iran,
 zanjan_city,iranian_cities,iranian_states,iran_section,iran_section,"Zanjan, City of",Iranian Cities,Iranian States,Iran,Iran,
-irak,irak,irak,irak,irak,Iraq,Iraq,Iraq,Iraq,Iraq,
+irak,irak,irak,irak,irak,Iraq,Iraq,Iraq,Iraq,Iraq,IRQ
 irlande,irlande,irlande,irlande,irlande,Ireland,Ireland,Ireland,Ireland,Ireland,IRE
 isis,isis,isis,isis,isis,Islamic State of Iraq and Syria,Islamic State of Iraq and Syria,Islamic State of Iraq and Syria,Islamic State of Iraq and Syria,Islamic State of Iraq and Syria,
 alid_rebellion,abbasid_rebels,abbasid_caliphate_section,islamic-caliphates,islamic-caliphates,Alid Rebellion,Abbasid rebels,Abbasid Caliphate,Islamic states,Islamic states,
@@ -7335,7 +7335,7 @@ korea,korea,korea,korea,korea,Korea,Korea,Korea,Korea,Korea,KOR
 koronis,koronis,koronis,koronis,koronis,"Koronis, United Federation of","Koronis, United Federation of","Koronis, United Federation of","Koronis, United Federation of","Koronis, United Federation of",
 kosovo,kosovo,kosovo,kosovo,kosovo,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,KSV
 kurdistan,kurdistan,kurdistan,kurdistan,kurdistan,Kurdistan,Kurdistan,Kurdistan,Kurdistan,Kurdistan,
-koweit,koweit,koweit,koweit,koweit,Kuwait,Kuwait,Kuwait,Kuwait,Kuwait,
+koweit,koweit,koweit,koweit,koweit,Kuwait,Kuwait,Kuwait,Kuwait,Kuwait,KUW
 kievan_rus,kievan_rus_section,kievan_rus_section,kievan_rus_section,kievan_rus_section,Kyivan Rus,Kyivan Rus,Kyivan Rus,Kyivan Rus,Kyivan Rus,
 kievan_rus_section,kievan_rus_section,kievan_rus_section,kievan_rus_section,kievan_rus_section,Kyivan Rus,Kyivan Rus,Kyivan Rus,Kyivan Rus,Kyivan Rus,
 tmutarakan_principality,kievan_rus_section,kievan_rus_section,kievan_rus_section,kievan_rus_section,"Tmutarakan, Principality of",Kyivan Rus,Kyivan Rus,Kyivan Rus,Kyivan Rus,
@@ -7817,17 +7817,17 @@ numidie,numidie,numidie,numidie,numidie,Numidia,Numidia,Numidia,Numidia,Numidia,
 numisma,numisma,numisma,numisma,numisma,Numisma,Numisma,Numisma,Numisma,Numisma,
 oberost,oberost,oberost,oberost,oberost,Ober Ost,Ober Ost,Ober Ost,Ober Ost,Ober Ost,
 oceania,oceania,oceania,oceania,oceania,"Oceania, Japanese occupation of","Oceania, Japanese occupation of","Oceania, Japanese occupation of","Oceania, Japanese occupation of","Oceania, Japanese occupation of",JAO
-dhofar_governorate,oman_section,oman_section,oman_section,oman_section,Dhofar Governorate,Oman,Oman,Oman,Oman,
-muscat_and_oman,oman_section,oman_section,oman_section,oman_section,Muscat and Oman,Oman,Oman,Oman,Oman,
-oman,oman_section,oman_section,oman_section,oman_section,Oman,Oman,Oman,Oman,Oman,
-oman_section,oman_section,oman_section,oman_section,oman_section,Oman,Oman,Oman,Oman,Oman,
+dhofar_governorate,oman_section,oman_section,oman_section,oman_section,Dhofar Governorate,Oman,Oman,Oman,Oman,ODF
+muscat_and_oman,oman_section,oman_section,oman_section,oman_section,Muscat and Oman,Oman,Oman,Oman,Oman,OMN
+oman,oman_section,oman_section,oman_section,oman_section,Oman,Oman,Oman,Oman,Oman,OMN
+oman_section,oman_section,oman_section,oman_section,oman_section,Oman,Oman,Oman,Oman,Oman,OMN
 ostrogothic_kigdom,ostrogothic_kingdom_section,ostrogothic_kingdom_section,ostrogothic_kingdom_section,ostrogothic_kingdom_section,Ostrogothic Kingdom,Ostrogothic Kingdom,Ostrogothic Kingdom,Ostrogothic Kingdom,Ostrogothic Kingdom,
 ostrogothic_kingdom_section,ostrogothic_kingdom_section,ostrogothic_kingdom_section,ostrogothic_kingdom_section,ostrogothic_kingdom_section,Ostrogothic Kingdom,Ostrogothic Kingdom,Ostrogothic Kingdom,Ostrogothic Kingdom,Ostrogothic Kingdom,
 ravenna_city_ostrogothic,ostrogothic_kingdom_section,ostrogothic_kingdom_section,ostrogothic_kingdom_section,ostrogothic_kingdom_section,"Ravenna, City of",Ostrogothic Kingdom,Ostrogothic Kingdom,Ostrogothic Kingdom,Ostrogothic Kingdom,
 rome_city_ostrogothic,ostrogothic_kingdom_section,ostrogothic_kingdom_section,ostrogothic_kingdom_section,ostrogothic_kingdom_section,"Rome, City of",Ostrogothic Kingdom,Ostrogothic Kingdom,Ostrogothic Kingdom,Ostrogothic Kingdom,
 other_world_kingdom,other_world_kingdom,other_world_kingdom,other_world_kingdom,other_world_kingdom,Other World Kingdom,Other World Kingdom,Other World Kingdom,Other World Kingdom,Other World Kingdom,
 ottoman,ottoman,ottoman,ottoman,ottoman,Ottoman Empire,Ottoman Empire,Ottoman Empire,Ottoman Empire,Ottoman Empire,TUR
-pakistan,pakistan,pakistan,pakistan,pakistan,Pakistan,Pakistan,Pakistan,Pakistan,Pakistan,
+pakistan,pakistan,pakistan,pakistan,pakistan,Pakistan,Pakistan,Pakistan,Pakistan,Pakistan,PAK
 palaos,palaos,palaos,palaos,palaos,Palau,Palau,Palau,Palau,Palau,PAU
 palestine_fantasy,palestine_fantasy,palestine_fantasy,palestine_fantasy,palestine_fantasy,Palestine,Palestine,Palestine,Palestine,Palestine,
 panama,panama,panama,panama,panama,Panama,Panama,Panama,Panama,Panama,
@@ -10334,24 +10334,24 @@ dakhla,sahara_occidental,sahara_occidental,sahara_occidental,sahara_occidental,D
 sahara_occidental,sahara_occidental,sahara_occidental,sahara_occidental,sahara_occidental,Western Sahara,Western Sahara,Western Sahara,Western Sahara,Western Sahara,WAA
 wikingland,wikingland,wikingland,wikingland,wikingland,Wikingland,Wikingland,Wikingland,Wikingland,Wikingland,
 nation_of_yan,nation_of_yan,nation_of_yan,nation_of_yan,nation_of_yan,"YAN, Nation of","YAN, Nation of","YAN, Nation of","YAN, Nation of","YAN, Nation of",
-yemen_nord,yemen_section,yemen_section,yemen_section,yemen_section,North Yemen,Yemen,Yemen,Yemen,Yemen,
-arabie_sud,yemen_section,yemen_section,yemen_section,yemen_section,South Arabia,Yemen,Yemen,Yemen,Yemen,
-yemen,yemen_section,yemen_section,yemen_section,yemen_section,Yemen,Yemen,Yemen,Yemen,Yemen,
-yemen_section,yemen_section,yemen_section,yemen_section,yemen_section,Yemen,Yemen,Yemen,Yemen,Yemen,
-yemen_eyalet,yemen_section,yemen_section,yemen_section,yemen_section,Yemen Eyalet,Yemen,Yemen,Yemen,Yemen,
-yemen_sud,yemen_section,yemen_section,yemen_section,yemen_section,"Yemen, People's Democratic Republic of",Yemen,Yemen,Yemen,Yemen,
-qasimid_state,yemen_section,yemen_section,yemen_section,yemen_section,Yemeni Zaidi State,Yemen,Yemen,Yemen,Yemen,
-yemen_etats,yemen_section,yemen_section,yemen_section,yemen_section,Yemenite States,Yemen,Yemen,Yemen,Yemen,
+yemen_nord,yemen_section,yemen_section,yemen_section,yemen_section,North Yemen,Yemen,Yemen,Yemen,Yemen,NYE
+arabie_sud,yemen_section,yemen_section,yemen_section,yemen_section,South Arabia,Yemen,Yemen,Yemen,Yemen,SYE
+yemen,yemen_section,yemen_section,yemen_section,yemen_section,Yemen,Yemen,Yemen,Yemen,Yemen,NYE
+yemen_section,yemen_section,yemen_section,yemen_section,yemen_section,Yemen,Yemen,Yemen,Yemen,Yemen,NYE
+yemen_eyalet,yemen_section,yemen_section,yemen_section,yemen_section,Yemen Eyalet,Yemen,Yemen,Yemen,Yemen,yemen_eyalet
+yemen_sud,yemen_section,yemen_section,yemen_section,yemen_section,"Yemen, People's Democratic Republic of",Yemen,Yemen,Yemen,Yemen,SYE
+qasimid_state,yemen_section,yemen_section,yemen_section,yemen_section,Yemeni Zaidi State,Yemen,Yemen,Yemen,Yemen,qasimid_state
+yemen_etats,yemen_section,yemen_section,yemen_section,yemen_section,Yemenite States,Yemen,Yemen,Yemen,Yemen,NYE
 abu_arish,yemen_etats,yemen_section,yemen_section,yemen_section,"Abu ʽArish, Sheikhdom of",Yemenite States,Yemen,Yemen,Yemen,
 al_zuhra,yemen_etats,yemen_section,yemen_section,yemen_section,Al Zuhra,Yemenite States,Yemen,Yemen,Yemen,
-al_ghurfah,yemen_etats,yemen_section,yemen_section,yemen_section,Al-Ghurfah,Yemenite States,Yemen,Yemen,Yemen,
+al_ghurfah,yemen_etats,yemen_section,yemen_section,yemen_section,Al-Ghurfah,Yemenite States,Yemen,Yemen,Yemen,al_ghurfah
 kathiri_sultanate,yemen_etats,yemen_section,yemen_section,yemen_section,Kathiri Sultanate,Yemenite States,Yemen,Yemen,Yemen,
-lahej_sultanate,yemen_etats,yemen_section,yemen_section,yemen_section,"Lahej, Sultanate of",Yemenite States,Yemen,Yemen,Yemen,
-mukalla,yemen_etats,yemen_section,yemen_section,yemen_section,Mukalla,Yemenite States,Yemen,Yemen,Yemen,
+lahej_sultanate,yemen_etats,yemen_section,yemen_section,yemen_section,"Lahej, Sultanate of",Yemenite States,Yemen,Yemen,Yemen,lahej_sultanate
+mukalla,yemen_etats,yemen_section,yemen_section,yemen_section,Mukalla,Yemenite States,Yemen,Yemen,Yemen,mukalla
 mukhtara,yemen_etats,yemen_section,yemen_section,yemen_section,Mukhtara,Yemenite States,Yemen,Yemen,Yemen,
-quaiti_sultanate,yemen_etats,yemen_section,yemen_section,yemen_section,Qu'aiti Sultanate,Yemenite States,Yemen,Yemen,Yemen,
-ras_bab_al_mandab,yemen_etats,yemen_section,yemen_section,yemen_section,Ra's Bab al-Mandab,Yemenite States,Yemen,Yemen,Yemen,
-tarim,yemen_etats,yemen_section,yemen_section,yemen_section,Tarim,Yemenite States,Yemen,Yemen,Yemen,
+quaiti_sultanate,yemen_etats,yemen_section,yemen_section,yemen_section,Qu'aiti Sultanate,Yemenite States,Yemen,Yemen,Yemen,quaiti_sultanate
+ras_bab_al_mandab,yemen_etats,yemen_section,yemen_section,yemen_section,Ra's Bab al-Mandab,Yemenite States,Yemen,Yemen,Yemen,ras_bab_al_mandab
+tarim,yemen_etats,yemen_section,yemen_section,yemen_section,Tarim,Yemenite States,Yemen,Yemen,Yemen,tarim
 zabid,yemen_etats,yemen_section,yemen_section,yemen_section,Zabid,Yemenite States,Yemen,Yemen,Yemen,
 trieste_territorry_zone_b,yugoslavia_section,yugoslavia_section,yugoslavia_section,yugoslavia_section,Free Territory of Trieste - zone B,Yugoslavia,Yugoslavia,Yugoslavia,Yugoslavia,TRI
 yougoslavie,yugoslavia_section,yugoslavia_section,yugoslavia_section,yugoslavia_section,Yugoslavia,Yugoslavia,Yugoslavia,Yugoslavia,Yugoslavia,YUG
