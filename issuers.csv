@@ -1203,7 +1203,7 @@ azerbaijan,azerbaijan,azerbaijan,azerbaijan,azerbaijan,Azerbaijan,Azerbaijan,Aze
 nakhichevan_republic,azerbaidjan,azerbaijan,azerbaijan,azerbaijan,Nakhchivan Autonomous Republic,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,NAV
 aztecs,aztecs,aztecs,aztecs,aztecs,Aztecs,Aztecs,Aztecs,Aztecs,Aztecs,
 bahamas,bahamas,bahamas,bahamas,bahamas,"Bahamas, The","Bahamas, The","Bahamas, The","Bahamas, The","Bahamas, The",
-bahrein,bahrein,bahrein,bahrein,bahrein,Bahrain,Bahrain,Bahrain,Bahrain,Bahrain,
+bahrein,bahrein,bahrein,bahrein,bahrein,Bahrain,Bahrain,Bahrain,Bahrain,Bahrain,BAH
 baltic_islands,baltic_islands,baltic_islands,baltic_islands,baltic_islands,Baltic Islands,Baltic Islands,Baltic Islands,Baltic Islands,Baltic Islands,
 bangladesh,bangladesh,bangladesh,bangladesh,bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,
 barbade,barbade,barbade,barbade,barbade,Barbados,Barbados,Barbados,Barbados,Barbados,
@@ -8133,8 +8133,8 @@ vila_real_notgeld,vila_real_district_notgeld,portugal-notgeld,portugal_section,p
 mangualde_notgeld,viseu_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Mangualde, Municipality of","Viseu, District of",Portuguese notgeld,Portugal,Portugal,viseu_district_notgeld
 viseu_notgeld,viseu_district_notgeld,portugal-notgeld,portugal_section,portugal_section,"Viseu, Municipality of","Viseu, District of",Portuguese notgeld,Portugal,Portugal,viseu_district_notgeld
 purple_shaftieuland,purple_shaftieuland,purple_shaftieuland,purple_shaftieuland,purple_shaftieuland,Purple Shaftieuland,Purple Shaftieuland,Purple Shaftieuland,Purple Shaftieuland,Purple Shaftieuland,
-qatar,qatar,qatar,qatar,qatar,Qatar,Qatar,Qatar,Qatar,Qatar,
-qatar-et-dubai,qatar-et-dubai,qatar-et-dubai,qatar-et-dubai,qatar-et-dubai,Qatar and Dubai,Qatar and Dubai,Qatar and Dubai,Qatar and Dubai,Qatar and Dubai,
+qatar,qatar,qatar,qatar,qatar,Qatar,Qatar,Qatar,Qatar,Qatar,QAT
+qatar-et-dubai,qatar-et-dubai,qatar-et-dubai,qatar-et-dubai,qatar-et-dubai,Qatar and Dubai,Qatar and Dubai,Qatar and Dubai,Qatar and Dubai,Qatar and Dubai,QDU
 independent_state_of_rainbow_creek,independent_state_of_rainbow_creek,independent_state_of_rainbow_creek,independent_state_of_rainbow_creek,independent_state_of_rainbow_creek,"Rainbow Creek, Independent State of","Rainbow Creek, Independent State of","Rainbow Creek, Independent State of","Rainbow Creek, Independent State of","Rainbow Creek, Independent State of",
 rehoboth_fantasy,rehoboth_fantasy,rehoboth_fantasy,rehoboth_fantasy,rehoboth_fantasy,Rehoboth (fantasy),Rehoboth (fantasy),Rehoboth (fantasy),Rehoboth (fantasy),Rehoboth (fantasy),
 mirage_islands,mirage_islands,mirage_islands,mirage_islands,mirage_islands,Republic of Mirage Islands,Republic of Mirage Islands,Republic of Mirage Islands,Republic of Mirage Islands,Republic of Mirage Islands,
@@ -8532,10 +8532,10 @@ st-lucia,st-lucia,st-lucia,st-lucia,st-lucia,Saint Lucia,Saint Lucia,Saint Lucia
 st-vincent,st-vincent,st-vincent,st-vincent,st-vincent,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,
 samoa,samoa,samoa,samoa,samoa,Samoa,Samoa,Samoa,Samoa,Samoa,MOA
 saint-marin,saint-marin,saint-marin,saint-marin,saint-marin,San Marino,San Marino,San Marino,San Marino,San Marino,SMM
-bani_khalid_emirate,saudi-arabia,saudi-arabia,saudi-arabia,saudi-arabia,Bani Khalid Emirate,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,
+bani_khalid_emirate,saudi-arabia,saudi-arabia,saudi-arabia,saudi-arabia,Bani Khalid Emirate,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,SAU
 hedjaz,saudi-arabia,saudi-arabia,saudi-arabia,saudi-arabia,Hejaz,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,HEJ
 saudi-arabia,saudi-arabia,saudi-arabia,saudi-arabia,saudi-arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,SAU
-arabie_saoudite,saudi-arabia,saudi-arabia,saudi-arabia,saudi-arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,
+arabie_saoudite,saudi-arabia,saudi-arabia,saudi-arabia,saudi-arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,SAU
 free_republic_of_saugeais,free_republic_of_saugeais,free_republic_of_saugeais,free_republic_of_saugeais,free_republic_of_saugeais,"Saugeais, Free Republic of","Saugeais, Free Republic of","Saugeais, Free Republic of","Saugeais, Free Republic of","Saugeais, Free Republic of",
 scadrial,scadrial,scadrial,scadrial,scadrial,Scadrial,Scadrial,Scadrial,Scadrial,Scadrial,
 sealand,sealand,sealand,sealand,sealand,Sealand,Sealand,Sealand,Sealand,Sealand,
@@ -10153,14 +10153,14 @@ UKR,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Transnistria
 ukraine,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,UKR
 ukraine_section,ukraine_section,ukraine_section,ukraine_section,ukraine_section,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,UKR
 uncertain_germanic_tribes,uncertain_germanic_tribes,uncertain_germanic_tribes,uncertain_germanic_tribes,uncertain_germanic_tribes,Uncertain Germanic tribes,Uncertain Germanic tribes,Uncertain Germanic tribes,Uncertain Germanic tribes,Uncertain Germanic tribes,
-abu_dhabi,uae,uae,uae,uae,"Abu Dhabi, Emirate of",United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,
-ajman,uae,uae,uae,uae,Ajman,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,
-fujairah,uae,uae,uae,uae,Fujairah,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,
-ras-al-khaimah,uae,uae,uae,uae,Ras al-Khaimah,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,
-sharjah,uae,uae,uae,uae,Sharjah,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,
-umm-al-qaiwain,uae,uae,uae,uae,Umm Al Qaiwain,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,
-uae,uae,uae,uae,uae,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,
-emirats_arabes_unis,uae,uae,uae,uae,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,
+abu_dhabi,uae,uae,uae,uae,"Abu Dhabi, Emirate of",United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,abu_dhabi
+ajman,uae,uae,uae,uae,Ajman,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,ajman
+fujairah,uae,uae,uae,uae,Fujairah,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,fujairah
+ras-al-khaimah,uae,uae,uae,uae,Ras al-Khaimah,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,ras-al-khaimah
+sharjah,uae,uae,uae,uae,Sharjah,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,sharjah
+umm-al-qaiwain,uae,uae,uae,uae,Umm Al Qaiwain,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,umm-al-qaiwain
+uae,uae,uae,uae,uae,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,UAE
+emirats_arabes_unis,uae,uae,uae,uae,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,UAE
 aurigny,guernsey,british_dependencies,united-kingdom,united-kingdom,Alderney,Guernsey,British Crown dependencies,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",GUE
 guernesey,guernsey,british_dependencies,united-kingdom,united-kingdom,Guernsey,Guernsey,British Crown dependencies,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",GUE
 iles_vierges_britanniques,british-virgin-islands_section,british_territories,united-kingdom,united-kingdom,British Virgin Islands,British Virgin Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
