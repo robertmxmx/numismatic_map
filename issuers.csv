@@ -1571,10 +1571,10 @@ western_liao_dynasty,central-asia,central-asia,central-asia,central-asia,Western
 afrighid_dynasty,choresmia_section,central-asia,central-asia,central-asia,Afrighid dynasty,Choresmia,Central Asia and Caucasia,Central Asia and Caucasia,Central Asia and Caucasia,
 kerder_district,choresmia_section,central-asia,central-asia,central-asia,Kerder district,Choresmia,Central Asia and Caucasia,Central Asia and Caucasia,Central Asia and Caucasia,
 syr_darya_oghuz_state,choresmia_section,central-asia,central-asia,central-asia,Syr Darya Oghuz state,Choresmia,Central Asia and Caucasia,Central Asia and Caucasia,Central Asia and Caucasia,
-bukhara_section,late_central_asia_section,central-asia,central-asia,central-asia,Bukhara,Late Central Asia,Central Asia and Caucasia,Central Asia and Caucasia,Central Asia and Caucasia,
+bukhara_section,late_central_asia_section,central-asia,central-asia,central-asia,Bukhara,Late Central Asia,Central Asia and Caucasia,Central Asia and Caucasia,Central Asia and Caucasia,BUK
 central_asian_cities,late_central_asia_section,central-asia,central-asia,central-asia,Central Asian cities,Late Central Asia,Central Asia and Caucasia,Central Asia and Caucasia,Central Asia and Caucasia,
-khiva_section,late_central_asia_section,central-asia,central-asia,central-asia,Khiva Khanate,Late Central Asia,Central Asia and Caucasia,Central Asia and Caucasia,Central Asia and Caucasia,
-khoqand_khanate,late_central_asia_section,central-asia,central-asia,central-asia,Khoqand Khanate,Late Central Asia,Central Asia and Caucasia,Central Asia and Caucasia,Central Asia and Caucasia,
+khiva_section,late_central_asia_section,central-asia,central-asia,central-asia,Khiva Khanate,Late Central Asia,Central Asia and Caucasia,Central Asia and Caucasia,Central Asia and Caucasia,KHI
+khoqand_khanate,late_central_asia_section,central-asia,central-asia,central-asia,Khoqand Khanate,Late Central Asia,Central Asia and Caucasia,Central Asia and Caucasia,Central Asia and Caucasia,KHO
 shahrisabz_bekdom,late_central_asia_section,central-asia,central-asia,central-asia,"Shahrisabz, Bekdom of",Late Central Asia,Central Asia and Caucasia,Central Asia and Caucasia,Central Asia and Caucasia,
 tashkent_republic,late_central_asia_section,central-asia,central-asia,central-asia,Tashkent Republic,Late Central Asia,Central Asia and Caucasia,Central Asia and Caucasia,Central Asia and Caucasia,
 bukhara_sogd_section,sogdiana_section,central-asia,central-asia,central-asia,Bukhara Sogd,Sogdiana,Central Asia and Caucasia,Central Asia and Caucasia,Central Asia and Caucasia,
@@ -6465,7 +6465,7 @@ jind_princely_state,inde_princiers,india,india,india,"Jind, Princely state of",I
 jodhpur_section,inde_princiers,india,india,india,"Jodhpur, Princely state of",Indian princely states,India,India,India,
 junagadh_princely_state,inde_princiers,india,india,india,"Junagadh, Princely state of",Indian princely states,India,India,India,
 kaithal_princely,inde_princiers,india,india,india,"Kaithal, Princely state of",Indian princely states,India,India,India,
-kalat_princely,inde_princiers,india,india,india,"Kalat, Princely state of",Indian princely states,India,India,India,
+kalat_princely,inde_princiers,india,india,india,"Kalat, Princely state of",Indian princely states,India,India,India,kalat_princely
 karauli_princely_state,inde_princiers,india,india,india,"Karauli, Princely state of",Indian princely states,India,India,India,
 khadal_princely,inde_princiers,india,india,india,"Khadal, Princely state of",Indian princely states,India,India,India,
 khairpur_princely,inde_princiers,india,india,india,"Khairpur, Princely state of",Indian princely states,India,India,India,
