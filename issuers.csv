@@ -141,27 +141,27 @@ sabaean_kingdom,arabia_ancient_south,arabia_ancient,arabia_ancient,arabia_ancien
 republic_of_ararat,republic_of_ararat,republic_of_ararat,republic_of_ararat,republic_of_ararat,"Ararat, Republic of","Ararat, Republic of","Ararat, Republic of","Ararat, Republic of","Ararat, Republic of",
 araucanie_et_patagonie,araucanie_et_patagonie,araucanie_et_patagonie,araucanie_et_patagonie,araucanie_et_patagonie,"Araucanía and Patagonia, Kingdom of ","Araucanía and Patagonia, Kingdom of ","Araucanía and Patagonia, Kingdom of ","Araucanía and Patagonia, Kingdom of ","Araucanía and Patagonia, Kingdom of ",
 arctic_territories,arctic_territories,arctic_territories,arctic_territories,arctic_territories,Arctic Territories,Arctic Territories,Arctic Territories,Arctic Territories,Arctic Territories,
-argentina,argentina,argentina,argentina,argentina,Argentina,Argentina,Argentina,Argentina,Argentina,
-argentine,argentina,argentina,argentina,argentina,Argentina,Argentina,Argentina,Argentina,Argentina,
-argentine-provinces,argentina,argentina,argentina,argentina,Argentine provinces,Argentina,Argentina,Argentina,Argentina,
-confederacion_argentina,argentine-provinces,argentina,argentina,argentina,Argentine Confederation,Argentine provinces,Argentina,Argentina,Argentina,
-buenos_aires,argentine-provinces,argentina,argentina,argentina,Buenos Aires,Argentine provinces,Argentina,Argentina,Argentina,
-cordoba,argentine-provinces,argentina,argentina,argentina,Córdoba,Argentine provinces,Argentina,Argentina,Argentina,
-catamarca,argentine-provinces,argentina,argentina,argentina,Catamarca,Argentine provinces,Argentina,Argentina,Argentina,
-chaco_province,argentine-provinces,argentina,argentina,argentina,Chaco,Argentine provinces,Argentina,Argentina,Argentina,
-corrientes,argentine-provinces,argentina,argentina,argentina,Corrientes,Argentine provinces,Argentina,Argentina,Argentina,
-entre_rios,argentine-provinces,argentina,argentina,argentina,Entre Ríos,Argentine provinces,Argentina,Argentina,Argentina,
-formosa_argentine,argentine-provinces,argentina,argentina,argentina,Formosa,Argentine provinces,Argentina,Argentina,Argentina,
-jujuy,argentine-provinces,argentina,argentina,argentina,Jujuy,Argentine provinces,Argentina,Argentina,Argentina,
-la_rioja,argentine-provinces,argentina,argentina,argentina,La Rioja,Argentine provinces,Argentina,Argentina,Argentina,
-mendoza,argentine-provinces,argentina,argentina,argentina,Mendoza,Argentine provinces,Argentina,Argentina,Argentina,
-rio_negro_province,argentine-provinces,argentina,argentina,argentina,Río Negro,Argentine provinces,Argentina,Argentina,Argentina,
-salta,argentine-provinces,argentina,argentina,argentina,Salta,Argentine provinces,Argentina,Argentina,Argentina,
-san_juan,argentine-provinces,argentina,argentina,argentina,San Juan,Argentine provinces,Argentina,Argentina,Argentina,
-san_luis_province,argentine-provinces,argentina,argentina,argentina,San Luis,Argentine provinces,Argentina,Argentina,Argentina,
-santiago_del_estero_province,argentine-provinces,argentina,argentina,argentina,Santiago del Estero,Argentine provinces,Argentina,Argentina,Argentina,
-tierra_del_fuego,argentine-provinces,argentina,argentina,argentina,Tierra del Fuego,Argentine provinces,Argentina,Argentina,Argentina,
-tucuman,argentine-provinces,argentina,argentina,argentina,Tucuman,Argentine provinces,Argentina,Argentina,Argentina,
+argentina,argentina,argentina,argentina,argentina,Argentina,Argentina,Argentina,Argentina,Argentina,ARG
+argentine,argentina,argentina,argentina,argentina,Argentina,Argentina,Argentina,Argentina,Argentina,ARG
+argentine-provinces,argentina,argentina,argentina,argentina,Argentine provinces,Argentina,Argentina,Argentina,Argentina,ARG
+confederacion_argentina,argentine-provinces,argentina,argentina,argentina,Argentine Confederation,Argentine provinces,Argentina,Argentina,Argentina,ARG
+buenos_aires,argentine-provinces,argentina,argentina,argentina,Buenos Aires,Argentine provinces,Argentina,Argentina,Argentina,buenos_aires
+cordoba,argentine-provinces,argentina,argentina,argentina,Córdoba,Argentine provinces,Argentina,Argentina,Argentina,cordoba
+catamarca,argentine-provinces,argentina,argentina,argentina,Catamarca,Argentine provinces,Argentina,Argentina,Argentina,catamarca
+chaco_province,argentine-provinces,argentina,argentina,argentina,Chaco,Argentine provinces,Argentina,Argentina,Argentina,chaco_province
+corrientes,argentine-provinces,argentina,argentina,argentina,Corrientes,Argentine provinces,Argentina,Argentina,Argentina,corrientes
+entre_rios,argentine-provinces,argentina,argentina,argentina,Entre Ríos,Argentine provinces,Argentina,Argentina,Argentina,entre_rios
+formosa_argentine,argentine-provinces,argentina,argentina,argentina,Formosa,Argentine provinces,Argentina,Argentina,Argentina,formosa_argentine
+jujuy,argentine-provinces,argentina,argentina,argentina,Jujuy,Argentine provinces,Argentina,Argentina,Argentina,jujuy
+la_rioja,argentine-provinces,argentina,argentina,argentina,La Rioja,Argentine provinces,Argentina,Argentina,Argentina,la_rioja
+mendoza,argentine-provinces,argentina,argentina,argentina,Mendoza,Argentine provinces,Argentina,Argentina,Argentina,mendoza
+rio_negro_province,argentine-provinces,argentina,argentina,argentina,Río Negro,Argentine provinces,Argentina,Argentina,Argentina,rio_negro_province
+salta,argentine-provinces,argentina,argentina,argentina,Salta,Argentine provinces,Argentina,Argentina,Argentina,salta
+san_juan,argentine-provinces,argentina,argentina,argentina,San Juan,Argentine provinces,Argentina,Argentina,Argentina,san_juan
+san_luis_province,argentine-provinces,argentina,argentina,argentina,San Luis,Argentine provinces,Argentina,Argentina,Argentina,san_luis_province
+santiago_del_estero_province,argentine-provinces,argentina,argentina,argentina,Santiago del Estero,Argentine provinces,Argentina,Argentina,Argentina,santiago_del_estero_province
+tierra_del_fuego,argentine-provinces,argentina,argentina,argentina,Tierra del Fuego,Argentine provinces,Argentina,Argentina,Argentina,tierra_del_fuego
+tucuman,argentine-provinces,argentina,argentina,argentina,Tucuman,Argentine provinces,Argentina,Argentina,Argentina,tucuman
 armenie,armenie,armenie,armenie,armenie,Armenia,Armenia,Armenia,Armenia,Armenia,ARM
 haut-karabagh,haut-karabagh,haut-karabagh,haut-karabagh,haut-karabagh,Artsakh,Artsakh,Artsakh,Artsakh,Artsakh,ART
 atlantis,atlantis,atlantis,atlantis,atlantis,Atlantis,Atlantis,Atlantis,Atlantis,Atlantis,
@@ -1340,7 +1340,7 @@ troppau_city,silesia_section,bohemia_section,bohemia_section,bohemia_section,"Tr
 troppau,silesia_section,bohemia_section,bohemia_section,bohemia_section,"Troppau, Duchy of",Silesia,Bohemia,Bohemia,Bohemia,
 wurtenmberg-oels,silesia_section,bohemia_section,bohemia_section,bohemia_section,"Württemberg-Oels, Duchy of",Silesia,Bohemia,Bohemia,Bohemia,
 wohlau_city,silesia_section,bohemia_section,bohemia_section,bohemia_section,"Wohlau, City of",Silesia,Bohemia,Bohemia,Bohemia,
-bolivie,bolivie,bolivie,bolivie,bolivie,Bolivia,Bolivia,Bolivia,Bolivia,Bolivia,
+bolivie,bolivie,bolivie,bolivie,bolivie,Bolivia,Bolivia,Bolivia,Bolivia,Bolivia,BOL
 bosnia_herzegovina_section,bosnia_herzegovina_section,bosnia_herzegovina_section,bosnia_herzegovina_section,bosnia_herzegovina_section,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,BHZ
 bosnie-herzegovine,bosnia_herzegovina_section,bosnia_herzegovina_section,bosnia_herzegovina_section,bosnia_herzegovina_section,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,BHZ
 bosnia_kingdom,bosnia_herzegovina_section,bosnia_herzegovina_section,bosnia_herzegovina_section,bosnia_herzegovina_section,"Bosnia, Kingdom of",Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,BHZ
@@ -1647,12 +1647,12 @@ tchad,tchad,tchad,tchad,tchad,Chad,Chad,Chad,Chad,Chad,TCH
 chile_section,chile_section,chile_section,chile_section,chile_section,Chile,Chile,Chile,Chile,Chile,CHL
 chili,chile_section,chile_section,chile_section,chile_section,Chile,Chile,Chile,Chile,Chile,CHL
 chile_states,chile_section,chile_section,chile_section,chile_section,Chilian States,Chile,Chile,Chile,Chile,CHL
-chiloe_island,chile_states,chile_section,chile_section,chile_section,Chiloé Island,Chilian States,Chile,Chile,Chile,CHL
-copiapo_city,chile_states,chile_section,chile_section,chile_section,"Copiapó, City of",Chilian States,Chile,Chile,Chile,CHL
+chiloe_island,chile_states,chile_section,chile_section,chile_section,Chiloé Island,Chilian States,Chile,Chile,Chile,chiloe_island
+copiapo_city,chile_states,chile_section,chile_section,chile_section,"Copiapó, City of",Chilian States,Chile,Chile,Chile,copiapo_city
 easter_island,chile_states,chile_section,chile_section,chile_section,Easter Island,Chilian States,Chile,Chile,Chile,EAA
-san_bernardo_de_maypo,chile_states,chile_section,chile_section,chile_section,San Bernardo de Maypo,Chilian States,Chile,Chile,Chile,CHL
-tarapaca_region,chile_states,chile_section,chile_section,chile_section,Tarapacá Region,Chilian States,Chile,Chile,Chile,CHL
-valdivia_city,chile_states,chile_section,chile_section,chile_section,"Valdivia, City of",Chilian States,Chile,Chile,Chile,CHL
+san_bernardo_de_maypo,chile_states,chile_section,chile_section,chile_section,San Bernardo de Maypo,Chilian States,Chile,Chile,Chile,san_bernardo_de_maypo
+tarapaca_region,chile_states,chile_section,chile_section,chile_section,Tarapacá Region,Chilian States,Chile,Chile,Chile,tarapaca_region
+valdivia_city,chile_states,chile_section,chile_section,chile_section,"Valdivia, City of",Chilian States,Chile,Chile,Chile,valdivia_city
 china,china,china,china,china,China,China,China,China,China,CHI
 china_empire_section,china,china,china,china,"China, Empire of",China,China,China,China,CHI
 chine_japon,china,china,china,china,"China, Japanese puppet states in",China,China,China,China,CHI
@@ -7836,9 +7836,9 @@ nouvelle_guinee,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-gui
 papouasie-nouvelle-guinee,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,PTT
 papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,PTT
 papua_territory,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,"Papua, Territory of",Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,PPT
-paraguay,paraguay_section,paraguay_section,paraguay_section,paraguay_section,Paraguay,Paraguay,Paraguay,Paraguay,Paraguay,
-paraguay_section,paraguay_section,paraguay_section,paraguay_section,paraguay_section,Paraguay,Paraguay,Paraguay,Paraguay,Paraguay,
-paraguay_western_dept,paraguay_section,paraguay_section,paraguay_section,paraguay_section,Western Department,Paraguay,Paraguay,Paraguay,Paraguay,
+paraguay,paraguay_section,paraguay_section,paraguay_section,paraguay_section,Paraguay,Paraguay,Paraguay,Paraguay,Paraguay,PRG
+paraguay_section,paraguay_section,paraguay_section,paraguay_section,paraguay_section,Paraguay,Paraguay,Paraguay,Paraguay,Paraguay,PRG
+paraguay_western_dept,paraguay_section,paraguay_section,paraguay_section,paraguay_section,Western Department,Paraguay,Paraguay,Paraguay,Paraguay,PRG
 parva_domus,parva_domus,parva_domus,parva_domus,parva_domus,Parva Domus,Parva Domus,Parva Domus,Parva Domus,Parva Domus,
 pemba_sultanate,pemba_sultanate,pemba_sultanate,pemba_sultanate,pemba_sultanate,"Pemba, Sultanate of","Pemba, Sultanate of","Pemba, Sultanate of","Pemba, Sultanate of","Pemba, Sultanate of",
 caria_satrapy,persian-satrapies,achaemenid_section,persia,persia,"Caria, Achaemenid Satrapy of",Achaemenid Satrapies,Achaemenid Empire (559 BC - 330 BC),Persian Empires,Persian Empires,
