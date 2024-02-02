@@ -26,9 +26,9 @@ herat,afghan_states,afghanistan_section,afghanistan_section,afghanistan_section,
 kashmir_valley,afghan_states,afghanistan_section,afghanistan_section,afghanistan_section,Kashmir Valley,Afghan States,Afghanistan,Afghanistan,Afghanistan,
 punjab,afghan_states,afghanistan_section,afghanistan_section,afghanistan_section,Punjab,Afghan States,Afghanistan,Afghanistan,Afghanistan,
 qandahar_principality,afghan_states,afghanistan_section,afghanistan_section,afghanistan_section,Qandahar,Afghan States,Afghanistan,Afghanistan,Afghanistan,
-afghan_states,afghanistan_section,afghanistan_section,afghanistan_section,afghanistan_section,Afghan States,Afghanistan,Afghanistan,Afghanistan,Afghanistan,
-afghanistan,afghanistan_section,afghanistan_section,afghanistan_section,afghanistan_section,Afghanistan,Afghanistan,Afghanistan,Afghanistan,Afghanistan,
-afghanistan_section,afghanistan_section,afghanistan_section,afghanistan_section,afghanistan_section,Afghanistan,Afghanistan,Afghanistan,Afghanistan,Afghanistan,
+afghan_states,afghanistan_section,afghanistan_section,afghanistan_section,afghanistan_section,Afghan States,Afghanistan,Afghanistan,Afghanistan,Afghanistan,AFG
+afghanistan,afghanistan_section,afghanistan_section,afghanistan_section,afghanistan_section,Afghanistan,Afghanistan,Afghanistan,Afghanistan,Afghanistan,AFG
+afghanistan_section,afghanistan_section,afghanistan_section,afghanistan_section,afghanistan_section,Afghanistan,Afghanistan,Afghanistan,Afghanistan,Afghanistan,AFG
 african_tribes,african_tribes,african_tribes,african_tribes,african_tribes,African tribes,African tribes,African tribes,African tribes,African tribes,
 bakyiele_tribe,african_tribes,african_tribes,african_tribes,african_tribes,Bakyiele tribe,African tribes,African tribes,African tribes,African tribes,
 briffo_tribe,african_tribes,african_tribes,african_tribes,african_tribes,Briffo tribe,African tribes,African tribes,African tribes,African tribes,
@@ -1205,7 +1205,7 @@ aztecs,aztecs,aztecs,aztecs,aztecs,Aztecs,Aztecs,Aztecs,Aztecs,Aztecs,
 bahamas,bahamas,bahamas,bahamas,bahamas,"Bahamas, The","Bahamas, The","Bahamas, The","Bahamas, The","Bahamas, The",BMM
 bahrein,bahrein,bahrein,bahrein,bahrein,Bahrain,Bahrain,Bahrain,Bahrain,Bahrain,BAH
 baltic_islands,baltic_islands,baltic_islands,baltic_islands,baltic_islands,Baltic Islands,Baltic Islands,Baltic Islands,Baltic Islands,Baltic Islands,
-bangladesh,bangladesh,bangladesh,bangladesh,bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,
+bangladesh,bangladesh,bangladesh,bangladesh,bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,BBG
 barbade,barbade,barbade,barbade,barbade,Barbados,Barbados,Barbados,Barbados,Barbados,BBD
 barsoom,barsoom,barsoom,barsoom,barsoom,Barsoom,Barsoom,Barsoom,Barsoom,Barsoom,
 bielorussie,bielorussie,bielorussie,bielorussie,bielorussie,Belarus,Belarus,Belarus,Belarus,Belarus,BLS
@@ -10121,7 +10121,7 @@ suisse,switzerland_group,switzerland,switzerland,switzerland,Switzerland (1848-d
 syrie,syrie,syrie,syrie,syrie,Syria,Syria,Syria,Syria,Syria,SYR
 ultimate_state_of_taedivm,ultimate_state_of_taedivm,ultimate_state_of_taedivm,ultimate_state_of_taedivm,ultimate_state_of_taedivm,"Tædivm, The Ultimate State of","Tædivm, The Ultimate State of","Tædivm, The Ultimate State of","Tædivm, The Ultimate State of","Tædivm, The Ultimate State of",
 taiwan,taiwan,taiwan,taiwan,taiwan,Taiwan,Taiwan,Taiwan,Taiwan,Taiwan,TAI
-tadjikistan,tadjikistan,tadjikistan,tadjikistan,tadjikistan,Tajikistan,Tajikistan,Tajikistan,Tajikistan,Tajikistan,
+tadjikistan,tadjikistan,tadjikistan,tadjikistan,tadjikistan,Tajikistan,Tajikistan,Tajikistan,Tajikistan,Tajikistan,TAJ
 mafia_island,tanzania,tanzania,tanzania,tanzania,Mafia Island,Tanzania,Tanzania,Tanzania,Tanzania,
 tanzania,tanzania,tanzania,tanzania,tanzania,Tanzania,Tanzania,Tanzania,Tanzania,Tanzania,TZZ
 tanzanie,tanzania,tanzania,tanzania,tanzania,Tanzania,Tanzania,Tanzania,Tanzania,Tanzania,TZZ
@@ -10145,7 +10145,7 @@ trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,tr
 cartago,tunisie,tunisie,tunisie,tunisie,Carthage,Tunisia,Tunisia,Tunisia,Tunisia,TIS
 tunisie,tunisie,tunisie,tunisie,tunisie,Tunisia,Tunisia,Tunisia,Tunisia,Tunisia,TIS
 turquie,turquie,turquie,turquie,turquie,Turkey,Turkey,Turkey,Turkey,Turkey,TUR
-turkmenistan,turkmenistan,turkmenistan,turkmenistan,turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,
+turkmenistan,turkmenistan,turkmenistan,turkmenistan,turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,TKM
 tuvalu,tuvalu,tuvalu,tuvalu,tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,TVV
 vaitupu,tuvalu,tuvalu,tuvalu,tuvalu,Vaitupu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,TVV
 ouganda,ouganda,ouganda,ouganda,ouganda,Uganda,Uganda,Uganda,Uganda,Uganda,UGA
@@ -10249,7 +10249,7 @@ us_virgin_islands_period,antilles_danoises,united-states,united-states,united-st
 unknown,unknown,unknown,unknown,unknown,Unknown,Unknown,Unknown,Unknown,Unknown,
 upper_senegal_and_niger,upper_senegal_and_niger,upper_senegal_and_niger,upper_senegal_and_niger,upper_senegal_and_niger,Upper Senegal and Niger,Upper Senegal and Niger,Upper Senegal and Niger,Upper Senegal and Niger,Upper Senegal and Niger,
 uruguay,uruguay,uruguay,uruguay,uruguay,Uruguay,Uruguay,Uruguay,Uruguay,Uruguay,URU
-uzbekistan_section,uzbekistan_section,uzbekistan_section,uzbekistan_section,uzbekistan_section,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,
+uzbekistan_section,uzbekistan_section,uzbekistan_section,uzbekistan_section,uzbekistan_section,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,UZB
 ouzbekistan,uzbekistan_section,uzbekistan_section,uzbekistan_section,uzbekistan_section,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,
 valemaa,valemaa,valemaa,valemaa,valemaa,Valemaa,Valemaa,Valemaa,Valemaa,Valemaa,
 carthage_vandal,kingdom_vandal_section,kingdom_vandal_section,kingdom_vandal_section,kingdom_vandal_section,"Carthage, Vandal City of",Vandal Kingdom,Vandal Kingdom,Vandal Kingdom,Vandal Kingdom,
