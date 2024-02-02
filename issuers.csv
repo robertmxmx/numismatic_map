@@ -1267,10 +1267,10 @@ belgium-feudal,belgium,belgium,belgium,belgium,Belgian States,Belgium,Belgium,Be
 belgique,belgium,belgium,belgium,belgium,Belgium,Belgium,Belgium,Belgium,Belgium,BEL
 belgium,belgium,belgium,belgium,belgium,Belgium,Belgium,Belgium,Belgium,Belgium,BEL
 spanish_netherlands_belgium_section,belgium,belgium,belgium,belgium,Spanish Netherlands (Belgium),Belgium,Belgium,Belgium,Belgium,BEL
-belize,belize,belize,belize,belize,Belize,Belize,Belize,Belize,Belize,
-belize_period,belize,belize,belize,belize,Belize (1973-date),Belize,Belize,Belize,Belize,
-british_honduras_period,belize,belize,belize,belize,British Honduras (1862-1973),Belize,Belize,Belize,Belize,
-bay_of_honduras_period,belize,belize,belize,belize,British Settlements on the Bay of Honduras (1783-1862),Belize,Belize,Belize,Belize,
+belize,belize,belize,belize,belize,Belize,Belize,Belize,Belize,Belize,BLL
+belize_period,belize,belize,belize,belize,Belize (1973-date),Belize,Belize,Belize,Belize,BLL
+british_honduras_period,belize,belize,belize,belize,British Honduras (1862-1973),Belize,Belize,Belize,Belize,BLL
+bay_of_honduras_period,belize,belize,belize,belize,British Settlements on the Bay of Honduras (1783-1862),Belize,Belize,Belize,Belize,BLL
 benelux,benelux,benelux,benelux,benelux,Benelux,Benelux,Benelux,Benelux,Benelux,
 benin_section,benin_section,benin_section,benin_section,benin_section,Benin,Benin,Benin,Benin,Benin,BNN
 benin,benin_section,benin_section,benin_section,benin_section,Benin (1975-date),Benin,Benin,Benin,Benin,BNN
@@ -1389,20 +1389,20 @@ khmer_empire,cambodia_section,cambodia_section,cambodia_section,cambodia_section
 cameroon_section,cameroon_section,cameroon_section,cameroon_section,cameroon_section,Cameroon,Cameroon,Cameroon,Cameroon,Cameroon,CMM
 cameroun,cameroon_section,cameroon_section,cameroon_section,cameroon_section,Cameroon (1960-date),Cameroon,Cameroon,Cameroon,Cameroon,CMM
 cameroon_french,cameroon_section,cameroon_section,cameroon_section,cameroon_section,French Cameroon (1916-1960),Cameroon,Cameroon,Cameroon,Cameroon,CMM
-canada,canada_section,canada_section,canada_section,canada_section,Canada,Canada,Canada,Canada,Canada,
-canada_section,canada_section,canada_section,canada_section,canada_section,Canada,Canada,Canada,Canada,Canada,
-canada-provinces,canada_section,canada_section,canada_section,canada_section,Canadian provinces,Canada,Canada,Canada,Canada,
+canada,canada_section,canada_section,canada_section,canada_section,Canada,Canada,Canada,Canada,Canada,CAN
+canada_section,canada_section,canada_section,canada_section,canada_section,Canada,Canada,Canada,Canada,Canada,CAN
+canada-provinces,canada_section,canada_section,canada_section,canada_section,Canadian provinces,Canada,Canada,Canada,Canada,CAN
 lasqueti_island,canada_section,canada_section,canada_section,canada_section,Lasqueti Island,Canada,Canada,Canada,Canada,
-alberta_province,canada-provinces,canada_section,canada_section,canada_section,Alberta,Canadian provinces,Canada,Canada,Canada,
-british_columbia_province,canada-provinces,canada_section,canada_section,canada_section,British Columbia,Canadian provinces,Canada,Canada,Canada,
-canada-uni_province,canada-provinces,canada_section,canada_section,canada_section,"Canada, United Province of",Canadian provinces,Canada,Canada,Canada,
-lower_canada_province,canada-provinces,canada_section,canada_section,canada_section,Lower Canada,Canadian provinces,Canada,Canada,Canada,
-new_brunswick_province,canada-provinces,canada_section,canada_section,canada_section,New Brunswick,Canadian provinces,Canada,Canada,Canada,
+alberta_province,canada-provinces,canada_section,canada_section,canada_section,Alberta,Canadian provinces,Canada,Canada,Canada,ABB
+british_columbia_province,canada-provinces,canada_section,canada_section,canada_section,British Columbia,Canadian provinces,Canada,Canada,Canada,BCC
+canada-uni_province,canada-provinces,canada_section,canada_section,canada_section,"Canada, United Province of",Canadian provinces,Canada,Canada,Canada,CAN
+lower_canada_province,canada-provinces,canada_section,canada_section,canada_section,Lower Canada,Canadian provinces,Canada,Canada,Canada,LCA
+new_brunswick_province,canada-provinces,canada_section,canada_section,canada_section,New Brunswick,Canadian provinces,Canada,Canada,Canada,NBA
 new_france_province,canada-provinces,canada_section,canada_section,canada_section,New France,Canadian provinces,Canada,Canada,Canada,
-newfoundland,canada-provinces,canada_section,canada_section,canada_section,Newfoundland,Canadian provinces,Canada,Canada,Canada,
-nova_scotia_province,canada-provinces,canada_section,canada_section,canada_section,Nova Scotia,Canadian provinces,Canada,Canada,Canada,
-pei_province,canada-provinces,canada_section,canada_section,canada_section,Prince Edward Island,Canadian provinces,Canada,Canada,Canada,
-upper_canada_province,canada-provinces,canada_section,canada_section,canada_section,Upper Canada,Canadian provinces,Canada,Canada,Canada,
+newfoundland,canada-provinces,canada_section,canada_section,canada_section,Newfoundland,Canadian provinces,Canada,Canada,Canada,NFA
+nova_scotia_province,canada-provinces,canada_section,canada_section,canada_section,Nova Scotia,Canadian provinces,Canada,Canada,Canada,NVO
+pei_province,canada-provinces,canada_section,canada_section,canada_section,Prince Edward Island,Canadian provinces,Canada,Canada,Canada,PEI
+upper_canada_province,canada-provinces,canada_section,canada_section,canada_section,Upper Canada,Canadian provinces,Canada,Canada,Canada,UCA
 cap-vert,cap-vert,cap-vert,cap-vert,cap-vert,Cape Verde,Cape Verde,Cape Verde,Cape Verde,Cape Verde,CVV
 carolingian_empire_section,carolingian_empire_section,carolingian_empire_section,carolingian_empire_section,carolingian_empire_section,Carolingian Empire,Carolingian Empire,Carolingian Empire,Carolingian Empire,Carolingian Empire,
 carolingian_states,carolingian_empire_section,carolingian_empire_section,carolingian_empire_section,carolingian_empire_section,Carolingian States,Carolingian Empire,Carolingian Empire,Carolingian Empire,Carolingian Empire,
@@ -1644,15 +1644,15 @@ termez_city,northern_tokharistan_section,tokharistan_section,central-asia,centra
 vakhsh_valley,northern_tokharistan_section,tokharistan_section,central-asia,central-asia,Vakhsh Valley,Northern Tokharistan,Tokharistan,Central Asia and Caucasia,Central Asia and Caucasia,
 ceylon_fantasy,ceylon_fantasy,ceylon_fantasy,ceylon_fantasy,ceylon_fantasy,Ceylon (fantasy),Ceylon (fantasy),Ceylon (fantasy),Ceylon (fantasy),Ceylon (fantasy),SRI
 tchad,tchad,tchad,tchad,tchad,Chad,Chad,Chad,Chad,Chad,TCH
-chile_section,chile_section,chile_section,chile_section,chile_section,Chile,Chile,Chile,Chile,Chile,
-chili,chile_section,chile_section,chile_section,chile_section,Chile,Chile,Chile,Chile,Chile,
-chile_states,chile_section,chile_section,chile_section,chile_section,Chilian States,Chile,Chile,Chile,Chile,
-chiloe_island,chile_states,chile_section,chile_section,chile_section,Chiloé Island,Chilian States,Chile,Chile,Chile,
-copiapo_city,chile_states,chile_section,chile_section,chile_section,"Copiapó, City of",Chilian States,Chile,Chile,Chile,
-easter_island,chile_states,chile_section,chile_section,chile_section,Easter Island,Chilian States,Chile,Chile,Chile,
-san_bernardo_de_maypo,chile_states,chile_section,chile_section,chile_section,San Bernardo de Maypo,Chilian States,Chile,Chile,Chile,
-tarapaca_region,chile_states,chile_section,chile_section,chile_section,Tarapacá Region,Chilian States,Chile,Chile,Chile,
-valdivia_city,chile_states,chile_section,chile_section,chile_section,"Valdivia, City of",Chilian States,Chile,Chile,Chile,
+chile_section,chile_section,chile_section,chile_section,chile_section,Chile,Chile,Chile,Chile,Chile,CHL
+chili,chile_section,chile_section,chile_section,chile_section,Chile,Chile,Chile,Chile,Chile,CHL
+chile_states,chile_section,chile_section,chile_section,chile_section,Chilian States,Chile,Chile,Chile,Chile,CHL
+chiloe_island,chile_states,chile_section,chile_section,chile_section,Chiloé Island,Chilian States,Chile,Chile,Chile,CHL
+copiapo_city,chile_states,chile_section,chile_section,chile_section,"Copiapó, City of",Chilian States,Chile,Chile,Chile,CHL
+easter_island,chile_states,chile_section,chile_section,chile_section,Easter Island,Chilian States,Chile,Chile,Chile,EAA
+san_bernardo_de_maypo,chile_states,chile_section,chile_section,chile_section,San Bernardo de Maypo,Chilian States,Chile,Chile,Chile,CHL
+tarapaca_region,chile_states,chile_section,chile_section,chile_section,Tarapacá Region,Chilian States,Chile,Chile,Chile,CHL
+valdivia_city,chile_states,chile_section,chile_section,chile_section,"Valdivia, City of",Chilian States,Chile,Chile,Chile,CHL
 china,china,china,china,china,China,China,China,China,China,CHI
 china_empire_section,china,china,china,china,"China, Empire of",China,China,China,China,CHI
 chine_japon,china,china,china,china,"China, Japanese puppet states in",China,China,China,China,CHI
@@ -1801,9 +1801,9 @@ zhongshan_state,warring_states,china_ancient_section,china_ancient_section,china
 zhou_domain,warring_states,china_ancient_section,china_ancient_section,china_ancient_section,"Zhou, Royal domain of",Warring States,China (ancient),China (ancient),China (ancient),
 christiania,christiania,christiania,christiania,christiania,Christiania,Christiania,Christiania,Christiania,Christiania,
 cimmerians,cimmerians,cimmerians,cimmerians,cimmerians,Cimmerians,Cimmerians,Cimmerians,Cimmerians,Cimmerians,
-colombia_section,colombia_section,colombia_section,colombia_section,colombia_section,Colombia,Colombia,Colombia,Colombia,Colombia,
-colombie,colombia_section,colombia_section,colombia_section,colombia_section,Colombia,Colombia,Colombia,Colombia,Colombia,
-colombian_states,colombia_section,colombia_section,colombia_section,colombia_section,Colombian states,Colombia,Colombia,Colombia,Colombia,
+colombia_section,colombia_section,colombia_section,colombia_section,colombia_section,Colombia,Colombia,Colombia,Colombia,Colombia,CLM
+colombie,colombia_section,colombia_section,colombia_section,colombia_section,Colombia,Colombia,Colombia,Colombia,Colombia,CLM
+colombian_states,colombia_section,colombia_section,colombia_section,colombia_section,Colombian states,Colombia,Colombia,Colombia,Colombia,CLM
 sapsc,colombie,colombia_section,colombia_section,colombia_section,"San Andres, Providencia and Santa Catalina",Colombia,Colombia,Colombia,Colombia,
 antioquia_state,colombian_states,colombia_section,colombia_section,colombia_section,"Antioquia, State of",Colombian states,Colombia,Colombia,Colombia,
 bolivar_state,colombian_states,colombia_section,colombia_section,colombia_section,"Bolívar, State of",Colombian states,Colombia,Colombia,Colombia,
@@ -1833,8 +1833,8 @@ zaire_period,republique_democratique_du_congo,drc,drc,drc,Zaire (1971-1997),"Con
 congo-brazzaville,congo-brazzaville,congo-brazzaville,congo-brazzaville,congo-brazzaville,"Congo, Republic of the","Congo, Republic of the","Congo, Republic of the","Congo, Republic of the","Congo, Republic of the",CNG
 iles_cook,iles_cook,iles_cook,iles_cook,iles_cook,Cook Islands,Cook Islands,Cook Islands,Cook Islands,Cook Islands,COO
 suwarrow,iles_cook,iles_cook,iles_cook,iles_cook,Suwarrow,Cook Islands,Cook Islands,Cook Islands,Cook Islands,COO
-isla_del_coco,costa_rica,costa_rica,costa_rica,costa_rica,Cocos Island,Costa Rica,Costa Rica,Costa Rica,Costa Rica,
-costa_rica,costa_rica,costa_rica,costa_rica,costa_rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,
+isla_del_coco,costa_rica,costa_rica,costa_rica,costa_rica,Cocos Island,Costa Rica,Costa Rica,Costa Rica,Costa Rica,COS
+costa_rica,costa_rica,costa_rica,costa_rica,costa_rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,COS
 countries,countries,countries,countries,countries,Countries and territories,Countries and territories,Countries and territories,Countries and territories,Countries and territories,
 crimea,crimea,crimea,crimea,crimea,"Crimea, Khanate of","Crimea, Khanate of","Crimea, Khanate of","Crimea, Khanate of","Crimea, Khanate of",
 crimean_goths_section,crimean_goths_section,crimean_goths_section,crimean_goths_section,crimean_goths_section,Crimean Goths,Crimean Goths,Crimean Goths,Crimean Goths,Crimean Goths,
@@ -1992,7 +1992,7 @@ ptolemaic_kingdom_section,egypt_ancient_section,egypt_ancient_section,egypt_anci
 ptolemaic_kingdom,ptolemaic_kingdom_section,egypt_ancient_section,egypt_ancient_section,egypt_ancient_section,Ptolemaic Kingdom,Ptolemaic Kingdom (305 BC - 30 BC),Egypt (ancient),Egypt (ancient),Egypt (ancient),
 ptolemaic_sicily,ptolemaic_kingdom_section,egypt_ancient_section,egypt_ancient_section,egypt_ancient_section,"Sicily, Ptolemaic",Ptolemaic Kingdom (305 BC - 30 BC),Egypt (ancient),Egypt (ancient),Egypt (ancient),
 ptolemaic_barbarous_mint,ptolemaic_kingdom_section,egypt_ancient_section,egypt_ancient_section,egypt_ancient_section,Uncertain barbarous city,Ptolemaic Kingdom (305 BC - 30 BC),Egypt (ancient),Egypt (ancient),Egypt (ancient),
-salvador,salvador,salvador,salvador,salvador,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador,
+salvador,salvador,salvador,salvador,salvador,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador,ESL
 elleore,elleore,elleore,elleore,elleore,"Elleore, Kingdom of","Elleore, Kingdom of","Elleore, Kingdom of","Elleore, Kingdom of","Elleore, Kingdom of",
 guinee_equatoriale,guinee_equatoriale,guinee_equatoriale,guinee_equatoriale,guinee_equatoriale,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,EQQ
 eritrea_section,eritrea_section,eritrea_section,eritrea_section,eritrea_section,Eritrea,Eritrea,Eritrea,Eritrea,Eritrea,ERI
@@ -6143,7 +6143,7 @@ saint-domingue,haiti_section,haiti_section,haiti_section,haiti_section,Saint-Dom
 tortuga,haiti,haiti_section,haiti_section,haiti_section,Tortuga Island,Haiti (1804-date),Haiti,Haiti,Haiti,
 helgoland_fantasy,helgoland_fantasy,helgoland_fantasy,helgoland_fantasy,helgoland_fantasy,Helgoland (fantasy),Helgoland (fantasy),Helgoland (fantasy),Helgoland (fantasy),Helgoland (fantasy),
 holy_roman_empire,holy_roman_empire,holy_roman_empire,holy_roman_empire,holy_roman_empire,Holy Roman Empire,Holy Roman Empire,Holy Roman Empire,Holy Roman Empire,Holy Roman Empire,
-honduras,honduras,honduras,honduras,honduras,Honduras,Honduras,Honduras,Honduras,Honduras,
+honduras,honduras,honduras,honduras,honduras,Honduras,Honduras,Honduras,Honduras,Honduras,HND
 batthyany_counts,hongrie-etats,hungary,hungary,hungary,"Batthyány, Counts of",Hungarian States,Hungary,Hungary,Hungary,HUN
 buda_city,hongrie-etats,hungary,hungary,hungary,"Buda, City of",Hungarian States,Hungary,Hungary,Hungary,HUN
 esterhazy_counts,hongrie-etats,hungary,hungary,hungary,"Esterházy, Counts of",Hungarian States,Hungary,Hungary,Hungary,HUN
@@ -7791,7 +7791,7 @@ chatham_islands,nouvelle-zelande,new_zealand_section,new_zealand_section,new_zea
 new_zealand_section,new_zealand_section,new_zealand_section,new_zealand_section,new_zealand_section,New Zealand,New Zealand,New Zealand,New Zealand,New Zealand,NZZ
 nouvelle-zelande,new_zealand_section,new_zealand_section,new_zealand_section,new_zealand_section,New Zealand,New Zealand,New Zealand,New Zealand,New Zealand,NZZ
 tokelau,new_zealand_section,new_zealand_section,new_zealand_section,new_zealand_section,Tokelau,New Zealand,New Zealand,New Zealand,New Zealand,TKK
-nicaragua,nicaragua,nicaragua,nicaragua,nicaragua,Nicaragua,Nicaragua,Nicaragua,Nicaragua,Nicaragua,
+nicaragua,nicaragua,nicaragua,nicaragua,nicaragua,Nicaragua,Nicaragua,Nicaragua,Nicaragua,Nicaragua,NIC
 niger,niger,niger,niger,niger,Niger,Niger,Niger,Niger,Niger,NGG
 biafra,nigeria_section,nigeria_section,nigeria_section,nigeria_section,Biafra,Nigeria,Nigeria,Nigeria,Nigeria,BIA
 nigeria,nigeria_section,nigeria_section,nigeria_section,nigeria_section,Nigeria,Nigeria,Nigeria,Nigeria,Nigeria,NIG
@@ -7830,7 +7830,7 @@ ottoman,ottoman,ottoman,ottoman,ottoman,Ottoman Empire,Ottoman Empire,Ottoman Em
 pakistan,pakistan,pakistan,pakistan,pakistan,Pakistan,Pakistan,Pakistan,Pakistan,Pakistan,PAK
 palaos,palaos,palaos,palaos,palaos,Palau,Palau,Palau,Palau,Palau,PAU
 palestine_fantasy,palestine_fantasy,palestine_fantasy,palestine_fantasy,palestine_fantasy,Palestine,Palestine,Palestine,Palestine,Palestine,
-panama,panama,panama,panama,panama,Panama,Panama,Panama,Panama,Panama,
+panama,panama,panama,panama,panama,Panama,Panama,Panama,Panama,Panama,PAN
 german-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,German New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,GNG
 nouvelle_guinee,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,PPT
 papouasie-nouvelle-guinee,papua-new-guinea,papua-new-guinea,papua-new-guinea,papua-new-guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,PTT
@@ -10248,7 +10248,7 @@ danish_west_indies_period,antilles_danoises,united-states,united-states,united-s
 us_virgin_islands_period,antilles_danoises,united-states,united-states,united-states,United States Virgin Islands (1917-date),United States Virgin Islands,United States,United States,United States,
 unknown,unknown,unknown,unknown,unknown,Unknown,Unknown,Unknown,Unknown,Unknown,
 upper_senegal_and_niger,upper_senegal_and_niger,upper_senegal_and_niger,upper_senegal_and_niger,upper_senegal_and_niger,Upper Senegal and Niger,Upper Senegal and Niger,Upper Senegal and Niger,Upper Senegal and Niger,Upper Senegal and Niger,
-uruguay,uruguay,uruguay,uruguay,uruguay,Uruguay,Uruguay,Uruguay,Uruguay,Uruguay,
+uruguay,uruguay,uruguay,uruguay,uruguay,Uruguay,Uruguay,Uruguay,Uruguay,Uruguay,URU
 uzbekistan_section,uzbekistan_section,uzbekistan_section,uzbekistan_section,uzbekistan_section,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,
 ouzbekistan,uzbekistan_section,uzbekistan_section,uzbekistan_section,uzbekistan_section,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,
 valemaa,valemaa,valemaa,valemaa,valemaa,Valemaa,Valemaa,Valemaa,Valemaa,Valemaa,
