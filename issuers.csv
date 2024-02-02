@@ -4,28 +4,28 @@ exonumia,exonumia,exonumia,exonumia,exonumia,** Exonumia **,** Exonumia **,** Ex
 anan,anan,anan,anan,anan,Änän Islands,Änän Islands,Änän Islands,Änän Islands,Änän Islands,
 abkhazia,abkhazia,abkhazia,abkhazia,abkhazia,Abkhazia,Abkhazia,Abkhazia,Abkhazia,Abkhazia,ABK
 aerican_empire,aerican_empire,aerican_empire,aerican_empire,aerican_empire,Aerican Empire,Aerican Empire,Aerican Empire,Aerican Empire,Aerican Empire,
-badakhshan_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Badakhshan, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
-balkh_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Balkh, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
-ghaznayn_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Ghaznayn, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
-herat_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Herat, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
-jalalabad_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Jalalabad, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
-kabul_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Kabul, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
-khanabad_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Khanabad, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
+badakhshan_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Badakhshan, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,badakhshan_city
+balkh_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Balkh, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,balkh_city
+ghaznayn_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Ghaznayn, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,ghaznayn_city
+herat_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Herat, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,herat
+jalalabad_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Jalalabad, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,jalalabad_city
+kabul_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Kabul, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,kabul_city
+khanabad_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Khanabad, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,khanabad_city
 multan_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Multan, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
-nimruz_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Nimruz, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
-peshawar_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Peshawar, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
-qandahar_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Qandahar, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
-qunduz_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Qunduz, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
-sari_pul_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Sar-i Pul, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
-shaburghan_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Shaburghan, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
-taliqan_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Taliqan, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
+nimruz_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Nimruz, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,nimruz_city
+peshawar_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Peshawar, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,peshawar_city
+qandahar_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Qandahar, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,qandahar_principality
+qunduz_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Qunduz, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,qunduz_city
+sari_pul_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Sar-i Pul, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,sari_pul_city
+shaburghan_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Shaburghan, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,shaburghan_city
+taliqan_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Taliqan, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,taliqan_city
 tashqurghan_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,"Tashqurghan, City of",Afghan Cities,Afghan States,Afghanistan,Afghanistan,
-uncertain_afghan_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,Uncertain Afghan city,Afghan Cities,Afghan States,Afghanistan,Afghanistan,
-afghan_cities,afghan_states,afghanistan_section,afghanistan_section,afghanistan_section,Afghan Cities,Afghan States,Afghanistan,Afghanistan,Afghanistan,
-herat,afghan_states,afghanistan_section,afghanistan_section,afghanistan_section,Herat,Afghan States,Afghanistan,Afghanistan,Afghanistan,
-kashmir_valley,afghan_states,afghanistan_section,afghanistan_section,afghanistan_section,Kashmir Valley,Afghan States,Afghanistan,Afghanistan,Afghanistan,
+uncertain_afghan_city,afghan_cities,afghan_states,afghanistan_section,afghanistan_section,Uncertain Afghan city,Afghan Cities,Afghan States,Afghanistan,Afghanistan,AFG
+afghan_cities,afghan_states,afghanistan_section,afghanistan_section,afghanistan_section,Afghan Cities,Afghan States,Afghanistan,Afghanistan,Afghanistan,AFG
+herat,afghan_states,afghanistan_section,afghanistan_section,afghanistan_section,Herat,Afghan States,Afghanistan,Afghanistan,Afghanistan,herat
+kashmir_valley,afghan_states,afghanistan_section,afghanistan_section,afghanistan_section,Kashmir Valley,Afghan States,Afghanistan,Afghanistan,Afghanistan,kashmir_valley
 punjab,afghan_states,afghanistan_section,afghanistan_section,afghanistan_section,Punjab,Afghan States,Afghanistan,Afghanistan,Afghanistan,
-qandahar_principality,afghan_states,afghanistan_section,afghanistan_section,afghanistan_section,Qandahar,Afghan States,Afghanistan,Afghanistan,Afghanistan,
+qandahar_principality,afghan_states,afghanistan_section,afghanistan_section,afghanistan_section,Qandahar,Afghan States,Afghanistan,Afghanistan,Afghanistan,qandahar_principality
 afghan_states,afghanistan_section,afghanistan_section,afghanistan_section,afghanistan_section,Afghan States,Afghanistan,Afghanistan,Afghanistan,Afghanistan,AFG
 afghanistan,afghanistan_section,afghanistan_section,afghanistan_section,afghanistan_section,Afghanistan,Afghanistan,Afghanistan,Afghanistan,Afghanistan,AFG
 afghanistan_section,afghanistan_section,afghanistan_section,afghanistan_section,afghanistan_section,Afghanistan,Afghanistan,Afghanistan,Afghanistan,Afghanistan,AFG
@@ -6373,9 +6373,9 @@ andaman_and_nicobar,india,india,india,india,Andaman and Nicobar,India,India,Indi
 inde,india,india,india,india,India,India,India,India,India,IND
 india,india,india,india,india,India,India,India,India,India,IND
 india_british_section,india,india,india,india,"India, British",India,India,India,India,IND
-india-danish-tranquebar,india,india,india,india,"India, Danish",India,India,India,India,
+india-danish-tranquebar,india,india,india,india,"India, Danish",India,India,India,India,DIN
 india-dutch,india,india,india,india,"India, Dutch",India,India,India,India,
-india-french,india,india,india,india,"India, French",India,India,India,India,
+india-french,india,india,india,india,"India, French",India,India,India,India,INF
 inde_portugaise,india,india,india,india,"India, Portuguese",India,India,India,India,GOA
 india_hindu_dynasties,india,india,india,india,Indian Hindu Dynasties,India,India,India,India,
 india_northeastern_dynasties,india,india,india,india,Indian North-Eastern Dynasties,India,India,India,India,
@@ -6383,7 +6383,7 @@ india_northern_dynasties,india,india,india,india,Indian Northern Dynasties,India
 inde_princiers,india,india,india,india,Indian princely states,India,India,India,India,
 indian_states,india,india,india,india,Indian states,India,India,India,India,
 india_islamic,india,india,india,india,Indian Sultanates,India,India,India,India,
-inde_moghol,india,india,india,india,Mughal Empire,India,India,India,India,
+inde_moghol,india,india,india,india,Mughal Empire,India,India,India,India,MUG
 bengal_presidency,india_british_section,india,india,india,Bengal Presidency,"India, British",India,India,India,IBE
 bombay_presidency,india_british_section,india,india,india,Bombay Presidency,"India, British",India,India,India,IBO
 inde_britannique,india_british_section,india,india,india,India - British,"India, British",India,India,India,IND
@@ -6391,7 +6391,7 @@ madras_presidency,india_british_section,india,india,india,Madras Presidency,"Ind
 carnatic_nawabdom,india_hindu_dynasties,india,india,india,"Carnatic, Nawabdom of the",Indian Hindu Dynasties,India,India,India,
 chalukya_dynasty,india_hindu_dynasties,india,india,india,Chalukya dynasty,Indian Hindu Dynasties,India,India,India,
 chola_dynasty,india_hindu_dynasties,india,india,india,Chola dynasty,Indian Hindu Dynasties,India,India,India,
-cochin_princely,india_hindu_dynasties,india,india,india,"Cochin, Kingdom of",Indian Hindu Dynasties,India,India,India,
+cochin_princely,india_hindu_dynasties,india,india,india,"Cochin, Kingdom of",Indian Hindu Dynasties,India,India,India,cochin_princely
 devgarh_gond_kingdom,india_hindu_dynasties,india,india,india,"Devgarh, Gond Kingdom of",Indian Hindu Dynasties,India,India,India,
 eastern_ganga_dynasty,india_hindu_dynasties,india,india,india,Eastern Ganga Dynasty,Indian Hindu Dynasties,India,India,India,
 bharuch_gurjaras,india_hindu_dynasties,india,india,india,Gurjara dynasty of Bharuch,Indian Hindu Dynasties,India,India,India,
@@ -6401,11 +6401,11 @@ kongu_chera_dynasty,india_hindu_dynasties,india,india,india,Kongu Chera dynasty,
 kumaon_kingdom,india_hindu_dynasties,india,india,india,"Kumaon, Kingdom of",Indian Hindu Dynasties,India,India,India,
 madurai_dynasty,india_hindu_dynasties,india,india,india,"Madurai, Kingdom of",Indian Hindu Dynasties,India,India,India,
 thanjavur_nayak_kingdom,india_hindu_dynasties,india,india,india,Thanjavur Nayak kingdom,Indian Hindu Dynasties,India,India,India,
-travancore_kingdom,india_hindu_dynasties,india,india,india,"Travancore, Kingdom of",Indian Hindu Dynasties,India,India,India,
+travancore_kingdom,india_hindu_dynasties,india,india,india,"Travancore, Kingdom of",Indian Hindu Dynasties,India,India,India,travancore_kingdom
 vijayanagara_empire,india_hindu_dynasties,india,india,india,"Vijayanagara, Empire of",Indian Hindu Dynasties,India,India,India,
 arakan_kingdom,india_northeastern_dynasties,india,india,india,"Arakan, Kingdom of",Indian North-Eastern Dynasties,India,India,India,
 assam_kingdom,india_northeastern_dynasties,india,india,india,"Assam, Kingdom of",Indian North-Eastern Dynasties,India,India,India,
-cooch_behar_princely,india_northeastern_dynasties,india,india,india,"Cooch-Behar, Kingdom of",Indian North-Eastern Dynasties,India,India,India,
+cooch_behar_princely,india_northeastern_dynasties,india,india,india,"Cooch-Behar, Kingdom of",Indian North-Eastern Dynasties,India,India,India,cooch_behar_princely
 chauhan_dynasty,india_northern_dynasties,india,india,india,Chauhan Dynasty,Indian Northern Dynasties,India,India,India,
 gadhaiya,india_northern_dynasties,india,india,india,Gadhaiya,Indian Northern Dynasties,India,India,India,
 gurjura_confederacy,india_northern_dynasties,india,india,india,Gurjuras Confederacy,Indian Northern Dynasties,India,India,India,
@@ -6414,110 +6414,110 @@ kangra_kingdom,india_northern_dynasties,india,india,india,"Kangra, Kingdom of",I
 kashmir_post_hunnic,india_northern_dynasties,india,india,india,"Kashmir, Post-Hunnic dynasties of",Indian Northern Dynasties,India,India,India,
 pratihara_empire,india_northern_dynasties,india,india,india,Pratihara Empire,Indian Northern Dynasties,India,India,India,
 tomara_dynasty,india_northern_dynasties,india,india,india,Tomara dynasty,Indian Northern Dynasties,India,India,India,
-alwar_princely,inde_princiers,india,india,india,"Alwar, Princely state of",Indian princely states,India,India,India,
+alwar_princely,inde_princiers,india,india,india,"Alwar, Princely state of",Indian princely states,India,India,India,alwar_princely
 ambliara_princely,inde_princiers,india,india,india,"Ambliara, Princely state of",Indian princely states,India,India,India,
-awadh_princely_state,inde_princiers,india,india,india,"Awadh, Princely state of",Indian princely states,India,India,India,
-bahawalpur_princely,inde_princiers,india,india,india,"Bahawalpur, Princely state of",Indian princely states,India,India,India,
+awadh_princely_state,inde_princiers,india,india,india,"Awadh, Princely state of",Indian princely states,India,India,India,awadh_princely_state
+bahawalpur_princely,inde_princiers,india,india,india,"Bahawalpur, Princely state of",Indian princely states,India,India,India,bahawalpur_princely
 bajana_princely,inde_princiers,india,india,india,"Bajana, Princely state of",Indian princely states,India,India,India,
 bajranggarh_princely,inde_princiers,india,india,india,"Bajranggarh, Princely state of",Indian princely states,India,India,India,
 balwan_princely,inde_princiers,india,india,india,"Balwan, Princely state of",Indian princely states,India,India,India,
 bamra_princely,inde_princiers,india,india,india,"Bamra, Princely state of",Indian princely states,India,India,India,
-banswara_princely,inde_princiers,india,india,india,"Banswara, Princely state of",Indian princely states,India,India,India,
+banswara_princely,inde_princiers,india,india,india,"Banswara, Princely state of",Indian princely states,India,India,India,banswara_princely
 baria_princely_state,inde_princiers,india,india,india,"Baria, Princely state of",Indian princely states,India,India,India,
-baroda_princely,inde_princiers,india,india,india,"Baroda, Princely state of",Indian princely states,India,India,India,
-bharatpur_princely_state,inde_princiers,india,india,india,"Bharatpur, Princely state of",Indian princely states,India,India,India,
+baroda_princely,inde_princiers,india,india,india,"Baroda, Princely state of",Indian princely states,India,India,India,baroda_princely
+bharatpur_princely_state,inde_princiers,india,india,india,"Bharatpur, Princely state of",Indian princely states,India,India,India,bharatpur_princely_state
 bhavnagar_princely,inde_princiers,india,india,india,"Bhavnagar, Princely state of",Indian princely states,India,India,India,
-bhopal_princely_state,inde_princiers,india,india,india,"Bhopal, Princely state of",Indian princely states,India,India,India,
+bhopal_princely_state,inde_princiers,india,india,india,"Bhopal, Princely state of",Indian princely states,India,India,India,bhopal_princely_state
 bijawar_princely_state,inde_princiers,india,india,india,"Bijawar, Princely state of",Indian princely states,India,India,India,
-bikanir_princely_state,inde_princiers,india,india,india,"Bikanir, Princely state of",Indian princely states,India,India,India,
+bikanir_princely_state,inde_princiers,india,india,india,"Bikanir, Princely state of",Indian princely states,India,India,India,bikanir_princely_state
 bilkha_princely,inde_princiers,india,india,india,"Bilkha, Princely state of",Indian princely states,India,India,India,
-bindraban_princely,inde_princiers,india,india,india,"Bindraban, Princely state of",Indian princely states,India,India,India,
+bindraban_princely,inde_princiers,india,india,india,"Bindraban, Princely state of",Indian princely states,India,India,India,bindraban_princely
 broach_princely,inde_princiers,india,india,india,"Broach, Princely state of",Indian princely states,India,India,India,
-bundi_princely_state,inde_princiers,india,india,india,"Bundi, Princely state of",Indian princely states,India,India,India,
-cambay_princely,inde_princiers,india,india,india,"Cambay, Princely state of",Indian princely states,India,India,India,
-chamba_princely_state,inde_princiers,india,india,india,"Chamba, Princely state of",Indian princely states,India,India,India,
+bundi_princely_state,inde_princiers,india,india,india,"Bundi, Princely state of",Indian princely states,India,India,India,bundi_princely_state
+cambay_princely,inde_princiers,india,india,india,"Cambay, Princely state of",Indian princely states,India,India,India,cambay_princely
+chamba_princely_state,inde_princiers,india,india,india,"Chamba, Princely state of",Indian princely states,India,India,India,chamba_princely_state
 chhatarpur_princely_state,inde_princiers,india,india,india,"Chhatarpur, Princely state of",Indian princely states,India,India,India,
-chhota_udaipur_princely_state,inde_princiers,india,india,india,"Chhota-Udaipur, Princely state of",Indian princely states,India,India,India,
+chhota_udaipur_princely_state,inde_princiers,india,india,india,"Chhota-Udaipur, Princely state of",Indian princely states,India,India,India,chhota_udaipur_princely_state
 chuda_princely,inde_princiers,india,india,india,"Chuda, Princely state of",Indian princely states,India,India,India,
 coorg_kingdom,inde_princiers,india,india,india,"Coorg, Kingdom of",Indian princely states,India,India,India,
-datia_princely_state,inde_princiers,india,india,india,"Datia, Princely state of",Indian princely states,India,India,India,
-dewas_princely,inde_princiers,india,india,india,"Dewas, Princely state of",Indian princely states,India,India,India,
-dhar_princely,inde_princiers,india,india,india,"Dhar, Princely state of",Indian princely states,India,India,India,
+datia_princely_state,inde_princiers,india,india,india,"Datia, Princely state of",Indian princely states,India,India,India,datia_princely_state
+dewas_princely,inde_princiers,india,india,india,"Dewas, Princely state of",Indian princely states,India,India,India,dewas_princely
+dhar_princely,inde_princiers,india,india,india,"Dhar, Princely state of",Indian princely states,India,India,India,dhar_princely
 dharangadhra_princely,inde_princiers,india,india,india,"Dharangadhra, Princely state of",Indian princely states,India,India,India,
-dholpur_princely,inde_princiers,india,india,india,"Dholpur, Princely State of",Indian princely states,India,India,India,
-dungarpur_princely,inde_princiers,india,india,india,"Dungarpur, Princely state of",Indian princely states,India,India,India,
+dholpur_princely,inde_princiers,india,india,india,"Dholpur, Princely State of",Indian princely states,India,India,India,dholpur_princely
+dungarpur_princely,inde_princiers,india,india,india,"Dungarpur, Princely state of",Indian princely states,India,India,India,dungarpur_princely
 farrukhabad_princely,inde_princiers,india,india,india,"Farrukhabad, Princely state of",Indian princely states,India,India,India,
 garhwal_princely,inde_princiers,india,india,india,"Garhwal, Princely state of",Indian princely states,India,India,India,
 gondal_princely,inde_princiers,india,india,india,"Gondal, Princely state of",Indian princely states,India,India,India,
-gwalior_princely_state,inde_princiers,india,india,india,"Gwalior, Princely state of",Indian princely states,India,India,India,
-hyderabad_section,inde_princiers,india,india,india,"Hyderabad, Princely state of",Indian princely states,India,India,India,
+gwalior_princely_state,inde_princiers,india,india,india,"Gwalior, Princely state of",Indian princely states,India,India,India,gwalior_princely_state
+hyderabad_section,inde_princiers,india,india,india,"Hyderabad, Princely state of",Indian princely states,India,India,India,hyderabad_section
 indergadh_princely,inde_princiers,india,india,india,"Indergadh, Princely state of",Indian princely states,India,India,India,
-indore_section,inde_princiers,india,india,india,"Indore, Princely state of",Indian princely states,India,India,India,
-jaipur_section,inde_princiers,india,india,india,"Jaipur, Princely state of",Indian princely states,India,India,India,
-jaisalmer_princely_state,inde_princiers,india,india,india,"Jaisalmer, Princely state of",Indian princely states,India,India,India,
-jammu_kashmir_princely,inde_princiers,india,india,india,"Jammu and Kashmir, Princely State of ",Indian princely states,India,India,India,
-janjira_princely_state,inde_princiers,india,india,india,"Janjira, Princely state of",Indian princely states,India,India,India,
-jaora_princely,inde_princiers,india,india,india,"Jaora, Princely state of",Indian princely states,India,India,India,
+indore_section,inde_princiers,india,india,india,"Indore, Princely state of",Indian princely states,India,India,India,indore_section
+jaipur_section,inde_princiers,india,india,india,"Jaipur, Princely state of",Indian princely states,India,India,India,jaipur_section
+jaisalmer_princely_state,inde_princiers,india,india,india,"Jaisalmer, Princely state of",Indian princely states,India,India,India,jaisalmer_princely_state
+jammu_kashmir_princely,inde_princiers,india,india,india,"Jammu and Kashmir, Princely State of ",Indian princely states,India,India,India,jammu_kashmir_princely
+janjira_princely_state,inde_princiers,india,india,india,"Janjira, Princely state of",Indian princely states,India,India,India,janjira_princely_state
+jaora_princely,inde_princiers,india,india,india,"Jaora, Princely state of",Indian princely states,India,India,India,jaora_princely
 jasdan_princely,inde_princiers,india,india,india,"Jasdan, Princely state of",Indian princely states,India,India,India,
-jhabua_princely,inde_princiers,india,india,india,"Jhabua, Princely state of",Indian princely states,India,India,India,
+jhabua_princely,inde_princiers,india,india,india,"Jhabua, Princely state of",Indian princely states,India,India,India,jhabua_princely
 jhalawar_princely_state,inde_princiers,india,india,india,"Jhalawar, Princely state of",Indian princely states,India,India,India,
-jind_princely_state,inde_princiers,india,india,india,"Jind, Princely state of",Indian princely states,India,India,India,
-jodhpur_section,inde_princiers,india,india,india,"Jodhpur, Princely state of",Indian princely states,India,India,India,
-junagadh_princely_state,inde_princiers,india,india,india,"Junagadh, Princely state of",Indian princely states,India,India,India,
+jind_princely_state,inde_princiers,india,india,india,"Jind, Princely state of",Indian princely states,India,India,India,jind_princely_state
+jodhpur_section,inde_princiers,india,india,india,"Jodhpur, Princely state of",Indian princely states,India,India,India,jodhpur_section
+junagadh_princely_state,inde_princiers,india,india,india,"Junagadh, Princely state of",Indian princely states,India,India,India,junagadh_princely_state
 kaithal_princely,inde_princiers,india,india,india,"Kaithal, Princely state of",Indian princely states,India,India,India,
 kalat_princely,inde_princiers,india,india,india,"Kalat, Princely state of",Indian princely states,India,India,India,kalat_princely
-karauli_princely_state,inde_princiers,india,india,india,"Karauli, Princely state of",Indian princely states,India,India,India,
+karauli_princely_state,inde_princiers,india,india,india,"Karauli, Princely state of",Indian princely states,India,India,India,karauli_princely_state
 khadal_princely,inde_princiers,india,india,india,"Khadal, Princely state of",Indian princely states,India,India,India,
-khairpur_princely,inde_princiers,india,india,india,"Khairpur, Princely state of",Indian princely states,India,India,India,
-kishangarh_princely_state,inde_princiers,india,india,india,"Kishangarh, Princely state of",Indian princely states,India,India,India,
-kolhapur_princely,inde_princiers,india,india,india,"Kolhapur, Princely state of",Indian princely states,India,India,India,
-kotah_princely,inde_princiers,india,india,india,"Kotah, Princely state of",Indian princely states,India,India,India,
-kutch_princely,inde_princiers,india,india,india,"Kutch, Princely state of",Indian princely states,India,India,India,
-lunavada_princely,inde_princiers,india,india,india,"Lunavada, Princely state of",Indian princely states,India,India,India,
-makrai_princely,inde_princiers,india,india,india,"Makrai, Princely state of",Indian princely states,India,India,India,
+khairpur_princely,inde_princiers,india,india,india,"Khairpur, Princely state of",Indian princely states,India,India,India,khairpur_princely
+kishangarh_princely_state,inde_princiers,india,india,india,"Kishangarh, Princely state of",Indian princely states,India,India,India,kishangarh_princely_state
+kolhapur_princely,inde_princiers,india,india,india,"Kolhapur, Princely state of",Indian princely states,India,India,India,kolhapur_princely
+kotah_princely,inde_princiers,india,india,india,"Kotah, Princely state of",Indian princely states,India,India,India,kotah_princely
+kutch_princely,inde_princiers,india,india,india,"Kutch, Princely state of",Indian princely states,India,India,India,kutch_princely
+lunavada_princely,inde_princiers,india,india,india,"Lunavada, Princely state of",Indian princely states,India,India,India,lunavada_princely
+makrai_princely,inde_princiers,india,india,india,"Makrai, Princely state of",Indian princely states,India,India,India,makrai_princely
 malerkotla_princely,inde_princiers,india,india,india,"Malerkotla, Princely state of",Indian princely states,India,India,India,
 mangrol_princely,inde_princiers,india,india,india,"Mangrol, Princely state of",Indian princely states,India,India,India,
 manipur_princely,inde_princiers,india,india,india,"Manipur, Princely state of",Indian princely states,India,India,India,
 mengani_princely,inde_princiers,india,india,india,"Mengani, Princely state of",Indian princely states,India,India,India,
-mewar_princely,inde_princiers,india,india,india,"Mewar, Princely state of",Indian princely states,India,India,India,
+mewar_princely,inde_princiers,india,india,india,"Mewar, Princely state of",Indian princely states,India,India,India,mewar_princely
 muli_princely,inde_princiers,india,india,india,"Muli, Princely state of",Indian princely states,India,India,India,
-mysore_princely,inde_princiers,india,india,india,"Mysore, Princely state of",Indian princely states,India,India,India,
+mysore_princely,inde_princiers,india,india,india,"Mysore, Princely state of",Indian princely states,India,India,India,mysore_princely
 narwar_princely,inde_princiers,india,india,india,"Narwar, Princely state of",Indian princely states,India,India,India,
 nawalgarh_princely,inde_princiers,india,india,india,"Nawalgarh, Princely state of",Indian princely states,India,India,India,
-nawanagar_princely,inde_princiers,india,india,india,"Nawanagar, Princely state of",Indian princely states,India,India,India,
-orchha_princely,inde_princiers,india,india,india,"Orchha, Princely state of",Indian princely states,India,India,India,
+nawanagar_princely,inde_princiers,india,india,india,"Nawanagar, Princely state of",Indian princely states,India,India,India,nawanagar_princely
+orchha_princely,inde_princiers,india,india,india,"Orchha, Princely state of",Indian princely states,India,India,India,orchha_princely
 palitana_princely,inde_princiers,india,india,india,"Palitana, Princely state of",Indian princely states,India,India,India,
 panna_princely,inde_princiers,india,india,india,"Panna, Princely state of",Indian princely states,India,India,India,
-patiala_princely,inde_princiers,india,india,india,"Patiala, Princely state of",Indian princely states,India,India,India,
-porbandar_princely,inde_princiers,india,india,india,"Porbandar, Princely state of",Indian princely states,India,India,India,
-pratabgarh_princely,inde_princiers,india,india,india,"Pratabgarh, Princely state of",Indian princely states,India,India,India,
+patiala_princely,inde_princiers,india,india,india,"Patiala, Princely state of",Indian princely states,India,India,India,patiala_princely
+porbandar_princely,inde_princiers,india,india,india,"Porbandar, Princely state of",Indian princely states,India,India,India,porbandar_princely
+pratabgarh_princely,inde_princiers,india,india,india,"Pratabgarh, Princely state of",Indian princely states,India,India,India,pratabgarh_princely
 pudokkottai_princely,inde_princiers,india,india,india,"Pudukkottai, Princely state of",Indian princely states,India,India,India,
-radhanpur_princely,inde_princiers,india,india,india,"Radhanpur, Princely state of",Indian princely states,India,India,India,
+radhanpur_princely,inde_princiers,india,india,india,"Radhanpur, Princely state of",Indian princely states,India,India,India,radhanpur_princely
 rajkot_princely,inde_princiers,india,india,india,"Rajkot, Princely state of",Indian princely states,India,India,India,
-ramanathapuram_princely,inde_princiers,india,india,india,"Ramanathapuram, Princely state of",Indian princely states,India,India,India,
+ramanathapuram_princely,inde_princiers,india,india,india,"Ramanathapuram, Princely state of",Indian princely states,India,India,India,ramanathapuram_princely
 ramgarh_princely,inde_princiers,india,india,india,"Ramgarh, Princely state of",Indian princely states,India,India,India,
-rampur_princely,inde_princiers,india,india,india,"Rampur, Princely state of",Indian princely states,India,India,India,
-ratlam_princely,inde_princiers,india,india,india,"Ratlam, Princely state of",Indian princely states,India,India,India,
-rewa_princely,inde_princiers,india,india,india,"Rewa, Princely state of",Indian princely states,India,India,India,
+rampur_princely,inde_princiers,india,india,india,"Rampur, Princely state of",Indian princely states,India,India,India,rampur_princely
+ratlam_princely,inde_princiers,india,india,india,"Ratlam, Princely state of",Indian princely states,India,India,India,ratlam_princely
+rewa_princely,inde_princiers,india,india,india,"Rewa, Princely state of",Indian princely states,India,India,India,rewa_princely
 rohilkhand_state,inde_princiers,india,india,india,"Rohilkhand, Princely state of",Indian princely states,India,India,India,
-sailana_princely,inde_princiers,india,india,india,"Sailana, Princely state of",Indian princely states,India,India,India,
+sailana_princely,inde_princiers,india,india,india,"Sailana, Princely state of",Indian princely states,India,India,India,sailana_princely
 sayala_princely,inde_princiers,india,india,india,"Sayala, Princely state of",Indian princely states,India,India,India,
-sitamau_princely_state,inde_princiers,india,india,india,"Sitamau, Princely state of",Indian princely states,India,India,India,
+sitamau_princely_state,inde_princiers,india,india,india,"Sitamau, Princely state of",Indian princely states,India,India,India,sitamau_princely_state
 sivaganga_princely,inde_princiers,india,india,india,"Sivaganga, Princely state of",Indian princely states,India,India,India,
-tonk_princely_state,inde_princiers,india,india,india,"Tonk, Princely state of",Indian princely states,India,India,India,
-tripura_princely,inde_princiers,india,india,india,"Tripura, Princely state of",Indian princely states,India,India,India,
+tonk_princely_state,inde_princiers,india,india,india,"Tonk, Princely state of",Indian princely states,India,India,India,tonk_princely_state
+tripura_princely,inde_princiers,india,india,india,"Tripura, Princely state of",Indian princely states,India,India,India,tripura_princely
 vithalgadh_princely,inde_princiers,india,india,india,"Vithalgadh, Princely state of",Indian princely states,India,India,India,
 wankaner_princely,inde_princiers,india,india,india,"Wankaner, Princely state of",Indian princely states,India,India,India,
-maratha_empire,indian_states,india,india,india,Maratha Empire,Indian states,India,India,India,
+maratha_empire,indian_states,india,india,india,Maratha Empire,Indian states,India,India,India,maratha_empire
 multan_emirate,indian_states,india,india,india,"Multan, Emirate of",Indian states,India,India,India,
-mysore_kingdom,indian_states,india,india,india,"Mysore, Kingdom of",Indian states,India,India,India,
+mysore_kingdom,indian_states,india,india,india,"Mysore, Kingdom of",Indian states,India,India,India,mysore_princely
 pala_empire,indian_states,india,india,india,Pala Empire,Indian states,India,India,India,
 paramara_dynasty,indian_states,india,india,india,Paramara Dynasty,Indian states,India,India,India,
 rajput_dynasty_medieval,indian_states,india,india,india,Rajput Dynasties,Indian states,India,India,India,
-sikh_empire,indian_states,india,india,india,"Sikh, Empire of",Indian states,India,India,India,
-sindh_kingdom,indian_states,india,india,india,Sindh Kingdom,Indian states,India,India,India,
-thanjavur_maratha_kingdom,indian_states,india,india,india,"Thanjavur-Maratha, Kingdom of",Indian states,India,India,India,
-tinnevelly_indian_state,indian_states,india,india,india,Tinnevelly,Indian states,India,India,India,
+sikh_empire,indian_states,india,india,india,"Sikh, Empire of",Indian states,India,India,India,sikh_empire
+sindh_kingdom,indian_states,india,india,india,Sindh Kingdom,Indian states,India,India,India,sind_sultanate
+thanjavur_maratha_kingdom,indian_states,india,india,india,"Thanjavur-Maratha, Kingdom of",Indian states,India,India,India,thanjavur_maratha_kingdom
+tinnevelly_indian_state,indian_states,india,india,india,Tinnevelly,Indian states,India,India,India,tinnevelly_indian_state
 western_ganga_dynasty,indian_states,india,india,india,Western Ganga Dynasty,Indian states,India,India,India,
 yadava_dynasty,indian_states,india,india,india,Yadava Dynasty,Indian states,India,India,India,
 ahmadnagar_sultanate,india_islamic,india,india,india,"Ahmadnagar, Sultanate of",Indian Sultanates,India,India,India,
@@ -6529,16 +6529,16 @@ delhi_sultanate,india_islamic,india,india,india,"Delhi, Sultanate of",Indian Sul
 golkonda_sultanate,india_islamic,india,india,india,"Golkonda, Sultanate of",Indian Sultanates,India,India,India,
 gujarat_sultanate,india_islamic,india,india,india,"Gujarat, Sultanate of",Indian Sultanates,India,India,India,
 jaunpur_sultanate,india_islamic,india,india,india,"Jaunpur, Sultanate of",Indian Sultanates,India,India,India,
-kalat_khanate,india_islamic,india,india,india,"Kalat, Khanate of",Indian Sultanates,India,India,India,
-kasmir_sultanate,india_islamic,india,india,india,Kashmir Sultanate,Indian Sultanates,India,India,India,
+kalat_khanate,india_islamic,india,india,india,"Kalat, Khanate of",Indian Sultanates,India,India,India,kalat_princely
+kasmir_sultanate,india_islamic,india,india,india,Kashmir Sultanate,Indian Sultanates,India,India,India,jammu_kashmir_princely
 khandesh_sultanate,india_islamic,india,india,india,"Khandesh, Sultanate of",Indian Sultanates,India,India,India,
 madurai_sultanate,india_islamic,india,india,india,"Madurai, Sultanate of",Indian Sultanates,India,India,India,
 malwa_sultanate,india_islamic,india,india,india,"Malwa, Sultanate of",Indian Sultanates,India,India,India,
-sind_sultanate,india_islamic,india,india,india,"Sindh, Sultanate of",Indian Sultanates,India,India,India,
+sind_sultanate,india_islamic,india,india,india,"Sindh, Sultanate of",Indian Sultanates,India,India,India,sind_sultanate
 sur_empire,india_islamic,india,india,india,Sur Empire,Indian Sultanates,India,India,India,
-hyderabad_princely_state,hyderabad_section,inde_princiers,india,india,"Hyderabad, Princely state of","Hyderabad, Princely state of",Indian princely states,India,India,
-hyderabad_basmatnagar_feudatory,hyderabad_section,inde_princiers,india,india,Hyderabad-Basmatnagar Feudatory,"Hyderabad, Princely state of",Indian princely states,India,India,
-hyderabad-elichpur-feudatory,hyderabad_section,inde_princiers,india,india,Hyderabad-Elichpur Feudatory,"Hyderabad, Princely state of",Indian princely states,India,India,
+hyderabad_princely_state,hyderabad_section,inde_princiers,india,india,"Hyderabad, Princely state of","Hyderabad, Princely state of",Indian princely states,India,India,hyderabad_section
+hyderabad_basmatnagar_feudatory,hyderabad_section,inde_princiers,india,india,Hyderabad-Basmatnagar Feudatory,"Hyderabad, Princely state of",Indian princely states,India,India,hyderabad_section
+hyderabad-elichpur-feudatory,hyderabad_section,inde_princiers,india,india,Hyderabad-Elichpur Feudatory,"Hyderabad, Princely state of",Indian princely states,India,India,hyderabad_section
 indore_princely_state,indore_section,inde_princiers,india,india,"Indore, Princely state of","Indore, Princely state of",Indian princely states,India,India,
 indore_sironj_feudatory,indore_section,inde_princiers,india,india,Indore-Sironj Feudatory,"Indore, Princely state of",Indian princely states,India,India,
 jaipur_princely_state,jaipur_section,inde_princiers,india,india,"Jaipur, Princely state of","Jaipur, Princely state of",Indian princely states,India,India,
