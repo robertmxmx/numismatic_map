@@ -121,9 +121,9 @@ cabinda,angola,angola,angola,angola,"Cabinda, Republic of",Angola,Angola,Angola,
 antarctica,antarctica,antarctica,antarctica,antarctica,Antarctica,Antarctica,Antarctica,Antarctica,Antarctica,
 argentine_antarctica,antarctica,antarctica,antarctica,antarctica,Argentine Antarctica,Antarctica,Antarctica,Antarctica,Antarctica,
 ross_dependency,antarctica,antarctica,antarctica,antarctica,Ross Dependency,Antarctica,Antarctica,Antarctica,Antarctica,
-antigua,antigua_et_barbuda_section,antigua_et_barbuda_section,antigua_et_barbuda_section,antigua_et_barbuda_section,Antigua,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,
-antigua-et-barbuda,antigua_et_barbuda_section,antigua_et_barbuda_section,antigua_et_barbuda_section,antigua_et_barbuda_section,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,
-antigua_et_barbuda_section,antigua_et_barbuda_section,antigua_et_barbuda_section,antigua_et_barbuda_section,antigua_et_barbuda_section,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,
+antigua,antigua_et_barbuda_section,antigua_et_barbuda_section,antigua_et_barbuda_section,antigua_et_barbuda_section,Antigua,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,AAA,
+antigua-et-barbuda,antigua_et_barbuda_section,antigua_et_barbuda_section,antigua_et_barbuda_section,antigua_et_barbuda_section,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,AAA,
+antigua_et_barbuda_section,antigua_et_barbuda_section,antigua_et_barbuda_section,antigua_et_barbuda_section,antigua_et_barbuda_section,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,AAA,
 redonda,antigua_et_barbuda_section,antigua_et_barbuda_section,antigua_et_barbuda_section,antigua_et_barbuda_section,"Redonda, Kingdom of",Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,
 antonine_imperium,antonine_imperium,antonine_imperium,antonine_imperium,antonine_imperium,Antonine Imperium,Antonine Imperium,Antonine Imperium,Antonine Imperium,Antonine Imperium,
 arabia_ancient,arabia_ancient,arabia_ancient,arabia_ancient,arabia_ancient,Arabia (ancient),Arabia (ancient),Arabia (ancient),Arabia (ancient),Arabia (ancient),
@@ -1202,11 +1202,11 @@ azerbaidjan,azerbaijan,azerbaijan,azerbaijan,azerbaijan,Azerbaijan,Azerbaijan,Az
 azerbaijan,azerbaijan,azerbaijan,azerbaijan,azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,AZZ
 nakhichevan_republic,azerbaidjan,azerbaijan,azerbaijan,azerbaijan,Nakhchivan Autonomous Republic,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,NAV
 aztecs,aztecs,aztecs,aztecs,aztecs,Aztecs,Aztecs,Aztecs,Aztecs,Aztecs,
-bahamas,bahamas,bahamas,bahamas,bahamas,"Bahamas, The","Bahamas, The","Bahamas, The","Bahamas, The","Bahamas, The",
+bahamas,bahamas,bahamas,bahamas,bahamas,"Bahamas, The","Bahamas, The","Bahamas, The","Bahamas, The","Bahamas, The",BMM
 bahrein,bahrein,bahrein,bahrein,bahrein,Bahrain,Bahrain,Bahrain,Bahrain,Bahrain,BAH
 baltic_islands,baltic_islands,baltic_islands,baltic_islands,baltic_islands,Baltic Islands,Baltic Islands,Baltic Islands,Baltic Islands,Baltic Islands,
 bangladesh,bangladesh,bangladesh,bangladesh,bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,
-barbade,barbade,barbade,barbade,barbade,Barbados,Barbados,Barbados,Barbados,Barbados,
+barbade,barbade,barbade,barbade,barbade,Barbados,Barbados,Barbados,Barbados,Barbados,BBD
 barsoom,barsoom,barsoom,barsoom,barsoom,Barsoom,Barsoom,Barsoom,Barsoom,Barsoom,
 bielorussie,bielorussie,bielorussie,bielorussie,bielorussie,Belarus,Belarus,Belarus,Belarus,Belarus,BLS
 belgian_congo_period,congo_belge,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,congo_belge_rwanda_urundi_section,Belgian Congo (1908-1960),Belgian Congo,"Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi","Belgian Congo, Rwanda and Urundi",CON
@@ -1346,11 +1346,11 @@ bosnie-herzegovine,bosnia_herzegovina_section,bosnia_herzegovina_section,bosnia_
 bosnia_kingdom,bosnia_herzegovina_section,bosnia_herzegovina_section,bosnia_herzegovina_section,bosnia_herzegovina_section,"Bosnia, Kingdom of",Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,BHZ
 srpska-republic,bosnia_herzegovina_section,bosnia_herzegovina_section,bosnia_herzegovina_section,bosnia_herzegovina_section,"Srpska, Republic of",Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,SRP
 botswana,botswana,botswana,botswana,botswana,Botswana,Botswana,Botswana,Botswana,Botswana,BTW
-brazil_section,brazil_section,brazil_section,brazil_section,brazil_section,Brazil,Brazil,Brazil,Brazil,Brazil,
-bresil,brazil_section,brazil_section,brazil_section,brazil_section,Brazil,Brazil,Brazil,Brazil,Brazil,
-new_holland,brazil_section,brazil_section,brazil_section,brazil_section,New Holland,Brazil,Brazil,Brazil,Brazil,
+brazil_section,brazil_section,brazil_section,brazil_section,brazil_section,Brazil,Brazil,Brazil,Brazil,Brazil,BRZ
+bresil,brazil_section,brazil_section,brazil_section,brazil_section,Brazil,Brazil,Brazil,Brazil,Brazil,BRZ
+new_holland,brazil_section,brazil_section,brazil_section,brazil_section,New Holland,Brazil,Brazil,Brazil,Brazil,BRZ
 british-east-indies,british-east-indies,british-east-indies,british-east-indies,british-east-indies,British East Indies,British East Indies,British East Indies,British East Indies,British East Indies,
-british-guiana-west-indies,british-guiana-west-indies,british-guiana-west-indies,british-guiana-west-indies,british-guiana-west-indies,British Guiana and West Indies,British Guiana and West Indies,British Guiana and West Indies,British Guiana and West Indies,British Guiana and West Indies,
+british-guiana-west-indies,british-guiana-west-indies,british-guiana-west-indies,british-guiana-west-indies,british-guiana-west-indies,British Guiana and West Indies,British Guiana and West Indies,British Guiana and West Indies,British Guiana and West Indies,British Guiana and West Indies,BWI
 canterbury_archbishopric,anglo_saxon_archbishoprics,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,"Canterbury, Archbishopric of",Anglo-Saxon Archbishoprics,"British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of",
 london_bishopric,anglo_saxon_archbishoprics,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,"London, Bishopric of",Anglo-Saxon Archbishoprics,"British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of",
 york_archbishopric,anglo_saxon_archbishoprics,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,"York, Archbishopric of",Anglo-Saxon Archbishoprics,"British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of",
@@ -1366,7 +1366,7 @@ northumbria,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_sa
 wessex,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,"Wessex, Kingdom of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of",
 kingdom_york,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,anglo_saxon_kingdom,"York, Viking Kingdom of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of","British Isles and Frisia, Kingdoms of",
 afrique_occidentale_britannique,afrique_occidentale_britannique,afrique_occidentale_britannique,afrique_occidentale_britannique,afrique_occidentale_britannique,British West Africa,British West Africa,British West Africa,British West Africa,British West Africa,BWA
-british-west-indies,british-west-indies,british-west-indies,british-west-indies,british-west-indies,British West Indies,British West Indies,British West Indies,British West Indies,British West Indies,
+british-west-indies,british-west-indies,british-west-indies,british-west-indies,british-west-indies,British West Indies,British West Indies,British West Indies,British West Indies,British West Indies,BWI
 brunei,brunei,brunei,brunei,brunei,Brunei,Brunei,Brunei,Brunei,Brunei,BRU
 bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,Bulgaria,Bulgaria,Bulgaria,Bulgaria,Bulgaria,BUL
 bulgarie,bulgaria_section,bulgaria_section,bulgaria_section,bulgaria_section,Bulgaria,Bulgaria,Bulgaria,Bulgaria,Bulgaria,BUL
@@ -1804,18 +1804,18 @@ cimmerians,cimmerians,cimmerians,cimmerians,cimmerians,Cimmerians,Cimmerians,Cim
 colombia_section,colombia_section,colombia_section,colombia_section,colombia_section,Colombia,Colombia,Colombia,Colombia,Colombia,CLM
 colombie,colombia_section,colombia_section,colombia_section,colombia_section,Colombia,Colombia,Colombia,Colombia,Colombia,CLM
 colombian_states,colombia_section,colombia_section,colombia_section,colombia_section,Colombian states,Colombia,Colombia,Colombia,Colombia,CLM
-sapsc,colombie,colombia_section,colombia_section,colombia_section,"San Andres, Providencia and Santa Catalina",Colombia,Colombia,Colombia,Colombia,
-antioquia_state,colombian_states,colombia_section,colombia_section,colombia_section,"Antioquia, State of",Colombian states,Colombia,Colombia,Colombia,
-bolivar_state,colombian_states,colombia_section,colombia_section,colombia_section,"Bolívar, State of",Colombian states,Colombia,Colombia,Colombia,
-boyaca_state,colombian_states,colombia_section,colombia_section,colombia_section,"Boyacá, State of",Colombian states,Colombia,Colombia,Colombia,
-cartagena_city,colombian_states,colombia_section,colombia_section,colombia_section,"Cartagena, City of",Colombian states,Colombia,Colombia,Colombia,
-cauca_state,colombian_states,colombia_section,colombia_section,colombia_section,"Cauca, State of",Colombian states,Colombia,Colombia,Colombia,
-cundinamarca_state,colombian_states,colombia_section,colombia_section,colombia_section,"Cundinamarca, State of",Colombian states,Colombia,Colombia,Colombia,
-magdalena_state,colombian_states,colombia_section,colombia_section,colombia_section,"Magdalena, State of",Colombian states,Colombia,Colombia,Colombia,
-popayan_city,colombian_states,colombia_section,colombia_section,colombia_section,"Popayán, City of",Colombian states,Colombia,Colombia,Colombia,
-santa_marta_city,colombian_states,colombia_section,colombia_section,colombia_section,"Santa Marta, City of",Colombian states,Colombia,Colombia,Colombia,
-santander_state,colombian_states,colombia_section,colombia_section,colombia_section,"Santander, State of",Colombian states,Colombia,Colombia,Colombia,
-tolima_state,colombian_states,colombia_section,colombia_section,colombia_section,"Tolima, State of",Colombian states,Colombia,Colombia,Colombia,
+sapsc,colombie,colombia_section,colombia_section,colombia_section,"San Andres, Providencia and Santa Catalina",Colombia,Colombia,Colombia,Colombia,sapsc
+antioquia_state,colombian_states,colombia_section,colombia_section,colombia_section,"Antioquia, State of",Colombian states,Colombia,Colombia,Colombia,antioquia_state
+bolivar_state,colombian_states,colombia_section,colombia_section,colombia_section,"Bolívar, State of",Colombian states,Colombia,Colombia,Colombia,bolivar_state
+boyaca_state,colombian_states,colombia_section,colombia_section,colombia_section,"Boyacá, State of",Colombian states,Colombia,Colombia,Colombia,boyaca_state
+cartagena_city,colombian_states,colombia_section,colombia_section,colombia_section,"Cartagena, City of",Colombian states,Colombia,Colombia,Colombia,cartagena_city
+cauca_state,colombian_states,colombia_section,colombia_section,colombia_section,"Cauca, State of",Colombian states,Colombia,Colombia,Colombia,cauca_state
+cundinamarca_state,colombian_states,colombia_section,colombia_section,colombia_section,"Cundinamarca, State of",Colombian states,Colombia,Colombia,Colombia,cundinamarca_state
+magdalena_state,colombian_states,colombia_section,colombia_section,colombia_section,"Magdalena, State of",Colombian states,Colombia,Colombia,Colombia,magdalena_state
+popayan_city,colombian_states,colombia_section,colombia_section,colombia_section,"Popayán, City of",Colombian states,Colombia,Colombia,Colombia,popayan_city
+santa_marta_city,colombian_states,colombia_section,colombia_section,colombia_section,"Santa Marta, City of",Colombian states,Colombia,Colombia,Colombia,santa_marta_city
+santander_state,colombian_states,colombia_section,colombia_section,colombia_section,"Santander, State of",Colombian states,Colombia,Colombia,Colombia,santander_state
+tolima_state,colombian_states,colombia_section,colombia_section,colombia_section,"Tolima, State of",Colombian states,Colombia,Colombia,Colombia,tolima_state
 anjouan,comores,comoro_section,comoro_section,comoro_section,Anjouan,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMM
 comores,comoro_section,comoro_section,comoro_section,comoro_section,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMM
 comoro_section,comoro_section,comoro_section,comoro_section,comoro_section,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMM
@@ -1974,16 +1974,16 @@ djibouti_period,djibouti,djibouti_section,djibouti_section,djibouti_section,Djib
 somalis_fr,djibouti_section,djibouti_section,djibouti_section,djibouti_section,Djibouti (notgeld),Djibouti,Djibouti,Djibouti,Djibouti,DJI
 french_somaliland_period,djibouti,djibouti_section,djibouti_section,djibouti_section,French Somaliland (1896-1967),Djibouti,Djibouti,Djibouti,Djibouti,DJI
 obock_territory_period,djibouti,djibouti_section,djibouti_section,djibouti_section,Obock Territory (1862-1896),Djibouti,Djibouti,Djibouti,Djibouti,DJI
-dominica,dominica,dominica,dominica,dominica,Dominica,Dominica,Dominica,Dominica,Dominica,
-republique_dominicaine,republique_dominicaine,republique_dominicaine,republique_dominicaine,republique_dominicaine,Dominican Republic,Dominican Republic,Dominican Republic,Dominican Republic,Dominican Republic,
+dominica,dominica,dominica,dominica,dominica,Dominica,Dominica,Dominica,Dominica,Dominica,DMN
+republique_dominicaine,republique_dominicaine,republique_dominicaine,republique_dominicaine,republique_dominicaine,Dominican Republic,Dominican Republic,Dominican Republic,Dominican Republic,Dominican Republic,RDO
 donbass,donbass,donbass,donbass,donbass,Donbass,Donbass,Donbass,Donbass,Donbass,
 donetsk_republic,donetsk_republic,donetsk_republic,donetsk_republic,donetsk_republic,Donetsk Republic,Donetsk Republic,Donetsk Republic,Donetsk Republic,Donetsk Republic,
 dutch_guinea_fantasy,dutch_guinea_fantasy,dutch_guinea_fantasy,dutch_guinea_fantasy,dutch_guinea_fantasy,Dutch Guinea (fantasy),Dutch Guinea (fantasy),Dutch Guinea (fantasy),Dutch Guinea (fantasy),Dutch Guinea (fantasy),
 afrique_de_l_est,afrique_de_l_est,afrique_de_l_est,afrique_de_l_est,afrique_de_l_est,East Africa,East Africa,East Africa,East Africa,East Africa,EAF
-oeco,oeco,oeco,oeco,oeco,Eastern Caribbean States,Eastern Caribbean States,Eastern Caribbean States,Eastern Caribbean States,Eastern Caribbean States,
-equateur,equateur,equateur,equateur,equateur,Ecuador,Ecuador,Ecuador,Ecuador,Ecuador,
-galapagos_islands,equateur,equateur,equateur,equateur,Galápagos Islands,Ecuador,Ecuador,Ecuador,Ecuador,
-galapagos,equateur,equateur,equateur,equateur,Galapagos Islands,Ecuador,Ecuador,Ecuador,Ecuador,
+oeco,oeco,oeco,oeco,oeco,Eastern Caribbean States,Eastern Caribbean States,Eastern Caribbean States,Eastern Caribbean States,Eastern Caribbean States,BWI
+equateur,equateur,equateur,equateur,equateur,Ecuador,Ecuador,Ecuador,Ecuador,Ecuador,ECA
+galapagos_islands,equateur,equateur,equateur,equateur,Galápagos Islands,Ecuador,Ecuador,Ecuador,Ecuador,GAL
+galapagos,equateur,equateur,equateur,equateur,Galapagos Islands,Ecuador,Ecuador,Ecuador,Ecuador,GAL
 edristan,edristan,edristan,edristan,edristan,"Edristan, People's Republic of","Edristan, People's Republic of","Edristan, People's Republic of","Edristan, People's Republic of","Edristan, People's Republic of",
 egypte,egypte,egypte,egypte,egypte,Egypt,Egypt,Egypt,Egypt,Egypt,EGY
 egypt-ancient,egypt_ancient_section,egypt_ancient_section,egypt_ancient_section,egypt_ancient_section,Egypt (ancient),Egypt (ancient),Egypt (ancient),Egypt (ancient),Egypt (ancient),
@@ -2036,22 +2036,22 @@ france,france_section,france_section,france_section,france_section,France,France
 france_section,france_section,france_section,france_section,france_section,France,France,France,France,France,FRA
 france_overseas,france_section,france_section,france_section,france_section,"France, Overseas",France,France,France,France,FRA
 french-states,france_section,france_section,france_section,france_section,French notgeld,France,France,France,France,FRA
-feodales,france_section,france_section,france_section,france_section,French States,France,France,France,France,
+feodales,france_section,france_section,france_section,france_section,French States,France,France,France,France,FRA
 clipperton,france_overseas,france_section,france_section,france_section,Clipperton Island,"France, Overseas",France,France,France,
-iles-de-france-et-bonaparte,france_overseas,france_section,france_section,france_section,"France and Bonaparte, Islands of","France, Overseas",France,France,France,
-french-guiana,france_overseas,france_section,france_section,france_section,French Guiana,"France, Overseas",France,France,France,
+iles-de-france-et-bonaparte,france_overseas,france_section,france_section,france_section,"France and Bonaparte, Islands of","France, Overseas",France,France,France,REE
+french-guiana,france_overseas,france_section,france_section,france_section,French Guiana,"France, Overseas",France,France,France,FGU
 french_pacific,france_overseas,france_section,france_section,france_section,French Pacific Territories,"France, Overseas",France,France,France,FPP
 french-polynesia,france_overseas,france_section,france_section,france_section,French Polynesia,"France, Overseas",France,France,France,FPL
-taaf,france_overseas,france_section,france_section,france_section,French Southern and Antarctic Lands,"France, Overseas",France,France,France,
-colonies_francaises,france_overseas,france_section,france_section,france_section,French West Indies,"France, Overseas",France,France,France,
-french_west_indies,france_overseas,france_section,france_section,france_section,French West Indies,"France, Overseas",France,France,France,
-guadeloupe,france_overseas,france_section,france_section,france_section,Guadeloupe,"France, Overseas",France,France,France,
-martinique,france_overseas,france_section,france_section,france_section,Martinique,"France, Overseas",France,France,France,
+taaf,france_overseas,france_section,france_section,france_section,French Southern and Antarctic Lands,"France, Overseas",France,France,France,FSO
+colonies_francaises,france_overseas,france_section,france_section,france_section,French West Indies,"France, Overseas",France,France,France,FWI
+french_west_indies,france_overseas,france_section,france_section,france_section,French West Indies,"France, Overseas",France,France,France,FWI
+guadeloupe,france_overseas,france_section,france_section,france_section,Guadeloupe,"France, Overseas",France,France,France,GUA
+martinique,france_overseas,france_section,france_section,france_section,Martinique,"France, Overseas",France,France,France,MAQ
 mayotte,france_overseas,france_section,france_section,france_section,Mayotte,"France, Overseas",France,France,France,MAD
 nouvelle-caledonie,france_overseas,france_section,france_section,france_section,New Caledonia,"France, Overseas",France,France,France,NCA
 reunion,france_overseas,france_section,france_section,france_section,Réunion,"France, Overseas",France,France,France,REE
-saint-bartholomew,france_overseas,france_section,france_section,france_section,Saint Barthelemy,"France, Overseas",France,France,France,
-saint_martin,france_overseas,france_section,france_section,france_section,Saint Martin,"France, Overseas",France,France,France,
+saint-bartholomew,france_overseas,france_section,france_section,france_section,Saint Barthelemy,"France, Overseas",France,France,France,STB
+saint_martin,france_overseas,france_section,france_section,france_section,Saint Martin,"France, Overseas",France,France,France,STM
 st-pierre-et-miquelon,france_overseas,france_section,france_section,france_section,Saint-Pierre and Miquelon,"France, Overseas",France,France,France,STP
 wallis-et-futuna,france_overseas,france_section,france_section,france_section,Wallis and Futuna,"France, Overseas",France,France,France,
 windward-islands,france_overseas,france_section,france_section,france_section,Windward Islands,"France, Overseas",France,France,France,
@@ -6128,19 +6128,19 @@ thymbria,troas_section,grece_antique,grece_antique,grece_antique,Thymbra,Troas,G
 uncertain_troas,troas_section,grece_antique,grece_antique,grece_antique,Uncertain Troan city,Troas,Greece (ancient),Greece (ancient),Greece (ancient),
 zeleia,troas_section,grece_antique,grece_antique,grece_antique,Zeleia,Troas,Greece (ancient),Greece (ancient),Greece (ancient),
 greifenberg,greifenberg,greifenberg,greifenberg,greifenberg,"Greifenberg, Grand Duchy of","Greifenberg, Grand Duchy of","Greifenberg, Grand Duchy of","Greifenberg, Grand Duchy of","Greifenberg, Grand Duchy of",
-grenada,grenada,grenada,grenada,grenada,Grenada,Grenada,Grenada,Grenada,Grenada,
+grenada,grenada,grenada,grenada,grenada,Grenada,Grenada,Grenada,Grenada,Grenada,GDA
 guatemala,guatemala_section,guatemala_section,guatemala_section,guatemala_section,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,GUU
 guatemala_section,guatemala_section,guatemala_section,guatemala_section,guatemala_section,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,GUU
 los_altos,guatemala_section,guatemala_section,guatemala_section,guatemala_section,Los Altos,Guatemala,Guatemala,Guatemala,Guatemala,GUU
 guinee,guinee,guinee,guinee,guinee,Guinea,Guinea,Guinea,Guinea,Guinea,GUI
 guinee_bissau,guinee_bissau,guinee_bissau,guinee_bissau,guinee_bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,GBI
-essequebo-demarary,guyana_section,guyana_section,guyana_section,guyana_section,Demerara and Essequibo,Guyana,Guyana,Guyana,Guyana,
-guyana,guyana_section,guyana_section,guyana_section,guyana_section,Guyana,Guyana,Guyana,Guyana,Guyana,
-guyana_section,guyana_section,guyana_section,guyana_section,guyana_section,Guyana,Guyana,Guyana,Guyana,Guyana,
-haiti_section,haiti_section,haiti_section,haiti_section,haiti_section,Haiti,Haiti,Haiti,Haiti,Haiti,
-haiti,haiti_section,haiti_section,haiti_section,haiti_section,Haiti (1804-date),Haiti,Haiti,Haiti,Haiti,
-saint-domingue,haiti_section,haiti_section,haiti_section,haiti_section,Saint-Domingue (1625-1804),Haiti,Haiti,Haiti,Haiti,
-tortuga,haiti,haiti_section,haiti_section,haiti_section,Tortuga Island,Haiti (1804-date),Haiti,Haiti,Haiti,
+essequebo-demarary,guyana_section,guyana_section,guyana_section,guyana_section,Demerara and Essequibo,Guyana,Guyana,Guyana,Guyana,GUY
+guyana,guyana_section,guyana_section,guyana_section,guyana_section,Guyana,Guyana,Guyana,Guyana,Guyana,GUY
+guyana_section,guyana_section,guyana_section,guyana_section,guyana_section,Guyana,Guyana,Guyana,Guyana,Guyana,GUY
+haiti_section,haiti_section,haiti_section,haiti_section,haiti_section,Haiti,Haiti,Haiti,Haiti,Haiti,HAI
+haiti,haiti_section,haiti_section,haiti_section,haiti_section,Haiti (1804-date),Haiti,Haiti,Haiti,Haiti,HAI
+saint-domingue,haiti_section,haiti_section,haiti_section,haiti_section,Saint-Domingue (1625-1804),Haiti,Haiti,Haiti,Haiti,HAI
+tortuga,haiti,haiti_section,haiti_section,haiti_section,Tortuga Island,Haiti (1804-date),Haiti,Haiti,Haiti,HAI
 helgoland_fantasy,helgoland_fantasy,helgoland_fantasy,helgoland_fantasy,helgoland_fantasy,Helgoland (fantasy),Helgoland (fantasy),Helgoland (fantasy),Helgoland (fantasy),Helgoland (fantasy),
 holy_roman_empire,holy_roman_empire,holy_roman_empire,holy_roman_empire,holy_roman_empire,Holy Roman Empire,Holy Roman Empire,Holy Roman Empire,Holy Roman Empire,Holy Roman Empire,
 honduras,honduras,honduras,honduras,honduras,Honduras,Honduras,Honduras,Honduras,Honduras,HND
@@ -7763,7 +7763,7 @@ valkenburg_lordship,netherlands_feudal,netherlands,netherlands,netherlands,"Valk
 vianen_lordship,netherlands_feudal,netherlands,netherlands,netherlands,"Vianen, Lordship of",Dutch States,Netherlands,Netherlands,Netherlands,NET
 zeeland_county,netherlands_feudal,netherlands,netherlands,netherlands,"Zeeland, County of",Dutch States,Netherlands,Netherlands,Netherlands,NET
 zutphen_city,netherlands_feudal,netherlands,netherlands,netherlands,"Zutphen, City of",Dutch States,Netherlands,Netherlands,Netherlands,NET
-aruba,netherlands,netherlands,netherlands,netherlands,Aruba,Netherlands,Netherlands,Netherlands,Netherlands,NET
+aruba,netherlands,netherlands,netherlands,netherlands,Aruba,Netherlands,Netherlands,Netherlands,Netherlands,ARU
 batavian_republic,netherlands,netherlands,netherlands,netherlands,Batavian Republic,Netherlands,Netherlands,Netherlands,Netherlands,NET
 provinces-unies,netherlands,netherlands,netherlands,netherlands,Dutch Republic,Netherlands,Netherlands,Netherlands,Netherlands,NET
 netherlands_feudal,netherlands,netherlands,netherlands,netherlands,Dutch States,Netherlands,Netherlands,Netherlands,Netherlands,NET
@@ -7774,13 +7774,13 @@ netherlands_antilles,netherlands,netherlands,netherlands,netherlands,Netherlands
 spanish-netherlands,netherlands,netherlands,netherlands,netherlands,Spanish Netherlands,Netherlands,Netherlands,Netherlands,Netherlands,NET
 zaandam,netherlands,netherlands,netherlands,netherlands,Zaandam,Netherlands,Netherlands,Netherlands,Netherlands,NET
 bes-islands,netherlands_antilles,netherlands,netherlands,netherlands,BES Islands,Netherlands Antilles,Netherlands,Netherlands,Netherlands,
-bonaire,netherlands_antilles,netherlands,netherlands,netherlands,Bonaire,Netherlands Antilles,Netherlands,Netherlands,Netherlands,
-curacao,netherlands_antilles,netherlands,netherlands,netherlands,Curaçao,Netherlands Antilles,Netherlands,Netherlands,Netherlands,
-antilles_neerlandaises,netherlands_antilles,netherlands,netherlands,netherlands,Netherlands Antilles,Netherlands Antilles,Netherlands,Netherlands,Netherlands,
-netherlands-west-indies,netherlands_antilles,netherlands,netherlands,netherlands,Netherlands West Indies,Netherlands Antilles,Netherlands,Netherlands,Netherlands,
-saba,netherlands_antilles,netherlands,netherlands,netherlands,Saba,Netherlands Antilles,Netherlands,Netherlands,Netherlands,
-saint-eustatius,netherlands_antilles,netherlands,netherlands,netherlands,Saint Eustatius,Netherlands Antilles,Netherlands,Netherlands,Netherlands,
-sint_marteen,netherlands_antilles,netherlands,netherlands,netherlands,Sint Maarten,Netherlands Antilles,Netherlands,Netherlands,Netherlands,
+bonaire,netherlands_antilles,netherlands,netherlands,netherlands,Bonaire,Netherlands Antilles,Netherlands,Netherlands,Netherlands,BON
+curacao,netherlands_antilles,netherlands,netherlands,netherlands,Curaçao,Netherlands Antilles,Netherlands,Netherlands,Netherlands,CUR
+antilles_neerlandaises,netherlands_antilles,netherlands,netherlands,netherlands,Netherlands Antilles,Netherlands Antilles,Netherlands,Netherlands,Netherlands,NWI
+netherlands-west-indies,netherlands_antilles,netherlands,netherlands,netherlands,Netherlands West Indies,Netherlands Antilles,Netherlands,Netherlands,Netherlands,NWI
+saba,netherlands_antilles,netherlands,netherlands,netherlands,Saba,Netherlands Antilles,Netherlands,Netherlands,Netherlands,SAB
+saint-eustatius,netherlands_antilles,netherlands,netherlands,netherlands,Saint Eustatius,Netherlands Antilles,Netherlands,Netherlands,Netherlands,STE
+sint_marteen,netherlands_antilles,netherlands,netherlands,netherlands,Sint Maarten,Netherlands Antilles,Netherlands,Netherlands,Netherlands,STM
 kingdom_germany,kingdom_germany,kingdom_germany,kingdom_germany,kingdom_germany,NeuDeutschland,NeuDeutschland,NeuDeutschland,NeuDeutschland,NeuDeutschland,
 neutral_moresnet,neutral_moresnet,neutral_moresnet,neutral_moresnet,neutral_moresnet,Neutral Moresnet,Neutral Moresnet,Neutral Moresnet,Neutral Moresnet,Neutral Moresnet,
 commonwealth_of_new_island,commonwealth_of_new_island,commonwealth_of_new_island,commonwealth_of_new_island,commonwealth_of_new_island,"New Island, The Commonwealth of","New Island, The Commonwealth of","New Island, The Commonwealth of","New Island, The Commonwealth of","New Island, The Commonwealth of",
@@ -7872,10 +7872,10 @@ indo-sasanians-kingdom,sasanian_section,persia,persia,persia,Indo-Sasanian Kingd
 sasanian_empire,sasanian_section,persia,persia,persia,Sasanian Empire,Sasanian Empire (224-651),Persian Empires,Persian Empires,Persian Empires,
 parthia_satrapy,seleucid_section,persia,persia,persia,"Parthia, Satrapy of",Seleucid Empire (305 BC - 64 BC),Persian Empires,Persian Empires,Persian Empires,
 seleucid_empire,seleucid_section,persia,persia,persia,Seleucid Empire,Seleucid Empire (305 BC - 64 BC),Persian Empires,Persian Empires,Persian Empires,
-peru_north,perou_section,perou_section,perou_section,perou_section,"North Peru, Republic of",Peru,Peru,Peru,Peru,
-perou,perou_section,perou_section,perou_section,perou_section,Peru,Peru,Peru,Peru,Peru,
-perou_section,perou_section,perou_section,perou_section,perou_section,Peru,Peru,Peru,Peru,Peru,
-peru_south,perou_section,perou_section,perou_section,perou_section,"South Peru, Republic of",Peru,Peru,Peru,Peru,
+peru_north,perou_section,perou_section,perou_section,perou_section,"North Peru, Republic of",Peru,Peru,Peru,Peru,NPU
+perou,perou_section,perou_section,perou_section,perou_section,Peru,Peru,Peru,Peru,Peru,PEU
+perou_section,perou_section,perou_section,perou_section,perou_section,Peru,Peru,Peru,Peru,Peru,PEU
+peru_south,perou_section,perou_section,perou_section,perou_section,"South Peru, Republic of",Peru,Peru,Peru,Peru,SPU
 pheasant_island,pheasant_island,pheasant_island,pheasant_island,pheasant_island,Pheasant Island,Pheasant Island,Pheasant Island,Pheasant Island,Pheasant Island,
 barbaza_notgeld,antique_province_section,philippines_notgeld,philippines_section,philippines_section,"Barbaza, Municipality of","Antique, Province of",Philippine notgeld,Philippines,Philippines,antique_province_section
 antequera_notgeld,bohol_province_section,philippines_notgeld,philippines_section,philippines_section,"Antequera, Municipality of","Bohol, Province of",Philippine notgeld,Philippines,Philippines,bohol_province_section
@@ -8524,12 +8524,12 @@ tuva,russia,russia,russia,russia,Tuva,Russia,Russia,Russia,Russia,
 udmurtia,russia,russia,russia,russia,Udmurtia,Russia,Russia,Russia,Russia,
 rwanda,rwanda,rwanda,rwanda,rwanda,Rwanda,Rwanda,Rwanda,Rwanda,Rwanda,RWA
 sao_tome-et-principe,sao_tome-et-principe,sao_tome-et-principe,sao_tome-et-principe,sao_tome-et-principe,São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,São Tomé and Príncipe,STP
-nevis,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,
-st-kitts,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,Saint Kitts,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,
-saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,
-st-kitts-and-neviss,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,
-st-lucia,st-lucia,st-lucia,st-lucia,st-lucia,Saint Lucia,Saint Lucia,Saint Lucia,Saint Lucia,Saint Lucia,
-st-vincent,st-vincent,st-vincent,st-vincent,st-vincent,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,
+nevis,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,NEV
+st-kitts,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,Saint Kitts,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,STK
+saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,STN
+st-kitts-and-neviss,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,STN
+st-lucia,st-lucia,st-lucia,st-lucia,st-lucia,Saint Lucia,Saint Lucia,Saint Lucia,Saint Lucia,Saint Lucia,STL
+st-vincent,st-vincent,st-vincent,st-vincent,st-vincent,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,STV
 samoa,samoa,samoa,samoa,samoa,Samoa,Samoa,Samoa,Samoa,Samoa,MOA
 saint-marin,saint-marin,saint-marin,saint-marin,saint-marin,San Marino,San Marino,San Marino,San Marino,San Marino,SMM
 bani_khalid_emirate,saudi-arabia,saudi-arabia,saudi-arabia,saudi-arabia,Bani Khalid Emirate,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,SAU
@@ -10007,7 +10007,7 @@ soudan,sudan,sudan,sudan,sudan,Sudan,Sudan,Sudan,Sudan,Sudan,SUD
 sudan,sudan,sudan,sudan,sudan,Sudan,Sudan,Sudan,Sudan,Sudan,SUD
 suebi_kigdom,suebi_kigdom,suebi_kigdom,suebi_kigdom,suebi_kigdom,Suebi Kingdom,Suebi Kingdom,Suebi Kingdom,Suebi Kingdom,Suebi Kingdom,
 sulu,sulu,sulu,sulu,sulu,"Sulu, Sultanate of","Sulu, Sultanate of","Sulu, Sultanate of","Sulu, Sultanate of","Sulu, Sultanate of",
-suriname,suriname,suriname,suriname,suriname,Suriname,Suriname,Suriname,Suriname,Suriname,
+suriname,suriname,suriname,suriname,suriname,Suriname,Suriname,Suriname,Suriname,Suriname,SUR
 ostergotland,sweden_section,sweden_section,sweden_section,sweden_section,"Östergötland, Duchy of",Sweden,Sweden,Sweden,Sweden,
 gotland,sweden_section,sweden_section,sweden_section,sweden_section,Gotland,Sweden,Sweden,Sweden,Sweden,
 pomerania_swedish_possession_sweden,sweden_section,sweden_section,sweden_section,sweden_section,"Pomerania, Swedish dominion of",Sweden,Sweden,Sweden,Sweden,
@@ -10138,10 +10138,10 @@ timor_oriental_period,timor_oriental,timor_oriental,timor_oriental,timor_orienta
 togo,togo,togo,togo,togo,Togo,Togo,Togo,Togo,Togo,TGG
 tonga,tonga,tonga,tonga,tonga,Tonga,Tonga,Tonga,Tonga,Tonga,TNG
 transnistrie,transnistrie,transnistrie,transnistrie,transnistrie,Transnistria,Transnistria,Transnistria,Transnistria,Transnistria,TTT
-tobago,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,
-trinite,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,Trinidad,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,
-trinite-et-tobago,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,
-trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,
+tobago,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,TBO
+trinite,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,Trinidad,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,TDD
+trinite-et-tobago,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,TTD
+trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,trinite-et-tobago_section,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,TTD
 cartago,tunisie,tunisie,tunisie,tunisie,Carthage,Tunisia,Tunisia,Tunisia,Tunisia,TIS
 tunisie,tunisie,tunisie,tunisie,tunisie,Tunisia,Tunisia,Tunisia,Tunisia,Tunisia,TIS
 turquie,turquie,turquie,turquie,turquie,Turkey,Turkey,Turkey,Turkey,Turkey,TUR
@@ -10165,7 +10165,7 @@ aurigny,guernsey,british_dependencies,united-kingdom,united-kingdom,Alderney,Gue
 guernesey,guernsey,british_dependencies,united-kingdom,united-kingdom,Guernsey,Guernsey,British Crown dependencies,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",GUE
 iles_vierges_britanniques,british-virgin-islands_section,british_territories,united-kingdom,united-kingdom,British Virgin Islands,British Virgin Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 buck_island,british-virgin-islands_section,british_territories,united-kingdom,united-kingdom,Buck Island,British Virgin Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
-tortola,british-virgin-islands_section,british_territories,united-kingdom,united-kingdom,Tortola,British Virgin Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
+tortola,british-virgin-islands_section,british_territories,united-kingdom,united-kingdom,Tortola,British Virgin Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",TTL
 ascension,saint-helena,british_territories,united-kingdom,united-kingdom,Ascension Island,"Saint Helena, Ascension and Tristan da Cunha",British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",SNT
 gough_issland,saint-helena,british_territories,united-kingdom,united-kingdom,Gough Island,"Saint Helena, Ascension and Tristan da Cunha",British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",SNT
 nightingale_island,saint-helena,british_territories,united-kingdom,united-kingdom,Nightingale Island,"Saint Helena, Ascension and Tristan da Cunha",British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",SNT
@@ -10177,18 +10177,18 @@ guernsey,british_dependencies,united-kingdom,united-kingdom,united-kingdom,Guern
 ile_de_man,british_dependencies,united-kingdom,united-kingdom,united-kingdom,Isle of Man,British Crown dependencies,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",IOM
 jersey,british_dependencies,united-kingdom,united-kingdom,united-kingdom,Jersey,British Crown dependencies,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",JER
 anguilla,british_territories,united-kingdom,united-kingdom,united-kingdom,Anguilla,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
-bermudes,british_territories,united-kingdom,united-kingdom,united-kingdom,Bermuda,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
+bermudes,british_territories,united-kingdom,united-kingdom,united-kingdom,Bermuda,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",BEM
 british-antarctic-territory,british_territories,united-kingdom,united-kingdom,united-kingdom,British Antarctic Territory,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 british-indian-ocean-territory,british_territories,united-kingdom,united-kingdom,united-kingdom,British Indian Ocean Territory,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",BIO
 british-virgin-islands_section,british_territories,united-kingdom,united-kingdom,united-kingdom,British Virgin Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
-iles_caimanes,british_territories,united-kingdom,united-kingdom,united-kingdom,Cayman Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
+iles_caimanes,british_territories,united-kingdom,united-kingdom,united-kingdom,Cayman Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",CAM
 iles_malouines,british_territories,united-kingdom,united-kingdom,united-kingdom,Falkland Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",FLK
 gibraltar,british_territories,united-kingdom,united-kingdom,united-kingdom,Gibraltar,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",GIB
-montserrat,british_territories,united-kingdom,united-kingdom,united-kingdom,Montserrat,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
+montserrat,british_territories,united-kingdom,united-kingdom,united-kingdom,Montserrat,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",MSE
 pitcairn,british_territories,united-kingdom,united-kingdom,united-kingdom,Pitcairn Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",PTT
 saint-helena,british_territories,united-kingdom,united-kingdom,united-kingdom,"Saint Helena, Ascension and Tristan da Cunha",British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",SNT
-georgie-sandwich,british_territories,united-kingdom,united-kingdom,united-kingdom,South Georgia and the South Sandwich Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
-iles_turques-et-caiques,british_territories,united-kingdom,united-kingdom,united-kingdom,Turks and Caicos Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
+georgie-sandwich,british_territories,united-kingdom,united-kingdom,united-kingdom,South Georgia and the South Sandwich Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",SGG
+iles_turques-et-caiques,british_territories,united-kingdom,united-kingdom,united-kingdom,Turks and Caicos Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",TTC
 akrotiri_dhekelia,united-kingdom,united-kingdom,united-kingdom,united-kingdom,Akrotiri and Dhekelia,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 british_dependencies,united-kingdom,united-kingdom,united-kingdom,united-kingdom,British Crown dependencies,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 british_territories,united-kingdom,united-kingdom,united-kingdom,united-kingdom,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
@@ -10203,8 +10203,8 @@ royaume-uni,united-kingdom,united-kingdom,united-kingdom,united-kingdom,United K
 united-kingdom,united-kingdom,united-kingdom,united-kingdom,united-kingdom,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",ENG
 wales,united-kingdom,united-kingdom,united-kingdom,united-kingdom,Wales,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",WAL
 maxxico,maxxico,maxxico,maxxico,maxxico,United Maxxico America,United Maxxico America,United Maxxico America,United Maxxico America,United Maxxico America,
-porto-rico,puerto_rico_section,united-states,united-states,united-states,Puerto Rico,Puerto Rico,United States,United States,United States,
-crab_island,puerto_rico_section,united-states,united-states,united-states,Vieques Island,Puerto Rico,United States,United States,United States,
+porto-rico,puerto_rico_section,united-states,united-states,united-states,Puerto Rico,Puerto Rico,United States,United States,United States,PRO
+crab_island,puerto_rico_section,united-states,united-states,united-states,Vieques Island,Puerto Rico,United States,United States,United States,PRO
 alcatraz_repubblica,united-states,united-states,united-states,united-states,"Alcatraz, Free Republic of",United States,United States,United States,United States,
 samoa-americaine,united-states,united-states,united-states,united-states,American Samoa,United States,United States,United States,United States,
 british_west_florida,united-states,united-states,united-states,united-states,"British West Florida, Dominion of",United States,United States,United States,United States,
@@ -10220,7 +10220,7 @@ etats-unis,united-states,united-states,united-states,united-states,United States
 united-states-pre-federal,united-states,united-states,united-states,united-states,United States (pre-federal and private/territorial),United States,United States,United States,United States,USA
 us_military_bases,united-states,united-states,united-states,united-states,United States military bases,United States,United States,United States,United States,
 usa_pacific_territories,united-states,united-states,united-states,united-states,United States Pacific territories,United States,United States,United States,United States,
-antilles_danoises,united-states,united-states,united-states,united-states,United States Virgin Islands,United States,United States,United States,United States,
+antilles_danoises,united-states,united-states,united-states,united-states,United States Virgin Islands,United States,United States,United States,United States,DWI
 alaska,united-states-pre-federal,united-states,united-states,united-states,Alaska,United States (pre-federal and private/territorial),United States,United States,United States,ALS
 california,united-states-pre-federal,united-states,united-states,united-states,California,United States (pre-federal and private/territorial),United States,United States,United States,
 california_gold,united-states-pre-federal,united-states,united-states,united-states,California gold ,United States (pre-federal and private/territorial),United States,United States,United States,
@@ -10244,8 +10244,8 @@ south_carolina,united-states-pre-federal,united-states,united-states,united-stat
 utah_gold,united-states-pre-federal,united-states,united-states,united-states,Utah Gold ,United States (pre-federal and private/territorial),United States,United States,United States,
 vermont,united-states-pre-federal,united-states,united-states,united-states,"Vermont, Republic of",United States (pre-federal and private/territorial),United States,United States,United States,
 virginia,united-states-pre-federal,united-states,united-states,united-states,Virginia,United States (pre-federal and private/territorial),United States,United States,United States,
-danish_west_indies_period,antilles_danoises,united-states,united-states,united-states,Danish West Indies (1730-1917),United States Virgin Islands,United States,United States,United States,
-us_virgin_islands_period,antilles_danoises,united-states,united-states,united-states,United States Virgin Islands (1917-date),United States Virgin Islands,United States,United States,United States,
+danish_west_indies_period,antilles_danoises,united-states,united-states,united-states,Danish West Indies (1730-1917),United States Virgin Islands,United States,United States,United States,DWI
+us_virgin_islands_period,antilles_danoises,united-states,united-states,united-states,United States Virgin Islands (1917-date),United States Virgin Islands,United States,United States,United States,DWI
 unknown,unknown,unknown,unknown,unknown,Unknown,Unknown,Unknown,Unknown,Unknown,
 upper_senegal_and_niger,upper_senegal_and_niger,upper_senegal_and_niger,upper_senegal_and_niger,upper_senegal_and_niger,Upper Senegal and Niger,Upper Senegal and Niger,Upper Senegal and Niger,Upper Senegal and Niger,Upper Senegal and Niger,
 uruguay,uruguay,uruguay,uruguay,uruguay,Uruguay,Uruguay,Uruguay,Uruguay,Uruguay,URU
@@ -10289,15 +10289,15 @@ viterbo_papal_state,papal_states_subsection,papal_states_section,papal_states_se
 papal_states_subsection,papal_states_section,papal_states_section,papal_states_section,papal_states_section,Papal States,Vatican City,Vatican City,Vatican City,Vatican City,PAP
 vatican,papal_states_section,papal_states_section,papal_states_section,papal_states_section,Vatican City,Vatican City,Vatican City,Vatican City,Vatican City,PAP
 papal_states_section,papal_states_section,papal_states_section,papal_states_section,papal_states_section,Vatican City,Vatican City,Vatican City,Vatican City,Vatican City,PAP
-venezuela,venezuela_section,venezuela_section,venezuela_section,venezuela_section,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,
-venezuela_section,venezuela_section,venezuela_section,venezuela_section,venezuela_section,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,
-venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,venezuela_section,Venezuelan provinces,Venezuela,Venezuela,Venezuela,Venezuela,
-barinas,venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,Barinas,Venezuelan provinces,Venezuela,Venezuela,Venezuela,
-caracas,venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,Caracas,Venezuelan provinces,Venezuela,Venezuela,Venezuela,
-guayana_province,venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,Guayana,Venezuelan provinces,Venezuela,Venezuela,Venezuela,
-maracaibo,venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,Maracaibo,Venezuelan provinces,Venezuela,Venezuela,Venezuela,
-margarita,venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,Margarita,Venezuelan provinces,Venezuela,Venezuela,Venezuela,
-tachira,venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,Tachira,Venezuelan provinces,Venezuela,Venezuela,Venezuela,
+venezuela,venezuela_section,venezuela_section,venezuela_section,venezuela_section,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,VNZ
+venezuela_section,venezuela_section,venezuela_section,venezuela_section,venezuela_section,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,VNZ
+venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,venezuela_section,Venezuelan provinces,Venezuela,Venezuela,Venezuela,Venezuela,VNZ
+barinas,venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,Barinas,Venezuelan provinces,Venezuela,Venezuela,Venezuela,Barinas
+caracas,venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,Caracas,Venezuelan provinces,Venezuela,Venezuela,Venezuela,Caracas
+guayana_province,venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,Guayana,Venezuelan provinces,Venezuela,Venezuela,Venezuela,Guayana
+maracaibo,venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,Maracaibo,Venezuelan provinces,Venezuela,Venezuela,Venezuela,Maracaibo
+margarita,venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,Margarita,Venezuelan provinces,Venezuela,Venezuela,Venezuela,Margarita
+tachira,venezuelan-provinces,venezuela_section,venezuela_section,venezuela_section,Tachira,Venezuelan provinces,Venezuela,Venezuela,Venezuela,Tachira
 vevcani_republic,vevcani_republic,vevcani_republic,vevcani_republic,vevcani_republic,"Vevčani, Republic of","Vevčani, Republic of","Vevčani, Republic of","Vevčani, Republic of","Vevčani, Republic of",
 cochinchine,viet-nam,viet-nam,viet-nam,viet-nam,French Cochinchina,Vietnam,Vietnam,Vietnam,Vietnam,VCO
 north_vietnam,viet-nam,viet-nam,viet-nam,viet-nam,North Vietnam,Vietnam,Vietnam,Vietnam,Vietnam,VIE
