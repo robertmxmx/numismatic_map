@@ -1816,13 +1816,13 @@ popayan_city,colombian_states,colombia_section,colombia_section,colombia_section
 santa_marta_city,colombian_states,colombia_section,colombia_section,colombia_section,"Santa Marta, City of",Colombian states,Colombia,Colombia,Colombia,santa_marta_city
 santander_state,colombian_states,colombia_section,colombia_section,colombia_section,"Santander, State of",Colombian states,Colombia,Colombia,Colombia,santander_state
 tolima_state,colombian_states,colombia_section,colombia_section,colombia_section,"Tolima, State of",Colombian states,Colombia,Colombia,Colombia,tolima_state
-anjouan,comores,comoro_section,comoro_section,comoro_section,Anjouan,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMM
-comores,comoro_section,comoro_section,comoro_section,comoro_section,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMM
-comoro_section,comoro_section,comoro_section,comoro_section,comoro_section,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMM
-comores_notgeld_section,comoro_section,comoro_section,comoro_section,comoro_section,Comoro Islands (notgeld),Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMM
-moheli,comoro_section,comoro_section,comoro_section,comoro_section,Mohéli,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMM
-comores_notgeld,comores_notgeld_section,comoro_section,comoro_section,comoro_section,Grande Comore (notgeld),Comoro Islands (notgeld),Comoro Islands,Comoro Islands,Comoro Islands,CMM
-moheli_notgeld,comores_notgeld_section,comoro_section,comoro_section,comoro_section,Mohéli (notgeld),Comoro Islands (notgeld),Comoro Islands,Comoro Islands,Comoro Islands,CMM
+anjouan,comores,comoro_section,comoro_section,comoro_section,Anjouan,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMO
+comores,comoro_section,comoro_section,comoro_section,comoro_section,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMO
+comoro_section,comoro_section,comoro_section,comoro_section,comoro_section,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMO
+comores_notgeld_section,comoro_section,comoro_section,comoro_section,comoro_section,Comoro Islands (notgeld),Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMO
+moheli,comoro_section,comoro_section,comoro_section,comoro_section,Mohéli,Comoro Islands,Comoro Islands,Comoro Islands,Comoro Islands,CMO
+comores_notgeld,comores_notgeld_section,comoro_section,comoro_section,comoro_section,Grande Comore (notgeld),Comoro Islands (notgeld),Comoro Islands,Comoro Islands,Comoro Islands,CMO
+moheli_notgeld,comores_notgeld_section,comoro_section,comoro_section,comoro_section,Mohéli (notgeld),Comoro Islands (notgeld),Comoro Islands,Comoro Islands,Comoro Islands,CMO
 conch_republic,conch_republic,conch_republic,conch_republic,conch_republic,Conch Republic,Conch Republic,Conch Republic,Conch Republic,Conch Republic,
 drc,drc,drc,drc,drc,"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",CON
 republique_democratique_du_congo,drc,drc,drc,drc,"Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the","Congo, Democratic Republic of the",CON
@@ -1833,7 +1833,7 @@ zaire_period,republique_democratique_du_congo,drc,drc,drc,Zaire (1971-1997),"Con
 congo-brazzaville,congo-brazzaville,congo-brazzaville,congo-brazzaville,congo-brazzaville,"Congo, Republic of the","Congo, Republic of the","Congo, Republic of the","Congo, Republic of the","Congo, Republic of the",CNG
 iles_cook,iles_cook,iles_cook,iles_cook,iles_cook,Cook Islands,Cook Islands,Cook Islands,Cook Islands,Cook Islands,COO
 suwarrow,iles_cook,iles_cook,iles_cook,iles_cook,Suwarrow,Cook Islands,Cook Islands,Cook Islands,Cook Islands,COO
-isla_del_coco,costa_rica,costa_rica,costa_rica,costa_rica,Cocos Island,Costa Rica,Costa Rica,Costa Rica,Costa Rica,COS
+isla_del_coco,costa_rica,costa_rica,costa_rica,costa_rica,Cocos Island,Costa Rica,Costa Rica,Costa Rica,Costa Rica,COC
 costa_rica,costa_rica,costa_rica,costa_rica,costa_rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,COS
 countries,countries,countries,countries,countries,Countries and territories,Countries and territories,Countries and territories,Countries and territories,Countries and territories,
 crimea,crimea,crimea,crimea,crimea,"Crimea, Khanate of","Crimea, Khanate of","Crimea, Khanate of","Crimea, Khanate of","Crimea, Khanate of",
@@ -7401,7 +7401,7 @@ luxembourg_city,luxembourg_states,luxembourg_section,luxembourg_section,luxembou
 madagascar,madagascar_section,madagascar_section,madagascar_section,madagascar_section,Madagascar,Madagascar,Madagascar,Madagascar,Madagascar,MAD
 madagascar_section,madagascar_section,madagascar_section,madagascar_section,madagascar_section,Madagascar,Madagascar,Madagascar,Madagascar,Madagascar,MAD
 madagascar_notgeld,madagascar_section,madagascar_section,madagascar_section,madagascar_section,Madagascar (notgeld),Madagascar,Madagascar,Madagascar,Madagascar,MAD
-malawi,malawi,malawi,malawi,malawi,Malawi,Malawi,Malawi,Malawi,Malawi,MLL
+malawi,malawi,malawi,malawi,malawi,Malawi,Malawi,Malawi,Malawi,Malawi,MWA
 malaya_borneo,malaysia_british,malaysia,malaysia,malaysia,Malaya and British Borneo,British Malaysia,Malaysia,Malaysia,Malaysia,MLL
 borneo,malaysia_british,malaysia,malaysia,malaysia,North Borneo,British Malaysia,Malaysia,Malaysia,Malaysia,NBO
 sarawak,malaysia_british,malaysia,malaysia,malaysia,Sarawak,British Malaysia,Malaysia,Malaysia,Malaysia,SAW
@@ -7512,7 +7512,7 @@ tabasco_mexican_state,tabasco_mexican_state_section,mexique_revolution,mexico,me
 villahermosa_de_san_juan_bautista_notgeld,tabasco_mexican_state_section,mexique_revolution,mexico,mexico,"Villahermosa de San Juan Bautista, Municipality of","Tabasco, State of",Mexican States,Mexico,Mexico,tabasco_mexican_state_section
 tamaulipas_mexican_state,tamaulipas_mexican_state_section,mexique_revolution,mexico,mexico,"Tamaulipas, State of","Tamaulipas, State of",Mexican States,Mexico,Mexico,tamaulipas_mexican_state_section
 tampico_notgeld,tamaulipas_mexican_state_section,mexique_revolution,mexico,mexico,"Tampico, Municipality of","Tamaulipas, State of",Mexican States,Mexico,Mexico,tamaulipas_mexican_state_section
-san_fernando_de_bexar_notgeld,texas_province_notgeld,mexique_revolution,mexico,mexico,"San Fernando de Bexar, Municipality of","Texas, Province of",Mexican States,Mexico,Mexico,texas_province_notgeld
+san_fernando_de_bexar_notgeld,texas_province_notgeld,mexique_revolution,mexico,mexico,"San Fernando de Bexar, Municipality of","Texas, Province of",Mexican States,Mexico,Mexico,TEX
 tlaxcala_notgeld,tlaxcala_mexican_state_section,mexique_revolution,mexico,mexico,"Tlaxcala, Municipality of","Tlaxcala, State of",Mexican States,Mexico,Mexico,tlaxcala_mexican_state_section
 tlaxcala_mexican_state,tlaxcala_mexican_state_section,mexique_revolution,mexico,mexico,"Tlaxcala, State of","Tlaxcala, State of",Mexican States,Mexico,Mexico,tlaxcala_mexican_state_section
 merida_notgeld,yucatan_mexican_state_section,mexique_revolution,mexico,mexico,"Mérida, Municipality of","Yucatan, State of",Mexican States,Mexico,Mexico,yucatan_mexican_state_section
@@ -7770,7 +7770,7 @@ netherlands_feudal,netherlands,netherlands,netherlands,netherlands,Dutch States,
 holland_kingdom,netherlands,netherlands,netherlands,netherlands,"Holland, Kingdom of",Netherlands,Netherlands,Netherlands,Netherlands,NET
 netherlands,netherlands,netherlands,netherlands,netherlands,Netherlands,Netherlands,Netherlands,Netherlands,Netherlands,NET
 pays-bas,netherlands,netherlands,netherlands,netherlands,Netherlands,Netherlands,Netherlands,Netherlands,Netherlands,NET
-netherlands_antilles,netherlands,netherlands,netherlands,netherlands,Netherlands Antilles,Netherlands,Netherlands,Netherlands,Netherlands,NET
+netherlands_antilles,netherlands,netherlands,netherlands,netherlands,Netherlands Antilles,Netherlands,Netherlands,Netherlands,Netherlands,NWI
 spanish-netherlands,netherlands,netherlands,netherlands,netherlands,Spanish Netherlands,Netherlands,Netherlands,Netherlands,Netherlands,NET
 zaandam,netherlands,netherlands,netherlands,netherlands,Zaandam,Netherlands,Netherlands,Netherlands,Netherlands,NET
 bes-islands,netherlands_antilles,netherlands,netherlands,netherlands,BES Islands,Netherlands Antilles,Netherlands,Netherlands,Netherlands,
@@ -8031,8 +8031,8 @@ wroclaw_duchy,poland_kingdom_section,poland_section,poland_section,poland_sectio
 zamosc_city,poland_kingdom_section,poland_section,poland_section,poland_section,"Zamość, City of",Polish States,Poland,Poland,Poland,
 pologne-lituanie,pologne-lituanie,pologne-lituanie,pologne-lituanie,pologne-lituanie,Polish–Lithuanian Commonwealth,Polish–Lithuanian Commonwealth,Polish–Lithuanian Commonwealth,Polish–Lithuanian Commonwealth,Polish–Lithuanian Commonwealth,
 acores,portugal_section,portugal_section,portugal_section,portugal_section,Azores,Portugal,Portugal,Portugal,Portugal,ACC
-madeira,portugal_section,portugal_section,portugal_section,portugal_section,Madeira,Portugal,Portugal,Portugal,Portugal,MAD
-madere,portugal_section,portugal_section,portugal_section,portugal_section,Madeira Islands,Portugal,Portugal,Portugal,Portugal,MAD
+madeira,portugal_section,portugal_section,portugal_section,portugal_section,Madeira,Portugal,Portugal,Portugal,Portugal,MDD
+madere,portugal_section,portugal_section,portugal_section,portugal_section,Madeira Islands,Portugal,Portugal,Portugal,Portugal,MDD
 portugal,portugal_section,portugal_section,portugal_section,portugal_section,Portugal,Portugal,Portugal,Portugal,Portugal,POR
 portugal_section,portugal_section,portugal_section,portugal_section,portugal_section,Portugal,Portugal,Portugal,Portugal,Portugal,POR
 portugal-notgeld,portugal_section,portugal_section,portugal_section,portugal_section,Portuguese notgeld,Portugal,Portugal,Portugal,Portugal,POR
@@ -8531,7 +8531,7 @@ st-kitts-and-neviss,saint-kitts-and-nevis_section,saint-kitts-and-nevis_section,
 st-lucia,st-lucia,st-lucia,st-lucia,st-lucia,Saint Lucia,Saint Lucia,Saint Lucia,Saint Lucia,Saint Lucia,STL
 st-vincent,st-vincent,st-vincent,st-vincent,st-vincent,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,STV
 samoa,samoa,samoa,samoa,samoa,Samoa,Samoa,Samoa,Samoa,Samoa,MOA
-saint-marin,saint-marin,saint-marin,saint-marin,saint-marin,San Marino,San Marino,San Marino,San Marino,San Marino,SMM
+saint-marin,saint-marin,saint-marin,saint-marin,saint-marin,San Marino,San Marino,San Marino,San Marino,San Marino,SSM
 bani_khalid_emirate,saudi-arabia,saudi-arabia,saudi-arabia,saudi-arabia,Bani Khalid Emirate,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,SAU
 hedjaz,saudi-arabia,saudi-arabia,saudi-arabia,saudi-arabia,Hejaz,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,HEJ
 saudi-arabia,saudi-arabia,saudi-arabia,saudi-arabia,saudi-arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,SAU
@@ -10181,7 +10181,7 @@ bermudes,british_territories,united-kingdom,united-kingdom,united-kingdom,Bermud
 british-antarctic-territory,british_territories,united-kingdom,united-kingdom,united-kingdom,British Antarctic Territory,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
 british-indian-ocean-territory,british_territories,united-kingdom,united-kingdom,united-kingdom,British Indian Ocean Territory,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",BIO
 british-virgin-islands_section,british_territories,united-kingdom,united-kingdom,united-kingdom,British Virgin Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",
-iles_caimanes,british_territories,united-kingdom,united-kingdom,united-kingdom,Cayman Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",CAM
+iles_caimanes,british_territories,united-kingdom,united-kingdom,united-kingdom,Cayman Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",CMY
 iles_malouines,british_territories,united-kingdom,united-kingdom,united-kingdom,Falkland Islands,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",FLK
 gibraltar,british_territories,united-kingdom,united-kingdom,united-kingdom,Gibraltar,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",GIB
 montserrat,british_territories,united-kingdom,united-kingdom,united-kingdom,Montserrat,British Overseas Territories,"United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies","United Kingdom, British Overseas Territories and Crown Dependencies",MSE
@@ -10330,8 +10330,8 @@ uncertain_west_slavs,west_slavs,west_slavs,west_slavs,west_slavs,Uncertain West 
 west_slavs,west_slavs,west_slavs,west_slavs,west_slavs,West Slavs,West Slavs,West Slavs,West Slavs,West Slavs,
 westarctica,westarctica,westarctica,westarctica,westarctica,"Westarctica, Grand Duchy of","Westarctica, Grand Duchy of","Westarctica, Grand Duchy of","Westarctica, Grand Duchy of","Westarctica, Grand Duchy of",
 bceao,bceao,bceao,bceao,bceao,Western African States,Western African States,Western African States,Western African States,Western African States,
-dakhla,sahara_occidental,sahara_occidental,sahara_occidental,sahara_occidental,Dakhla,Western Sahara,Western Sahara,Western Sahara,Western Sahara,WAA
-sahara_occidental,sahara_occidental,sahara_occidental,sahara_occidental,sahara_occidental,Western Sahara,Western Sahara,Western Sahara,Western Sahara,Western Sahara,WAA
+dakhla,sahara_occidental,sahara_occidental,sahara_occidental,sahara_occidental,Dakhla,Western Sahara,Western Sahara,Western Sahara,Western Sahara,WSH
+sahara_occidental,sahara_occidental,sahara_occidental,sahara_occidental,sahara_occidental,Western Sahara,Western Sahara,Western Sahara,Western Sahara,Western Sahara,WSH
 wikingland,wikingland,wikingland,wikingland,wikingland,Wikingland,Wikingland,Wikingland,Wikingland,Wikingland,
 nation_of_yan,nation_of_yan,nation_of_yan,nation_of_yan,nation_of_yan,"YAN, Nation of","YAN, Nation of","YAN, Nation of","YAN, Nation of","YAN, Nation of",
 yemen_nord,yemen_section,yemen_section,yemen_section,yemen_section,North Yemen,Yemen,Yemen,Yemen,Yemen,NYE
